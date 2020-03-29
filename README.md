@@ -1,15 +1,35 @@
-<<<<<<< HEAD
-# hackathon-mar-2020
-<<<<<<< HEAD
-=======
-# hackathon-mar-2020
-=======
->>>>>>> b0248845e1dcc44602f442fb2c6473ae1df9db88
+# Project Name: COVID19 *App Tracker*
 
-testing
-zach is testing pushing & pulling
-testing again
-<<<<<<< HEAD
->>>>>>> b0248845e1dcc44602f442fb2c6473ae1df9db88
-=======
->>>>>>> b0248845e1dcc44602f442fb2c6473ae1df9db88
+## Project Synopsis
+
+With the current COVID19 crisis has emerged privacy concerns with the large number of apps being published and pushed for broad public download. This project aims to track these apps and their release for further investigation, while informing the public if there are known privacy concerns prior before installing.
+
+The current project looks at applications on the Google Play Store or applications.
+
+## Who is this for?
+
+1) Privacy Researchers and Advocates
+2) Tech Journalists
+3) General Public interested in privacy concerns with emerging technologies 
+
+## Project Components
+
+### Core Features
+
+- Detect when new Coronavirus tracker apps are published on the Google Play Store
+- Automatically (frequency TBD) post to Twitter
+- Display the compiled list on our site (filter by date, location, name...)
+- (Phase 2) Use Google Alerts API (?) to add articles that specifically mention the app.
+
+### 1) Dashboard
+-- map (# apps per country)
+-- API connected from apps store to front end
+
+### 2) Twitter bot
+-- hashtag researchers could use in response
+-- too many permissions when users install, tracks data (tags)
+-- manually uploading articles related to concerns of the apps
+
+
+
+
