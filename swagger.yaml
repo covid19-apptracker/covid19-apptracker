@@ -1,0 +1,51 @@
+openapi: 3.0.0
+info:
+  title: 'COVID-19 App Tracker'
+  description: 'COVID-19 App Tracker.'
+  version: 0.0.0
+paths:
+  /apps:
+    get:
+      tags: ['Apps']
+      summary: Return all COVID-19 apps on Google Play.
+      description: Return all COVID-19 apps on Google Play.
+      responses:
+       '200':
+         description: An array of apps
+         content:
+           application/json:
+             schema:
+               type: array
+               items:
+                 $ref: '#/components/schemas/App'
+               example:
+                 id: 'gov.cdc.general'
+                 title: 'CDC'
+                 icon_url: 'https://lh3.googleusercontent.com/wrevbBo3qynf4_yPl0DNgKlzNRSGdy2kUpd_r85n4qNF8M47hDxBNR4adHU2T76LlSkM'
+                 developer_id: 'Centers+for+Disease+Control+and+Prevention'
+                 updated_date: 2020-03-06
+                 app_store_url: 'https://play.google.com/store/apps/details?id=gov.cdc.general'
+                 description: 'NOW AVAILABLE ON YOUR SMARTPHONE OR TABLET\nGet the official CDC Mobile application for your tablet and/or smartphone and access the most up to date health information.'
+                 downloads: '100,000+'
+
+components:
+  schemas:
+    App:
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        icon_url:
+          type: string
+        developer_id:
+          type: string
+        updated_date:
+          type: string
+          format: YYYY-MM-DD
+        app_store_url:
+          type: string
+        description:
+          type: string
+        downloads:
+          type: string
