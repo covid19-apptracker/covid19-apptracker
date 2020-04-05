@@ -8,9 +8,9 @@ The current project looks at applications on the Google Play Store or applicatio
 
 ## Who is this for?
 
-1) Privacy Researchers and Advocates
-2) Tech Journalists
-3) General Public with Privacy Concerns
+1. Privacy Researchers and Advocates
+2. Tech Journalists
+3. General Public with Privacy Concerns
 
 ## Project Components
 
