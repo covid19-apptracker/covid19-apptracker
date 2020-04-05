@@ -16,9 +16,11 @@ The current project looks at applications on the Google Play Store or applicatio
 
 ### Core Features
 
+#### Phase 1
+
 - Detect when new Coronavirus tracker apps are published on the Google Play Store
-- Automatically (frequency TBD) post to Twitter
-- Display the compiled list on our site (filter by date, location, name...)
+- Automatically post to Twitter
+- Automatically display the compiled list on our site (filter by date, location, name...)
 
 #### Phase 2
 - Use Google Alerts API (?) to add articles that specifically mention the app.
