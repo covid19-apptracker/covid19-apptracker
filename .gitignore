@@ -1,2 +1,8 @@
 #Intellij IDE files
 .idea/**
+
+#Python Environment
+venv/**
+
+#Visual Studio Code
+.vscode/**
