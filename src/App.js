@@ -1,7 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './img/logo.svg';
 import './App.css';
 import NavBar from './NavBar.js';
+import Footer from './Footer.js';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Footer />
     </div>
   );
 }

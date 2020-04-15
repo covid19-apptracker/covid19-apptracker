@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './img/logo.svg';
 
 class NavBar extends Component{
     state = {
@@ -39,10 +39,11 @@ class NavBar extends Component{
             </div>
             < div className = "w-full float-right sm:flex sm:items-center sm:w-auto sm:block" >
                 <div id="myLinks" className={this.state.showing}>
-                   < a href = "#responsive-header" class = "block mt-4 sm:inline-block sm:mt-0 text-black hover:text-indigo-500 mr-4 transition-all duration-200 ease-in-out transform hover:-translate-y-1" >
+                   < a href = "#responsive-header"
+                   class = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform hover:-translate-y-1 font-medium" >
                         Home
                     </a>
-                    < a className = "block mt-4 sm:inline-block sm:mt-0 text-black hover:text-indigo-500 transition-all duration-200 ease-in-out transform hover:-translate-y-1" >
+                    < a className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black transition-all duration-300 ease-in-out transform font-medium" >
                         About
                     </a>
                 </div>
