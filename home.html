@@ -12,17 +12,20 @@
 
 <!-- Start Nav Bar Component ============================================================ -->
 <nav class="container max-w-screen-md mx-auto flex items-center justify-between flex-wrap bg-white p-6">
-        <div class="flex items-center flex-shrink-0 text-black mr-6">
-            <img class="fill-current h-8 w-8 mr-2" width="54" height="54" src="public/img/C19_Project_Logo_blk.svg">
+        <div class="flex  flex-shrink-0 text-black mr-6">
+            <img class="fill-current h-8 w-8 mr-2 transition-all duration-300 ease-in-out transform hover:scale-125" width="54" height="54" src="public/img/C19_Project_Logo_blk.svg">
         </div>
         <div class="block sm:hidden"> 
-            <button class="flex items-center px-3 py-2 border rounded text-black border-black hover:bg-black hover:text-white hover:border-black"  onclick="myFunction()">
+            <button class="flex items-center px-3 py-2 border rounded text-black border-black hover:bg-black hover:text-white hover:border-black"  onclick="navMenuClick()">
                 <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
             </button>
         </div>
         <div class="w-full float-right sm:flex sm:items-center sm:w-auto sm:block">
             <div id= "myLinks" class="text-sm sm:flex-grow antialiased">
-                <a class="block mt-4 sm:inline-block sm:mt-0 text-black hover:text-gray-500 mr-4">
+                <a class="block mt-4 sm:inline-block sm:mt-0 text-black hover:text-indigo-500 mr-4 transition-all duration-200 ease-in-out transform hover:-translate-y-1">
+                   Home
+                </a>
+                <a class="block mt-4 sm:inline-block sm:mt-0 text-black hover:text-indigo-500 transition-all duration-200 ease-in-out transform hover:-translate-y-1">
                     About the Project
                 </a>
             </div>
@@ -30,18 +33,18 @@
 </nav>
 
 <script>
-    function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "block") {
-        x.style.display = "none";
+    function navMenuClick() {
+      const navLink = document.getElementById("myLinks");
+      if (navLink.style.display === "block") {
+        navLink.style.display = "none";
       } else {
-        x.style.display = "block";
+        navLink.style.display = "block";
       }
     }
 </script>
 
 
-<img src="https://images.unsplash.com/photo-1584508332313-ce3965484131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
+<img class="mx-auto " src="https://images.unsplash.com/photo-1584508332313-ce3965484131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
 <!-- End Nav Bar Component ============================================================ -->
 
 
@@ -53,8 +56,22 @@
 
 
 <!-- Start Footer Component ============================================================ -->
-<div class="container bg-black">
 
+<div class="w-full py-8 bg-black">
+    <footer class="container max-w-screen-md mx-auto py-8 text-sm text-white">
+        <div class="flex flex-col items-center justify-center lg:flex-row lg:justify-between">
+            <div class="flex content-center pb-4">
+                <img class="fill-current h-8 w-8 mr-2 transition-all duration-300 ease-in-out transform hover:scale-125" width="54" height="54" src="public/img/C19_Project_Logo_wht.svg">
+            </div>
+            <div class="w-full float-right sm:flex sm:items-center sm:w-auto sm:block">
+                <div class="text-sm sm:flex-grow antialiased">
+                    <a href="/" class="block mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Home</a>
+                    <a href="/about" class="block mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">About the Project</a>
+                    <a href="/sitemap" class="block mt-4 sm:inline-block  transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500">Sitemap</a>
+                </div>
+            </div>
+        </div>
+    </footer>
 </div>
 <!-- End Footer Component ============================================================ -->
 
