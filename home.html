@@ -12,7 +12,7 @@
 
 <!-- Start Nav Bar Component ============================================================ -->
 <nav class="container max-w-screen-md mx-auto flex items-center justify-between flex-wrap bg-white p-6">
-        <div class="flex items-center flex-shrink-0 text-black mr-6">
+        <div class="flex  flex-shrink-0 text-black mr-6">
             <img class="fill-current h-8 w-8 mr-2" width="54" height="54" src="public/img/C19_Project_Logo_blk.svg">
         </div>
         <div class="block sm:hidden"> 
@@ -22,7 +22,7 @@
         </div>
         <div class="w-full float-right sm:flex sm:items-center sm:w-auto sm:block">
             <div id= "myLinks" class="text-sm sm:flex-grow antialiased">
-                <a class="block mt-4 sm:inline-block sm:mt-0 text-black hover:text-gray-500 mr-4">
+                <a class="block mt-4 sm:inline-block sm:mt-0 text-black hover:text-indigo-500 mr-4">
                     About the Project
                 </a>
             </div>
@@ -41,7 +41,7 @@
 </script>
 
 
-<img src="https://images.unsplash.com/photo-1584508332313-ce3965484131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
+<img class="mx-auto " src="https://images.unsplash.com/photo-1584508332313-ce3965484131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
 <!-- End Nav Bar Component ============================================================ -->
 
 
@@ -53,8 +53,18 @@
 
 
 <!-- Start Footer Component ============================================================ -->
-<div class="container bg-black">
 
+<div class="w-full py-8 bg-black">
+    <footer class="container max-w-screen-md mx-auto py-8 text-sm text-white">
+        <div class="flex flex-col items-center justify-center lg:flex-row lg:justify-between">
+            <div class="flex content-center pb-4">
+                <a href="/policy/terms" class="hover:text-indigo-500"> Terms of Service</a>
+                <p class="mx-2">|</p>
+                <a href="/policy/privacy" class="hover:text-indigo-500">Privacy Policy</a>
+            </div>
+            <p>Made by the dream team</p>
+        </div>
+    </footer>
 </div>
 <!-- End Footer Component ============================================================ -->
 
