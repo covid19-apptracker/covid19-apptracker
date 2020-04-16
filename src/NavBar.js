@@ -28,7 +28,7 @@ class NavBar extends Component{
 
 
         return (
-        < nav className = "container max-w-screen-md mx-auto flex items-center justify-between flex-wrap bg-white p-6" >
+        < nav className = "container max-w-screen-md mx-auto flex items-center justify-between flex-wrap bg-white p-6 sm:py-6 lg:px-0" >
             < div className = "flex items-center flex-shrink-0 text-black mr-6" >
                 <img className="fill-current h-8 w-8 mr-2 transition-all duration-300 ease-in-out transform hover:scale-125" width="54" height="54" src={logo} />
             </ div>
