@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/hackathon-2020/static/css/main.523f09c5.chunk.css",
-    "main.js": "/hackathon-2020/static/js/main.75558faa.chunk.js",
-    "main.js.map": "/hackathon-2020/static/js/main.75558faa.chunk.js.map",
+    "main.css": "/hackathon-2020/static/css/main.694b8b79.chunk.css",
+    "main.js": "/hackathon-2020/static/js/main.0bfc6369.chunk.js",
+    "main.js.map": "/hackathon-2020/static/js/main.0bfc6369.chunk.js.map",
     "runtime-main.js": "/hackathon-2020/static/js/runtime-main.5fd83fdf.js",
     "runtime-main.js.map": "/hackathon-2020/static/js/runtime-main.5fd83fdf.js.map",
-    "static/js/2.1e5d4c75.chunk.js": "/hackathon-2020/static/js/2.1e5d4c75.chunk.js",
-    "static/js/2.1e5d4c75.chunk.js.map": "/hackathon-2020/static/js/2.1e5d4c75.chunk.js.map",
+    "static/js/2.39579128.chunk.js": "/hackathon-2020/static/js/2.39579128.chunk.js",
+    "static/js/2.39579128.chunk.js.map": "/hackathon-2020/static/js/2.39579128.chunk.js.map",
     "index.html": "/hackathon-2020/index.html",
-    "precache-manifest.efb653f8bf9ffd1dc03c427474a74e43.js": "/hackathon-2020/precache-manifest.efb653f8bf9ffd1dc03c427474a74e43.js",
+    "precache-manifest.3879cbe6c75260fb1a2985d6b0dc88c6.js": "/hackathon-2020/precache-manifest.3879cbe6c75260fb1a2985d6b0dc88c6.js",
     "service-worker.js": "/hackathon-2020/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/hackathon-2020/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.1e5d4c75.chunk.js.LICENSE.txt": "/hackathon-2020/static/js/2.1e5d4c75.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hackathon-2020/static/media/logo.ee7cd8ed.svg"
+    "static/css/main.694b8b79.chunk.css.map": "/hackathon-2020/static/css/main.694b8b79.chunk.css.map",
+    "static/js/2.39579128.chunk.js.LICENSE.txt": "/hackathon-2020/static/js/2.39579128.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hackathon-2020/static/media/logo.c6e714fe.svg",
+    "static/media/logo_wht.svg": "/hackathon-2020/static/media/logo_wht.095dbf48.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5fd83fdf.js",
-    "static/js/2.1e5d4c75.chunk.js",
-    "static/css/main.523f09c5.chunk.css",
-    "static/js/main.75558faa.chunk.js"
+    "static/js/2.39579128.chunk.js",
+    "static/css/main.694b8b79.chunk.css",
+    "static/js/main.0bfc6369.chunk.js"
   ]
 }
