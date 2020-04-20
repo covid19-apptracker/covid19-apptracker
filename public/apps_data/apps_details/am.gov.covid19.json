@@ -1,0 +1,27 @@
+{
+    "id": "am.gov.covid19",
+    "title": "Covid-19 Armenia",
+    "icon_url": "https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
+    "developer_id": "EKENG+CJSC",
+    "updated-date": "2020-04-08",
+    "app_store_url": "https://play.google.com/store/apps/details?id=am.gov.covid19",
+    "description": "This app will help you determine if Coronavirus signs are present and understand whether or not you should visit a medical facility.",
+    "downloads": "10,000+",
+    "country": "AM",
+    "permissions": {
+      "location": [],
+      "media_files": [
+        "read the contents of your USB storage",
+      ],
+      "camera": [
+        "take pictures and videos"
+      ],
+      "microphone": [],
+      "storage": [
+        "read the contents of your USB storage"
+      ],
+      "device_id": [],
+      "contacts": [],
+    }
+  }
+  
