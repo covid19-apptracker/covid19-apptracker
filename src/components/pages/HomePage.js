@@ -16,7 +16,9 @@ class HomePage extends Component {
                     </a>
                 
                 </div>
-                <PlayApp />
+                <div id="container" className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto">
+                    <PlayApp />
+                </div>
             </div>
         );
     }
