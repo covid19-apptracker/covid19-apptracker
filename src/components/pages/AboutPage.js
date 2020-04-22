@@ -1,12 +1,17 @@
 import React, { Component } from 'react'; 
+import NavBar from '../../components/headerComponent/NavBar.js';
+import Footer from '../../components/footerComponent/Footer.js';
+
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 class AboutPage extends Component {
     render() {
         return (
             <div>
+                < NavBar / >
                 <div id="container" className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto">
                     <div className="text-sm font-medium pb-4">
-                        <a className="text-black hover:underline hover:text-gray-500" href="/">Home</a> / <span className="text-blue-500">About the Project</span>
+                        <Link className="text-black hover:underline hover:text-gray-500" to="/">Home</Link> / <span className="text-blue-500">About the Project</span>
                     </div>
                     <h1 className="text-3xl pb-8">
                         Project Synopsis
@@ -49,6 +54,7 @@ class AboutPage extends Component {
                             </div>
                     </div>
                 </div>
+                < Footer / >
             </div>
         );
     }
