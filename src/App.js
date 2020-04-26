@@ -10,7 +10,7 @@ import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 function App() {
   return (
-    <Router basename="/covid19-apptracker">
+    <Router basename="">
       <ScrollToTop />
       <div className="App">
         <div>
