@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from '../../img/logo_wht.svg';
 
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 class Footer extends Component {
 
@@ -15,8 +15,8 @@ class Footer extends Component {
                         </div>
                         <div className="flex content-center pb-4">
                             <div className="text-sm flex-grow antialiased">
-                                <Link to="/covid19-apptracker" className="mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Home</Link>
-                                <Link to="/covid19-apptracker/about" className="mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">About</Link>
+                                <Link to="/" className="mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Home</Link>
+                                <Link to="/about" className="mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">About</Link>
                                 <Link to="#" className="mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Sitemap</Link>
                             </div>
                         </div>
