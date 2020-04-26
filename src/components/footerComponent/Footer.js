@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import logo from '../../img/logo_wht.svg';
 
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 class Footer extends Component {
 

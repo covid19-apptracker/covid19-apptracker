@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../../img/logo.svg';
 
-import { BrowserRouter as Router, Route, Link, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
 
 class NavBar extends Component{
     state = {
