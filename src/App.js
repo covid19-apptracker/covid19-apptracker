@@ -14,8 +14,8 @@ function App() {
       <ScrollToTop />
       <div className="App">
         <div>
-          <Route exact path="/" component={HomePage} />
-          <Route exact path="/about" component={AboutPage} />
+          <Route exact path="/covid19-apptracker" component={HomePage} />
+          <Route exact path="/covid19-apptracker/about" component={AboutPage} />
         </div>
       </div>
     </Router>
