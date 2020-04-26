@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11e25a9c763eb8addf6a7e71e5253b04",
+    "revision": "dc49cb22835f936070690249dd897139",
     "url": "/covid19-apptracker/index.html"
   },
   {
-    "revision": "e53ae8dedf9079f2e852",
+    "revision": "b3775e8f9a53017ae229",
     "url": "/covid19-apptracker/static/css/main.694b8b79.chunk.css"
   },
   {
-    "revision": "6402811d9617ec64823c",
-    "url": "/covid19-apptracker/static/js/2.abc05b28.chunk.js"
+    "revision": "88faeaa9c31dacb24e0b",
+    "url": "/covid19-apptracker/static/js/2.88de5129.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/covid19-apptracker/static/js/2.abc05b28.chunk.js.LICENSE.txt"
+    "url": "/covid19-apptracker/static/js/2.88de5129.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e53ae8dedf9079f2e852",
-    "url": "/covid19-apptracker/static/js/main.e54500ba.chunk.js"
+    "revision": "b3775e8f9a53017ae229",
+    "url": "/covid19-apptracker/static/js/main.617b722d.chunk.js"
   },
   {
     "revision": "cf74de692c6c384ceb47",
