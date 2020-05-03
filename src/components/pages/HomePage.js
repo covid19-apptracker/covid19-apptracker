@@ -3,6 +3,7 @@ import logo from '../../img/logo.svg';
 import PlayApp from '../PlayApp.js';
 import NavBar from "../../components/headerComponent/NavBar.js";
 import Footer from "../../components/footerComponent/Footer.js";
+import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
 
 class HomePage extends Component {
     render() {
@@ -30,6 +31,7 @@ class HomePage extends Component {
                   Date Uploaded
                 </div>
               </div>
+              <PlayAppGenerator/>
               <PlayApp />
               <PlayApp />
               <PlayApp />
