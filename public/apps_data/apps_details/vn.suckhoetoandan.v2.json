@@ -1,0 +1,47 @@
+{
+  "id": "vn.suckhoetoandan.v2",
+  "title": "S\u1ee9c kh\u1ecfe Vi\u1ec7t Nam",
+  "icon_url": "https://lh3.googleusercontent.com/FnGdZR5pcqzCjLw_Vhp0wnmh5nDfMFlgPcYXxA07Od4NYJb4PALVgiGzvxCv4MpFhhg",
+  "developer_id": "Viettel+Business+Solutions+Corporation",
+  "updated_date": "2020-04-22",
+  "downloads": "500,000+",
+  "country": "VN",
+  "description": "S\u1ee9c kh\u1ecfe Vi\u1ec7t Nam l\u00e0 Trang th\u00f4ng tin ch\u00ednh th\u1ee9c nh\u1eb1m g\u00f3p ph\u1ea7n ph\u00f2ng ch\u1ed1ng b\u1ec7nh Vi\u00eam ph\u1ed5i c\u1ea5p do virus nCoV. \u1ee8ng d\u1ee5ng cung c\u1ea5p th\u00f4ng tin ch\u00ednh th\u1ed1ng, c\u1eadp nh\u1eadt t\u00ecnh h\u00ecnh, c\u00f4ng c\u1ee5 b\u1ea3ng ki\u1ec3m t\u1ef1 \u0111\u00e1nh gi\u00e1 nguy c\u01a1, h\u01b0\u1edbng d\u1eabn t\u1ef1 c\u00e1ch ly khi c\u00f3 nguy c\u01a1. \u1ee8ng d\u1ee5ng c\u0169ng cung c\u1ea5p c\u00f4ng c\u1ee5 \u0111\u1ec3 g\u1ecdi ngay \u0111\u01b0\u1eddng d\u00e2y n\u00f3ng, xem x\u00e9t b\u1ea3n \u0111\u1ed3 c\u01a1 s\u1edf y t\u1ebf g\u1ea7n nh\u1ea5t v\u00e0 g\u1eedi ngay b\u00e1o c\u00e1o ca b\u1ec7nh nghi ng\u1edd t\u1edbi c\u01a1 quan y t\u1ebf, Vi\u1ec7t Nam quy\u1ebft th\u1eafng \u0111\u1ea1i d\u1ecbch!",
+  "app_store_url": "https://play.google.com/store/apps/details?id=vn.suckhoetoandan.v2",
+  "permissions": {
+    "Identity": [
+      "Find accounts on the device"
+    ],
+    "Contacts": [
+      "Find accounts on the device",
+      "Read your contacts",
+      "Modify your contacts"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Microphone": [
+      "Record audio"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Control flashlight",
+      "Full network access",
+      "Control vibration",
+      "Prevent device from sleeping"
+    ]
+  }
+}
