@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/covid19-apptracker/static/css/main.694b8b79.chunk.css",
-    "main.js": "/covid19-apptracker/static/js/main.617b722d.chunk.js",
-    "main.js.map": "/covid19-apptracker/static/js/main.617b722d.chunk.js.map",
-    "runtime-main.js": "/covid19-apptracker/static/js/runtime-main.166505d1.js",
-    "runtime-main.js.map": "/covid19-apptracker/static/js/runtime-main.166505d1.js.map",
-    "static/js/2.88de5129.chunk.js": "/covid19-apptracker/static/js/2.88de5129.chunk.js",
-    "static/js/2.88de5129.chunk.js.map": "/covid19-apptracker/static/js/2.88de5129.chunk.js.map",
-    "index.html": "/covid19-apptracker/index.html",
-    "precache-manifest.2bbf99a53070c21b8e275152a36fd749.js": "/covid19-apptracker/precache-manifest.2bbf99a53070c21b8e275152a36fd749.js",
-    "service-worker.js": "/covid19-apptracker/service-worker.js",
-    "static/css/main.694b8b79.chunk.css.map": "/covid19-apptracker/static/css/main.694b8b79.chunk.css.map",
-    "static/js/2.88de5129.chunk.js.LICENSE.txt": "/covid19-apptracker/static/js/2.88de5129.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/covid19-apptracker/static/media/logo.c6e714fe.svg",
-    "static/media/logo_wht.svg": "/covid19-apptracker/static/media/logo_wht.095dbf48.svg"
+    "main.css": "/static/css/main.694b8b79.chunk.css",
+    "main.js": "/static/js/main.78c65328.chunk.js",
+    "main.js.map": "/static/js/main.78c65328.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.391f0fd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.391f0fd9.js.map",
+    "static/js/2.88de5129.chunk.js": "/static/js/2.88de5129.chunk.js",
+    "static/js/2.88de5129.chunk.js.map": "/static/js/2.88de5129.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.174413ff8ccd5090f88738652fbd1cd6.js": "/precache-manifest.174413ff8ccd5090f88738652fbd1cd6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.694b8b79.chunk.css.map": "/static/css/main.694b8b79.chunk.css.map",
+    "static/js/2.88de5129.chunk.js.LICENSE.txt": "/static/js/2.88de5129.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.c6e714fe.svg",
+    "static/media/logo_wht.svg": "/static/media/logo_wht.095dbf48.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.166505d1.js",
+    "static/js/runtime-main.391f0fd9.js",
     "static/js/2.88de5129.chunk.js",
     "static/css/main.694b8b79.chunk.css",
-    "static/js/main.617b722d.chunk.js"
+    "static/js/main.78c65328.chunk.js"
   ]
 }

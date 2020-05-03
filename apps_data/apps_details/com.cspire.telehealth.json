@@ -1,0 +1,42 @@
+{
+  "id": "com.cspire.telehealth",
+  "title": "C Spire Health - UMMC Virtual COVID-19 Triage",
+  "icon_url": "https://lh3.googleusercontent.com/JqApSSzp2rRtxKaC49yoYmf-flbqsvXpXaLTDpca8dv4QLbTVDKcL3BOUPvxOuetDd89",
+  "developer_id": "C+Spire",
+  "updated_date": "2020-03-23",
+  "downloads": "5,000+",
+  "country": "",
+  "description": "Introducing C Spire Heath, a mobile telehealth app featuring medical services by the University of Mississippi Medical Center. Powered by the state\u2019s leaders in technology and medicine, C Spire Health lets anyone located in Mississippi connect with a UMMC clinician right from their phone.\nFor a limited time, the C Spire Health app is only serving users experiencing fever, coughing, respiratory issues and other symptoms related to COVID-19. All visits are free.\nDownload the app, sign up, and you\u2019re all set to schedule your appointment. No contracts. No long-term commitments. No insurance required. You can even get prescriptions sent to your local pharmacy.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.cspire.telehealth",
+  "permissions": {
+    "Microphone": [
+      "Record audio"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Directly call phone numbers"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "Pair with bluetooth devices",
+      "View network connections",
+      "Read google service configuration",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  }
+}

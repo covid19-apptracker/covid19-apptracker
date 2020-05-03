@@ -1,0 +1,37 @@
+{
+  "id": "com.hard.covid19",
+  "title": "H.A.R.D. - COVID-19",
+  "icon_url": "https://lh3.googleusercontent.com/juyPKQB6NfnwBU4x_RqCoIg8BQ9FJCy4JykY8Q5YJ7R0k7U3PksdS_FGni4WvdJfsyI",
+  "developer_id": "ClUrb",
+  "updated_date": "2020-04-15",
+  "downloads": "100+",
+  "country": "",
+  "description": "This is the H.A.R.D tool to help to monitor COVID-19.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.hard.covid19",
+  "permissions": {
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Run at startup",
+      "Draw over other apps",
+      "Control vibration",
+      "Prevent device from sleeping"
+    ]
+  }
+}
