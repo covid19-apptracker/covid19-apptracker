@@ -1,0 +1,27 @@
+{
+  "id": "tracker.healthcare.sentinel",
+  "title": "Sentinel Monitor (COVID-19 Management)",
+  "icon_url": "https://lh3.googleusercontent.com/-Ej8vL-04yvG4NyfQQ0wT03g_3BQ68OkErdX4ghecpwR7KvCqIOxnDZCNRGh2oS_8Ns",
+  "developer_id": "Sentinel+Healthcare",
+  "updated_date": "2020-04-23",
+  "downloads": "500+",
+  "country": "",
+  "description": "The Sentinel Monitor allows for individuals who are not feeling well (COVID-19, Flu, etc) to track their temperature and associated symptoms. Sentinel Monitor can be used by individuals or in conjunction with approved healthcare organizations.\nDISCLAIMER: ALL OF THE MATERIAL PROVIDED THROUGH SENTINEL'S SYMPTOM CHECKER PORTION OF THE PLATFORM, SUCH AS TEXT, GRAPHICS, PHOTOGRAPHS, IMAGES, MESSAGES, FORUM POSTINGS, AND ANY OTHER MATERIALS, ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE OR TREATMENT. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING YOUR HEALTH. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY IN SEEKING IT BECAUSE OF ANY INFORMATION PROVIDED THROUGH THE PLATFORM. ADDITIONALLY, COMPANY DOES NOT PROMISE ANY PARTICULAR RESULTS WITH REGARDS TO YOUR HEALTH IN CONNECTION WITH YOUR USE OF THE PLATFORM.  IF YOU THINK YOU HAVE A MEDICAL EMERGENCY, CALL YOUR DOCTOR OR YOUR LOCAL EMERGENCY PHONE NUMBER IMMEDIATELY.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=tracker.healthcare.sentinel",
+  "permissions": {
+    "Location": [
+      "Precise location (gps and network-based)"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  }
+}
