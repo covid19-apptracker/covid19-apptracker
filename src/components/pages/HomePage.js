@@ -32,13 +32,13 @@ class HomePage extends Component {
                 </div>
               </div>
               <PlayAppGenerator/>
+              {/* <PlayApp />
               <PlayApp />
               <PlayApp />
               <PlayApp />
               <PlayApp />
               <PlayApp />
-              <PlayApp />
-              <PlayApp />
+              <PlayApp /> */}
             </div>
             <Footer />
           </div>
