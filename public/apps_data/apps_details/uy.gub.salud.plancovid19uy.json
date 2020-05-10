@@ -1,1 +1,44 @@
-"{\n  \"id\": \"uy.gub.salud.plancovid19uy\",\n  \"title\": \"Coronavirus UY\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM\",\n  \"developer_id\": \"AGESIC\",\n  \"updated_date\": \"2020-04-27\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"UY\",\n  \"description\": \"Esta aplicaci\\u00f3n le permitir\\u00e1 ingresar sus datos personales y de salud a fin de determinar si es necesario realizarle un an\\u00e1lisis por el Coronavirus COVID-19. Luego de registrado podr\\u00e1 hacer seguimiento de su caso y los siguientes pasos que deber\\u00e1 realizar.\\nAplicaci\\u00f3n para uso dentro del territorio de la Rep\\u00fablica Oriental del Uruguay.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Microphone\": [\n      \"Record audio\"\n    ],\n    \"Storage\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Wi-Fi connection information\": [\n      \"View wi-fi connections\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"Run at startup\",\n      \"Prevent device from sleeping\",\n      \"View network connections\",\n      \"Change network connectivity\",\n      \"Control vibration\",\n      \"Read google service configuration\",\n      \"Full network access\"\n    ]\n  }\n}"
+{
+  "id": "uy.gub.salud.plancovid19uy",
+  "title": "Coronavirus UY",
+  "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
+  "developer_id": "AGESIC",
+  "updated_date": "2020-04-27",
+  "downloads": "100,000+",
+  "country": "UY",
+  "description": "Esta aplicaci\u00f3n le permitir\u00e1 ingresar sus datos personales y de salud a fin de determinar si es necesario realizarle un an\u00e1lisis por el Coronavirus COVID-19. Luego de registrado podr\u00e1 hacer seguimiento de su caso y los siguientes pasos que deber\u00e1 realizar.\nAplicaci\u00f3n para uso dentro del territorio de la Rep\u00fablica Oriental del Uruguay.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Microphone": [
+      "Record audio"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "Run at startup",
+      "Prevent device from sleeping",
+      "View network connections",
+      "Change network connectivity",
+      "Control vibration",
+      "Read google service configuration",
+      "Full network access"
+    ]
+  }
+}
