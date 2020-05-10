@@ -1,1 +1,19 @@
-"{\n  \"id\": \"ly.com.tmc.covid19_libya\",\n  \"title\": \"COVID19-Libya\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY\",\n  \"developer_id\": \"7571629351755240168\",\n  \"updated_date\": \"2020-04-25\",\n  \"downloads\": \"5,000+\",\n  \"country\": \"LY\",\n  \"description\": \"The application expresses two features.\\nFirst, it is a tracker application that makes every person in the country of Libya aware of the number of cases in his/her own city.\\nSecond, the application works as a communication channel between the health organizations in Libya and the public, so that individuals who are experiencing the symptoms of COVID19 can request a diagnostic test through the application.\\nWith that, the application can help avoid mass gatherings at hospitals which will limit the transmission of the virus.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=ly.com.tmc.covid19_libya\",\n  \"permissions\": {\n    \"Other\": [\n      \"Receive data from internet\",\n      \"Full network access\",\n      \"Prevent device from sleeping\",\n      \"View network connections\"\n    ]\n  }\n}"
+{
+  "id": "ly.com.tmc.covid19_libya",
+  "title": "COVID19-Libya",
+  "icon_url": "https://lh3.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY",
+  "developer_id": "7571629351755240168",
+  "updated_date": "2020-04-25",
+  "downloads": "5,000+",
+  "country": "LY",
+  "description": "The application expresses two features.\nFirst, it is a tracker application that makes every person in the country of Libya aware of the number of cases in his/her own city.\nSecond, the application works as a communication channel between the health organizations in Libya and the public, so that individuals who are experiencing the symptoms of COVID19 can request a diagnostic test through the application.\nWith that, the application can help avoid mass gatherings at hospitals which will limit the transmission of the virus.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=ly.com.tmc.covid19_libya",
+  "permissions": {
+    "Other": [
+      "Receive data from internet",
+      "Full network access",
+      "Prevent device from sleeping",
+      "View network connections"
+    ]
+  }
+}
