@@ -1,1 +1,34 @@
-"{\n  \"id\": \"com.iclick.covidnew\",\n  \"title\": \"Nepal COVID-19 Surveillance\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w\",\n  \"developer_id\": \"iClick\",\n  \"updated_date\": \"2020-04-17\",\n  \"downloads\": \"5,000+\",\n  \"country\": \"NP\",\n  \"description\": \"Nepal COVID-19 Surveillance System is a collaborative effort of Nepal Research and Education Network (NREN), Center for Information and Communication Technology (ICT4D), Innovative Solution Pvt. Ltd. (Insol), I. Click Pvt. Ltd. (iClick), Public Health Concern Trust-Nepal (PHECT-Nepal), Nepal Disaster and Emergency Medicine Center (NADEM) and Innovative Data Solution Pvt. Ltd. (IDS). The system is designed to detect community spread of the disease, which will help Government, Local Government and Communities to fight against Corona outbreak.\\nNepal COVID-19 Surveillance System is an Information Technology based Surveillance System which provides mobile app for self-assessment to know how likely he/she is infected by Corona Virus. The system suggests person to go for self-quarantine and ask updating his/her health status continuously for 14 days. The system provides dashboard for medical doctor / health worker to monitor the health status of a person under self-quarantine and registered into the system. The GIS-based mapping capacity of the system helps service providers to track the person in self-quarantine and delivering service at his/her door. Location based system helps decision makers, disaster management team for strategic planning and making decisions to address the issues on real time.\\nMobile application for self-assessment of possible infection of Corona Virus is the key component of the system, the assessment result provided by the system is mainly depends upon the decision rule deployed in the system. Our collaborating team has deployed \\\"Emergency Healthcare COVID-19 Triage Scale\\\", prepared by Dr. Ramesh Kumar Maharjan, MD, DM EM, Emergency Physician & Dr. Rashmisha Maharjan, MBBS based on data of \\\"25 International Expert WHO Team Finding of Covid-19 Symptoms in China\\\".\\nThe system has been adopted by Kathmandu Metropolitan City to provide service to its citizens.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.iclick.covidnew\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Storage\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Full network access\",\n      \"Prevent device from sleeping\"\n    ]\n  }\n}"
+{
+  "id": "com.iclick.covidnew",
+  "title": "Nepal COVID-19 Surveillance",
+  "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
+  "developer_id": "iClick",
+  "updated_date": "2020-04-17",
+  "downloads": "5,000+",
+  "country": "NP",
+  "description": "Nepal COVID-19 Surveillance System is a collaborative effort of Nepal Research and Education Network (NREN), Center for Information and Communication Technology (ICT4D), Innovative Solution Pvt. Ltd. (Insol), I. Click Pvt. Ltd. (iClick), Public Health Concern Trust-Nepal (PHECT-Nepal), Nepal Disaster and Emergency Medicine Center (NADEM) and Innovative Data Solution Pvt. Ltd. (IDS). The system is designed to detect community spread of the disease, which will help Government, Local Government and Communities to fight against Corona outbreak.\nNepal COVID-19 Surveillance System is an Information Technology based Surveillance System which provides mobile app for self-assessment to know how likely he/she is infected by Corona Virus. The system suggests person to go for self-quarantine and ask updating his/her health status continuously for 14 days. The system provides dashboard for medical doctor / health worker to monitor the health status of a person under self-quarantine and registered into the system. The GIS-based mapping capacity of the system helps service providers to track the person in self-quarantine and delivering service at his/her door. Location based system helps decision makers, disaster management team for strategic planning and making decisions to address the issues on real time.\nMobile application for self-assessment of possible infection of Corona Virus is the key component of the system, the assessment result provided by the system is mainly depends upon the decision rule deployed in the system. Our collaborating team has deployed \"Emergency Healthcare COVID-19 Triage Scale\", prepared by Dr. Ramesh Kumar Maharjan, MD, DM EM, Emergency Physician & Dr. Rashmisha Maharjan, MBBS based on data of \"25 International Expert WHO Team Finding of Covid-19 Symptoms in China\".\nThe system has been adopted by Kathmandu Metropolitan City to provide service to its citizens.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.iclick.covidnew",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  }
+}
