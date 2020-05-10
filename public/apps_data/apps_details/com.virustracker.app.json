@@ -1,1 +1,20 @@
-"{\n  \"id\": \"com.virustracker.app\",\n  \"title\": \"StopTheSpread COVID-19\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A\",\n  \"developer_id\": \"Binary Mango\",\n  \"updated_date\": \"2020-03-10\",\n  \"downloads\": \"100+\",\n  \"country\": \"\",\n  \"description\": \"An orderly way to allow users to send reports to relevant Governments in the UK, Public Health England and in the US, the CDC with emphasis on the current coronavirus crisis. We show and share locations with the government agencies and provide the ability for users to donate to the Government toward finding the cure and preventing the spread of viruses.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.virustracker.app\",\n  \"permissions\": {\n    \"Location\": [\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"View network connections\",\n      \"Full network access\"\n    ]\n  }\n}"
+{
+  "id": "com.virustracker.app",
+  "title": "StopTheSpread COVID-19",
+  "icon_url": "https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A",
+  "developer_id": "Binary Mango",
+  "updated_date": "2020-03-10",
+  "downloads": "100+",
+  "country": "",
+  "description": "An orderly way to allow users to send reports to relevant Governments in the UK, Public Health England and in the US, the CDC with emphasis on the current coronavirus crisis. We show and share locations with the government agencies and provide the ability for users to donate to the Government toward finding the cure and preventing the spread of viruses.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.virustracker.app",
+  "permissions": {
+    "Location": [
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "View network connections",
+      "Full network access"
+    ]
+  }
+}
