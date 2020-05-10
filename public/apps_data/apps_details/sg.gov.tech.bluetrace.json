@@ -1,1 +1,34 @@
-"{\n  \"id\": \"sg.gov.tech.bluetrace\",\n  \"title\": \"TraceTogether\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/57tTeRzYTOp-fs4z2sxM6mQ3Li0gC_f-072196o60haILVorVjkoOetA5XXBqirFCAg\",\n  \"developer_id\": \"Government Technology Agency\",\n  \"updated_date\": \"2020-05-02\",\n  \"downloads\": \"500,000+\",\n  \"country\": \"SG\",\n  \"description\": \"TraceTogether supports Singapore\\u2019s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.\\nTraceTogether uses Bluetooth signals to determine if you are near another TraceTogether user. Your Bluetooth proximity data is encrypted and stored only on your phone. The Ministry of Health (MOH) will seek your consent to upload the data, if it\\u2019s needed for contact tracing.\\nIf you had close contact with a COVID-19 case, TraceTogether allows the MOH call you more quickly, to provide guidance and care.\\nTraceTogether helps us protect our loved ones and families so that we do not spread the virus to them unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together.\\nTraceTogether's functionality will be suspended after the epidemic subsides.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Storage\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Full network access\",\n      \"Prevent device from sleeping\",\n      \"Run at startup\",\n      \"Pair with bluetooth devices\",\n      \"Access bluetooth settings\"\n    ]\n  }\n}"
+{
+  "id": "sg.gov.tech.bluetrace",
+  "title": "TraceTogether",
+  "icon_url": "https://lh3.googleusercontent.com/57tTeRzYTOp-fs4z2sxM6mQ3Li0gC_f-072196o60haILVorVjkoOetA5XXBqirFCAg",
+  "developer_id": "Government Technology Agency",
+  "updated_date": "2020-05-02",
+  "downloads": "500,000+",
+  "country": "SG",
+  "description": "TraceTogether supports Singapore\u2019s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.\nTraceTogether uses Bluetooth signals to determine if you are near another TraceTogether user. Your Bluetooth proximity data is encrypted and stored only on your phone. The Ministry of Health (MOH) will seek your consent to upload the data, if it\u2019s needed for contact tracing.\nIf you had close contact with a COVID-19 case, TraceTogether allows the MOH call you more quickly, to provide guidance and care.\nTraceTogether helps us protect our loved ones and families so that we do not spread the virus to them unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together.\nTraceTogether's functionality will be suspended after the epidemic subsides.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Run at startup",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings"
+    ]
+  }
+}
