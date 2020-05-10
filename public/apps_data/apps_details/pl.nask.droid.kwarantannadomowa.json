@@ -1,1 +1,46 @@
-"{\n  \"id\": \"pl.nask.droid.kwarantannadomowa\",\n  \"title\": \"Home Quarantine (Kwarantanna domowa)\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk\",\n  \"developer_id\": \"Ministerstwo Cyfryzacji\",\n  \"updated_date\": \"2020-04-21\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"PL\",\n  \"description\": \"Home Quarantine is an application that makes it easier to handle the mandatory 14-day quarantine at home.\\nThe application is a preventive element in the fight against the spread of the SARS-CoV-2 coronavirus and the COVID-19 disease it causes.\\nThanks to the app, you will be able to undergo a quarantine, take care of yourself and your loved ones.\\nWhat is the COVID-19 disease?\\nThe novel SARS-CoV-2 coronavirus causes a disease, dubbed COVID-19, which usually manifests itself with fever, cough, shortness of breath, muscle pains and fatigue. The virus is airborne, and 15-20% of all the people who contract the disease suffer from a severe course of the infection. The disease has a 2-3% fatality rate. The elderly, immunocompromised people and people with comorbidities, in particular chronic diseases, are the most vulnerable and likely to contract a severe form of the disease, which may prove to be fatal.\\nHow to protect yourself from the virus?\\nRemember to wash your hands frequently with soap and water. Avoid touching your eyes, nose and mouth. When you cough or sneeze, always cover your mouth and nose with the bend of your elbow or a tissue. Keep a safe distance (1-2 metres) from someone who is coughing, sneezing, or has a fever.\\nDo you suspect that you might have contracted the novel coronavirus?\\nCall: 800 190 590\\nThis is the number of the National Health Fund's hotline, which handles the cases of suspected coronavirus infection.\\nWho is the publisher of the Home Quarantine (Kwarantanna domowa) app?\\nThe app was published by the Ministry of Digital Affairs.\\nIt was developed in cooperation with the Ministry of Health.\\nWhere can you find reliable and confirmed information about the coronavirus and the COVID-19 disease?\\nDownload the mObywatel app and use the \\\"Koronawirus: informacje i zalecenia\\\" (Coronavirus: information and recommendations) tab - https://play.google.com/store/apps/details?id=pl.nask.mobywatel or visit https://www.gov.pl/koronawirus\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Microphone\": [\n      \"Record audio\"\n    ],\n    \"Storage\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Phone\": [\n      \"Read phone status and identity\"\n    ],\n    \"Device ID & call information\": [\n      \"Read phone status and identity\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Control flashlight\",\n      \"Full network access\",\n      \"Change your audio settings\",\n      \"Prevent device from sleeping\",\n      \"Read google service configuration\"\n    ]\n  }\n}"
+{
+  "id": "pl.nask.droid.kwarantannadomowa",
+  "title": "Home Quarantine (Kwarantanna domowa)",
+  "icon_url": "https://lh3.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
+  "developer_id": "Ministerstwo Cyfryzacji",
+  "updated_date": "2020-04-21",
+  "downloads": "100,000+",
+  "country": "PL",
+  "description": "Home Quarantine is an application that makes it easier to handle the mandatory 14-day quarantine at home.\nThe application is a preventive element in the fight against the spread of the SARS-CoV-2 coronavirus and the COVID-19 disease it causes.\nThanks to the app, you will be able to undergo a quarantine, take care of yourself and your loved ones.\nWhat is the COVID-19 disease?\nThe novel SARS-CoV-2 coronavirus causes a disease, dubbed COVID-19, which usually manifests itself with fever, cough, shortness of breath, muscle pains and fatigue. The virus is airborne, and 15-20% of all the people who contract the disease suffer from a severe course of the infection. The disease has a 2-3% fatality rate. The elderly, immunocompromised people and people with comorbidities, in particular chronic diseases, are the most vulnerable and likely to contract a severe form of the disease, which may prove to be fatal.\nHow to protect yourself from the virus?\nRemember to wash your hands frequently with soap and water. Avoid touching your eyes, nose and mouth. When you cough or sneeze, always cover your mouth and nose with the bend of your elbow or a tissue. Keep a safe distance (1-2 metres) from someone who is coughing, sneezing, or has a fever.\nDo you suspect that you might have contracted the novel coronavirus?\nCall: 800 190 590\nThis is the number of the National Health Fund's hotline, which handles the cases of suspected coronavirus infection.\nWho is the publisher of the Home Quarantine (Kwarantanna domowa) app?\nThe app was published by the Ministry of Digital Affairs.\nIt was developed in cooperation with the Ministry of Health.\nWhere can you find reliable and confirmed information about the coronavirus and the COVID-19 disease?\nDownload the mObywatel app and use the \"Koronawirus: informacje i zalecenia\" (Coronavirus: information and recommendations) tab - https://play.google.com/store/apps/details?id=pl.nask.mobywatel or visit https://www.gov.pl/koronawirus",
+  "app_store_url": "https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Microphone": [
+      "Record audio"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Control flashlight",
+      "Full network access",
+      "Change your audio settings",
+      "Prevent device from sleeping",
+      "Read google service configuration"
+    ]
+  }
+}
