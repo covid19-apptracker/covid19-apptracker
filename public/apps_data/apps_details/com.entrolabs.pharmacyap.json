@@ -1,1 +1,34 @@
-"{\n  \"id\": \"com.entrolabs.pharmacyap\",\n  \"title\": \"COVID-19 AP Pharma\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/HJvumD8leGpfkOjq7vEwHl2AGF0n_9vd7acsooziGW1c0Gl8yFUXDSn4-bnpnmQ-yg\",\n  \"developer_id\": \"Entro Labs\",\n  \"updated_date\": \"2020-05-02\",\n  \"downloads\": \"1,000+\",\n  \"country\": \"\",\n  \"description\": \"COVID-19 Support tool for AP Pharma Dept.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.entrolabs.pharmacyap\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Storage\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Phone\": [\n      \"Read phone status and identity\"\n    ],\n    \"Device ID & call information\": [\n      \"Read phone status and identity\"\n    ],\n    \"Other\": [\n      \"View network connections\",\n      \"Full network access\"\n    ]\n  }\n}"
+{
+  "id": "com.entrolabs.pharmacyap",
+  "title": "COVID-19 AP Pharma",
+  "icon_url": "https://lh3.googleusercontent.com/HJvumD8leGpfkOjq7vEwHl2AGF0n_9vd7acsooziGW1c0Gl8yFUXDSn4-bnpnmQ-yg",
+  "developer_id": "Entro Labs",
+  "updated_date": "2020-05-02",
+  "downloads": "1,000+",
+  "country": "",
+  "description": "COVID-19 Support tool for AP Pharma Dept.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.entrolabs.pharmacyap",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Other": [
+      "View network connections",
+      "Full network access"
+    ]
+  }
+}
