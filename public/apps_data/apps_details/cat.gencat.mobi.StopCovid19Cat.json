@@ -1,1 +1,39 @@
-"{\n  \"id\": \"cat.gencat.mobi.StopCovid19Cat\",\n  \"title\": \"STOP COVID19 CAT\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag\",\n  \"developer_id\": \"Generalitat de Catalunya\",\n  \"updated_date\": \"2020-04-02\",\n  \"downloads\": \"500,000+\",\n  \"country\": \"OM\",\n  \"description\": \"STOP COVID 19 CAT \\u00e9s una aplicaci\\u00f3 m\\u00f2bil de /Salut amb un doble objectiu:\\n1.  Donar resposta a les necessitats  d'informaci\\u00f3 de la ciutadania en relaci\\u00f3 al COVID 19, a trav\\u00e9s d\\u2019un q\\u00fcestionari que els indica si tenen possibilitat de tenir COVID.\\n2. Recollir dades de la poblaci\\u00f3 per tal de poder crear mapes de calor pel quadre de comandament.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Storage\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Phone\": [\n      \"Read phone status and identity\"\n    ],\n    \"Device ID & call information\": [\n      \"Read phone status and identity\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Full network access\",\n      \"Run at startup\",\n      \"Control vibration\",\n      \"Prevent device from sleeping\"\n    ]\n  }\n}"
+{
+  "id": "cat.gencat.mobi.StopCovid19Cat",
+  "title": "STOP COVID19 CAT",
+  "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
+  "developer_id": "Generalitat de Catalunya",
+  "updated_date": "2020-04-02",
+  "downloads": "500,000+",
+  "country": "OM",
+  "description": "STOP COVID 19 CAT \u00e9s una aplicaci\u00f3 m\u00f2bil de /Salut amb un doble objectiu:\n1.  Donar resposta a les necessitats  d'informaci\u00f3 de la ciutadania en relaci\u00f3 al COVID 19, a trav\u00e9s d\u2019un q\u00fcestionari que els indica si tenen possibilitat de tenir COVID.\n2. Recollir dades de la poblaci\u00f3 per tal de poder crear mapes de calor pel quadre de comandament.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Run at startup",
+      "Control vibration",
+      "Prevent device from sleeping"
+    ]
+  }
+}
