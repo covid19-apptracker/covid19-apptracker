@@ -1,1 +1,18 @@
-"{\n  \"id\": \"com.apphero.population\",\n  \"title\": \"World Population Clock\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/IteXSFcPO4Pz3KYYIhYCmosSTk5IGGjorCPnbmceMsR7HcQFs7bJt2DX0c9olZA_xzQ\",\n  \"developer_id\": \"Thomas Louren%C3%A7o\",\n  \"updated_date\": \"2020-04-28\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"AR\",\n  \"description\": \"Dynamic demographic country rankings at any date between 1950 and 2100.\\nAll you need to know about world population.\\nYou can access to any demographic data for all countries:\\n- Total Population\\n- Births and deaths total and rate\\n- Natural increase rate of the population\\n- Fertility\\n- Life expectancy\\n- Median age\\n- Sex ratio at birth\\n- Sex ratio in population\\nIn the map you can visualize the evolution of the population.\\nFor each country you can get the evolution of all demographic data from 1950 to 2100.\\nYou can also access to population pyramids for the world, all the continents and all the countries.\\nThe data is from the World Population Prospects of the United Nations 2019.\\nCountries and Continents :\\nWORLD\\nASIA\\nChina\\nIndia\\nIndonesia\\nPakistan\\nJapan\\nTurkey\\nRussia\\nVietnam\\nPhilippines\\nMalaysia\\n...\\nAFRICA\\nNigeria\\nCongo\\nCameroon\\nMali\\nSenegal\\nIvory Coast\\n...\\nAMERICA\\nUSA\\nCanada\\nMexico\\nBrazil\\nArgentina\\n...\\nEUROPE\\nGermany\\nFrance\\nItaly\\nSpain\\nPortugal\\nBelgium\\nGreece\\n...\\nOCEANIA\\nAustralia\\nNew Zealand\\nand all others countries\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.apphero.population\",\n  \"permissions\": {\n    \"Other\": [\n      \"View network connections\",\n      \"Full network access\",\n      \"Prevent device from sleeping\"\n    ]\n  }\n}"
+{
+  "id": "com.apphero.population",
+  "title": "World Population Clock",
+  "icon_url": "https://lh3.googleusercontent.com/IteXSFcPO4Pz3KYYIhYCmosSTk5IGGjorCPnbmceMsR7HcQFs7bJt2DX0c9olZA_xzQ",
+  "developer_id": "Thomas Louren%C3%A7o",
+  "updated_date": "2020-04-28",
+  "downloads": "100,000+",
+  "country": "AR",
+  "description": "Dynamic demographic country rankings at any date between 1950 and 2100.\nAll you need to know about world population.\nYou can access to any demographic data for all countries:\n- Total Population\n- Births and deaths total and rate\n- Natural increase rate of the population\n- Fertility\n- Life expectancy\n- Median age\n- Sex ratio at birth\n- Sex ratio in population\nIn the map you can visualize the evolution of the population.\nFor each country you can get the evolution of all demographic data from 1950 to 2100.\nYou can also access to population pyramids for the world, all the continents and all the countries.\nThe data is from the World Population Prospects of the United Nations 2019.\nCountries and Continents :\nWORLD\nASIA\nChina\nIndia\nIndonesia\nPakistan\nJapan\nTurkey\nRussia\nVietnam\nPhilippines\nMalaysia\n...\nAFRICA\nNigeria\nCongo\nCameroon\nMali\nSenegal\nIvory Coast\n...\nAMERICA\nUSA\nCanada\nMexico\nBrazil\nArgentina\n...\nEUROPE\nGermany\nFrance\nItaly\nSpain\nPortugal\nBelgium\nGreece\n...\nOCEANIA\nAustralia\nNew Zealand\nand all others countries",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.apphero.population",
+  "permissions": {
+    "Other": [
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  }
+}
