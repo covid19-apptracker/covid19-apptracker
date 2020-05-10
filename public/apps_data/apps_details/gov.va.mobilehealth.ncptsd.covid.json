@@ -1,1 +1,40 @@
-"{\n  \"id\": \"gov.va.mobilehealth.ncptsd.covid\",\n  \"title\": \"COVID Coach\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE\",\n  \"developer_id\": \"US Department of Veterans Affairs %28VA%29\",\n  \"updated_date\": \"2020-04-17\",\n  \"downloads\": \"1,000+\",\n  \"country\": \"VA\",\n  \"description\": \"The world as we know it has changed and we are living in unprecedented and uncertain times. COVID Coach is designed to help you build resilience, manage stress, and increase your well-being during this crisis. The app is free, secure, and helps connect you to important resources for coping and adapting during the COVID-19 pandemic. Customized tools are available to help you cope with stress, stay well, stay safe, stay healthy, stay connected, and navigate parenting, care-giving, and working from home while social distancing, quarantined, or sheltered in place. You can track your mood, visualize your progress, and find resources to seek additional help and support. No account or password is required and user data is not collected.\\nCOVID Coach was made by the mobile mental health team of the National Center for PTSD, Dissemination & Training Division.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Microphone\": [\n      \"Record audio\"\n    ],\n    \"Storage\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Contacts\": [\n      \"Read your contacts\"\n    ],\n    \"Wi-Fi connection information\": [\n      \"View wi-fi connections\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Other\": [\n      \"View network connections\",\n      \"Full network access\",\n      \"Prevent device from sleeping\",\n      \"Run at startup\",\n      \"Google play license check\"\n    ]\n  }\n}"
+{
+  "id": "gov.va.mobilehealth.ncptsd.covid",
+  "title": "COVID Coach",
+  "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
+  "developer_id": "US Department of Veterans Affairs %28VA%29",
+  "updated_date": "2020-04-17",
+  "downloads": "1,000+",
+  "country": "VA",
+  "description": "The world as we know it has changed and we are living in unprecedented and uncertain times. COVID Coach is designed to help you build resilience, manage stress, and increase your well-being during this crisis. The app is free, secure, and helps connect you to important resources for coping and adapting during the COVID-19 pandemic. Customized tools are available to help you cope with stress, stay well, stay safe, stay healthy, stay connected, and navigate parenting, care-giving, and working from home while social distancing, quarantined, or sheltered in place. You can track your mood, visualize your progress, and find resources to seek additional help and support. No account or password is required and user data is not collected.\nCOVID Coach was made by the mobile mental health team of the National Center for PTSD, Dissemination & Training Division.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Microphone": [
+      "Record audio"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Contacts": [
+      "Read your contacts"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Other": [
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Run at startup",
+      "Google play license check"
+    ]
+  }
+}
