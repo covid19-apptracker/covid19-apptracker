@@ -1,1 +1,30 @@
-"{\n  \"id\": \"com.allsoft.corona\",\n  \"title\": \"CG Covid-19 ePass\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY\",\n  \"developer_id\": \"AllSoft Consulting\",\n  \"updated_date\": \"2020-04-29\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"\",\n  \"description\": \"This is an official app of Government of Chhattisgarh.\\nThe World is fighting with the \\u201cCOVID-19\\u201d Pandemic and to take on this battle in State of Chhattisgarh, the State Government has imposed a complete lock-down in the entire State. This lockdown has directed people of Chhattisgarh to stay put in their homes as a preventive measure to stop the spread of COVID-19.\\nGovernment of Chhattisgarh has launched this app to issue State-wide and Intra-district e-Pass for vehicular movement during the lock-down period to enable the seamless transportation of essential commodities like Food grains, Vegetables, Fruits, Milk, Fuel etc. within the State of Chhattisgarh.\\nThe applicant can obtain an e-Pass by submitting Photograph, Id Proof (Aadhaar Card) and Business proof. The Applicant will be able to select the travel date, time and destination. Health officials and Government employees/ staff need not to apply for e-Pass from this mobile app.  They will follow the prevalent protocol given by Chhattisgarh Government.\\nThis mobile app will help the State Administration to serve people residing in the State of Chhattisgarh and keep them safe in their homes during these times of hardship.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.allsoft.corona\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Storage\": [\n      \"Modify or delete the contents of your usb storage\",\n      \"Read the contents of your usb storage\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Full network access\",\n      \"Prevent device from sleeping\"\n    ]\n  }\n}"
+{
+  "id": "com.allsoft.corona",
+  "title": "CG Covid-19 ePass",
+  "icon_url": "https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
+  "developer_id": "AllSoft Consulting",
+  "updated_date": "2020-04-29",
+  "downloads": "100,000+",
+  "country": "",
+  "description": "This is an official app of Government of Chhattisgarh.\nThe World is fighting with the \u201cCOVID-19\u201d Pandemic and to take on this battle in State of Chhattisgarh, the State Government has imposed a complete lock-down in the entire State. This lockdown has directed people of Chhattisgarh to stay put in their homes as a preventive measure to stop the spread of COVID-19.\nGovernment of Chhattisgarh has launched this app to issue State-wide and Intra-district e-Pass for vehicular movement during the lock-down period to enable the seamless transportation of essential commodities like Food grains, Vegetables, Fruits, Milk, Fuel etc. within the State of Chhattisgarh.\nThe applicant can obtain an e-Pass by submitting Photograph, Id Proof (Aadhaar Card) and Business proof. The Applicant will be able to select the travel date, time and destination. Health officials and Government employees/ staff need not to apply for e-Pass from this mobile app.  They will follow the prevalent protocol given by Chhattisgarh Government.\nThis mobile app will help the State Administration to serve people residing in the State of Chhattisgarh and keep them safe in their homes during these times of hardship.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.allsoft.corona",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  }
+}
