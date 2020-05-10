@@ -1,1 +1,42 @@
-"{\n  \"id\": \"bh.bahrain.corona.tracker\",\n  \"title\": \"BeAware Bahrain\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu\",\n  \"developer_id\": \"Information %26 eGovernment Authority\",\n  \"updated_date\": \"2020-05-02\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"BH\",\n  \"description\": \"BeAware Bahrain - Together Against COVID-19:\\nAs citizens and residents, we have both a community and individual responsibility to safeguard the safety and well-being of all.\\nBe Aware is a mobile application that assists efforts to contain the spread of COVID-19 by advancing contact tracing efforts.\\nHow will the app achieve its objectives?\\nThe app utilises location data shared by users to alert the following:\\n- Individuals in the event they approach a location where an active case has been detected, or if they were in close proximity with an active case\\n- Track the movement of quarantine cases for a duration of 14 days, and ensure they abide by quarantine regulations\\n- Track active cases and provide contact tracing updates\\n- Highlight COVID-19 developments\\n- Publish latest recommendations issued by the Kingdom\\u2019s health authorities\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=bh.bahrain.corona.tracker\",\n  \"permissions\": {\n    \"Device & app history\": [\n      \"Retrieve running apps\"\n    ],\n    \"Photos/Media/Files\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Storage\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Calendar\": [\n      \"Read calendar events plus confidential information\",\n      \"Add or modify calendar events and send email to guests without owners' knowledge\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\",\n      \"Access extra location provider commands\"\n    ],\n    \"Other\": [\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Pair with bluetooth devices\",\n      \"Access bluetooth settings\",\n      \"Full network access\",\n      \"Run at startup\",\n      \"Prevent device from sleeping\"\n    ]\n  }\n}"
+{
+  "id": "bh.bahrain.corona.tracker",
+  "title": "BeAware Bahrain",
+  "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
+  "developer_id": "Information %26 eGovernment Authority",
+  "updated_date": "2020-05-02",
+  "downloads": "100,000+",
+  "country": "BH",
+  "description": "BeAware Bahrain - Together Against COVID-19:\nAs citizens and residents, we have both a community and individual responsibility to safeguard the safety and well-being of all.\nBe Aware is a mobile application that assists efforts to contain the spread of COVID-19 by advancing contact tracing efforts.\nHow will the app achieve its objectives?\nThe app utilises location data shared by users to alert the following:\n- Individuals in the event they approach a location where an active case has been detected, or if they were in close proximity with an active case\n- Track the movement of quarantine cases for a duration of 14 days, and ensure they abide by quarantine regulations\n- Track active cases and provide contact tracing updates\n- Highlight COVID-19 developments\n- Publish latest recommendations issued by the Kingdom\u2019s health authorities",
+  "app_store_url": "https://play.google.com/store/apps/details?id=bh.bahrain.corona.tracker",
+  "permissions": {
+    "Device & app history": [
+      "Retrieve running apps"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Calendar": [
+      "Read calendar events plus confidential information",
+      "Add or modify calendar events and send email to guests without owners' knowledge"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)",
+      "Access extra location provider commands"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings",
+      "Full network access",
+      "Run at startup",
+      "Prevent device from sleeping"
+    ]
+  }
+}
