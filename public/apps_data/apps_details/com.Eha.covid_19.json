@@ -1,1 +1,51 @@
-"{\n  \"id\": \"com.Eha.covid_19\",\n  \"title\": \"COVID-19\",\n  \"icon_url\": \"https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L\",\n  \"developer_id\": \"Electronic Health Administration\",\n  \"updated_date\": \"2020-03-11\",\n  \"downloads\": \"100,000+\",\n  \"country\": \"VN\",\n  \"description\": \"COVID-19 is a free application developed by the cooperation between Advanced International Joint Stock Company  (AIC Group) and Electronic Health Administration - Ministry of Health, Viet Nam. It provides ultimate guidances for preventing and fighting against respiratory diseases caused by a new strain of coronavirus (officially named COVID-19).\\nFeatures:\\n- Virtual Medical Assistant (Chatbot): conducts one-on-one conversations with users by human sounding voice, works in real time and answers the questions about COVID-19 on the spot;\\n-  Board-certified Specialist Consultation: allow people to interact with a group of specialists at National Hospital for Tropical Diseases by chatting, audio/video calling for medical advices.\\n-  Interactions between Government and citizens: Users can send comments, requests, supports, and travel or health declaration. Users also can get the most recent advices and notices from the Government, WHO, CDC, NHC, Johns Hopkins University and other medical instituations.\\n- COVID-19 Live Updates: shows live statistics and rolling updates from coronavirus disease in Viet Nam and the world. The numbers of cases per day, per week, per month, confirmed cases, increased numbers, etc. are analyzed and visually shown in map, graphics, number tables with comparisons and simulations  by a group of data analysts continuously working 24/7.\\n- COVID-19 Map: automatically synchronizes world wide data from WHO, CDC, NHC, etc.\\n- Prevention of COVID-19: provides guidances documents, videos, animation clips from WHO, Ministry of Health, Viet Nam and other medical institutions.\\n- Medical Facility GPS: enables users to search nearby hospitals, pharmacies, and certified COVID-19 test labs.\",\n  \"app_store_url\": \"https://play.google.com/store/apps/details?id=com.Eha.covid_19\",\n  \"permissions\": {\n    \"Photos/Media/Files\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Microphone\": [\n      \"Record audio\"\n    ],\n    \"Storage\": [\n      \"Read the contents of your usb storage\",\n      \"Modify or delete the contents of your usb storage\"\n    ],\n    \"Phone\": [\n      \"Read phone status and identity\"\n    ],\n    \"Device ID & call information\": [\n      \"Read phone status and identity\"\n    ],\n    \"Wi-Fi connection information\": [\n      \"View wi-fi connections\"\n    ],\n    \"Camera\": [\n      \"Take pictures and videos\"\n    ],\n    \"Location\": [\n      \"Approximate location (network-based)\",\n      \"Precise location (gps and network-based)\"\n    ],\n    \"Other\": [\n      \"Download files without notification\",\n      \"Receive data from internet\",\n      \"View network connections\",\n      \"Full network access\",\n      \"Run at startup\",\n      \"Draw over other apps\",\n      \"Control vibration\",\n      \"Prevent device from sleeping\",\n      \"Google play license check\"\n    ]\n  }\n}"
+{
+  "id": "com.Eha.covid_19",
+  "title": "COVID-19",
+  "icon_url": "https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
+  "developer_id": "Electronic Health Administration",
+  "updated_date": "2020-03-11",
+  "downloads": "100,000+",
+  "country": "VN",
+  "description": "COVID-19 is a free application developed by the cooperation between Advanced International Joint Stock Company  (AIC Group) and Electronic Health Administration - Ministry of Health, Viet Nam. It provides ultimate guidances for preventing and fighting against respiratory diseases caused by a new strain of coronavirus (officially named COVID-19).\nFeatures:\n- Virtual Medical Assistant (Chatbot): conducts one-on-one conversations with users by human sounding voice, works in real time and answers the questions about COVID-19 on the spot;\n-  Board-certified Specialist Consultation: allow people to interact with a group of specialists at National Hospital for Tropical Diseases by chatting, audio/video calling for medical advices.\n-  Interactions between Government and citizens: Users can send comments, requests, supports, and travel or health declaration. Users also can get the most recent advices and notices from the Government, WHO, CDC, NHC, Johns Hopkins University and other medical instituations.\n- COVID-19 Live Updates: shows live statistics and rolling updates from coronavirus disease in Viet Nam and the world. The numbers of cases per day, per week, per month, confirmed cases, increased numbers, etc. are analyzed and visually shown in map, graphics, number tables with comparisons and simulations  by a group of data analysts continuously working 24/7.\n- COVID-19 Map: automatically synchronizes world wide data from WHO, CDC, NHC, etc.\n- Prevention of COVID-19: provides guidances documents, videos, animation clips from WHO, Ministry of Health, Viet Nam and other medical institutions.\n- Medical Facility GPS: enables users to search nearby hospitals, pharmacies, and certified COVID-19 test labs.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.Eha.covid_19",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Microphone": [
+      "Record audio"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Download files without notification",
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Run at startup",
+      "Draw over other apps",
+      "Control vibration",
+      "Prevent device from sleeping",
+      "Google play license check"
+    ]
+  }
+}
