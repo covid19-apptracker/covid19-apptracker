@@ -36,5 +36,7 @@
       "Run at startup",
       "Google play license check"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }
