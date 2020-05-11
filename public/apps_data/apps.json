@@ -673,5 +673,32 @@
     "updated_date": "2020-05-03",
     "downloads": "5,000,000+",
     "country": "TR"
+  },
+  {
+    "id": "ar.gob.coronavirus",
+    "title": "CUIDAR COVID-19 ARGENTINA",
+    "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
+    "developer_id": "8169270262982486256",
+    "updated_date": "2020-05-09",
+    "downloads": "1,000,000+",
+    "country": "AR"
+  },
+  {
+    "id": "com.CoronaMapSA",
+    "title": "Corona Map",
+    "icon_url": "https://lh3.googleusercontent.com/EBZO_bfXFRbz3lBansXc1LGJRRl-0LZ8Vos4H188aeo3kVhaGBavuHRyEWGRMnvIyd8",
+    "developer_id": "National Health Information Center",
+    "updated_date": "2020-03-18",
+    "downloads": "50,000+",
+    "country": "SA"
+  },
+  {
+    "id": "com.app_release.covid19finalcourse",
+    "title": "Uttarakhand CV 19 Tracking System",
+    "icon_url": "https://lh3.googleusercontent.com/ln2Dl1HDEO-hlUduWQKW48FhxCa024proI1UTw6oPY7v_i8E2yb6fNtYTdEapdOnmGTj",
+    "developer_id": "Govt of Uttarakhand %28USERC%29",
+    "updated_date": "2020-03-26",
+    "downloads": "10,000+",
+    "country": "IN"
   }
 ]
