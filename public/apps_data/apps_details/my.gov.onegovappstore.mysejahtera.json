@@ -40,5 +40,7 @@
       "Prevent device from sleeping",
       "Read google service configuration"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }
