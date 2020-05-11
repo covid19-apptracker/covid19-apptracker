@@ -46,5 +46,7 @@
       "Change your audio settings",
       "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }
