@@ -21,5 +21,7 @@
       "Draw over other apps",
       "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }
