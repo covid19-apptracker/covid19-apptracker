@@ -21,14 +21,14 @@ class HomePage extends Component {
             >
               <div className="headers flex items-center mx-auto pb-6">
                 <div className="sm:w-2/12 sm:-mr-6"></div>
-                <div className="font-bold w-8/12 sm:w-6/12 min-w-xs">
+                <div className="font-bold w-8/12 sm:w-6/12 min-w-xs mr-3">
                   Application Name
                 </div>
-                <div className="font-bold installs hidden sm:flex sm:w-2/12 sm:-ml-6 sm:mr-3">
+                <div className="font-bold installs hidden sm:flex sm:w-2/12">
                   Downloads
                 </div>
-                <div className="font-bold flex-auto w-4/12 sm:w-2/12">
-                  Date Uploaded
+                <div className="font-bold flex-auto w-4/12 sm:w-2/12 float-right text-left">
+                  Date Updated
                 </div>
               </div>
               <PlayAppGenerator/>
