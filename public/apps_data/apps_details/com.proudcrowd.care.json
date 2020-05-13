@@ -2,23 +2,25 @@
   "id": "com.proudcrowd.care",
   "title": "Care19",
   "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
-  "developer_id": "ProudCrowd,+LLC",
-  "updated_date": "2020-05-01",
+  "developer_id": "ProudCrowd, LLC",
+  "updated_date": "2020-05-04",
   "downloads": "10,000+",
   "country": "",
   "description": "Thank you for taking an active role in slowing the spread of coronavirus and making a difference in the health of your loved ones and your community.  Care19 uses state-of-the-art GPS location data to help trace the places you have visited.\nIf you test positive for COVID-19, with your permission, this anonymous and confidential data can be shared with the Department of Health to more efficiently identify others with whom you were in contact with.  Identifying contacts is key to slowing the spread of coronavirus.\nYou will not be asked to provide any personally identifiable information within the app. Location data will only be shared with the Department of Health if you consent upon testing positive for COVID-19. This is done by sharing a code number displayed on the \u201cAbout\u201d section of the app.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.proudcrowd.care",
   "permissions": {
     "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
       "View network connections",
+      "Run at startup",
       "Full network access",
-      "Prevent device from sleeping",
-      "Run at startup"
+      "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

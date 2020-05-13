@@ -9,12 +9,19 @@
   "description": "Esta aplicaci\u00f3n le permitir\u00e1 ingresar sus datos personales y de salud a fin de determinar si es necesario realizarle un an\u00e1lisis por el Coronavirus COVID-19. Luego de registrado podr\u00e1 hacer seguimiento de su caso y los siguientes pasos que deber\u00e1 realizar.\nAplicaci\u00f3n para uso dentro del territorio de la Rep\u00fablica Oriental del Uruguay.",
   "app_store_url": "https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy",
   "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Camera": [
       "Take pictures and videos"
@@ -23,22 +30,17 @@
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
     ],
-    "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Other": [
       "Receive data from internet",
-      "Control vibration",
-      "View network connections",
-      "Read google service configuration",
-      "Full network access",
-      "Change network connectivity",
       "Run at startup",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "View network connections",
+      "Change network connectivity",
+      "Control vibration",
+      "Read google service configuration",
+      "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

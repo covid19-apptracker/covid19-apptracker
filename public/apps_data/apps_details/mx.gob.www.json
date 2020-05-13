@@ -2,39 +2,28 @@
   "id": "mx.gob.www",
   "title": "COVID-19MX",
   "icon_url": "https://lh3.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
-  "developer_id": "Secretar%C3%ADa+de+Salud+MX",
-  "updated_date": "2020-04-14",
+  "developer_id": "Secretar%C3%ADa de Salud MX",
+  "updated_date": "2020-05-04",
   "downloads": "100,000+",
   "country": "MX",
   "description": "La Secretar\u00eda de Salud te ofrece esta aplicaci\u00f3n que te permite contar con la informaci\u00f3n necesaria para protegerte y actuar de manera oportuna ante el Coronavirus-2019\nCuenta con las siguientes funcionalidades:\nAcceso directo al tel\u00e9fono de atenci\u00f3n epidemiol\u00f3gica sanitaria.\nAutodiagn\u00f3stico: En caso de sospecha de que tu o alg\u00fan familiar sufrieron el contagio, responde al cuestionario  y tendr\u00e1s las recomendaciones para actuar y de ser necesario acudir para atenci\u00f3n m\u00e9dica.\nUbicaciones: Identifica los Centros de Atenci\u00f3n m\u00e1s cercanos a tu ubicaci\u00f3n, puedes consultar por Estados o mediante un mapa que te muestra el domicilio y ruta para llegar.\nDudas: Te ofrece la informaci\u00f3n m\u00e1s importante para entender qu\u00e9 es, c\u00f3mo se transmite y los grupos m\u00e1s vulnerables.\nConsejos: Te presenta las medidas de prevenci\u00f3n que te ayudar\u00e1n a evitar esta y otras enfermedades.\nNoticias: Acceso a la informaci\u00f3n oficial incluyendo conferencias de prensa y comunicados de la Secretar\u00eda de Salud.\nNota: Recuerda activar los permisos de geolocalizaci\u00f3n, para que se muestren las instalaciones sanitarias m\u00e1s cercanas a tu domicilio.",
   "app_store_url": "https://play.google.com/store/apps/details?id=mx.gob.www",
   "permissions": {
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
     "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
-    ],
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Read google service configuration",
       "View network connections",
+      "Pair with bluetooth devices",
       "Access bluetooth settings",
-      "Prevent device from sleeping",
+      "Full network access",
+      "Run at startup",
       "Control vibration",
-      "Mock location sources for testing",
-      "Run at startup"
+      "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

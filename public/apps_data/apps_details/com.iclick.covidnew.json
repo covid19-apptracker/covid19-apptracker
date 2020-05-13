@@ -21,14 +21,16 @@
       "Read the contents of your usb storage"
     ],
     "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
+      "View network connections",
       "Full network access",
-      "Prevent device from sleeping",
-      "View network connections"
+      "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

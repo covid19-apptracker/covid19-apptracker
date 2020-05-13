@@ -2,7 +2,7 @@
   "id": "com.allsoft.corona",
   "title": "CG Covid-19 ePass",
   "icon_url": "https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
-  "developer_id": "AllSoft+Consulting",
+  "developer_id": "AllSoft Consulting",
   "updated_date": "2020-04-29",
   "downloads": "100,000+",
   "country": "",
@@ -22,9 +22,11 @@
     ],
     "Other": [
       "Receive data from internet",
+      "View network connections",
       "Full network access",
-      "Prevent device from sleeping",
-      "View network connections"
+      "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

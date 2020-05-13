@@ -1,0 +1,46 @@
+{
+  "id": "my.gov.onegovappstore.mysejahtera",
+  "title": "MySejahtera",
+  "icon_url": "https://lh3.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
+  "developer_id": "GOVERNMENT OF MALAYSIA",
+  "updated_date": "2020-05-03",
+  "downloads": "100,000+",
+  "country": "MY",
+  "description": "MySejahtera is an application developed by the Government of Malaysia to assist in managing the COVID-19 outbreaks in the country. It allows users to perform health self-assessment on themselves and their family members. The users can also monitor their health progress throughout the COVID-19 outbreak. Also, MySejahtera enables the Ministry of Health (MOH) to monitor users\u2019 health condition and take immediate actions in providing the treatments required.\nTOGETHER MALAYSIA, WE CAN STOP THE SPREAD OF COVID-19!",
+  "app_store_url": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysejahtera",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Contacts": [
+      "Find accounts on the device",
+      "Modify your contacts"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Identity": [
+      "Find accounts on the device"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Manage document storage",
+      "Receive data from internet",
+      "View network connections",
+      "Control flashlight",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Read google service configuration"
+    ]
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}

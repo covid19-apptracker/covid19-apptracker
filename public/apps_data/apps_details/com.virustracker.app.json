@@ -2,7 +2,7 @@
   "id": "com.virustracker.app",
   "title": "StopTheSpread COVID-19",
   "icon_url": "https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A",
-  "developer_id": "Binary+Mango",
+  "developer_id": "Binary Mango",
   "updated_date": "2020-03-10",
   "downloads": "100+",
   "country": "",
@@ -16,5 +16,7 @@
       "View network connections",
       "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }
