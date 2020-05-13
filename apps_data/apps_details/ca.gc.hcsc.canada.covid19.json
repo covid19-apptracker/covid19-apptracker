@@ -2,7 +2,7 @@
   "id": "ca.gc.hcsc.canada.covid19",
   "title": "Canada COVID-19",
   "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
-  "developer_id": "Health+Canada+%7C+Sant%C3%A9+Canada",
+  "developer_id": "Health Canada %7C Sant%C3%A9 Canada",
   "updated_date": "2020-05-02",
   "downloads": "100,000+",
   "country": "CA",
@@ -18,5 +18,7 @@
       "View network connections",
       "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

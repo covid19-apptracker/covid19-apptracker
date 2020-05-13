@@ -2,7 +2,7 @@
   "id": "mx.gob.tamaulipas.covid19",
   "title": "COVID-19 Tam",
   "icon_url": "https://lh3.googleusercontent.com/gjYsDTOIzpoBPKmjj896WXnoPo0MVcIvq2BAFK91nAGtP9TVH0S5AKAnLgO94Pd_ECy1",
-  "developer_id": "Gobierno+del+Estado+de+Tamaulipas",
+  "developer_id": "Gobierno del Estado de Tamaulipas",
   "updated_date": "2020-04-24",
   "downloads": "50,000+",
   "country": "MX",
@@ -17,5 +17,7 @@
       "View network connections",
       "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

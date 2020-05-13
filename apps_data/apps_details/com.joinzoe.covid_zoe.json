@@ -2,7 +2,7 @@
   "id": "com.joinzoe.covid_zoe",
   "title": "COVID Symptom Tracker",
   "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
-  "developer_id": "Zoe+Global+Limited",
+  "developer_id": "Zoe Global Limited",
   "updated_date": "2020-04-29",
   "downloads": "500,000+",
   "country": "",
@@ -21,5 +21,7 @@
       "Draw over other apps",
       "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

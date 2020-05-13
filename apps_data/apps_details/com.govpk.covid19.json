@@ -2,7 +2,7 @@
   "id": "com.govpk.covid19",
   "title": "COVID-19 Gov PK",
   "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
-  "developer_id": "National+IT+Board,+Government+Of+Pakistan",
+  "developer_id": "National IT Board, Government Of Pakistan",
   "updated_date": "2020-05-02",
   "downloads": "500,000+",
   "country": "PK",
@@ -20,5 +20,7 @@
       "Control vibration",
       "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

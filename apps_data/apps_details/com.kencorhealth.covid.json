@@ -2,22 +2,22 @@
   "id": "com.kencorhealth.covid",
   "title": "Kencor COVID-19",
   "icon_url": "https://lh3.googleusercontent.com/7RG-gqhmvSSgkftyBC_5N3xO1Om4WwDKwjca6stBjufOsqgASApkkvU4ZOFK7thUJxM",
-  "developer_id": "Kencor+health",
+  "developer_id": "Kencor health",
   "updated_date": "2020-04-22",
   "downloads": "10+",
   "country": "",
   "description": "Developed in partnership with cardiologists and technologists, the Kencor platform keeps you connected to your care team once you head home.\nSami\u2122, your 24/7 virtual companion, comes pre-set with your personalized treatment plan created by your doctor, and adjusts over time as your health improves.\nYou just talk to Sami\u2122 and answer her questions and follow her reminders, like to take your medication or record your vitals, such as your weight that day.\nSami\u2122 is there to monitor your progress and relay your health information directly to your care team. It\u2019s like your care team is there with you when you need them.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.kencorhealth.covid",
   "permissions": {
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+    "Microphone": [
+      "Record audio"
     ],
     "Camera": [
       "Take pictures and videos"
     ],
-    "Microphone": [
-      "Record audio"
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
@@ -28,5 +28,7 @@
       "Change your audio settings",
       "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

@@ -2,7 +2,7 @@
   "id": "com.apphero.population",
   "title": "World Population Clock",
   "icon_url": "https://lh3.googleusercontent.com/IteXSFcPO4Pz3KYYIhYCmosSTk5IGGjorCPnbmceMsR7HcQFs7bJt2DX0c9olZA_xzQ",
-  "developer_id": "Thomas+Louren%C3%A7o",
+  "developer_id": "Thomas Louren%C3%A7o",
   "updated_date": "2020-04-28",
   "downloads": "100,000+",
   "country": "AR",
@@ -14,5 +14,7 @@
       "Full network access",
       "Prevent device from sleeping"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

@@ -2,31 +2,33 @@
   "id": "co.twenty.stop.spread",
   "title": "Healthy Together - COVID-19",
   "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
-  "developer_id": "Twenty+Inc.",
+  "developer_id": "Twenty Inc.",
   "updated_date": "2020-04-29",
   "downloads": "10,000+",
   "country": "CO",
   "description": "Healthy Together is developed in partnership with the State of Utah to stop the spread of COVID-19, help residents get access to testing services, support public health officials contact tracing efforts, get information about how to stay safe in your area, and help our community safely re-open the economy sooner.\nDAILY CHECKUPS\nTake a Daily Checkup to track your symptoms and find out if you should call your doctor or get tested for COVID-19. Easily share your results with your doctor.\nCOVID-19 TESTING\nThe Families First Coronavirus Response Act provides cost-free COVID-19 testing. Check the map to see the COVID-19 testing locations nearby, easily make an appointment, and get access to COVID-19 test results directly through the Healthy Together app. (Utah residents only)\nCONTACT TRACING\nUse private and secure contact tracing to find out if you\u2019ve been potentially exposed to someone who tested positive for COVID-19. This opt-in feature uses location and Bluetooth technology to identify if you\u2019ve had a moderate-to-high risk exposure event. If your state is participating you may receive automated alerts or public health officials may contact you regarding what steps to take.\nUSER DATA, PRIVACY & SECURITY\n1) User Data, Privacy & Security\n2) There is no mandate to participate in this effort, users choose to opt-in\n3) Users are in full control of their personal data. They decide what data to share, can reverse those decisions as well as delete their data any moment they choose.\n4) All symptom data is automatically de-identified after 30-days.\n5) All location data is automatically deleted after 30-days.\n6) Data is encrypted in transit and at rest.\n7) The use of this data is limited to COVID-19 response efforts, public health & research purposes.\nPlease see our Privacy Policy for further information.\nBy using Healthy Together you are playing an active and critical role in protecting the people close to you, and everyone in your community. The faster and more aggressively we collectively respond to the threat of COVID-19 the sooner we will be able to eliminate this threat, re-open our neighborhoods, re-start our economy, and resume enjoying everything we love about our communities.\nThank you for participating in Healthy Together!",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.twenty.stop.spread",
   "permissions": {
-    "Location": [
-      "Precise location (gps and network-based)"
-    ],
     "Contacts": [
       "Read your contacts"
+    ],
+    "Location": [
+      "Precise location (gps and network-based)"
     ],
     "Wi-Fi connection information": [
       "View wi-fi connections"
     ],
     "Other": [
       "Receive data from internet",
-      "Control vibration",
-      "View network connections",
-      "Full network access",
       "Pair with bluetooth devices",
       "Run at startup",
+      "Prevent device from sleeping",
       "Access bluetooth settings",
-      "Prevent device from sleeping"
+      "View network connections",
+      "Control vibration",
+      "Full network access"
     ]
-  }
+  },
+  "available": true,
+  "first_time_seen": "2020-05-10"
 }

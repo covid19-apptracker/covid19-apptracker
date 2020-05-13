@@ -1,0 +1,14 @@
+{
+  "id": "com.nap_pakistan.app",
+  "title": "Pakistan's National Action Plan for COVID-19",
+  "icon_url": "https://lh3.googleusercontent.com/t49MbIuK85wStdS2_wThwp-ZI-oNXau7ybxUkzxwbdxQkXyYLMnBFjfo23wGv5p4vnI",
+  "developer_id": "Aiwatech",
+  "updated_date": "2020-03-25",
+  "downloads": "50,000+",
+  "country": "PK",
+  "description": "This App consists of a set of Documents/SOPs for the prevention and Control of Corona Virus COVID-19 published by Government of Pakistan and National Institute of Health, Pakistan. The document has been named as the National Action Plan for COVID-19. The application has been developed to help health care providers and the general public to prevent and control the spread of Corona Virus within country. The app describes the basic SOPs for Point of entries in the country, self quarantine for patients, isolation hospitals and infection prevention and control. This app is aimed to help not only the health care providers but also the general public. The reason for uploading this app is to make it available for people not only living in Pakistan but also in other countries. This app will help in prevention and control of Corona Virus COVID-19. The document is also available online at https://www.nih.org.pk/novel-coranavirus-2019-ncov/.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.nap_pakistan.app",
+  "permissions": [],
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
