@@ -5,7 +5,55 @@ import Footer from '../../components/footerComponent/Footer.js';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 class AppPage extends Component {
-	render() {
+    constructor(props) {
+        super(props);
+        this.state = {
+            description: "",
+            permissions: new Array()
+        }
+    }
+
+    componentDidMount() {
+        console.log("made it into component did mount")
+        this.setState({
+            description: this.props.description,
+            permissions: this.props.permissions
+        })
+    }
+    componentWillReceiveProps(nextProps) {
+        console.log("made it into will receive props test")
+        console.log(nextProps.permissions);
+        this.setState({
+            description: nextProps.description,
+            permissions: nextProps.permissions
+        });
+    }
+
+    createPermissionsObject = (specifiedPermissions) => {
+        if (this.state.permissions != undefined) {
+            if(specifiedPermissions in this.state.permissions){
+                console.log('logging permissions:');
+                console.log(this.state.permissions);
+                return (
+                    this.state.permissions[specifiedPermissions].map((permission) => 
+                    <li> 
+                        {permission} 
+                    </li>)
+                )
+            } else {
+                return( 
+                    <li> No permissions needed </li>
+                )
+            }
+        } else {
+            return <div></div>
+        }
+    }
+
+    render() {
+        console.log("logging props of AppPage")
+        console.log(this.props)
+
 		return (
 			<div>
 				<NavBar />
@@ -18,19 +66,19 @@ class AppPage extends Component {
                             <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>
                                 Home
                             </Link>{' '}
-                            / <span >App Name Here</span>
+                            / <span >{this.props.title}</span>
                         </div>
                     <div id="developerInfo">
                         <div className="flex items-center pb-12">
                             <div className="pr-4">
-                                <img src="https://png.pngtree.com/png-clipart/20190614/original/pngtree-blue-simple-square-background-illustration-png-image_3679324.jpg" width="120" height="120" className="rounded-lg shadow-lg"></img>
+                                <img src={this.props.iconURL} width="120" height="120" className="rounded-lg shadow-lg"></img>
                             </div>
                             <div>
                                 <div className="items-baseline flex">
-                                    <h1 className="text-3xl pb-2">App Name Here Super Long <i className="fa fa-share-square pl-4 fa-sm" style={{color: "#0066FF"}}></i></h1>
+                                    <h1 className="text-3xl pb-2">{this.props.title}<a href={this.props.appStoreURL}><i className="fa fa-share-square pl-4 fa-sm" style={{color: "#0066FF"}}></i></a></h1>
                                 </div>
                                 <div className="flex">
-                                    <p className="font-bold text-sm pr-8">Developers</p><Link className="text-base text-sm hover:underline hover:text-blue-400" to="#" style={{color: "#0066FF"}}>Developer's Name</Link>
+                                    <p className="font-bold text-sm pr-8">Developers</p>{this.props.developer}
                                 </div>
                             </div>
                         </div>
@@ -40,13 +88,13 @@ class AppPage extends Component {
                         <div className="sm:flex pb-12">
                             <div className="flex-1 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
                                 <div className="px-6 py-4">
-                                    <p className="font-bold text-sm">Origin Country</p>
+                                    <p className="font-bold text-sm">{this.props.country}</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
                                         IN
                                         </p> 
                                     </div> 
-                                    <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p> 
+                                    <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p> 
                                 </div>
                             </div>
                             <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
@@ -54,7 +102,8 @@ class AppPage extends Component {
                                     <p className="font-bold text-sm">Device Installs</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                        2.5<span className="text-gray-700 text-sm">MM</span>
+                                        {this.props.downloads}
+                                        {/* <span className="text-gray-700 text-sm">MM</span> */}
                                         </p> 
                                     </div> 
                                     <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p> 
@@ -65,7 +114,7 @@ class AppPage extends Component {
                                     <p className="font-bold text-sm">Last Updated</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                        04-12-2020
+                                        {this.props.updatedDate}
                                         </p> 
                                     </div>
                                 </div>
@@ -83,7 +132,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Location</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Precise location (gps and network-based)</li>
+                                        {
+                                            this.createPermissionsObject('Location')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -95,7 +146,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Phone</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Read phone status and identity</li>
+                                        {
+                                            this.createPermissionsObject('Phone')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -107,7 +160,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Storage</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Read phone status and identity</li>
+                                        {
+                                            this.createPermissionsObject('Storage')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -119,7 +174,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Microphone</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Read phone status and identity</li>
+                                        {
+                                            this.createPermissionsObject('Microphone')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -131,7 +188,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Device ID & Call Info</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Read phone status and identity</li>
+                                        {
+                                            this.createPermissionsObject('Device ID & Call information')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -143,10 +202,9 @@ class AppPage extends Component {
                                 <div>
                                     <p className="pb-1 font-medium">Other</p>
                                     <ul className="list-disc pl-4 text-gray-700">
-                                        <li>Receive data from internet</li>
-                                        <li>View network connections</li>
-                                        <li>Full network access</li>
-                                        <li>Prevent device from sleeping</li>
+                                        {
+                                            this.createPermissionsObject('Other')
+                                        }
 							        </ul>
                                     
                                 </div>
@@ -159,7 +217,8 @@ class AppPage extends Component {
                             <div className="px-6 sm:px-16 py-8">
                                 <p className="font-bold text-sm pb-2">App Description</p>
                                 <p>
-                                    Covid Locator App helps Government of Goa track home quarantined citizens within the State of Goa. The app also helps the general public with preventive guidelines and information about hospitals within the State of Goa that are authorised to treat COVID-19.\nCovid Locator App has been developed by the Government of Goa to provide the general public with preventive guidelines and helpline information. The app also provides a heat map of home quarantined citizens within the State of Goa. The app has the following main sections for citizens:\n1. India Tracker - A real-time dashboard for statistical data nationwide\n2. Tracking feature to enable tracking of home quarantined citizens within the State of Goa.\n3. Heat Map of home quarantined citizens within the State of Goa\n4. Information of hospitals enabled to treat COVID-19\n5. Government-issued information for preventive care and advisories\n6. Helpline numbers for emergency\n7. FAQ\nThe App will help you with essential information. Stay Home. Stay Safe. 
+                                    {
+                                    this.state.description != undefined ? this.state.description.replace(/\n/g, " ") : <div></div>}
                                 </p>                           
                             </div>
                         </div>

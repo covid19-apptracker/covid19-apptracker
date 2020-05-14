@@ -169,7 +169,7 @@ class PlayAppGenerator extends Component {
         } else {
             return (
                 <div>
-                    <img src={loadingImg} className="" alt="logo" />
+                    <img src={loadingImg} className="mx-auto" alt="logo" />
                 </div>
             );
         }

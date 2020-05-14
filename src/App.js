@@ -64,37 +64,52 @@ class App extends Component {
           playApps.push(appDetails);
         });
 
-        appRoutes = await playApps.map((appInfo) => ( <Route exact path = {
+        appRoutes = await playApps.map((appInfo) => ( 
+        <Route exact path = {
               "/app/" + appInfo.id
           }
-          component = {
-              AppPage
-          }
-          key = {
+          render={(props) => <AppPage {...props} 
+            key={
               appInfo.id
-          }
-          id = {
+            }
+            id={
               appInfo.id
-          }
-          title = {
+            }
+            title={
               appInfo.title
-          }
-          iconURL = {
+            }
+            iconURL={
               appInfo.icon_url
-          }
-          developer = {
+            }
+            developer={
               decodeURIComponent(
-                  appInfo.developer_id.replace(/\+/g, " ")
+                appInfo.developer_id.replace(/\+/g, " ")
               )
-          }
-          downloads = {
+            }
+            downloads={
               appInfo.downloads
-          }
-          updatedDate = {
+            }
+            updatedDate={
               appInfo.updated_date
-          }
-          />
-      ));
+            }
+            country={
+              appInfo.country
+            }
+            permissions={
+              appInfo.permissions
+            }
+            description={
+              appInfo.description
+            }
+            appStoreURL={
+              appInfo.app_store_url
+            }
+          
+        />}
+        />
+        ));
+      console.log("app routes below")
+      console.log(appRoutes)
 
         playApps = await playApps.map((appInfo) =>
           < PlayApp
