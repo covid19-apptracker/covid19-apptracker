@@ -167,11 +167,6 @@ class App extends Component {
           <div>
             <Route exact path="/" render={props => <HomePage shareRoutesWithApp={this.shareRoutesWithApp} playAppArray={this.state.playAppArray}/>} />
             <Route exact path="/about" component={AboutPage} />
-            <Route
-              exact
-              path="/app/co.gov.ins.guardianes"
-              component={AppPage}
-            />
             {this.state.playAppRoutes}
           </div>
         </div>
