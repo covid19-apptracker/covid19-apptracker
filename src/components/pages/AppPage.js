@@ -77,8 +77,8 @@ class AppPage extends Component {
                         <p className="font-bold text-sm pb-6">App Permissions</p>
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-map-marker fa-md text-white"></i></div>
+                                <div className="pr-4">
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-map-marker fa-md text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Location</p>
@@ -89,8 +89,8 @@ class AppPage extends Component {
                                 </div>
                             </div>
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-mobile fa-lg text-white"></i></div>
+                                <div className="pr-4">
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-mobile fa-lg text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Phone</p>
@@ -101,8 +101,8 @@ class AppPage extends Component {
                                 </div>
                             </div>
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-download fa-md text-white"></i></div>
+                                <div className="pr-4">
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-download fa-md text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Storage</p>
@@ -113,8 +113,8 @@ class AppPage extends Component {
                                 </div>
                             </div>
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-microphone fa-md text-white"></i></div>
+                                <div className="pr-4">
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-microphone fa-md text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Microphone</p>
@@ -125,8 +125,8 @@ class AppPage extends Component {
                                 </div>
                             </div>
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-phone fa-md text-white"></i></div>
+                                < div className = "pr-4" >
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-phone fa-md text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Device ID & Call Info</p>
@@ -137,8 +137,8 @@ class AppPage extends Component {
                                 </div>
                             </div>
                             <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div class="pr-4">
-                                    <div class="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-question fa-lg text-white"></i></div>
+                                <div className="pr-4">
+                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-question fa-lg text-white"></i></div>
                                 </div>
                                 <div>
                                     <p className="pb-1 font-medium">Other</p>

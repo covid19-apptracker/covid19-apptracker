@@ -4,8 +4,32 @@ import PlayApp from '../PlayApp.js';
 import NavBar from "../../components/headerComponent/NavBar.js";
 import Footer from "../../components/footerComponent/Footer.js";
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 class HomePage extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      hasRequestedData: false,
+      playAppArray: new Array()
+    }
+  }
+
+  componentDidMount() {
+    this.setState(
+      {
+        playAppArray: this.props.playAppArray
+      }
+    )
+  }
+  componentWillReceiveProps(nextProps) {
+    console.log("made it into will receive props in Homepage")
+    console.log(nextProps.playAppArray);
+    this.setState(
+      {playAppArray: nextProps.playAppArray}
+      );
+  }
+
     render() {
         return (
           <div>
@@ -31,7 +55,7 @@ class HomePage extends Component {
                   Date Updated
                 </div>
               </div>
-              <PlayAppGenerator/>
+              <PlayAppGenerator shareRoutesWithApp={this.props.shareRoutesWithApp} playAppArray={this.state.playAppArray}/>
               {/* <PlayApp />
               <PlayApp />
               <PlayApp />
