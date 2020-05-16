@@ -700,5 +700,68 @@
     "updated_date": "2020-03-26",
     "downloads": "10,000+",
     "country": "IN"
+  },
+  {
+    "id": "co.cellapp.bharatpurcovid",
+    "title": "Bharatpur Metropolitan | COVID-19 Response System",
+    "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
+    "developer_id": "SmartPalika - %E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F %E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%88%E0%A4%9B %E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2!",
+    "updated_date": "2020-04-24",
+    "downloads": "1,000+",
+    "country": "CO"
+  },
+  {
+    "id": "com.bsmart.covid19",
+    "title": "Alerte COVID-19 S\u00e9n\u00e9gal",
+    "icon_url": "https://lh3.googleusercontent.com/0RnuOTgq-PpWo7ES4PInjIbWumTCl-pnqBZ6eRI63LErS4Loi2v6WYOyC51MgtLReA",
+    "developer_id": "5050630332065951284",
+    "updated_date": "2020-03-30",
+    "downloads": "50+",
+    "country": ""
+  },
+  {
+    "id": "com.entrolabs.apcovid19",
+    "title": "COVID-19 Andhra Pradesh",
+    "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
+    "developer_id": "Entro Labs",
+    "updated_date": "2020-05-02",
+    "downloads": "50,000+",
+    "country": ""
+  },
+  {
+    "id": "com.moi.covid19",
+    "title": "EHTERAZ",
+    "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
+    "developer_id": "Ministry Of Interior - Qatar",
+    "updated_date": "2020-05-14",
+    "downloads": "100,000+",
+    "country": "QA"
+  },
+  {
+    "id": "id.jofarsystemskodine.dev",
+    "title": "JS COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/xIMoq2hSHGURmRFY32hA_qWMkLzQMReiSROcrLGBN4acnTVaDGYqESFBO5Pv8gpUDU8",
+    "developer_id": "Jofar Systems Ltd",
+    "updated_date": "2020-04-04",
+    "downloads": "100+",
+    "country": "ID"
+  },
+  {
+    "id": "uk.nhs.nhsx.colocate",
+    "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
+    "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
+    "developer_id": "NHSX",
+    "updated_date": "2020-05-11",
+    "downloads": "10,000+",
+    "country": "UK"
+  },
+  {
+    "id": "www.facetagr.com.cobuddy",
+    "title": "CoBuddy - Covid19 Tool",
+    "icon_url": "https://lh3.googleusercontent.com/nVs2peloeZrLhiN_0CuH_wn8r7Pg-8oQx4TNfBEjc29ak_CDHW9Ay9c2tt9gn8XFRlVc",
+    "developer_id": "FaceTagR",
+    "updated_date": "2020-03-30",
+    "downloads": "10,000+",
+    "country": ""
   }
 ]
