@@ -3,19 +3,19 @@
   "title": "TraceTogether",
   "icon_url": "https://lh3.googleusercontent.com/57tTeRzYTOp-fs4z2sxM6mQ3Li0gC_f-072196o60haILVorVjkoOetA5XXBqirFCAg",
   "developer_id": "Government Technology Agency",
-  "updated_date": "2020-05-02",
+  "updated_date": "2020-05-07",
   "downloads": "500,000+",
   "country": "SG",
   "description": "TraceTogether supports Singapore\u2019s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.\nTraceTogether uses Bluetooth signals to determine if you are near another TraceTogether user. Your Bluetooth proximity data is encrypted and stored only on your phone. The Ministry of Health (MOH) will seek your consent to upload the data, if it\u2019s needed for contact tracing.\nIf you had close contact with a COVID-19 case, TraceTogether allows the MOH call you more quickly, to provide guidance and care.\nTraceTogether helps us protect our loved ones and families so that we do not spread the virus to them unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together.\nTraceTogether's functionality will be suspended after the epidemic subsides.",
   "app_store_url": "https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Location": [
       "Approximate location (network-based)",
@@ -26,11 +26,11 @@
       "View network connections",
       "Full network access",
       "Prevent device from sleeping",
-      "Run at startup",
       "Pair with bluetooth devices",
-      "Access bluetooth settings"
+      "Access bluetooth settings",
+      "Run at startup"
     ]
   },
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
