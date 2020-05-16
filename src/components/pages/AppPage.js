@@ -88,13 +88,13 @@ class AppPage extends Component {
                         <div className="sm:flex pb-12">
                             <div className="flex-1 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
                                 <div className="px-6 py-4">
-                                    <p className="font-bold text-sm">{this.props.country}</p>
+                                    <p className="font-bold text-sm">Origin Country</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                        IN
+                                            {this.props.country}
                                         </p> 
                                     </div> 
-                                    <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p> 
+                                    {/* <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p>  */}
                                 </div>
                             </div>
                             <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
