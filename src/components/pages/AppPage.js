@@ -14,15 +14,12 @@ class AppPage extends Component {
     }
 
     componentDidMount() {
-        console.log("made it into component did mount")
         this.setState({
             description: this.props.description,
             permissions: this.props.permissions
         })
     }
     componentWillReceiveProps(nextProps) {
-        console.log("made it into will receive props test")
-        console.log(nextProps.permissions);
         this.setState({
             description: nextProps.description,
             permissions: nextProps.permissions
@@ -32,8 +29,6 @@ class AppPage extends Component {
     createPermissionsObject = (specifiedPermissions) => {
         if (this.state.permissions != undefined) {
             if(specifiedPermissions in this.state.permissions){
-                console.log('logging permissions:');
-                console.log(this.state.permissions);
                 return (
                     this.state.permissions[specifiedPermissions].map((permission) => 
                     <li> 

@@ -17,13 +17,20 @@ class App extends Component {
     this.state = {
       playAppArray: new Array(),
       hasRequestedData: false,
-      playAppRoutes: new Array()
+      playAppRoutes: new Array(),
+      totalNumberOfApps: 0
     };
   }
 
+  shareTotalAppsNumber = (newNumberOfApps) => {
+    this.setState(
+      { totalNumberOfApps: newNumberOfApps }
+    )
+  }
+
   shareRoutesWithApp = (data) => {
-    console.log("made it into shareRoutes")
-    console.log(data)
+    // console.log("made it into shareRoutes")
+    // console.log(data)
     this.setState({
       playAppRoutes: data
     })
@@ -51,8 +58,8 @@ class App extends Component {
           process.env.PUBLIC_URL + "/apps_data/apps.json"
         );
         const json = await response.json();
-        console.log("logging json...");
-        console.log(json);
+        // console.log("logging json...");
+        // console.log(json);
         await asyncForEach(json, async (appName) => {
           const data = await fetch(
             process.env.PUBLIC_URL +
@@ -108,8 +115,8 @@ class App extends Component {
         />}
         />
         ));
-      console.log("app routes below")
-      console.log(appRoutes)
+      // console.log("app routes below")
+      // console.log(appRoutes)
 
         playApps = await playApps.map((appInfo) =>
           < PlayApp
@@ -149,8 +156,8 @@ class App extends Component {
 
     request();
 
-    console.log("logging play apps from App.js")
-    console.log(playApps)
+    // console.log("logging play apps from App.js")
+    // console.log(playApps)
     return playApps;
   };
 
@@ -165,7 +172,7 @@ class App extends Component {
         <ScrollToTop />
         <div className="App">
           <div>
-            <Route exact path="/" render={props => <HomePage shareRoutesWithApp={this.shareRoutesWithApp} playAppArray={this.state.playAppArray}/>} />
+            <Route exact path="/" render={props => <HomePage shareRoutesWithApp={this.shareRoutesWithApp} playAppArray={this.state.playAppArray} shareTotalAppsNumber={this.shareTotalAppsNumber} totalNumberOfApps={this.state.totalNumberOfApps}/>} />
             <Route exact path="/about" component={AboutPage} />
             {this.state.playAppRoutes}
           </div>

@@ -8,11 +8,11 @@ import {
 
 const geoUrl =
 process.env.PUBLIC_URL +
-"/map_data/world-110m.json";
+"/map_data/geography.json";
 
 const totalAppsURL =
 process.env.PUBLIC_URL +
-"/map_data/total-apps.json";
+"/apps_data/apps_per_country.json";
 
 
 const rounded = num => {
@@ -25,9 +25,46 @@ const rounded = num => {
   }
 };
 
+const setCountryColor = totalApps => {
+  if (totalApps != undefined) {
+    return ({
+      default: {
+        fill: "#a7c2f2",
+        outline: "none"
+      },
+      hover: {
+        fill: "#0066FF",
+        outline: "none"
+      },
+      pressed: {
+        fill: "#0066FF",
+        outline: "none"
+      }
+    });
+  } else {
+    return ({
+      default: {
+        fill: "#D6D6DA",
+        outline: "none"
+      },
+      hover: {
+        fill: "#0066FF",
+        outline: "none"
+      },
+      pressed: {
+        fill: "#0066FF",
+        outline: "none"
+      }
+    });
+  }
+};
+
+
 
 
 const MapChart = ({ setTooltipContent }) => {
+    
+    let totalNumberOfApps = 0;
     // fetch(totalAppsURL)
     //     .then(response => response.json())
     //     .then(data=>console.log("here"+data))
@@ -47,10 +84,24 @@ const MapChart = ({ setTooltipContent }) => {
         fetchData();
     });
 
+
+    // console.log(totalApps);
+
+    Object.values(totalApps).forEach(value => {
+      totalNumberOfApps += value;
+    })
+
   return (
+    <div>
+      <div
+        id="container"
+        className="container w-full content-center items-center justify-center pt-12 lg:mb-8 mb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+      >
+        <h1 className="text-center text-4xl">Currently tracking <span className="text-blue-500">{totalNumberOfApps}</span> COVID-19 apps.</h1>
+      </div>
     <>
-      <ComposableMap data-tip="" projectionConfig={{ scale: 200 }}>
-        <ZoomableGroup>
+      <ComposableMap data-tip="" height={250} projectionConfig={{ scale: 200 }}>
+        <ZoomableGroup center={[0,25]} maxZoom={2}>
           <Geographies geography={geoUrl}>
             {({ geographies }) =>
               geographies.map(geo => (
@@ -58,26 +109,13 @@ const MapChart = ({ setTooltipContent }) => {
                   key={geo.rsmKey}
                   geography={geo}
                   onMouseEnter={() => {
-                    const { NAME, ISO_A2, TOTAL_APPS } = geo.properties;
-                    setTooltipContent(`${NAME} — ${totalApps[ISO_A2]}`);
+                    const { NAME, ISO_A2} = geo.properties;
+                    setTooltipContent(`${NAME} \n — ${totalApps[ISO_A2] != undefined ? totalApps[ISO_A2] : 0}`);
                   }}
                   onMouseLeave={() => {
                     setTooltipContent("");
                   }}
-                  style={{
-                    default: {
-                      fill: "#D6D6DA",
-                      outline: "none"
-                    },
-                    hover: {
-                      fill: "#0066FF",
-                      outline: "none"
-                    },
-                    pressed: {
-                      fill: "#0066FF",
-                      outline: "none"
-                    }
-                  }}
+                  style={setCountryColor(totalApps[geo.properties.ISO_A2])}
                 />
               ))
             }
@@ -85,6 +123,7 @@ const MapChart = ({ setTooltipContent }) => {
         </ZoomableGroup>
       </ComposableMap>
     </>
+    </div>
   );
 };
 

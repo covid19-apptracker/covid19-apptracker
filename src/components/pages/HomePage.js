@@ -1,7 +1,7 @@
 import React, { Component, useState } from 'react';
 import ReactDOM from "react-dom";
 import ReactTooltip from "react-tooltip";
-import MapChart from "../MapChart";
+import MapChart from "../MapChartComponent";
 import logo from '../../img/logo.svg';
 import PlayApp from '../PlayApp.js';
 import NavBar from "../../components/headerComponent/NavBar.js";
@@ -18,6 +18,7 @@ class HomePage extends Component {
       hasRequestedData: false,
       playAppArray: new Array(),
       content:"",
+      totalNumberOfApps:this.props.totalNumberOfApps
       // setContent:this.setState({content:})
     }
   }
@@ -29,15 +30,19 @@ class HomePage extends Component {
       }
     )
   }
+
   componentWillReceiveProps(nextProps) {
-    console.log("made it into will receive props in Homepage")
-    console.log(nextProps.playAppArray);
+    // console.log("made it into will receive props in Homepage")
+    // console.log(nextProps.playAppArray);
     this.setState(
-      {playAppArray: nextProps.playAppArray}
+      {playAppArray: nextProps.playAppArray,
+      totalNumberOfApps: nextProps.totalNumberOfApps}
       );
   }
 
-    updateContent = (newContent) => {
+
+
+    updateMapTooltipContent = (newContent) => {
       this.setState({
         content: newContent
       })
@@ -47,7 +52,7 @@ class HomePage extends Component {
           <div>
             <NavBar />
             <div>
-              <MapChart setTooltipContent={this.updateContent} />
+              <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
               <ReactTooltip>{this.state.content}</ReactTooltip>
             </div>
 
