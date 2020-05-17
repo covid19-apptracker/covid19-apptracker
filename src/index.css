@@ -9,23 +9,27 @@ body {
 
 @media only screen and (min-width: 1024px) {
   .container-fullheight {
-    min-height: calc(100vh - 205px);
+    min-height: calc(100vh - 180.8px);
   }
 }
 
 @media only screen and (min-width: 640px) and (max-width: 1023px) {
   .container-fullheight {
-    min-height: calc(100vh - 237px);
+    min-height: calc(100vh - 212.8px);
   }
 }
 
 @media only screen and (max-width: 639px) {
   .container-fullheight {
-    min-height: calc(100vh - 277px);
+    min-height: calc(100vh - 228.8px);
   }
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.dark-bg-link-hover:hover {
+  color: #d1d1d1;
 }
