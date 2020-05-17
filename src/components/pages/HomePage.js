@@ -1,4 +1,7 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
+import ReactDOM from "react-dom";
+import ReactTooltip from "react-tooltip";
+import MapChart from "../MapChartComponent";
 import logo from '../../img/logo.svg';
 import PlayApp from '../PlayApp.js';
 import NavBar from "../../components/headerComponent/NavBar.js";
@@ -7,11 +10,16 @@ import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator
 import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 class HomePage extends Component {
+  // const [content, setContent] = useState("");
+
   constructor(props) {
     super(props);
     this.state = {
       hasRequestedData: false,
-      playAppArray: new Array()
+      playAppArray: new Array(),
+      content:"",
+      totalNumberOfApps:this.props.totalNumberOfApps
+      // setContent:this.setState({content:})
     }
   }
 
@@ -22,23 +30,32 @@ class HomePage extends Component {
       }
     )
   }
+
   componentWillReceiveProps(nextProps) {
-    console.log("made it into will receive props in Homepage")
-    console.log(nextProps.playAppArray);
+    // console.log("made it into will receive props in Homepage")
+    // console.log(nextProps.playAppArray);
     this.setState(
-      {playAppArray: nextProps.playAppArray}
+      {playAppArray: nextProps.playAppArray,
+      totalNumberOfApps: nextProps.totalNumberOfApps}
       );
   }
 
+
+
+    updateMapTooltipContent = (newContent) => {
+      this.setState({
+        content: newContent
+      })
+    }
     render() {
         return (
           <div>
             <NavBar />
-            <div className="App-header">
-              <img src={logo} className="App-logo" alt="logo" />
-              <br></br>
-              <p>Map will go here!</p>
+            <div>
+              <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
+              <ReactTooltip>{this.state.content}</ReactTooltip>
             </div>
+
             <div
               id="container"
               className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"

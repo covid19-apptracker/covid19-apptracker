@@ -31,14 +31,14 @@ class PlayAppGenerator extends Component {
     // }
 
     componentDidMount() {
-        console.log("made it into component did mount")
+        // console.log("made it into component did mount")
         this.setState({
             testArray: this.props.playAppArray
         })
     }
     componentWillReceiveProps(nextProps) {
-        console.log("made it into will receive props test")
-        console.log(nextProps.playAppArray);
+        // console.log("made it into will receive props test")
+        // console.log(nextProps.playAppArray);
         this.setState({
             testArray: nextProps.playAppArray
         });
@@ -158,9 +158,9 @@ class PlayAppGenerator extends Component {
         //     }
         // }
         
-        if (this.state.testArray != 0) {
-            console.log("inside check in Play App generator for props")
-            console.log(this.state.testArray);
+        if (this.state.testArray !== 0) {
+            // console.log("inside check in Play App generator for props")
+            // console.log(this.state.testArray);
             return (
                 <div>
                     {this.state.testArray}
