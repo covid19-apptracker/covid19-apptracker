@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
   "developer_id": "SmartPalika - %E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F %E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%88%E0%A4%9B %E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2!",
   "updated_date": "2020-04-27",
-  "downloads": "10+",
+  "downloads": "100+",
   "country": "CO",
   "description": "This Application Contains:\n- Official Information and Communication Channels\n- Tracking and Emergency Response Systems\n- COVID-19 Quarantine Management and Reports\nThis System is Jointly Developed by SmartPalika, Cellapp Innovations and Rakshya.",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bardghatcovid19",
@@ -34,6 +34,7 @@
       "Prevent device from sleeping"
     ]
   },
+  "developer_url": "https://bardghatmun.gov.np",
   "available": true,
-  "first_time_seen": "2020-05-13"
+  "first_time_seen": "2020-05-17"
 }
