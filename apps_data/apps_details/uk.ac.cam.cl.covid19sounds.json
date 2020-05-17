@@ -1,0 +1,39 @@
+{
+  "id": "uk.ac.cam.cl.covid19sounds",
+  "title": "COVID-19 Sounds",
+  "icon_url": "https://lh3.googleusercontent.com/eD1KAaXlM8e4YGbH_GeebDYAmQJ8UFEFJ8kFzFUNXfRaLYGVnHa23E3Bvp7w9ctdRx2E",
+  "developer_id": "cam-cl-mobile-systems",
+  "updated_date": "2020-05-13",
+  "downloads": "1,000+",
+  "country": "CL",
+  "description": "This app is part of a research project at the University of Cambridge. The aim of this research is to develop machine learning algorithms to automatically detect if a person is suffering of COVID-19, based primarily on sounds of their voice, their breathing and coughing. In order to enable this research we are launching a large scale, crowdsourced data collection through a mobile app. The app will collect some basic demographics and medical history data, as well as some voice samples (while you read text on the screen) through a questionnaire and a few seconds of breathing and coughing through the phone microphone. We will additionally collect one location sample. The app will also ask if you have tested positive for the virus. The app won't be tracking you and only collect this data when you actively interact with it. The data will be stored on University servers and be used solely for research purposes. We hope to release the dataset we are collecting to other researchers after the initial analysis. The app will not give medical advice and any reports of symptoms will not be responded to by medical assistance. This app is available in English, Spanish, French, German, Hindi, Greek, Portuguese, Russian, Italian, and Chinese.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=uk.ac.cam.cl.covid19sounds",
+  "permissions": {
+    "Microphone": [
+      "Record audio"
+    ],
+    "Identity": [
+      "Find accounts on the device"
+    ],
+    "Contacts": [
+      "Find accounts on the device"
+    ],
+    "Location": [
+      "Approximate location (network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Other": [
+      "Read sync statistics",
+      "View network connections",
+      "Create accounts and set passwords",
+      "Full network access",
+      "Read sync settings",
+      "Toggle sync on and off"
+    ]
+  },
+  "developer_url": "http://covid-19-sounds.org",
+  "available": true,
+  "first_time_seen": "2020-05-13"
+}
