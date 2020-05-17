@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
   "developer_id": "SmartPalika - %E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F %E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%88%E0%A4%9B %E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2!",
   "updated_date": "2020-04-24",
-  "downloads": "1,000+",
+  "downloads": "5,000+",
   "country": "CO",
   "description": "This Application Contains:\n- Official Information and Communication Channels\n- Tracking and Emergency Response Systems\n- COVID-19 Quarantine Management and Reports",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bharatpurcovid",
@@ -38,6 +38,7 @@
       "Toggle sync on and off"
     ]
   },
+  "developer_url": "http://bharatpurmun.gov.np%20",
   "available": true,
-  "first_time_seen": "2020-05-13"
+  "first_time_seen": "2020-05-17"
 }
