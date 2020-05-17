@@ -24,7 +24,7 @@
     "developer_id": "Twenty Inc.",
     "updated_date": "2020-05-15",
     "downloads": "10,000+",
-    "country": "CO"
+    "country": "US"
   },
   {
     "id": "co.gov.ins.guardianes",
@@ -159,7 +159,7 @@
     "developer_id": "Generalitat de Catalunya",
     "updated_date": "2020-04-02",
     "downloads": "500,000+",
-    "country": ""
+    "country": "ES"
   },
   {
     "id": "tracker.healthcare.sentinel",
@@ -168,7 +168,7 @@
     "developer_id": "Sentinel Healthcare",
     "updated_date": "2020-04-23",
     "downloads": "500+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.patientmpower.covid19.usa",
@@ -186,7 +186,7 @@
     "developer_id": "ProudCrowd, LLC",
     "updated_date": "2020-05-08",
     "downloads": "10,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.pixxonai.covid19wb",
@@ -204,7 +204,7 @@
     "developer_id": "Kencor health",
     "updated_date": "2020-04-22",
     "downloads": "10+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.spotteron.coronareport",
@@ -213,7 +213,7 @@
     "developer_id": "SPOTTERON",
     "updated_date": "2020-04-11",
     "downloads": "500+",
-    "country": ""
+    "country": "UK"
   },
   {
     "id": "com.virustracker.app",
@@ -222,7 +222,7 @@
     "developer_id": "Binary Mango",
     "updated_date": "2020-03-10",
     "downloads": "100+",
-    "country": ""
+    "country": "UK"
   },
   {
     "id": "mx.gob.www",
@@ -267,7 +267,7 @@
     "developer_id": "ET Wing, Govt of Telangana",
     "updated_date": "2020-04-14",
     "downloads": "50,000+",
-    "country": ""
+    "country": "IN"
   },
   {
     "id": "com.iclick.covidnew",
@@ -294,7 +294,7 @@
     "developer_id": "C%E1%BB%A5c Tin h%E1%BB%8Dc h%C3%B3a, B%E1%BB%99 Th%C3%B4ng tin v%C3%A0 Truy%E1%BB%81n th%C3%B4ng",
     "updated_date": "2020-04-21",
     "downloads": "1,000,000+",
-    "country": ""
+    "country": "VN"
   },
   {
     "id": "ca.gc.hcsc.canada.covid19",
@@ -357,7 +357,7 @@
     "developer_id": "8818240120731662306",
     "updated_date": "2020-04-02",
     "downloads": "10,000+",
-    "country": ""
+    "country": "NP"
   },
   {
     "id": "nic.goi.aarogyasetu",
@@ -393,7 +393,7 @@
     "developer_id": "AllSoft Consulting",
     "updated_date": "2020-05-11",
     "downloads": "500,000+",
-    "country": ""
+    "country": "IN"
   },
   {
     "id": "com.cspire.telehealth",
@@ -402,7 +402,7 @@
     "developer_id": "C Spire",
     "updated_date": "2020-05-13",
     "downloads": "10,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "br.gov.datasus.guardioes",
@@ -438,7 +438,7 @@
     "developer_id": "ClUrb",
     "updated_date": "2020-05-01",
     "downloads": "100+",
-    "country": ""
+    "country": "CV"
   },
   {
     "id": "sa.gov.nic.tawakkalna",
@@ -465,7 +465,7 @@
     "developer_id": "Vincent Harding - UCL Health Creatives",
     "updated_date": "2020-04-30",
     "downloads": "100+",
-    "country": "CO"
+    "country": "UK"
   },
   {
     "id": "com.ada.app",
@@ -501,7 +501,7 @@
     "developer_id": "India Health Action Trust",
     "updated_date": "2020-04-26",
     "downloads": "50,000+",
-    "country": ""
+    "country": "IN"
   },
   {
     "id": "com.entrolabs.pharmacyap",
@@ -717,7 +717,7 @@
     "developer_id": "5050630332065951284",
     "updated_date": "2020-03-30",
     "downloads": "50+",
-    "country": ""
+    "country": "SN"
   },
   {
     "id": "com.entrolabs.apcovid19",
@@ -726,7 +726,7 @@
     "developer_id": "Entro Labs",
     "updated_date": "2020-05-02",
     "downloads": "50,000+",
-    "country": ""
+    "country": "IN"
   },
   {
     "id": "com.moi.covid19",
