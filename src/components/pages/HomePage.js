@@ -51,6 +51,12 @@ class HomePage extends Component {
         return (
           <div>
             {/* <NavBar /> */}
+            <div
+              id="container"
+              className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+            >
+              <h1 className="mt-20 text-center font-bold text-4xl lg:text-5xl">Learn more about the <span style={{color: "#0066FF"}}>{this.state.totalNumberOfApps}</span> COVID-19 apps around the world.</h1>
+            </div>
             <div>
               <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
               <ReactTooltip>{this.state.content}</ReactTooltip>

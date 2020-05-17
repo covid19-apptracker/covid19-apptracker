@@ -142,9 +142,8 @@ class MapChartComponent extends Component {
             <div>
                 <div
                     id="container"
-                    className="container w-full content-center items-center justify-center pt-12 lg:mb-8 mb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
-                >
-                    <h1 className="text-center text-4xl">Currently tracking <span className="text-blue-500">{this.state.totalNumberOfApps}</span> COVID-19 apps.</h1>
+                    className="container w-full content-center items-center justify-center pt-12 lg:mb-8 mb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto">
+                    {/* <h1 className="text-center text-4xl">Currently tracking <span className="text-blue-500">{this.state.totalNumberOfApps}</span> COVID-19 apps.</h1> */}
                 </div>
                 <ComposableMap data-tip="" height={250} projectionConfig={{ scale: 150 }}>
                     <ZoomableGroup center={[0,10]} maxZoom={2}>
