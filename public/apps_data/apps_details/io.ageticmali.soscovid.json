@@ -44,6 +44,7 @@
       "Read google service configuration"
     ]
   },
+  "developer_url": "https://agetic.gouv.ml",
   "available": true,
   "first_time_seen": "2020-05-10"
 }
