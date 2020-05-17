@@ -27,20 +27,21 @@
       "Take pictures and videos"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "Run at startup",
-      "Prevent device from sleeping",
-      "View network connections",
-      "Change network connectivity",
       "Control vibration",
       "Read google service configuration",
-      "Full network access"
+      "Full network access",
+      "Change network connectivity",
+      "View network connections",
+      "Prevent device from sleeping",
+      "Run at startup"
     ]
   },
+  "developer_url": "http://coronavirus.uy",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
