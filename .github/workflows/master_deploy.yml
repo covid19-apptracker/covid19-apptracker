@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [8.x, 10.x, 12.x]
+        node-version: [12.x]
     steps:
       - uses: actions/checkout@v1
       - name: Use Node.js ${{ matrix.node-version }}
@@ -24,5 +24,7 @@ jobs:
           git config --global user.name "MasterDeployCI"
           git remote set-url origin https://cccc374597dd5aa0978eb5769a4ab93fe9d73411@github.com/family-hackathon/covid19-apptracker.git
           npm run deploy
+        env:
+          CI: ""
       - name: Updating Domain
         run: echo "Update domain"
