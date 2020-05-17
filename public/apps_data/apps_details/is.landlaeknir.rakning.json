@@ -10,12 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=is.landlaeknir.rakning",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Phone": [
       "Read phone status and identity"
@@ -24,23 +24,24 @@
       "Read phone status and identity"
     ],
     "Location": [
-      "Approximate location (network-based)",
+      "Access extra location provider commands",
       "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
       "Run at startup",
+      "View network connections",
+      "Read sync settings",
+      "Full network access",
+      "Read google service configuration",
+      "Prevent device from sleeping",
       "Toggle sync on and off",
       "Draw over other apps",
-      "Create accounts and set passwords",
-      "Prevent device from sleeping",
-      "Read sync settings",
-      "View network connections",
-      "Read google service configuration",
-      "Full network access"
+      "Create accounts and set passwords"
     ]
   },
+  "developer_url": "http://covid.is",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
