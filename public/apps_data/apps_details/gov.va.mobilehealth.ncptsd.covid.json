@@ -2,7 +2,7 @@
   "id": "gov.va.mobilehealth.ncptsd.covid",
   "title": "COVID Coach",
   "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
-  "developer_id": "US Department of Veterans Affairs %28VA%29",
+  "developer_id": "US Department of Veterans Affairs (VA)",
   "updated_date": "2020-05-06",
   "downloads": "5,000+",
   "country": "VA",
@@ -10,15 +10,15 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Contacts": [
       "Read your contacts"
@@ -31,10 +31,10 @@
     ],
     "Other": [
       "View network connections",
-      "Full network access",
       "Prevent device from sleeping",
-      "Google play license check",
-      "Run at startup"
+      "Full network access",
+      "Run at startup",
+      "Google play license check"
     ]
   },
   "developer_url": "https://www.ptsd.va.gov/appvid/mobile/",
