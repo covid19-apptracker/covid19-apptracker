@@ -10,26 +10,27 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.fema.mobile.android",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "View network connections",
       "Full network access",
       "Prevent device from sleeping",
-      "Run at startup",
-      "Control vibration"
+      "Control vibration",
+      "View network connections",
+      "Run at startup"
     ]
   },
+  "developer_url": "http://www.fema.gov",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
