@@ -20,11 +20,12 @@
     "Other": [
       "Receive data from internet",
       "View network connections",
+      "Run at startup",
       "Full network access",
-      "Prevent device from sleeping",
-      "Run at startup"
+      "Prevent device from sleeping"
     ]
   },
+  "developer_url": "https://coronapp.gob.cl",
   "available": true,
-  "first_time_seen": "2020-05-14"
+  "first_time_seen": "2020-05-17"
 }
