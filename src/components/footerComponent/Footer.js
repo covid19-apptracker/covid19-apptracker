@@ -7,7 +7,7 @@ class Footer extends Component {
 
     render() {
         return (
-            <footer className="w-full bg-black absolute bottom-0">
+            <footer className="w-full bg-black bottom-0"> //Need help on getting this to the bottom of the page and after the content for all pages.
                 <div className="container max-w-screen-md mx-auto py-8 text-sm font-medium text-white p-6 sm:py-6 lg:px-0">
                     <div className="flex flex-col items-center justify-center lg:flex-row lg:justify-between">
                         <div className="flex content-center pb-4 sm:pb-0">
