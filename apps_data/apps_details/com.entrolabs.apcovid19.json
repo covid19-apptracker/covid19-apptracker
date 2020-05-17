@@ -1,0 +1,43 @@
+{
+  "id": "com.entrolabs.apcovid19",
+  "title": "COVID-19 Andhra Pradesh",
+  "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
+  "developer_id": "Entro Labs",
+  "updated_date": "2020-05-02",
+  "downloads": "50,000+",
+  "country": "",
+  "description": "\u201cCOVID 19 Andhra Pradesh\u201d is a mobile application developed by the Department of Health, Medical & Family Welfare Department, Government of Andhra Pradesh. This will enable citizens to connect with all essential health services in the fight against COVID 19. The application is aimed at removing physical barriers resulting in the speed of access and delivery of services to the citizens of Andhra Pradesh. The application also aims to reach out to the citizens with information regarding the status of their District/Mandal/Village, do\u2019s and don\u2019ts, announcements, and media bulletins. Download this app now to have all information on your fingertips",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.entrolabs.apcovid19",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Directly call phone numbers",
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  },
+  "available": true,
+  "first_time_seen": "2020-05-13"
+}

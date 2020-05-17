@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
   "developer_id": "ET Wing, Govt of Telangana",
   "updated_date": "2020-04-14",
-  "downloads": "10,000+",
+  "downloads": "50,000+",
   "country": "",
   "description": "T COVID`19 Telangana (Corona Virus Alert) App has been developed by Government of Telangana to provide citizens with preventive care information and other government advisories. The app has following main sections for citizens:\n1. Government Hospitals with Isolation Wards\n2. Prevention and Precautions\n3. Private Hospitals with Isolation Wards\n4. Approved Labs and Test Centers\n5. Helpline Numbers\n6. Tele Medicine\n7. Government Announcements\n8.Essential services\n9.Contribution.\nYou will receive updates from government, advisories and instructions from time to time via PUSH notification on the App.\nThis App will provide quick information and help to you. You should definitely visit nearest hospital / doctor in-case you develop novel corona virus symptoms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.tsstate.citizen",
@@ -54,5 +54,5 @@
     ]
   },
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
