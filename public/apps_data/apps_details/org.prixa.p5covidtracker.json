@@ -1,0 +1,29 @@
+{
+  "id": "org.prixa.p5covidtracker",
+  "title": "Province 5 COVID-19 Tracker",
+  "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
+  "developer_id": "8818240120731662306",
+  "updated_date": "2020-04-02",
+  "downloads": "10,000+",
+  "country": "NP",
+  "description": "Join thousands of people supporting health personnel of Province-5 help fight Novel Coronavirus by identifying: * How fast the virus is spreading in your area * High-risk areas in the Province-5 * Who is most at risk, by better understanding symptoms linked to underlying health conditions You will contribute to advance research on COVID-19 in partnership with leading health researchers nationally. This app allows you to help others, but does not give health advice. If you need health advice please call the nearby hospital. If you would like to help out in this difficult time, then you can. Download the app and share daily your own status, even if you are well. With your help we can understand much better the situation across the nation, how the disease presents itself to different people, and how it progresses. This is a new virus which the world has never seen before. There are a wide range of symptoms, which differ between people. With your help we can understand better how the disease presents itself depending upon individual factors such as health and age. No information you share will be used for commercial purposes. There are four parts to the app: HEALTH INFORMATION You will be asked to share some general information, such as your age and some health details, such as whether you have certain diseases. SYMPTOM TRACKING We will ask you every day to let us know how you feel, so you can share your symptoms. We will also ask whether you have visited the hospital, what treatment you received there, and whether you have been tested for COVID-19 (Coronavirus) HOSPITAL INFORMATION Nearby hospital information like contact number and quarantine bed capacity will be shown in the app. LATEST NEWS INFORMATION Latest news from kha.bar instant news article about COVID-19 will be displayed in the application.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=org.prixa.p5covidtracker",
+  "permissions": {
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  },
+  "developer_url": "https://prixatech.com/pradesh-5-covid-19-tracker-privacy-policy",
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
