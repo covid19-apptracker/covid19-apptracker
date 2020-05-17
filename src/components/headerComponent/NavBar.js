@@ -24,7 +24,9 @@ class NavBar extends Component{
         <div className="top-0 sticky bg-white z-10 shadow-md">
             < nav className = "container max-w-screen-md mx-auto flex items-center justify-between flex-wrap bg-white p-6 sm:py-6 lg:px-0" >
                 < div className = "flex items-center flex-shrink-0 text-black mr-6" >
-                    <img className="fill-current h-8 w-8 mr-2 transition-all duration-300 ease-in-out transform hover:scale-125" width="54" height="54" src={logo} />
+                    <Link to ="/">
+                        <img className="fill-current h-8 w-8 mr-2 transition-all duration-300 ease-in-out transform hover:scale-125" width="54" height="54" src={logo} alt="COVID-19 App Tracker Icon" />
+                    </Link>
                 </ div>
                 <div className="block sm:hidden"> 
                     <button onClick={this.boxClick} id="my-nav-menu" className="flex items-center px-3 py-2 border rounded text-black border-black hover:bg-black hover:text-white hover:border-black">
