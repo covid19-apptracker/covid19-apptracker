@@ -12,19 +12,20 @@
     "Photos/Media/Files": [
       "Read the contents of your usb storage"
     ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
     "Storage": [
       "Read the contents of your usb storage"
     ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
     "Other": [
       "Receive data from internet",
-      "View network connections",
+      "Prevent device from sleeping",
       "Full network access",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
+  "developer_url": "https://covid19.gov.am/hy",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-17"
 }
