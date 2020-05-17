@@ -14,11 +14,11 @@ class ContactPage extends Component {
                         <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>Home</Link>{' '} / <span>Contact Us</span>
                     </div>
                     <h1 className="text-3xl pb-8">
-                        Get A Hold Of Us
+                        Get In Touch
                     </h1>
                     <div className="text-base">
                             <p className="pb-12">
-                            For any additional information on the data sets, how we are scraping data, or if you'd like to chat, please visit our <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="https://github.com/family-hackathon/covid19-apptracker" target="_blank">GitHub repository</a> or drop us a line at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a>.
+                            For any additional information on the data sets, how we are scraping data, or if you'd like to chat, drop us a line at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a>.
                             </p>
                     </div>
                     <hr className="border-black pb-12" width="32px"/> 
