@@ -12,28 +12,29 @@
     "Contacts": [
       "Read your contacts"
     ],
-    "Phone": [
-      "Read phone status and identity",
-      "Directly call phone numbers"
-    ],
     "Device ID & call information": [
       "Read phone status and identity"
     ],
+    "Phone": [
+      "Directly call phone numbers",
+      "Read phone status and identity"
+    ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "View network connections",
-      "Prevent device from sleeping",
-      "Run at startup",
       "Access bluetooth settings",
-      "Pair with bluetooth devices",
       "Full network access",
-      "Set an alarm"
+      "Set an alarm",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Run at startup"
     ]
   },
+  "developer_url": "http://www.ins.gov.co",
   "available": true,
-  "first_time_seen": "2020-05-16"
+  "first_time_seen": "2020-05-17"
 }
