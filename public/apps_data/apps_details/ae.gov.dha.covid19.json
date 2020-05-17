@@ -31,22 +31,23 @@
       "Take pictures and videos"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "Full network access",
-      "Change your audio settings",
-      "Control vibration",
-      "View network connections",
+      "Draw over other apps",
       "Prevent device from sleeping",
       "Pair with bluetooth devices",
+      "View network connections",
       "Access bluetooth settings",
       "Run at startup",
-      "Draw over other apps"
+      "Full network access",
+      "Control vibration",
+      "Change your audio settings"
     ]
   },
+  "developer_url": "http://www.dha.gov.ae",
   "available": true,
-  "first_time_seen": "2020-05-16"
+  "first_time_seen": "2020-05-17"
 }
