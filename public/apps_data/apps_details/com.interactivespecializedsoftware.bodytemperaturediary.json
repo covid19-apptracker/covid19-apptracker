@@ -1,0 +1,35 @@
+{
+  "id": "com.interactivespecializedsoftware.bodytemperaturediary",
+  "title": "Body Temperature Diary",
+  "icon_url": "https://lh3.googleusercontent.com/4sX3DGAfwimecPI-cmKMksKa1Z2xDOc5fp3vjxfvEeIwUm8UmFWVaetOU5JcmsmHaCI",
+  "developer_id": "Interactive Specialized Software",
+  "updated_date": "2019-03-15",
+  "downloads": "1,000,000+",
+  "country": "",
+  "description": "This extensive Body Temperature Diary provides you all functions you need to record, track and analyze your body temperature and pulse.\nSince this data is very sensitive, we offer you a high level of data protection. Therefore, your health data is stored only where it belongs: on your device!\nKey features:\n- Offline Modus (You don't need an internet connection)\n- High level data protection\n- A beautiful design ensures your daily well-being in the app\n- Quick and easy capture of your body temperature and pulse data\n- Add notes or tags to your data (for example: feeling ill, forgotten to take medications)\n- A great and clear diary for your body temperature and pulse\n- Extensive diagrams and statistics to track your data over long periods of time\n- Add events to your calendar and be reminded of them\n- Export your data as a CSV-File\n- Much information about different body temperature values\n- No registration needed\nStart your personal and free Body Temperature Diary now!\nDisclaimer:\nThis app is created to provide you a great diary for your body temperature and pulse and does not measure your body temperature and pulse. All result values are random generated!",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.interactivespecializedsoftware.bodytemperaturediary",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Calendar": [
+      "Add or modify calendar events and send email to guests without owners' knowledge"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Other": [
+      "View network connections",
+      "Full network access",
+      "Control vibration"
+    ]
+  },
+  "developer_url": "http://130.255.77.192/policy/",
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
