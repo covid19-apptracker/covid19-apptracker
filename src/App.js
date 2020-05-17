@@ -5,7 +5,11 @@ import ScrollToTop from './components/helperComponents/ScrollToTop';
 
 import HomePage from './components/pages/HomePage.js';
 import AboutPage from './components/pages/AboutPage.js';
-import AppPage from './components/pages/AppPage';
+import AppPage from './components/pages/AppPage.js';
+import ContactPage from './components/pages/ContactPage.js'
+
+import NavBar from "./components/headerComponent/NavBar.js";
+import Footer from "./components/footerComponent/Footer.js";
 
 import PlayApp from './components/PlayApp.js';
 
@@ -17,6 +21,7 @@ class App extends Component {
     this.state = {
       playAppArray: new Array(),
       hasRequestedData: false,
+      processedData: new Array(),
       playAppRoutes: new Array(),
       totalNumberOfApps: 0
     };
@@ -69,6 +74,11 @@ class App extends Component {
           );
           const appDetails = await data.json();
           playApps.push(appDetails);
+          this.setState(
+            {
+              processedData: playApps
+            }
+          )
         });
 
         appRoutes = await playApps.map((appInfo) => ( 
@@ -169,14 +179,63 @@ class App extends Component {
     }
     return (
       <Router basename="">
+        <NavBar />
         <ScrollToTop />
-        <div className="App">
+        <div className="App container-fullheight">
           <div>
-            <Route exact path="/" render={props => <HomePage shareRoutesWithApp={this.shareRoutesWithApp} playAppArray={this.state.playAppArray} shareTotalAppsNumber={this.shareTotalAppsNumber} totalNumberOfApps={this.state.totalNumberOfApps}/>} />
+            <Route
+              exact
+              path="/"
+              render={(props) => (
+                <HomePage
+                  shareRoutesWithApp={this.shareRoutesWithApp}
+                  playAppArray={this.state.processedData.map((appInfo) => (
+                    <PlayApp
+                      key={appInfo.id}
+                      id={appInfo.id}
+                      title={appInfo.title}
+                      iconURL={appInfo.icon_url}
+                      developer={decodeURIComponent(
+                        appInfo.developer_id.replace(/\+/g, " ")
+                      )}
+                      downloads={appInfo.downloads}
+                      updatedDate={appInfo.updated_date}
+                    />
+                  ))}
+                  shareTotalAppsNumber={this.shareTotalAppsNumber}
+                  totalNumberOfApps={this.state.totalNumberOfApps}
+                />
+              )}
+            />
             <Route exact path="/about" component={AboutPage} />
-            {this.state.playAppRoutes}
+            <Route exact path="/contact" component={ContactPage} />
+            {this.state.processedData.map((appInfo) => (
+              <Route
+                exact
+                path={"/app/" + appInfo.id}
+                render={(props) => (
+                  <AppPage
+                    {...props}
+                    key={appInfo.id}
+                    id={appInfo.id}
+                    title={appInfo.title}
+                    iconURL={appInfo.icon_url}
+                    developer={decodeURIComponent(
+                      appInfo.developer_id.replace(/\+/g, " ")
+                    )}
+                    downloads={appInfo.downloads}
+                    updatedDate={appInfo.updated_date}
+                    country={appInfo.country}
+                    permissions={appInfo.permissions}
+                    description={appInfo.description}
+                    appStoreURL={appInfo.app_store_url}
+                  />
+                )}
+              />
+            ))}
           </div>
         </div>
+        <Footer />
       </Router>
     );
   }

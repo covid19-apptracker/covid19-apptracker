@@ -34,12 +34,16 @@ class NavBar extends Component{
                 < div className = "w-full float-right sm:flex sm:items-center sm:w-auto sm:block" >
                     <div id="myLinks" className={this.state.showing}>
                        < NavLink exact to = "/" activeStyle={{color: "#000000"}}
-                       className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform hover:-translate-y-1 font-medium active:text-indigo-500" >
+                       className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
                             Home
                         </NavLink>
                         < NavLink exact to = "/about" activeStyle={{color: "#000000"}}
-                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
+                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
                             About
+                        </NavLink>
+                        < NavLink exact to = "/contact" activeStyle={{color: "#000000"}}
+                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
+                            Contact
                         </NavLink>
                     </div>
                 </div>

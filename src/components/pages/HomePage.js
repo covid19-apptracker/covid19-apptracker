@@ -50,7 +50,7 @@ class HomePage extends Component {
     render() {
         return (
           <div>
-            <NavBar />
+            {/* <NavBar /> */}
             <div>
               <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
               <ReactTooltip>{this.state.content}</ReactTooltip>
@@ -81,7 +81,7 @@ class HomePage extends Component {
               <PlayApp />
               <PlayApp /> */}
             </div>
-            <Footer />
+            {/* <Footer /> */}
           </div>
         );
     }

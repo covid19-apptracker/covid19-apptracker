@@ -129,7 +129,7 @@ class MapChartComponent extends Component {
         // console.log("made it into will receive props in Homepage")
         // console.log(nextProps.playAppArray);
         this.setState({
-            totalNumberOfApps: nextProps.totalNumberOfApps
+            totalNumberOfApps: nextProps.totalNumberOfApps,
         });
     }
     
@@ -146,8 +146,8 @@ class MapChartComponent extends Component {
                 >
                     <h1 className="text-center text-4xl">Currently tracking <span className="text-blue-500">{this.state.totalNumberOfApps}</span> COVID-19 apps.</h1>
                 </div>
-                <ComposableMap data-tip="" height={250} projectionConfig={{ scale: 200 }}>
-                    <ZoomableGroup center={[0,25]} maxZoom={2}>
+                <ComposableMap data-tip="" height={250} projectionConfig={{ scale: 150 }}>
+                    <ZoomableGroup center={[0,10]} maxZoom={2}>
                     <Geographies geography={geoUrl}>
                         {({ geographies }) =>
                         geographies.map(geo => (
@@ -156,7 +156,7 @@ class MapChartComponent extends Component {
                             geography={geo}
                             onMouseEnter={() => {
                                 const { NAME, ISO_A2} = geo.properties;
-                                this.props.setTooltipContent(`${NAME} \n — ${this.state.totalApps[ISO_A2] != undefined ? this.state.totalApps[ISO_A2] : 0}`);
+                                this.props.setTooltipContent(`${NAME} \n — ${this.state.totalApps[ISO_A2] != undefined ? this.state.totalApps[ISO_A2] : 0} apps`);
                             }}
                             onMouseLeave={() => {
                                 this.props.setTooltipContent("");
