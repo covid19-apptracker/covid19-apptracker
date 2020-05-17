@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/PAF7-ptxx91SgPq7aHNCaQN-vsGSsyfX_EnbhU4qPyedLCrcaKjNxsAyZ8L4uj1-wmk",
   "developer_id": "Department of Health - Abu Dhabi",
   "updated_date": "2020-04-13",
-  "downloads": "50,000+",
+  "downloads": "100,000+",
   "country": "AE",
   "description": "TraceCovid is a mobile app that allows users to detect another device with the same installed app and share proximity data with it. For example, when you are at a supermarket, upon close proximity with someone who has also installed the TraceCovid app as you do, the app on both your devices will exchange an encrypted Secure Tracing Identifier (STI) and store the exchanged STI locally on your devices. The STI consists of anonymised data and timestamp. No personally identifiable information is collected.\nWhen one of the users is infected with the virus, the official authorities will request the infected user to upload the list of STI stored locally on his or her device. This enables the official authorities to react faster and reach out to possibly infected people to render the necessary health care, and potentially minimise the spread of the virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ae.tracecovid.app",
@@ -29,6 +29,7 @@
       "Prevent device from sleeping"
     ]
   },
+  "developer_url": "https://tracecovid.ae/",
   "available": true,
-  "first_time_seen": "2020-05-13"
+  "first_time_seen": "2020-05-17"
 }
