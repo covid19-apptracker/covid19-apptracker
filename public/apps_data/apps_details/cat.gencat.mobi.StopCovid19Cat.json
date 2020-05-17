@@ -6,16 +6,16 @@
   "updated_date": "2020-04-02",
   "downloads": "500,000+",
   "country": "ES",
-  "description": "STOP COVID19 CAT is a /Salut mobile application with a double objective:\n1. Respond to the information needs of citizens in relation to COVID-19, through a questionnaire that indicates whether they have the possibility of having COVID.\n2. Collect population data to be able to create heat maps for the authorities.",
+  "description": "STOP COVID19 CAT is a /Salut mobile application with a double objective: 1. Respond to the information needs of citizens in relation to COVID-19, through a questionnaire that indicates whether they have the possibility of having COVID. 2. Collect population data to be able to create heat maps for the authorities.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Device ID & call information": [
       "Read phone status and identity"
@@ -24,15 +24,15 @@
       "Read phone status and identity"
     ],
     "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
       "View network connections",
-      "Control vibration",
-      "Prevent device from sleeping",
       "Full network access",
+      "Prevent device from sleeping",
+      "Control vibration",
       "Run at startup"
     ]
   },
