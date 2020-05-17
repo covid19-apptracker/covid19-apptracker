@@ -1,0 +1,35 @@
+{
+  "id": "com.ada.app",
+  "title": "Ada \u2013 your health companion",
+  "icon_url": "https://lh3.googleusercontent.com/nrZjgITchOX_fQwykerw8eflueGYxVkhJPjeC8Kot_MFSLEhf6TmmaHRj0I_21eXigg",
+  "developer_id": "Ada Health",
+  "updated_date": "2020-05-12",
+  "downloads": "5,000,000+",
+  "country": "",
+  "description": "Ada helps you and your loved ones check symptoms and discover what might be causing them \u2013 day or night without an appointment.\nWhatever\u2019s bothering you, from stomach problems to pregnancy concerns, Ada can help you find answers and let you know if you should see a doctor.\nDeveloped by doctors and scientists, our app is trustworthy, fast, and available when and where you need a health check.\n*A recently added condition, COVID-19 \u2013 the disease caused by the novel coronavirus (SARS-CoV-2) \u2013 which can now be assessed with Ada.*\nHow does it work?\nYou answer simple questions about your own or someone else\u2019s health and symptoms.\nAda\u2019s AI assesses your answers against its medical dictionary of thousands of disorders and conditions.\nYou receive a personalized assessment report that tells you what could be wrong and what to do next.\nWhat can you expect?\n- Data privacy and security \u2013 we apply the strictest data regulations to protect you and keep your information private.\n- Smart results \u2013 our core system connects medical knowledge with intelligent technology.\n- Personalized health information \u2013 your guidance is personal to your unique profile.\n- Assessments for loved ones \u2013 if you assess someone else, their information stays separate from your own.\n- Health checks \u2013 your assessments include information that may be relevant and helpful to your doctor.\n- 24/7 access \u2013 you can use the free symptom checker anytime, anywhere.\nWhat can you tell Ada?\nAda answers medical questions of every kind. Here are some of the most common searches:\nSymptoms\n- Fever\n- Loss of appetite\n- Headache\n- Abdominal pain and tenderness\n- Nausea\n- Fatigue\n- Vomiting\n- Dizziness\n- Cough\nConditions\n- Common cold\n- Influenza infection (flu)\n- Viral sinusitis\n- Diabetes\n- Tension headache\n- Migraine\n- Irritable bowel syndrome\n- Anxiety disorder\n- Acute panic attack\n- Depression\n- Chlamydia\n- Gonorrhea\n- Herpes\nCategories:\n- Skin conditions such as rashes, acne, insect bites\n- Pregnancy concerns\n- Children\u2019s health\n- Sleeping problems\n- Indigestion issues, such as vomiting, diarrhea\n- Eye infections\nDisclaimer\nThe Ada Health App is a Class I medical device in the European Union. Registration in other markets is pending.\nWe want to hear from you. If you have any feedback or just want to get in touch, reach us at hello@ada.com.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.ada.app",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access"
+    ]
+  },
+  "developer_url": "https://ada.com",
+  "available": true,
+  "first_time_seen": "2020-05-17"
+}
