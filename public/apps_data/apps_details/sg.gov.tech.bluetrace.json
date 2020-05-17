@@ -18,19 +18,20 @@
       "Modify or delete the contents of your usb storage"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "View network connections",
-      "Full network access",
-      "Prevent device from sleeping",
       "Pair with bluetooth devices",
+      "Run at startup",
+      "View network connections",
       "Access bluetooth settings",
-      "Run at startup"
+      "Full network access",
+      "Prevent device from sleeping"
     ]
   },
+  "developer_url": "https://tracetogether.gov.sg",
   "available": true,
   "first_time_seen": "2020-05-16"
 }
