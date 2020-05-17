@@ -6,23 +6,23 @@
   "updated_date": "2020-04-29",
   "downloads": "50,000+",
   "country": "CL",
-  "description": "Aplicaci\u00f3n oficial del Gobierno de Chile para prevenir contagios de Coronavirus.\nLa aplicaci\u00f3n te permite:\n(i) Realizar una autoevaluaci\u00f3n de tus s\u00edntomas para generar una clasificaci\u00f3n de riesgo.  Lo anterior para ti y tambi\u00e9n tus dependientes, tales como familiares, convivientes, vecinos u otros que no tengan c\u00f3mo acceder a la plataforma\n(ii) Recibir notificaciones del Ministerio de Salud\n(ii) Entregar contenido informativo sobre la contingencia y la evoluci\u00f3n de la pandemia\n(iv) Proveer una instancia para informar y/o denunciar conductas o eventos de alto riesgo\n(v) Indicar el lugar d\u00f3nde pasar\u00e1s tu cuarentena",
+  "description": "Aplicaci\u00f3n oficial del Gobierno de Chile para prevenir contagios de Coronavirus. La aplicaci\u00f3n te permite: (i) Realizar una autoevaluaci\u00f3n de tus s\u00edntomas para generar una clasificaci\u00f3n de riesgo.  Lo anterior para ti y tambi\u00e9n tus dependientes, tales como familiares, convivientes, vecinos u otros que no tengan c\u00f3mo acceder a la plataforma (ii) Recibir notificaciones del Ministerio de Salud (ii) Entregar contenido informativo sobre la contingencia y la evoluci\u00f3n de la pandemia (iv) Proveer una instancia para informar y/o denunciar conductas o eventos de alto riesgo (v) Indicar el lugar d\u00f3nde pasar\u00e1s tu cuarentena",
   "app_store_url": "https://play.google.com/store/apps/details?id=cl.gob.digital.coronapp",
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
     ],
     "Location": [
-      "Approximate location (network-based)",
       "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Access extra location provider commands",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "View network connections",
-      "Run at startup",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "View network connections",
+      "Run at startup"
     ]
   },
   "developer_url": "https://coronapp.gob.cl",
