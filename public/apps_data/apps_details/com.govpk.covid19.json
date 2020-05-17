@@ -1,0 +1,27 @@
+{
+  "id": "com.govpk.covid19",
+  "title": "COVID-19 Gov PK",
+  "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
+  "developer_id": "National IT Board, Government Of Pakistan",
+  "updated_date": "2020-05-12",
+  "downloads": "500,000+",
+  "country": "PK",
+  "description": "Fighting the contagious COVID-19 is indeed hard for the global community. To save lives in Pakistan through information and knowledge, the National Information Technology Board (NITB) working under the Ministry of Information Technology & Telecom (MoiTT) has taken a valuable initiative of developing a much-needed \u201cCorona App\u201d that aims to decline the rampant increase of COVID-19 cases country-wide.All these features in one window can surely help the citizens to remain quarantined and untouched by the virus. Make Corona App your best companion to and remain strong as a nation.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.govpk.covid19",
+  "permissions": {
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Control vibration",
+      "Prevent device from sleeping"
+    ]
+  },
+  "developer_url": "http://covidapi.nitb.gov.pk/privacypolicy",
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
