@@ -1,0 +1,40 @@
+{
+  "id": "my.gov.onegovappstore.mytrace",
+  "title": "MyTrace",
+  "icon_url": "https://lh3.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
+  "developer_id": "GOVERNMENT OF MALAYSIA",
+  "updated_date": "2020-04-26",
+  "downloads": "100,000+",
+  "country": "MY",
+  "description": "MyTrace is a mobile application (app) to help the health authority to manage the COVID-19 outbreaks. MyTrace adopts a community-driven approach where participating devices exchange proximity information whenever an app detects another nearby device with MyTrace installed. The app enables identification of people who have been in close proximity to an infected person.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mytrace",
+  "permissions": {
+    "Device & app history": [
+      "Retrieve running apps"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings",
+      "Full network access",
+      "Run at startup",
+      "Prevent device from sleeping"
+    ]
+  },
+  "developer_url": "https://www.mosti.gov.my",
+  "available": true,
+  "first_time_seen": "2020-05-17"
+}
