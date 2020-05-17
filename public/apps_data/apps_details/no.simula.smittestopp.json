@@ -1,0 +1,26 @@
+{
+  "id": "no.simula.smittestopp",
+  "title": "Smittestopp",
+  "icon_url": "https://lh3.googleusercontent.com/PCgkwVsRAIFTuvuDxGp7d6CHn_cgkRaL-utspBqHov8JP_pQ6s60ONLcHIE7wZjeO4Q",
+  "developer_id": "Folkehelseinstituttet",
+  "updated_date": "2020-05-07",
+  "downloads": "100,000+",
+  "country": "NO",
+  "description": "Slik fungerer Smittestopp N\u00e5r du laster ned Smittestopp, vil du f\u00e5 varsel dersom du har v\u00e6rt i n\u00e6rheten av andre brukere av appen som senere f\u00e5r p\u00e5vist smitte med koronaviruset. Varselet, som sendes via SMS, gir deg r\u00e5d om hvordan du kan beskytte egen og verne andres helse. Sjekk telefonnummeret ditt For \u00e5 f\u00e5 SMS-varsel til riktig nummer m\u00e5 du ha oppdatert dine opplysninger i det sentrale Kontakt- og reservasjonsregisteret:  http://eid.difi.no/nb/kontakt-og-reservasjonsregisteret Fra pr\u00f8vesvar til varsel Alle som tester positivt for koronasmitte blir registrert i et nasjonalt helseregister kalt  Meldingssystem for smittsomme sykdommer (MSIS). Dette skjer uavhengig av appen, og f\u00f8lger av lovp\u00e5lagte plikter i helseregisterloven og MSIS-forskriften. Ved hjelp av f\u00f8dselsnummer kobles denne informasjonen til mobilnumre som er lagret i det offentlige Kontakt- og reservasjonsregisteret. Mer om SMS-varselet N\u00e5r personer varsles om at de har v\u00e6rt i n\u00e6rheten av en smittet f\u00e5r n\u00e6rkontaktene vite hvilken dag kontakten skjedde, slik at tiden for karantene kan beregnes. I situasjoner der f\u00e5 har kontakt med andre, kan vi likevel ikke utelukke at noen av de varslede kan forst\u00e5 hvem den smittede er. Slik registreres n\u00e6rkontaktene I denne versjonen av Smittestopp-appen, er kontakt n\u00e6rmere enn to meter i mer enn 15 minutter, definert som n\u00e6rkontakt. For \u00e5 registrere n\u00e6rkontaktene bruker appen GPS-posisjon og Bluetooth-n\u00e6rhet. Dine personopplysninger N\u00e5r du bruker Smittestopp, vil FHI behandle personopplysninger om deg. Les mer om dette i Smittestopps personvernerkl\u00e6ring (lenke). Personopplysningene som samles inn kan bare brukes til form\u00e5let definert i personvernerkl\u00e6ringen, og ikke til \u00e5 f\u00f8lge med p\u00e5 om enkeltpersoner overholder r\u00e5d eller p\u00e5legg. Helseopplysninger, eller lokasjonsdata gj\u00f8res ikke tilgjengelig for politi, p\u00e5talemyndighet, til bruk i forsikrings\u00f8yemed, eller arbeidsgivere. Personopplysningene kan ikke utnyttes kommersielt. Som hovedregel vil dine personopplysninger ikke behandles av mennesker. Smittestopp samler inn f\u00f8lgende personopplysninger: Mobiltelefonnummer, alder, GPS-posisjon, generert UUID (en unik ID som f\u00f8lger telefonnummeret) operativsystem, versjonsnummer og telefonmodell. Bluetoothdata om n\u00e6rkontakt med andre telefoner logges kontinuerlig og opplysninger om en bruker er smittet, eller har v\u00e6rt i n\u00e6rkontakt med en smittet. Om sletting Du kan n\u00e5r som helst slette dine personopplysninger ved \u00e5 bruke sletteknappen inne i appen, og deretter slette Smittestopp. Hvis du bare sletter Smittestopp fra mobiltelefonen, uten \u00e5 bruke sletteknappen f\u00f8rst, slettes dine personopplysninger sentralt f\u00f8rst etter en ukes inaktivitet. S\u00e5 lenge du har aktivert appen vil GPS-data, opplysninger om hvor du har v\u00e6rt og hvilke andre mobiltelefoner du har v\u00e6rt i n\u00e6rheten av, slettes automatisk etter 30 dager. Alle innsamlede personopplysninger skal slettes n\u00e5r forskriften opph\u00f8rer \u00e5 gjelde den 1. desember 2020. \u00d8kt innsikt om epidemien Anonymiserte uttrekk av data fra appen vil bidra til \u00e5 f\u00f8lge smitteutbredelse og vurdere effekt av smitteverntiltak p\u00e5 befolkningsniv\u00e5. Disse dataene kan ikke knyttes til enkeltpersoner. Frivillig Det er frivillig \u00e5 bruke Smittestopp, og du m\u00e5 lese gjennom beskrivelsen i Personvernerkl\u00e6ringen, og akseptere vilk\u00e5rene f\u00f8r du kan ta appen i bruk. Varsel ved endringer Koronaepidemien er i rask utvikling og det kan medf\u00f8re endringer b\u00e5de i tjenestens funksjonalitet og personvernerkl\u00e6ringen.  Du blir informert via SMS om eventuelle endringer i s\u00e5 god tid som mulig og p\u00e5 en m\u00e5te som gj\u00f8r at du kan ta stilling til om du fortsatt \u00f8nsker \u00e5 bruke Smittestopp f\u00f8r endringene trer i kraft. Du finner mer informasjon p\u00e5 helsenorge.no/smittestopp",
+  "app_store_url": "https://play.google.com/store/apps/details?id=no.simula.smittestopp",
+  "permissions": {
+    "Location": [
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Access bluetooth settings",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Full network access",
+      "Run at startup"
+    ]
+  },
+  "developer_url": "https://www.helsenorge.no/smittestopp",
+  "available": true,
+  "first_time_seen": "2020-05-17"
+}
