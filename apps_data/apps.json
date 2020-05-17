@@ -294,7 +294,7 @@
     "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
     "updated_date": "2020-05-07",
     "downloads": "1,000,000+",
-    "country": ""
+    "country": "IL"
   },
   {
     "id": "com.hard.covid19",
@@ -322,15 +322,6 @@
     "updated_date": "2020-05-10",
     "downloads": "5,000+",
     "country": "NP"
-  },
-  {
-    "id": "com.interactivespecializedsoftware.bodytemperaturediary",
-    "title": "Body Temperature Diary",
-    "icon_url": "https://lh3.googleusercontent.com/4sX3DGAfwimecPI-cmKMksKa1Z2xDOc5fp3vjxfvEeIwUm8UmFWVaetOU5JcmsmHaCI",
-    "developer_id": "Interactive Specialized Software",
-    "updated_date": "2019-03-15",
-    "downloads": "1,000,000+",
-    "country": ""
   },
   {
     "id": "com.intutrack.covidtrack",
@@ -753,7 +744,7 @@
     "developer_id": "Protego App Ltd",
     "updated_date": "2020-05-12",
     "downloads": "100+",
-    "country": ""
+    "country": "UK"
   },
   {
     "id": "pl.gov.mc.protegosafe",
