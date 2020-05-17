@@ -45,6 +45,24 @@
     "country": "AR"
   },
   {
+    "id": "at.roteskreuz.stopcorona",
+    "title": "Stopp Corona",
+    "icon_url": "https://lh3.googleusercontent.com/89xSCT3mnBsrvbvdKK6bi8Vw9UdGYTG4XsXgPW4Y0-7J-r1CQkXomoUa9VN3i1DEAQ",
+    "developer_id": "\u00d6sterreichisches Rotes Kreuz",
+    "updated_date": "2020-05-13",
+    "downloads": "100,000+",
+    "country": "AT"
+  },
+  {
+    "id": "bg.government.virusafe",
+    "title": "ViruSafe",
+    "icon_url": "https://lh3.googleusercontent.com/MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUA",
+    "developer_id": "government.bg",
+    "updated_date": "2020-05-05",
+    "downloads": "10,000+",
+    "country": "BG"
+  },
+  {
     "id": "bh.bahrain.corona.tracker",
     "title": "BeAware Bahrain",
     "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
@@ -270,6 +288,15 @@
     "country": "PK"
   },
   {
+    "id": "com.hamagen",
+    "title": "\u05d4\u05de\u05d2\u05df - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
+    "icon_url": "https://lh3.googleusercontent.com/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ",
+    "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
+    "updated_date": "2020-05-07",
+    "downloads": "1,000,000+",
+    "country": ""
+  },
+  {
     "id": "com.hard.covid19",
     "title": "H.A.R.D. - Safende",
     "icon_url": "https://lh3.googleusercontent.com/juyPKQB6NfnwBU4x_RqCoIg8BQ9FJCy4JykY8Q5YJ7R0k7U3PksdS_FGni4WvdJfsyI",
@@ -468,6 +495,15 @@
     "country": "PK"
   },
   {
+    "id": "cz.covid19cz.erouska",
+    "title": "eRou\u0161ka - part of smart quarantine",
+    "icon_url": "https://lh3.googleusercontent.com/XmybKTYht3tPjkL_1gLQAjywDWD96kpvSu5No5AH4kujTOxSuqX4m1bVxBtcPoHdww",
+    "developer_id": "Ministerstvo zdravotnictv\u00ed \u010cesk\u00e9 republiky",
+    "updated_date": "2020-05-09",
+    "downloads": "100,000+",
+    "country": "CZ"
+  },
+  {
     "id": "cz.nmbbrno.covid",
     "title": "COVID-19! - The current spread of disease",
     "icon_url": "https://lh3.googleusercontent.com/5E4I1QxM4SHjLLLw3ksAp0e9QUyDOcy5pRAMO8HYwPQunOKo50YetjPxSIWN4_5xZxo",
@@ -475,6 +511,15 @@
     "updated_date": "2020-04-08",
     "downloads": "10,000+",
     "country": "CZ"
+  },
+  {
+    "id": "edu.rise.ihnilatis",
+    "title": "CovTracer",
+    "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
+    "developer_id": "RISE Research Centre of Excellence",
+    "updated_date": "2020-05-13",
+    "downloads": "500+",
+    "country": "CY"
   },
   {
     "id": "es.gob.asistenciacovid19",
@@ -585,6 +630,24 @@
     "country": "LY"
   },
   {
+    "id": "mk.gov.koronavirus.stop",
+    "title": "StopKorona!",
+    "icon_url": "https://lh3.googleusercontent.com/y3BZTRyHigR9zNgO2iIR9onZbK0Rr5r8D9GiVZ3D9MlySa6FvrcksokIgOLX13WMt5A",
+    "developer_id": "Ministry of Information Society and Administration",
+    "updated_date": "2020-05-07",
+    "downloads": "50,000+",
+    "country": "MK"
+  },
+  {
+    "id": "mx.covidradar.radar",
+    "title": "CovidRadar.mx",
+    "icon_url": "https://lh3.googleusercontent.com/f_Gd1LSXlOna63bc4_96mZLeYr6mrrRlMSpoLnCFwrwqpLeZGQ4JZG_pzbN46A1b3Ew",
+    "developer_id": "Lertek",
+    "updated_date": "2020-05-02",
+    "downloads": "10,000+",
+    "country": "MX"
+  },
+  {
     "id": "mx.gob.tamaulipas.covid19",
     "title": "COVID-19 Tam",
     "icon_url": "https://lh3.googleusercontent.com/gjYsDTOIzpoBPKmjj896WXnoPo0MVcIvq2BAFK91nAGtP9TVH0S5AKAnLgO94Pd_ECy1",
@@ -612,6 +675,15 @@
     "country": "MY"
   },
   {
+    "id": "my.gov.onegovappstore.mytrace",
+    "title": "MyTrace",
+    "icon_url": "https://lh3.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
+    "developer_id": "GOVERNMENT OF MALAYSIA",
+    "updated_date": "2020-04-26",
+    "downloads": "100,000+",
+    "country": "MY"
+  },
+  {
     "id": "nic.goi.aarogyasetu",
     "title": "Aarogya Setu",
     "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
@@ -628,6 +700,15 @@
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
     "country": "NL"
+  },
+  {
+    "id": "no.simula.smittestopp",
+    "title": "Smittestopp",
+    "icon_url": "https://lh3.googleusercontent.com/PCgkwVsRAIFTuvuDxGp7d6CHn_cgkRaL-utspBqHov8JP_pQ6s60ONLcHIE7wZjeO4Q",
+    "developer_id": "Folkehelseinstituttet",
+    "updated_date": "2020-05-07",
+    "downloads": "100,000+",
+    "country": "NO"
   },
   {
     "id": "np.com.naxa.covid19",
@@ -664,6 +745,24 @@
     "updated_date": "2020-04-02",
     "downloads": "10,000+",
     "country": "NP"
+  },
+  {
+    "id": "org.theviralapp.app1",
+    "title": "Protego",
+    "icon_url": "https://lh3.googleusercontent.com/-Kgh1wcNwvxdwCDGAF2eTUez77H9ROztJs7pFdLDZ8PZ86F5YcbMf7fb0ZsJ2e7Ho9U",
+    "developer_id": "Protego App Ltd",
+    "updated_date": "2020-05-12",
+    "downloads": "100+",
+    "country": ""
+  },
+  {
+    "id": "pl.gov.mc.protegosafe",
+    "title": "ProteGO Safe",
+    "icon_url": "https://lh3.googleusercontent.com/NtUrs_H-kNSrK5Nj0qNk-DiiSfPRjFxzP8VQVsugRVCQVM13LHPoRBbhQc105efj44Q",
+    "developer_id": "Ministerstwo Cyfryzacji",
+    "updated_date": "2020-04-30",
+    "downloads": "10,000+",
+    "country": "PL"
   },
   {
     "id": "pl.nask.droid.kwarantannadomowa",
