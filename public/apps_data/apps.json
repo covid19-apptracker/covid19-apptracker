@@ -244,11 +244,11 @@
   },
   {
     "id": "com.joinzoe.covid_zoe",
-    "title": "COVID Symptom Tracker",
+    "title": "COVID Symptom Study",
     "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
     "developer_id": "Zoe Global Limited",
-    "updated_date": "2020-04-29",
-    "downloads": "500,000+",
+    "updated_date": "2020-05-07",
+    "downloads": "1,000,000+",
     "country": "UK"
   },
   {
@@ -799,5 +799,14 @@
     "updated_date": "2020-05-16",
     "downloads": "10,000+",
     "country": "CO"
+  },
+  {
+    "id": "com.interactivespecializedsoftware.bodytemperaturediary",
+    "title": "Body Temperature Diary",
+    "icon_url": "https://lh3.googleusercontent.com/4sX3DGAfwimecPI-cmKMksKa1Z2xDOc5fp3vjxfvEeIwUm8UmFWVaetOU5JcmsmHaCI",
+    "developer_id": "Interactive Specialized Software",
+    "updated_date": "2019-03-15",
+    "downloads": "1,000,000+",
+    "country": ""
   }
 ]
