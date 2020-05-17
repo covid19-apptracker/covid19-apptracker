@@ -13,16 +13,16 @@ import Footer from "./components/footerComponent/Footer.js";
 
 import PlayApp from './components/PlayApp.js';
 
-import { HashRouter as Router, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Route} from 'react-router-dom';
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      playAppArray: new Array(),
+      playAppArray: [],
       hasRequestedData: false,
-      processedData: new Array(),
-      playAppRoutes: new Array(),
+      processedData: [],
+      playAppRoutes: [],
       totalNumberOfApps: 0
     };
   }
@@ -42,11 +42,7 @@ class App extends Component {
   }
 
   getAppInfo = () => {
-    let appInfos = [];
     let playApps = [];
-    let appRoutes = [];
-
-    let appNames;
 
     async function asyncForEach(array, callback) {
       for (let index = 0; index < array.length; index++) {
@@ -63,8 +59,6 @@ class App extends Component {
           process.env.PUBLIC_URL + "/apps_data/apps.json"
         );
         const json = await response.json();
-        // console.log("logging json...");
-        // console.log(json);
         await asyncForEach(json, async (appName) => {
           const data = await fetch(
             process.env.PUBLIC_URL +
@@ -74,92 +68,11 @@ class App extends Component {
           );
           const appDetails = await data.json();
           playApps.push(appDetails);
-          this.setState(
-            {
-              processedData: playApps
-            }
-          )
-        });
-
-        appRoutes = await playApps.map((appInfo) => ( 
-        <Route exact path = {
-              "/app/" + appInfo.id
-          }
-          render={(props) => <AppPage {...props} 
-            key={
-              appInfo.id
-            }
-            id={
-              appInfo.id
-            }
-            title={
-              appInfo.title
-            }
-            iconURL={
-              appInfo.icon_url
-            }
-            developer={
-              decodeURIComponent(
-                appInfo.developer_id.replace(/\+/g, " ")
-              )
-            }
-            downloads={
-              appInfo.downloads
-            }
-            updatedDate={
-              appInfo.updated_date
-            }
-            country={
-              appInfo.country
-            }
-            permissions={
-              appInfo.permissions
-            }
-            description={
-              appInfo.description
-            }
-            appStoreURL={
-              appInfo.app_store_url
-            }
-          
-        />}
-        />
-        ));
-      // console.log("app routes below")
-      // console.log(appRoutes)
-
-        playApps = await playApps.map((appInfo) =>
-          < PlayApp
-            key={
-              appInfo.id
-            }
-            id={
-              appInfo.id
-            }
-            title={
-              appInfo.title
-            }
-            iconURL={
-              appInfo.icon_url
-            }
-            developer={
-              decodeURIComponent((appInfo.developer_id).replace(/\+/g, " "))
-            }
-            downloads={
-              appInfo.downloads
-            }
-            updatedDate={
-              appInfo.updated_date
-            }
-          />
-        );
-
-        //refactor this to pull apps one by one in the above for each, now that we're setting state
-        //we can push apps one by one directly into state
-        await this.setState({
-          playAppArray: playApps,
-          playAppRoutes: appRoutes,
-          hasRequestedData: true
+          // console.log(appDetails.id)
+          this.setState({
+            processedData: [...this.state.processedData, appDetails],
+            hasRequestedData: true
+          });
         });
       }
     };
@@ -171,12 +84,13 @@ class App extends Component {
     return playApps;
   };
 
-
-
-  render() {
+  componentDidMount() {
     if (!this.state.hasRequestedData) {
       this.getAppInfo();
     }
+  }
+
+  render() {
     return (
       <Router basename="">
         <NavBar />
@@ -189,19 +103,21 @@ class App extends Component {
               render={(props) => (
                 <HomePage
                   shareRoutesWithApp={this.shareRoutesWithApp}
-                  playAppArray={this.state.processedData.map((appInfo) => (
-                    <PlayApp
-                      key={appInfo.id}
-                      id={appInfo.id}
-                      title={appInfo.title}
-                      iconURL={appInfo.icon_url}
-                      developer={decodeURIComponent(
-                        appInfo.developer_id.replace(/\+/g, " ")
-                      )}
-                      downloads={appInfo.downloads}
-                      updatedDate={appInfo.updated_date}
-                    />
-                  ))}
+                  playAppArray={this.state.processedData.map(
+                    (appInfo, index) => (
+                      <PlayApp
+                        key={appInfo.id}
+                        id={appInfo.id}
+                        title={appInfo.title}
+                        iconURL={appInfo.icon_url}
+                        developer={decodeURIComponent(
+                          appInfo.developer_id.replace(/\+/g, " ")
+                        )}
+                        downloads={appInfo.downloads}
+                        updatedDate={appInfo.updated_date}
+                      />
+                    )
+                  )}
                   shareTotalAppsNumber={this.shareTotalAppsNumber}
                   totalNumberOfApps={this.state.totalNumberOfApps}
                 />
@@ -213,10 +129,11 @@ class App extends Component {
               <Route
                 exact
                 path={"/app/" + appInfo.id}
+                key={appInfo.id}
                 render={(props) => (
                   <AppPage
                     {...props}
-                    key={appInfo.id}
+                    key={`${appInfo.id}`}
                     id={appInfo.id}
                     title={appInfo.title}
                     iconURL={appInfo.icon_url}

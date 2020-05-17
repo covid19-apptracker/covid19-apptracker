@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
-import NavBar from '../../components/headerComponent/NavBar.js';
-import Footer from '../../components/footerComponent/Footer.js';
+import { BrowserRouter as Link } from 'react-router-dom';
 
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import logo from '../../img/logo_wht.svg';
 
 class AppPage extends Component {
     constructor(props) {
         super(props);
         this.state = {
             description: "",
-            permissions: new Array()
+            permissions: [],
         }
     }
 
@@ -27,7 +26,7 @@ class AppPage extends Component {
     }
 
     createPermissionsObject = (specifiedPermissions) => {
-        if (this.state.permissions != undefined) {
+        if (this.state.permissions !== undefined) {
             if(specifiedPermissions in this.state.permissions){
                 return (
                     this.state.permissions[specifiedPermissions].map((permission) => 
@@ -45,9 +44,36 @@ class AppPage extends Component {
         }
     }
 
+    createPermissions = () => {
+        if (this.state.permissions !== undefined) {
+            return(
+                Object.keys(this.state.permissions).map((permissionName) => 
+                <div id="storage" className="flex align-top sm:pr-6 pb-12">
+                    <div className="pr-4">
+                        <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><img width="16" height="16" src={logo} /></div>
+                    </div>
+                    <div>
+                        <p className="pb-1 font-medium">{permissionName}</p>
+                        <ul className="list-disc pl-4 text-gray-700">
+                            {
+                                this.state.permissions[permissionName].map((specificPermission) => 
+                                    <li>{specificPermission}</li>
+                                ) 
+                            }
+                        </ul>
+                        
+                    </div>
+                </div>
+                )
+            )
+        } else {
+            return (
+                <div></div>
+            )
+        }
+    }
+
     render() {
-        console.log("logging props of AppPage")
-        console.log(this.props)
 
 		return (
 			<div>
@@ -66,7 +92,7 @@ class AppPage extends Component {
                     <div id="developerInfo">
                         <div className="flex items-center pb-12">
                             <div className="pr-4">
-                                <img src={this.props.iconURL} width="120" height="120" className="rounded-lg shadow-lg"></img>
+                                <img alt={this.props.title + " app icon"} src={this.props.iconURL} width="120" height="120" className="rounded-lg shadow-lg"></img>
                             </div>
                             <div>
                                 <div className="items-baseline flex">
@@ -101,7 +127,7 @@ class AppPage extends Component {
                                         {/* <span className="text-gray-700 text-sm">MM</span> */}
                                         </p> 
                                     </div> 
-                                    <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p> 
+                                    {/* <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p>  */}
                                 </div>
                             </div>
                             <div className="flex-1 rounded overflow-hidden shadow-lg"> 
@@ -120,7 +146,8 @@ class AppPage extends Component {
                     <div id="appPermissions" className="pb-12">
                         <p className="font-bold text-sm pb-6">App Permissions</p>
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
+                            {this.createPermissions()}
+                            {/* <div id="storage" className="flex align-top sm:pr-6 pb-12">
                                 <div className="pr-4">
                                     <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-map-marker fa-md text-white"></i></div>
                                 </div>
@@ -203,7 +230,7 @@ class AppPage extends Component {
 							        </ul>
                                     
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 
@@ -213,7 +240,7 @@ class AppPage extends Component {
                                 <p className="font-bold text-sm pb-2">App Description</p>
                                 <p>
                                     {
-                                    this.state.description != undefined ? this.state.description.replace(/\n/g, " ") : <div></div>}
+                                    this.state.description !== undefined ? this.state.description.replace(/\n/g, " ") : <div></div>}
                                 </p>                           
                             </div>
                         </div>
