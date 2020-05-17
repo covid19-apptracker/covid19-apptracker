@@ -20,28 +20,29 @@
     "Contacts": [
       "Find accounts on the device"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
     "Identity": [
       "Find accounts on the device"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
       "View network connections",
-      "Run at startup",
       "Control vibration",
+      "Prevent device from sleeping",
       "Full network access",
-      "Prevent device from sleeping"
+      "Run at startup"
     ]
   },
+  "developer_url": "http://www.cdc.gov",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-16"
 }
