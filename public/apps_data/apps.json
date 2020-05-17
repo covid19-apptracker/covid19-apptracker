@@ -1,5 +1,14 @@
 [
   {
+    "id": "ae.gov.dha.covid19",
+    "title": "COVID19 - DXB Smart App",
+    "icon_url": "https://lh3.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
+    "developer_id": "Dubai Health Authority - DHA",
+    "updated_date": "2020-05-12",
+    "downloads": "5,000+",
+    "country": "AE"
+  },
+  {
     "id": "ae.gov.dha.covid19.paramedic",
     "title": "COVID19 - DXB Responder",
     "icon_url": "https://lh3.googleusercontent.com/iHVWvXy_DXL8W9X-SYfnXvlMP23MpTTm9NsP94y2a83Q9e4X47QlgvtjG2hBLmF9wxoL",
@@ -9,121 +18,13 @@
     "country": "AE"
   },
   {
-    "id": "com.govpk.covid19",
-    "title": "COVID-19 Gov PK",
-    "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
-    "developer_id": "National IT Board, Government Of Pakistan",
-    "updated_date": "2020-05-12",
-    "downloads": "500,000+",
-    "country": "PK"
-  },
-  {
-    "id": "co.twenty.stop.spread",
-    "title": "Healthy Together - COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
-    "developer_id": "Twenty Inc.",
-    "updated_date": "2020-05-15",
-    "downloads": "10,000+",
-    "country": "US"
-  },
-  {
-    "id": "co.gov.ins.guardianes",
-    "title": "CoronApp - Colombia",
-    "icon_url": "https://lh3.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
-    "developer_id": "INS.GOV",
-    "updated_date": "2020-05-12",
-    "downloads": "5,000,000+",
-    "country": "CO"
-  },
-  {
-    "id": "es.gob.asistenciacovid19",
-    "title": "Asistencia COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
-    "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-05-07",
-    "downloads": "10,000+",
-    "country": "ES"
-  },
-  {
-    "id": "ca.bc.gov.health.hlbc.COVID19",
-    "title": "BC COVID-19 Support",
-    "icon_url": "https://lh3.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
-    "developer_id": "Province of British Columbia, Canada",
-    "updated_date": "2020-05-15",
-    "downloads": "10,000+",
-    "country": "CA"
-  },
-  {
-    "id": "com.droobihealth.corona",
-    "title": "COVI",
-    "icon_url": "https://lh3.googleusercontent.com/dztT4_lbZlmC_4b_vrCAqiGHX5WKBDo873QXQ-B0xP5E3Qd83RoABUa5iFXFX7zZooQ",
-    "developer_id": "Droobi Health Technology",
-    "updated_date": "2020-05-17",
-    "downloads": "50,000+",
-    "country": "QA"
-  },
-  {
-    "id": "com.intutrack.covidtrack",
-    "title": "Covid Locator",
-    "icon_url": "https://lh3.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
-    "developer_id": "Intugine Technologies",
-    "updated_date": "2020-04-18",
-    "downloads": "50,000+",
-    "country": "IN"
-  },
-  {
-    "id": "cz.nmbbrno.covid",
-    "title": "COVID-19! - The current spread of disease",
-    "icon_url": "https://lh3.googleusercontent.com/5E4I1QxM4SHjLLLw3ksAp0e9QUyDOcy5pRAMO8HYwPQunOKo50YetjPxSIWN4_5xZxo",
-    "developer_id": "Nemocnice Milosrdnych bratri, p.o.",
-    "updated_date": "2020-04-08",
-    "downloads": "10,000+",
-    "country": "CZ"
-  },
-  {
-    "id": "com.apphero.population",
-    "title": "World Population Clock",
-    "icon_url": "https://lh3.googleusercontent.com/IteXSFcPO4Pz3KYYIhYCmosSTk5IGGjorCPnbmceMsR7HcQFs7bJt2DX0c9olZA_xzQ",
-    "developer_id": "Thomas Louren%C3%A7o",
-    "updated_date": "2020-04-28",
+    "id": "ae.tracecovid.app",
+    "title": "TraceCovid",
+    "icon_url": "https://lh3.googleusercontent.com/PAF7-ptxx91SgPq7aHNCaQN-vsGSsyfX_EnbhU4qPyedLCrcaKjNxsAyZ8L4uj1-wmk",
+    "developer_id": "Department of Health - Abu Dhabi",
+    "updated_date": "2020-04-13",
     "downloads": "100,000+",
-    "country": "AR"
-  },
-  {
-    "id": "gov.va.mobilehealth.ncptsd.covid",
-    "title": "COVID Coach",
-    "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
-    "developer_id": "US Department of Veterans Affairs (VA)",
-    "updated_date": "2020-05-06",
-    "downloads": "5,000+",
-    "country": "VA"
-  },
-  {
-    "id": "com.Eha.covid_19",
-    "title": "COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
-    "developer_id": "Electronic Health Administration",
-    "updated_date": "2020-03-11",
-    "downloads": "100,000+",
-    "country": "VN"
-  },
-  {
-    "id": "gov.cdc.general",
-    "title": "CDC",
-    "icon_url": "https://lh3.googleusercontent.com/wrevbBo3qynf4_yPl0DNgKlzNRSGdy2kUpd_r85n4qNF8M47hDxBNR4adHU2T76LlSkM",
-    "developer_id": "Centers for Disease Control and Prevention",
-    "updated_date": "2020-04-24",
-    "downloads": "100,000+",
-    "country": "US"
-  },
-  {
-    "id": "it.adilife.covid19.app",
-    "title": "ADiLife Covid-19",
-    "icon_url": "https://lh3.googleusercontent.com/C7gC99eWUqlVbFlUEq06CKJ4RO5kyPey-zRhD2vHs4mnMqoCz0KU4ScIvcMjoRbuNv5j",
-    "developer_id": "ADiLife Srl",
-    "updated_date": "2020-05-05",
-    "downloads": "500+",
-    "country": "IT"
+    "country": "AE"
   },
   {
     "id": "am.gov.covid19",
@@ -135,166 +36,40 @@
     "country": "AM"
   },
   {
-    "id": "com.family.tokhaiyte",
-    "title": "FAMILY - COVID 19",
-    "icon_url": "https://lh3.googleusercontent.com/Ren8jOghqCc3YpcOvGsyGdyuPywiC4CuXMYgiODxZwZmz7d6uQMyo8X5EDIla2rY71U",
-    "developer_id": "Family Hospital",
-    "updated_date": "2020-04-01",
-    "downloads": "100+",
-    "country": "VN"
+    "id": "ar.gob.coronavirus",
+    "title": "CUIDAR COVID-19 ARGENTINA",
+    "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
+    "developer_id": "8169270262982486256",
+    "updated_date": "2020-05-16",
+    "downloads": "1,000,000+",
+    "country": "AR"
   },
   {
-    "id": "vn.suckhoetoandan.v2",
-    "title": "S\u1ee9c kh\u1ecfe Vi\u1ec7t Nam",
-    "icon_url": "https://lh3.googleusercontent.com/FnGdZR5pcqzCjLw_Vhp0wnmh5nDfMFlgPcYXxA07Od4NYJb4PALVgiGzvxCv4MpFhhg",
-    "developer_id": "Viettel Business Solutions Corporation",
-    "updated_date": "2020-04-22",
-    "downloads": "500,000+",
-    "country": "VN"
+    "id": "bh.bahrain.corona.tracker",
+    "title": "BeAware Bahrain",
+    "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
+    "developer_id": "Information & eGovernment Authority",
+    "updated_date": "2020-05-02",
+    "downloads": "100,000+",
+    "country": "BH"
   },
   {
-    "id": "cat.gencat.mobi.StopCovid19Cat",
-    "title": "STOP COVID19 CAT",
-    "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
-    "developer_id": "Generalitat de Catalunya",
-    "updated_date": "2020-04-02",
-    "downloads": "500,000+",
-    "country": "ES"
+    "id": "br.gov.datasus.guardioes",
+    "title": "Coronav\u00edrus - SUS",
+    "icon_url": "https://lh3.googleusercontent.com/ifpFE4Mp-3AGdt7fSwqGmSMIpYt6kl1X4Dt3WmM84bUNnbG5gZZDXFRASg1QeOYGGg",
+    "developer_id": "5829287075355252046",
+    "updated_date": "2020-04-10",
+    "downloads": "1,000,000+",
+    "country": "BR"
   },
   {
-    "id": "tracker.healthcare.sentinel",
-    "title": "Sentinel Monitor (COVID-19 Management)",
-    "icon_url": "https://lh3.googleusercontent.com/-Ej8vL-04yvG4NyfQQ0wT03g_3BQ68OkErdX4ghecpwR7KvCqIOxnDZCNRGh2oS_8Ns",
-    "developer_id": "Sentinel Healthcare",
-    "updated_date": "2020-04-23",
-    "downloads": "500+",
-    "country": "US"
-  },
-  {
-    "id": "com.patientmpower.covid19.usa",
-    "title": "patientMpower for COVID-19 USA",
-    "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
-    "developer_id": "patientMpower",
-    "updated_date": "2020-05-13",
-    "downloads": "10+",
-    "country": "IE"
-  },
-  {
-    "id": "com.proudcrowd.care",
-    "title": "Care19",
-    "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
-    "developer_id": "ProudCrowd, LLC",
-    "updated_date": "2020-05-08",
+    "id": "ca.bc.gov.health.hlbc.COVID19",
+    "title": "BC COVID-19 Support",
+    "icon_url": "https://lh3.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
+    "developer_id": "Province of British Columbia, Canada",
+    "updated_date": "2020-05-15",
     "downloads": "10,000+",
-    "country": "US"
-  },
-  {
-    "id": "com.pixxonai.covid19wb",
-    "title": "COVID-19 West Bengal Government",
-    "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
-    "developer_id": "SEMT Govt. of West Bengal",
-    "updated_date": "2020-04-06",
-    "downloads": "100,000+",
-    "country": "IN"
-  },
-  {
-    "id": "com.kencorhealth.covid",
-    "title": "Kencor COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/7RG-gqhmvSSgkftyBC_5N3xO1Om4WwDKwjca6stBjufOsqgASApkkvU4ZOFK7thUJxM",
-    "developer_id": "Kencor health",
-    "updated_date": "2020-04-22",
-    "downloads": "10+",
-    "country": "US"
-  },
-  {
-    "id": "com.spotteron.coronareport",
-    "title": "CoronaReport - COVID-19 reports for Social Science",
-    "icon_url": "https://lh3.googleusercontent.com/UFFwN27Tbx0p944HeZQcAoIIrvlVGtHIT-Gy7vU3e8-M0VCkKbYwyZtTrUG8m6UgHtE",
-    "developer_id": "SPOTTERON",
-    "updated_date": "2020-04-11",
-    "downloads": "500+",
-    "country": "UK"
-  },
-  {
-    "id": "com.virustracker.app",
-    "title": "StopTheSpread COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A",
-    "developer_id": "Binary Mango",
-    "updated_date": "2020-03-10",
-    "downloads": "100+",
-    "country": "UK"
-  },
-  {
-    "id": "mx.gob.www",
-    "title": "COVID-19MX",
-    "icon_url": "https://lh3.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
-    "developer_id": "Secretar\u00eda de Salud MX",
-    "updated_date": "2020-05-06",
-    "downloads": "500,000+",
-    "country": "MX"
-  },
-  {
-    "id": "uy.gub.salud.plancovid19uy",
-    "title": "Coronavirus UY",
-    "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
-    "developer_id": "AGESIC",
-    "updated_date": "2020-04-27",
-    "downloads": "100,000+",
-    "country": "UY"
-  },
-  {
-    "id": "com.joinzoe.covid_zoe",
-    "title": "COVID Symptom Study",
-    "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
-    "developer_id": "Zoe Global Limited",
-    "updated_date": "2020-05-07",
-    "downloads": "1,000,000+",
-    "country": "UK"
-  },
-  {
-    "id": "com.maithu.transplantbuddy.covid19",
-    "title": "patientMpower for COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
-    "developer_id": "patientMpower",
-    "updated_date": "2020-05-13",
-    "downloads": "1,000+",
-    "country": "IE"
-  },
-  {
-    "id": "com.tsstate.citizen",
-    "title": "T COVID'19",
-    "icon_url": "https://lh3.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
-    "developer_id": "ET Wing, Govt of Telangana",
-    "updated_date": "2020-04-14",
-    "downloads": "50,000+",
-    "country": "IN"
-  },
-  {
-    "id": "com.iclick.covidnew",
-    "title": "Nepal COVID-19 Surveillance",
-    "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
-    "developer_id": "iClick",
-    "updated_date": "2020-05-10",
-    "downloads": "5,000+",
-    "country": "NP"
-  },
-  {
-    "id": "de.xikolo.openwho",
-    "title": "OpenWHO: Knowledge for Health Emergencies",
-    "icon_url": "https://lh3.googleusercontent.com/Lb2oJRE0BbKIN9K2Gr-9qJKTpUsh1QjkUQf3xTFjdLKsJeUniGNlCu9VoCsDJw0bww",
-    "developer_id": "7185448023325736337",
-    "updated_date": "2020-05-11",
-    "downloads": "1,000,000+",
-    "country": "DE"
-  },
-  {
-    "id": "com.vnptit.innovation.ncovi",
-    "title": "NCOVI",
-    "icon_url": "https://lh3.googleusercontent.com/yhxMI5WOFH-OYfKz_hck-AZeil-4pZ8c3HZUPypfDLCb_6J56CJpf2X3R2LYH7rdMlqo",
-    "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-    "updated_date": "2020-04-21",
-    "downloads": "1,000,000+",
-    "country": "VN"
+    "country": "CA"
   },
   {
     "id": "ca.gc.hcsc.canada.covid19",
@@ -306,85 +81,103 @@
     "country": "CA"
   },
   {
-    "id": "nl.lumc.covidradar",
-    "title": "COVID Radar",
-    "icon_url": "https://lh3.googleusercontent.com/hSkCL9B0Qe2QsBGjsOgJBzNWLKE4BFmPcurk4bAFFbIv9nAUYjjxvLNzlFS_L1RFLv4",
-    "developer_id": "LUMC Leiden",
-    "updated_date": "2020-04-08",
+    "id": "cat.gencat.mobi.StopCovid19Cat",
+    "title": "STOP COVID19 CAT",
+    "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
+    "developer_id": "Generalitat de Catalunya",
+    "updated_date": "2020-04-02",
+    "downloads": "500,000+",
+    "country": "ES"
+  },
+  {
+    "id": "cl.gob.digital.coronapp",
+    "title": "CoronApp",
+    "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
+    "developer_id": "Gobierno Digital",
+    "updated_date": "2020-04-29",
     "downloads": "50,000+",
-    "country": "NL"
+    "country": "CL"
   },
   {
-    "id": "com.symptomate.mobile",
-    "title": "Symptomate \u2013 Symptom checker",
-    "icon_url": "https://lh3.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
-    "developer_id": "Infermedica",
-    "updated_date": "2019-02-01",
-    "downloads": "100,000+",
-    "country": "PL"
+    "id": "co.cellapp.bardghatcovid19",
+    "title": "Bardghat Municipality - COVID-19/Disaster Response",
+    "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
+    "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
+    "updated_date": "2020-04-27",
+    "downloads": "100+",
+    "country": "CO"
   },
   {
-    "id": "gov.fema.mobile.android",
-    "title": "FEMA",
-    "icon_url": "https://lh3.googleusercontent.com/3lemGPsoZ_ysd6rBRq1AYScTL6BxycRZVkeofYZVqw4Fdr89nSbGAohRlKZ2TXEFg40",
-    "developer_id": "Federal Emergency Management Agency (FEMA)",
-    "updated_date": "2019-12-23",
-    "downloads": "1,000,000+",
+    "id": "co.cellapp.bharatpurcovid",
+    "title": "Bharatpur Metropolitan | COVID-19 Response System",
+    "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
+    "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
+    "updated_date": "2020-04-24",
+    "downloads": "5,000+",
+    "country": "CO"
+  },
+  {
+    "id": "co.gov.cali.calivallecorona",
+    "title": "CaliValle Corona",
+    "icon_url": "https://lh3.googleusercontent.com/IzmNLjF_QsVYl7UWzlSQya7-lJTcG4nzzxYw0hG1RyA23rHHbLaMqLsoKab2AE76s-Gu",
+    "developer_id": "Gobernaci\u00f3n del Valle del Cauca",
+    "updated_date": "2020-05-16",
+    "downloads": "10,000+",
+    "country": "CO"
+  },
+  {
+    "id": "co.gov.ins.guardianes",
+    "title": "CoronApp - Colombia",
+    "icon_url": "https://lh3.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
+    "developer_id": "INS.GOV",
+    "updated_date": "2020-05-12",
+    "downloads": "5,000,000+",
+    "country": "CO"
+  },
+  {
+    "id": "co.twenty.stop.spread",
+    "title": "Healthy Together - COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
+    "developer_id": "Twenty Inc.",
+    "updated_date": "2020-05-15",
+    "downloads": "10,000+",
     "country": "US"
   },
   {
-    "id": "ae.gov.dha.covid19",
-    "title": "COVID19 - DXB Smart App",
-    "icon_url": "https://lh3.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
-    "developer_id": "Dubai Health Authority - DHA",
-    "updated_date": "2020-05-12",
-    "downloads": "5,000+",
-    "country": "AE"
-  },
-  {
-    "id": "kg.cdt.stopcovid19",
-    "title": "Stop COVID-19 KG",
-    "icon_url": "https://lh3.googleusercontent.com/R8OnFzq0l3xWYn-CcMBgqP9Pd3RLfCU-QYipRJUCtkuBfS4-GuoH1LpzNMzDjxDa7gk",
-    "developer_id": "\u041c\u041f \"\u0426\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\" \u043c\u044d\u0440\u0438\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0438\u0448\u043a\u0435\u043a",
-    "updated_date": "2020-05-07",
-    "downloads": "10,000+",
-    "country": "KG"
-  },
-  {
-    "id": "org.prixa.p5covidtracker",
-    "title": "Province 5 COVID-19 Tracker",
-    "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
-    "developer_id": "8818240120731662306",
-    "updated_date": "2020-04-02",
-    "downloads": "10,000+",
-    "country": "NP"
-  },
-  {
-    "id": "nic.goi.aarogyasetu",
-    "title": "Aarogya Setu",
-    "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
-    "developer_id": "9076108670215860604",
-    "updated_date": "2020-05-15",
-    "downloads": "100,000,000+",
-    "country": "IN"
-  },
-  {
-    "id": "org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
-    "title": "Kenya Covid-19 Tracker",
-    "icon_url": "https://lh3.googleusercontent.com/yCnt0Emrd9Nln_PlTD9cVFWdLSehJNghg3g27L8u5bA6RAT8PvFA9l7Is82mvMbQzn2_",
-    "developer_id": "Medic Mobile, Inc.",
-    "updated_date": "2020-04-28",
+    "id": "co.uk.healthcreatives.uclhcovid19",
+    "title": "UCLH COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
+    "developer_id": "Vincent Harding - UCL Health Creatives",
+    "updated_date": "2020-04-30",
     "downloads": "100+",
-    "country": "KE"
+    "country": "UK"
   },
   {
-    "id": "com.healthlynked",
-    "title": "Healthlynked",
-    "icon_url": "https://lh3.googleusercontent.com/ajnbIpz8KKcDlzjgjUNDBZmwfJJDedraXZkmpomaHrPlr4B-6FAJelwh7_MBHKGBsbfF",
-    "developer_id": "HealthLynked Corp",
-    "updated_date": "2020-04-22",
-    "downloads": "10,000+",
-    "country": ""
+    "id": "com.CoronaMapSA",
+    "title": "Corona Map",
+    "icon_url": "https://lh3.googleusercontent.com/EBZO_bfXFRbz3lBansXc1LGJRRl-0LZ8Vos4H188aeo3kVhaGBavuHRyEWGRMnvIyd8",
+    "developer_id": "National Health Information Center",
+    "updated_date": "2020-03-18",
+    "downloads": "50,000+",
+    "country": "SA"
+  },
+  {
+    "id": "com.Eha.covid_19",
+    "title": "COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
+    "developer_id": "Electronic Health Administration",
+    "updated_date": "2020-03-11",
+    "downloads": "100,000+",
+    "country": "VN"
+  },
+  {
+    "id": "com.agetic.coronavirusapp",
+    "title": "Bolivia Segura",
+    "icon_url": "https://lh3.googleusercontent.com/BR-MIXheF8RJphrR1XUTpormChjMU1IOAE-nK26CbdhsPlk_J47til_TjwDh-70H1Sg",
+    "developer_id": "Agetic Bolivia",
+    "updated_date": "2020-05-09",
+    "downloads": "50,000+",
+    "country": "BO"
   },
   {
     "id": "com.allsoft.corona",
@@ -393,6 +186,42 @@
     "developer_id": "AllSoft Consulting",
     "updated_date": "2020-05-11",
     "downloads": "500,000+",
+    "country": "IN"
+  },
+  {
+    "id": "com.app_release.covid19finalcourse",
+    "title": "Uttarakhand CV 19 Tracking System",
+    "icon_url": "https://lh3.googleusercontent.com/ln2Dl1HDEO-hlUduWQKW48FhxCa024proI1UTw6oPY7v_i8E2yb6fNtYTdEapdOnmGTj",
+    "developer_id": "Govt of Uttarakhand (USERC)",
+    "updated_date": "2020-03-26",
+    "downloads": "10,000+",
+    "country": "IN"
+  },
+  {
+    "id": "com.appandabout.defusing",
+    "title": "Be+ against COVID19",
+    "icon_url": "https://lh3.googleusercontent.com/M0BRenscxv8uFN5UH1qguAouukTnl0qh5o9ae_4JuB--GSH5eSDuP4rq5pZYh4s0oA",
+    "developer_id": "AppAndAbout",
+    "updated_date": "2020-05-11",
+    "downloads": "100+",
+    "country": "ES"
+  },
+  {
+    "id": "com.bsmart.covid19",
+    "title": "Alerte COVID-19 S\u00e9n\u00e9gal",
+    "icon_url": "https://lh3.googleusercontent.com/0RnuOTgq-PpWo7ES4PInjIbWumTCl-pnqBZ6eRI63LErS4Loi2v6WYOyC51MgtLReA",
+    "developer_id": "5050630332065951284",
+    "updated_date": "2020-03-30",
+    "downloads": "50+",
+    "country": "SN"
+  },
+  {
+    "id": "com.covid19.dgmup",
+    "title": "UP Self- Quarantine App",
+    "icon_url": "https://lh3.googleusercontent.com/lj8Etg1E8IHOLWH-uoge4qePYf6JBnU97LofOGJRgqK-JlWiSasDrB_VP5fwthP2xA",
+    "developer_id": "India Health Action Trust",
+    "updated_date": "2020-04-26",
+    "downloads": "50,000+",
     "country": "IN"
   },
   {
@@ -405,31 +234,40 @@
     "country": "US"
   },
   {
-    "id": "br.gov.datasus.guardioes",
-    "title": "Coronav\u00edrus - SUS",
-    "icon_url": "https://lh3.googleusercontent.com/ifpFE4Mp-3AGdt7fSwqGmSMIpYt6kl1X4Dt3WmM84bUNnbG5gZZDXFRASg1QeOYGGg",
-    "developer_id": "5829287075355252046",
-    "updated_date": "2020-04-10",
-    "downloads": "1,000,000+",
-    "country": "BR"
-  },
-  {
-    "id": "uk.ac.cam.cl.covid19sounds",
-    "title": "COVID-19 Sounds",
-    "icon_url": "https://lh3.googleusercontent.com/eD1KAaXlM8e4YGbH_GeebDYAmQJ8UFEFJ8kFzFUNXfRaLYGVnHa23E3Bvp7w9ctdRx2E",
-    "developer_id": "cam-cl-mobile-systems",
-    "updated_date": "2020-05-13",
-    "downloads": "1,000+",
-    "country": "CL"
-  },
-  {
-    "id": "mx.gob.tamaulipas.covid19",
-    "title": "COVID-19 Tam",
-    "icon_url": "https://lh3.googleusercontent.com/gjYsDTOIzpoBPKmjj896WXnoPo0MVcIvq2BAFK91nAGtP9TVH0S5AKAnLgO94Pd_ECy1",
-    "developer_id": "Gobierno del Estado de Tamaulipas",
-    "updated_date": "2020-04-24",
+    "id": "com.droobihealth.corona",
+    "title": "COVI",
+    "icon_url": "https://lh3.googleusercontent.com/dztT4_lbZlmC_4b_vrCAqiGHX5WKBDo873QXQ-B0xP5E3Qd83RoABUa5iFXFX7zZooQ",
+    "developer_id": "Droobi Health Technology",
+    "updated_date": "2020-05-17",
     "downloads": "50,000+",
-    "country": "MX"
+    "country": "QA"
+  },
+  {
+    "id": "com.entrolabs.apcovid19",
+    "title": "COVID-19 Andhra Pradesh",
+    "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
+    "developer_id": "Entro Labs",
+    "updated_date": "2020-05-17",
+    "downloads": "50,000+",
+    "country": "IN"
+  },
+  {
+    "id": "com.family.tokhaiyte",
+    "title": "FAMILY - COVID 19",
+    "icon_url": "https://lh3.googleusercontent.com/Ren8jOghqCc3YpcOvGsyGdyuPywiC4CuXMYgiODxZwZmz7d6uQMyo8X5EDIla2rY71U",
+    "developer_id": "Family Hospital",
+    "updated_date": "2020-04-01",
+    "downloads": "100+",
+    "country": "VN"
+  },
+  {
+    "id": "com.govpk.covid19",
+    "title": "COVID-19 Gov PK",
+    "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
+    "developer_id": "National IT Board, Government Of Pakistan",
+    "updated_date": "2020-05-12",
+    "downloads": "500,000+",
+    "country": "PK"
   },
   {
     "id": "com.hard.covid19",
@@ -441,84 +279,48 @@
     "country": "CV"
   },
   {
-    "id": "sa.gov.nic.tawakkalna",
-    "title": "Tawakkalna (Covid-19 KSA)",
-    "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
-    "developer_id": "National Information Center",
-    "updated_date": "2020-05-15",
+    "id": "com.iclick.covidnew",
+    "title": "Nepal COVID-19 Surveillance",
+    "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
+    "developer_id": "iClick",
+    "updated_date": "2020-05-10",
+    "downloads": "5,000+",
+    "country": "NP"
+  },
+  {
+    "id": "com.interactivespecializedsoftware.bodytemperaturediary",
+    "title": "Body Temperature Diary",
+    "icon_url": "https://lh3.googleusercontent.com/4sX3DGAfwimecPI-cmKMksKa1Z2xDOc5fp3vjxfvEeIwUm8UmFWVaetOU5JcmsmHaCI",
+    "developer_id": "Interactive Specialized Software",
+    "updated_date": "2019-03-15",
     "downloads": "1,000,000+",
-    "country": "SA"
-  },
-  {
-    "id": "bh.bahrain.corona.tracker",
-    "title": "BeAware Bahrain",
-    "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
-    "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2020-05-02",
-    "downloads": "100,000+",
-    "country": "BH"
-  },
-  {
-    "id": "co.uk.healthcreatives.uclhcovid19",
-    "title": "UCLH COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
-    "developer_id": "Vincent Harding - UCL Health Creatives",
-    "updated_date": "2020-04-30",
-    "downloads": "100+",
-    "country": "UK"
-  },
-  {
-    "id": "com.ada.app",
-    "title": "Ada \u2013 your health companion",
-    "icon_url": "https://lh3.googleusercontent.com/nrZjgITchOX_fQwykerw8eflueGYxVkhJPjeC8Kot_MFSLEhf6TmmaHRj0I_21eXigg",
-    "developer_id": "Ada Health",
-    "updated_date": "2020-05-12",
-    "downloads": "5,000,000+",
     "country": ""
   },
   {
-    "id": "com.agetic.coronavirusapp",
-    "title": "Bolivia Segura",
-    "icon_url": "https://lh3.googleusercontent.com/BR-MIXheF8RJphrR1XUTpormChjMU1IOAE-nK26CbdhsPlk_J47til_TjwDh-70H1Sg",
-    "developer_id": "Agetic Bolivia",
-    "updated_date": "2020-05-09",
-    "downloads": "50,000+",
-    "country": "BO"
-  },
-  {
-    "id": "com.appandabout.defusing",
-    "title": "Be+ against COVID19",
-    "icon_url": "https://lh3.googleusercontent.com/M0BRenscxv8uFN5UH1qguAouukTnl0qh5o9ae_4JuB--GSH5eSDuP4rq5pZYh4s0oA",
-    "developer_id": "AppAndAbout",
-    "updated_date": "2020-05-11",
-    "downloads": "100+",
-    "country": "ES"
-  },
-  {
-    "id": "com.covid19.dgmup",
-    "title": "UP Self- Quarantine App",
-    "icon_url": "https://lh3.googleusercontent.com/lj8Etg1E8IHOLWH-uoge4qePYf6JBnU97LofOGJRgqK-JlWiSasDrB_VP5fwthP2xA",
-    "developer_id": "India Health Action Trust",
-    "updated_date": "2020-04-26",
+    "id": "com.intutrack.covidtrack",
+    "title": "Covid Locator",
+    "icon_url": "https://lh3.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
+    "developer_id": "Intugine Technologies",
+    "updated_date": "2020-04-18",
     "downloads": "50,000+",
     "country": "IN"
   },
   {
-    "id": "com.entrolabs.pharmacyap",
-    "title": "COVID-19 AP Pharma",
-    "icon_url": "https://lh3.googleusercontent.com/HJvumD8leGpfkOjq7vEwHl2AGF0n_9vd7acsooziGW1c0Gl8yFUXDSn4-bnpnmQ-yg",
-    "developer_id": "Entro Labs",
-    "updated_date": "2020-05-02",
-    "downloads": "1,000+",
-    "country": ""
+    "id": "com.joinzoe.covid_zoe",
+    "title": "COVID Symptom Study",
+    "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
+    "developer_id": "Zoe Global Limited",
+    "updated_date": "2020-05-07",
+    "downloads": "1,000,000+",
+    "country": "UK"
   },
   {
-    "id": "com.innovaccer.assistant.innote",
-    "title": "InNote Assistant",
-    "icon_url": "https://lh3.googleusercontent.com/ZMu3gqo7J4iB8XC6nx6rBq_4BnihZ_DPeGa7ytBx9YuV4lK5pwfhOofdjLMDXuaoOCA",
-    "developer_id": "Innovaccer Inc",
-    "updated_date": "2020-04-11",
-    "downloads": "10,000+",
+    "id": "com.kencorhealth.covid",
+    "title": "Kencor COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/7RG-gqhmvSSgkftyBC_5N3xO1Om4WwDKwjca6stBjufOsqgASApkkvU4ZOFK7thUJxM",
+    "developer_id": "Kencor health",
+    "updated_date": "2020-04-22",
+    "downloads": "10+",
     "country": "US"
   },
   {
@@ -540,6 +342,24 @@
     "country": "LT"
   },
   {
+    "id": "com.maithu.transplantbuddy.covid19",
+    "title": "patientMpower for COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
+    "developer_id": "patientMpower",
+    "updated_date": "2020-05-13",
+    "downloads": "1,000+",
+    "country": "IE"
+  },
+  {
+    "id": "com.moi.covid19",
+    "title": "EHTERAZ",
+    "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
+    "developer_id": "Ministry Of Interior - Qatar",
+    "updated_date": "2020-05-14",
+    "downloads": "100,000+",
+    "country": "QA"
+  },
+  {
     "id": "com.nap_pakistan.app",
     "title": "Pakistan's National Action Plan for COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/t49MbIuK85wStdS2_wThwp-ZI-oNXau7ybxUkzxwbdxQkXyYLMnBFjfo23wGv5p4vnI",
@@ -547,6 +367,24 @@
     "updated_date": "2020-03-25",
     "downloads": "50,000+",
     "country": "PK"
+  },
+  {
+    "id": "com.patientmpower.covid19.usa",
+    "title": "patientMpower for COVID-19 USA",
+    "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
+    "developer_id": "patientMpower",
+    "updated_date": "2020-05-13",
+    "downloads": "10+",
+    "country": "IE"
+  },
+  {
+    "id": "com.pixxonai.covid19wb",
+    "title": "COVID-19 West Bengal Government",
+    "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
+    "developer_id": "SEMT Govt. of West Bengal",
+    "updated_date": "2020-04-06",
+    "downloads": "100,000+",
+    "country": "IN"
   },
   {
     "id": "com.pratikthorat.coronatracker",
@@ -558,6 +396,60 @@
     "country": "IN"
   },
   {
+    "id": "com.proudcrowd.care",
+    "title": "Care19",
+    "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
+    "developer_id": "ProudCrowd, LLC",
+    "updated_date": "2020-05-08",
+    "downloads": "10,000+",
+    "country": "US"
+  },
+  {
+    "id": "com.spotteron.coronareport",
+    "title": "CoronaReport - COVID-19 reports for Social Science",
+    "icon_url": "https://lh3.googleusercontent.com/UFFwN27Tbx0p944HeZQcAoIIrvlVGtHIT-Gy7vU3e8-M0VCkKbYwyZtTrUG8m6UgHtE",
+    "developer_id": "SPOTTERON",
+    "updated_date": "2020-04-11",
+    "downloads": "500+",
+    "country": "UK"
+  },
+  {
+    "id": "com.symptomate.mobile",
+    "title": "Symptomate \u2013 Symptom checker",
+    "icon_url": "https://lh3.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
+    "developer_id": "Infermedica",
+    "updated_date": "2019-02-01",
+    "downloads": "100,000+",
+    "country": "PL"
+  },
+  {
+    "id": "com.tsstate.citizen",
+    "title": "T COVID'19",
+    "icon_url": "https://lh3.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
+    "developer_id": "ET Wing, Govt of Telangana",
+    "updated_date": "2020-04-14",
+    "downloads": "50,000+",
+    "country": "IN"
+  },
+  {
+    "id": "com.virustracker.app",
+    "title": "StopTheSpread COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A",
+    "developer_id": "Binary Mango",
+    "updated_date": "2020-03-10",
+    "downloads": "100+",
+    "country": "UK"
+  },
+  {
+    "id": "com.vnptit.innovation.ncovi",
+    "title": "NCOVI",
+    "icon_url": "https://lh3.googleusercontent.com/yhxMI5WOFH-OYfKz_hck-AZeil-4pZ8c3HZUPypfDLCb_6J56CJpf2X3R2LYH7rdMlqo",
+    "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
+    "updated_date": "2020-04-21",
+    "downloads": "1,000,000+",
+    "country": "VN"
+  },
+  {
     "id": "covid19care.virus.coronavirus.corona.sick.marcom.health.pakistan",
     "title": "COVID19 Care for Media",
     "icon_url": "https://lh3.googleusercontent.com/ris1g9aDUAX2lC20JJonYcFKkJlhjnHPtIj6kqzapeCjY5xUAsWuMUiDeti0ha3BhIyn",
@@ -567,6 +459,33 @@
     "country": "PK"
   },
   {
+    "id": "cz.nmbbrno.covid",
+    "title": "COVID-19! - The current spread of disease",
+    "icon_url": "https://lh3.googleusercontent.com/5E4I1QxM4SHjLLLw3ksAp0e9QUyDOcy5pRAMO8HYwPQunOKo50YetjPxSIWN4_5xZxo",
+    "developer_id": "Nemocnice Milosrdnych bratri, p.o.",
+    "updated_date": "2020-04-08",
+    "downloads": "10,000+",
+    "country": "CZ"
+  },
+  {
+    "id": "es.gob.asistenciacovid19",
+    "title": "Asistencia COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
+    "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
+    "updated_date": "2020-05-07",
+    "downloads": "10,000+",
+    "country": "ES"
+  },
+  {
+    "id": "gov.fema.mobile.android",
+    "title": "FEMA",
+    "icon_url": "https://lh3.googleusercontent.com/3lemGPsoZ_ysd6rBRq1AYScTL6BxycRZVkeofYZVqw4Fdr89nSbGAohRlKZ2TXEFg40",
+    "developer_id": "Federal Emergency Management Agency (FEMA)",
+    "updated_date": "2019-12-23",
+    "downloads": "1,000,000+",
+    "country": "US"
+  },
+  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
@@ -574,6 +493,24 @@
     "updated_date": "2020-04-17",
     "downloads": "100,000+",
     "country": "GE"
+  },
+  {
+    "id": "gov.va.mobilehealth.ncptsd.covid",
+    "title": "COVID Coach",
+    "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
+    "developer_id": "US Department of Veterans Affairs (VA)",
+    "updated_date": "2020-05-06",
+    "downloads": "5,000+",
+    "country": "VA"
+  },
+  {
+    "id": "id.jofarsystemskodine.dev",
+    "title": "JS COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/xIMoq2hSHGURmRFY32hA_qWMkLzQMReiSROcrLGBN4acnTVaDGYqESFBO5Pv8gpUDU8",
+    "developer_id": "Jofar Systems Ltd",
+    "updated_date": "2020-04-04",
+    "downloads": "100+",
+    "country": "ID"
   },
   {
     "id": "in.gov.punjab.cova",
@@ -603,6 +540,15 @@
     "country": "IS"
   },
   {
+    "id": "it.adilife.covid19.app",
+    "title": "ADiLife Covid-19",
+    "icon_url": "https://lh3.googleusercontent.com/C7gC99eWUqlVbFlUEq06CKJ4RO5kyPey-zRhD2vHs4mnMqoCz0KU4ScIvcMjoRbuNv5j",
+    "developer_id": "ADiLife Srl",
+    "updated_date": "2020-05-05",
+    "downloads": "500+",
+    "country": "IT"
+  },
+  {
     "id": "it.softmining.projects.covid19.savelifestyle",
     "title": "SM_Covid19",
     "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
@@ -610,6 +556,15 @@
     "updated_date": "2020-05-12",
     "downloads": "10,000+",
     "country": "IT"
+  },
+  {
+    "id": "kg.cdt.stopcovid19",
+    "title": "Stop COVID-19 KG",
+    "icon_url": "https://lh3.googleusercontent.com/R8OnFzq0l3xWYn-CcMBgqP9Pd3RLfCU-QYipRJUCtkuBfS4-GuoH1LpzNMzDjxDa7gk",
+    "developer_id": "\u041c\u041f \"\u0426\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\" \u043c\u044d\u0440\u0438\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0438\u0448\u043a\u0435\u043a",
+    "updated_date": "2020-05-07",
+    "downloads": "10,000+",
+    "country": "KG"
   },
   {
     "id": "ly.com.tmc.covid19_libya",
@@ -621,6 +576,24 @@
     "country": "LY"
   },
   {
+    "id": "mx.gob.tamaulipas.covid19",
+    "title": "COVID-19 Tam",
+    "icon_url": "https://lh3.googleusercontent.com/gjYsDTOIzpoBPKmjj896WXnoPo0MVcIvq2BAFK91nAGtP9TVH0S5AKAnLgO94Pd_ECy1",
+    "developer_id": "Gobierno del Estado de Tamaulipas",
+    "updated_date": "2020-04-24",
+    "downloads": "50,000+",
+    "country": "MX"
+  },
+  {
+    "id": "mx.gob.www",
+    "title": "COVID-19MX",
+    "icon_url": "https://lh3.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
+    "developer_id": "Secretar\u00eda de Salud MX",
+    "updated_date": "2020-05-06",
+    "downloads": "500,000+",
+    "country": "MX"
+  },
+  {
     "id": "my.gov.onegovappstore.mysejahtera",
     "title": "MySejahtera",
     "icon_url": "https://lh3.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
@@ -628,6 +601,24 @@
     "updated_date": "2020-05-12",
     "downloads": "500,000+",
     "country": "MY"
+  },
+  {
+    "id": "nic.goi.aarogyasetu",
+    "title": "Aarogya Setu",
+    "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
+    "developer_id": "9076108670215860604",
+    "updated_date": "2020-05-15",
+    "downloads": "100,000,000+",
+    "country": "IN"
+  },
+  {
+    "id": "nl.lumc.covidradar",
+    "title": "COVID Radar",
+    "icon_url": "https://lh3.googleusercontent.com/hSkCL9B0Qe2QsBGjsOgJBzNWLKE4BFmPcurk4bAFFbIv9nAUYjjxvLNzlFS_L1RFLv4",
+    "developer_id": "LUMC Leiden",
+    "updated_date": "2020-04-08",
+    "downloads": "50,000+",
+    "country": "NL"
   },
   {
     "id": "np.com.naxa.covid19",
@@ -639,6 +630,15 @@
     "country": "NP"
   },
   {
+    "id": "org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
+    "title": "Kenya Covid-19 Tracker",
+    "icon_url": "https://lh3.googleusercontent.com/yCnt0Emrd9Nln_PlTD9cVFWdLSehJNghg3g27L8u5bA6RAT8PvFA9l7Is82mvMbQzn2_",
+    "developer_id": "Medic Mobile, Inc.",
+    "updated_date": "2020-04-28",
+    "downloads": "100+",
+    "country": "KE"
+  },
+  {
     "id": "org.pathcheck.covidsafepaths",
     "title": "COVID Safe Paths",
     "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
@@ -648,6 +648,15 @@
     "country": "US"
   },
   {
+    "id": "org.prixa.p5covidtracker",
+    "title": "Province 5 COVID-19 Tracker",
+    "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
+    "developer_id": "8818240120731662306",
+    "updated_date": "2020-04-02",
+    "downloads": "10,000+",
+    "country": "NP"
+  },
+  {
     "id": "pl.nask.droid.kwarantannadomowa",
     "title": "Home Quarantine (Kwarantanna domowa)",
     "icon_url": "https://lh3.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
@@ -655,6 +664,15 @@
     "updated_date": "2020-05-06",
     "downloads": "100,000+",
     "country": "PL"
+  },
+  {
+    "id": "sa.gov.nic.tawakkalna",
+    "title": "Tawakkalna (Covid-19 KSA)",
+    "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
+    "developer_id": "National Information Center",
+    "updated_date": "2020-05-15",
+    "downloads": "1,000,000+",
+    "country": "SA"
   },
   {
     "id": "sg.gov.tech.bluetrace",
@@ -675,76 +693,22 @@
     "country": "TR"
   },
   {
-    "id": "ar.gob.coronavirus",
-    "title": "CUIDAR COVID-19 ARGENTINA",
-    "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
-    "developer_id": "8169270262982486256",
-    "updated_date": "2020-05-16",
-    "downloads": "1,000,000+",
-    "country": "AR"
+    "id": "tracker.healthcare.sentinel",
+    "title": "Sentinel Monitor (COVID-19 Management)",
+    "icon_url": "https://lh3.googleusercontent.com/-Ej8vL-04yvG4NyfQQ0wT03g_3BQ68OkErdX4ghecpwR7KvCqIOxnDZCNRGh2oS_8Ns",
+    "developer_id": "Sentinel Healthcare",
+    "updated_date": "2020-04-23",
+    "downloads": "500+",
+    "country": "US"
   },
   {
-    "id": "com.CoronaMapSA",
-    "title": "Corona Map",
-    "icon_url": "https://lh3.googleusercontent.com/EBZO_bfXFRbz3lBansXc1LGJRRl-0LZ8Vos4H188aeo3kVhaGBavuHRyEWGRMnvIyd8",
-    "developer_id": "National Health Information Center",
-    "updated_date": "2020-03-18",
-    "downloads": "50,000+",
-    "country": "SA"
-  },
-  {
-    "id": "com.app_release.covid19finalcourse",
-    "title": "Uttarakhand CV 19 Tracking System",
-    "icon_url": "https://lh3.googleusercontent.com/ln2Dl1HDEO-hlUduWQKW48FhxCa024proI1UTw6oPY7v_i8E2yb6fNtYTdEapdOnmGTj",
-    "developer_id": "Govt of Uttarakhand (USERC)",
-    "updated_date": "2020-03-26",
-    "downloads": "10,000+",
-    "country": "IN"
-  },
-  {
-    "id": "co.cellapp.bharatpurcovid",
-    "title": "Bharatpur Metropolitan | COVID-19 Response System",
-    "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
-    "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
-    "updated_date": "2020-04-24",
-    "downloads": "5,000+",
-    "country": "CO"
-  },
-  {
-    "id": "com.bsmart.covid19",
-    "title": "Alerte COVID-19 S\u00e9n\u00e9gal",
-    "icon_url": "https://lh3.googleusercontent.com/0RnuOTgq-PpWo7ES4PInjIbWumTCl-pnqBZ6eRI63LErS4Loi2v6WYOyC51MgtLReA",
-    "developer_id": "5050630332065951284",
-    "updated_date": "2020-03-30",
-    "downloads": "50+",
-    "country": "SN"
-  },
-  {
-    "id": "com.entrolabs.apcovid19",
-    "title": "COVID-19 Andhra Pradesh",
-    "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
-    "developer_id": "Entro Labs",
-    "updated_date": "2020-05-17",
-    "downloads": "50,000+",
-    "country": "IN"
-  },
-  {
-    "id": "com.moi.covid19",
-    "title": "EHTERAZ",
-    "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
-    "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2020-05-14",
-    "downloads": "100,000+",
-    "country": "QA"
-  },
-  {
-    "id": "id.jofarsystemskodine.dev",
-    "title": "JS COVID-19",
-    "icon_url": "https://lh3.googleusercontent.com/xIMoq2hSHGURmRFY32hA_qWMkLzQMReiSROcrLGBN4acnTVaDGYqESFBO5Pv8gpUDU8",
-    "developer_id": "Jofar Systems Ltd",
-    "updated_date": "2020-04-04",
-    "downloads": "100+",
-    "country": "ID"
+    "id": "uk.ac.cam.cl.covid19sounds",
+    "title": "COVID-19 Sounds",
+    "icon_url": "https://lh3.googleusercontent.com/eD1KAaXlM8e4YGbH_GeebDYAmQJ8UFEFJ8kFzFUNXfRaLYGVnHa23E3Bvp7w9ctdRx2E",
+    "developer_id": "cam-cl-mobile-systems",
+    "updated_date": "2020-05-13",
+    "downloads": "1,000+",
+    "country": "CL"
   },
   {
     "id": "uk.nhs.nhsx.colocate",
@@ -756,6 +720,24 @@
     "country": "UK"
   },
   {
+    "id": "uy.gub.salud.plancovid19uy",
+    "title": "Coronavirus UY",
+    "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
+    "developer_id": "AGESIC",
+    "updated_date": "2020-04-27",
+    "downloads": "100,000+",
+    "country": "UY"
+  },
+  {
+    "id": "vn.suckhoetoandan.v2",
+    "title": "S\u1ee9c kh\u1ecfe Vi\u1ec7t Nam",
+    "icon_url": "https://lh3.googleusercontent.com/FnGdZR5pcqzCjLw_Vhp0wnmh5nDfMFlgPcYXxA07Od4NYJb4PALVgiGzvxCv4MpFhhg",
+    "developer_id": "Viettel Business Solutions Corporation",
+    "updated_date": "2020-04-22",
+    "downloads": "500,000+",
+    "country": "VN"
+  },
+  {
     "id": "www.facetagr.com.cobuddy",
     "title": "CoBuddy - Covid19 Tool",
     "icon_url": "https://lh3.googleusercontent.com/nVs2peloeZrLhiN_0CuH_wn8r7Pg-8oQx4TNfBEjc29ak_CDHW9Ay9c2tt9gn8XFRlVc",
@@ -763,50 +745,5 @@
     "updated_date": "2020-03-30",
     "downloads": "10,000+",
     "country": "IN"
-  },
-  {
-    "id": "ae.tracecovid.app",
-    "title": "TraceCovid",
-    "icon_url": "https://lh3.googleusercontent.com/PAF7-ptxx91SgPq7aHNCaQN-vsGSsyfX_EnbhU4qPyedLCrcaKjNxsAyZ8L4uj1-wmk",
-    "developer_id": "Department of Health - Abu Dhabi",
-    "updated_date": "2020-04-13",
-    "downloads": "100,000+",
-    "country": "AE"
-  },
-  {
-    "id": "cl.gob.digital.coronapp",
-    "title": "CoronApp",
-    "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
-    "developer_id": "Gobierno Digital",
-    "updated_date": "2020-04-29",
-    "downloads": "50,000+",
-    "country": "CL"
-  },
-  {
-    "id": "co.cellapp.bardghatcovid19",
-    "title": "Bardghat Municipality - COVID-19/Disaster Response",
-    "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
-    "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
-    "updated_date": "2020-04-27",
-    "downloads": "100+",
-    "country": "CO"
-  },
-  {
-    "id": "co.gov.cali.calivallecorona",
-    "title": "CaliValle Corona",
-    "icon_url": "https://lh3.googleusercontent.com/IzmNLjF_QsVYl7UWzlSQya7-lJTcG4nzzxYw0hG1RyA23rHHbLaMqLsoKab2AE76s-Gu",
-    "developer_id": "Gobernaci\u00f3n del Valle del Cauca",
-    "updated_date": "2020-05-16",
-    "downloads": "10,000+",
-    "country": "CO"
-  },
-  {
-    "id": "com.interactivespecializedsoftware.bodytemperaturediary",
-    "title": "Body Temperature Diary",
-    "icon_url": "https://lh3.googleusercontent.com/4sX3DGAfwimecPI-cmKMksKa1Z2xDOc5fp3vjxfvEeIwUm8UmFWVaetOU5JcmsmHaCI",
-    "developer_id": "Interactive Specialized Software",
-    "updated_date": "2019-03-15",
-    "downloads": "1,000,000+",
-    "country": ""
   }
 ]
