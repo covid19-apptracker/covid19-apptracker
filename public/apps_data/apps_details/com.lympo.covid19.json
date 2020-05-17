@@ -1,0 +1,59 @@
+{
+  "id": "com.lympo.covid19",
+  "title": "Karantinas",
+  "icon_url": "https://lh3.googleusercontent.com/8LJdoKfyth3WPZitg_TCDk-Y-dpHMs17vBSi93yGkK4H5gqWlFAoV_GuVJ1Y0cG2BsA",
+  "developer_id": "Vilnius",
+  "updated_date": "2020-05-12",
+  "downloads": "5,000+",
+  "country": "LT",
+  "description": "The app Karantinas enables daily coronavirus symptom tracking, encourages healthy actions that curb the spread of the virus and helps to care for people in self-isolation. All actions in the app Karantinas are rewarded with points which can be spent to buy great discounts in the app shop. How it works: -\tDaily health tasks based on the recommendations of the World Health Organisation preventing the spread of the coronavirus; -\tDaily questionnaires on coronavirus symptoms. After filling in a questionnaire you will receive a recommendation on whom to contact in case of alerting symptoms; -\tThe latest official information about the coronavirus in Lithuania; -\tAdvice on how to stay healthy at home. -\tActivation and tracking of the self-isolation regime, useful information on self-isolation, daily questions and tasks, assistance to all people in self-isolation regime. Every app user will be rewarded! Answer the questions, complete Daily health tasks and get points. Later, you will be able to spend them in the app shop and buy great prizes. It\u2019s really easy and very important: daily health monitoring will help to prevent the spread of COVID-19. This app is developed together with the City of Vilnius (Lithuania), the Hospital of Lithuanian University of Health Sciences Kauno Klinikos and the National Public Health Center under the Ministry of Health of the Republic of Lithuania. IMPORTANT: THIS IS NOT A MEDICAL ADVICE. IF YOU DON\u2019T FEEL WELL, PLEASE IMMEDIATELLY CONTANT THE HOTLINE 1808 (IN LITHUANIA ONLY).",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.lympo.covid19",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
+    ],
+    "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "Read phone status and identity"
+    ],
+    "Wearable sensors/Activity data": [
+      "Body sensors (like heart rate monitors)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Device & app history": [
+      "Retrieve running apps"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)",
+      "Access extra location provider commands"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Connect and disconnect from wi-fi",
+      "Full network access",
+      "Run at startup",
+      "Draw over other apps",
+      "Control vibration",
+      "Prevent device from sleeping",
+      "Google play license check",
+      "Read google service configuration"
+    ]
+  },
+  "developer_url": "https://lympo.com",
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
