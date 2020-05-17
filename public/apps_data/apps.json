@@ -68,7 +68,7 @@
     "icon_url": "https://lh3.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
     "developer_id": "Intugine Technologies",
     "updated_date": "2020-04-18",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "IN"
   },
   {
@@ -94,8 +94,8 @@
     "title": "COVID Coach",
     "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
     "developer_id": "US Department of Veterans Affairs %28VA%29",
-    "updated_date": "2020-04-17",
-    "downloads": "1,000+",
+    "updated_date": "2020-05-06",
+    "downloads": "5,000+",
     "country": "VA"
   },
   {
@@ -175,7 +175,7 @@
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
     "developer_id": "patientMpower",
-    "updated_date": "2020-04-21",
+    "updated_date": "2020-05-13",
     "downloads": "10+",
     "country": "IE"
   },
@@ -194,8 +194,8 @@
     "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
     "developer_id": "SEMT Govt. of West Bengal",
     "updated_date": "2020-04-06",
-    "downloads": "50,000+",
-    "country": ""
+    "downloads": "100,000+",
+    "country": "IN"
   },
   {
     "id": "com.kencorhealth.covid",
@@ -229,8 +229,8 @@
     "title": "COVID-19MX",
     "icon_url": "https://lh3.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
     "developer_id": "Secretar%C3%ADa de Salud MX",
-    "updated_date": "2020-05-04",
-    "downloads": "100,000+",
+    "updated_date": "2020-05-06",
+    "downloads": "500,000+",
     "country": "MX"
   },
   {
@@ -274,7 +274,7 @@
     "title": "Nepal COVID-19 Surveillance",
     "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
     "developer_id": "iClick",
-    "updated_date": "2020-04-17",
+    "updated_date": "2020-05-10",
     "downloads": "5,000+",
     "country": "NP"
   },
@@ -321,7 +321,7 @@
     "developer_id": "Infermedica",
     "updated_date": "2019-02-01",
     "downloads": "100,000+",
-    "country": ""
+    "country": "PL"
   },
   {
     "id": "gov.fema.mobile.android",
@@ -400,8 +400,8 @@
     "title": "C Spire Health - UMMC Virtual COVID-19 Triage",
     "icon_url": "https://lh3.googleusercontent.com/JqApSSzp2rRtxKaC49yoYmf-flbqsvXpXaLTDpca8dv4QLbTVDKcL3BOUPvxOuetDd89",
     "developer_id": "C Spire",
-    "updated_date": "2020-03-23",
-    "downloads": "5,000+",
+    "updated_date": "2020-05-13",
+    "downloads": "10,000+",
     "country": ""
   },
   {
@@ -464,7 +464,7 @@
     "icon_url": "https://lh3.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
     "developer_id": "Vincent Harding - UCL Health Creatives",
     "updated_date": "2020-04-30",
-    "downloads": "50+",
+    "downloads": "100+",
     "country": "CO"
   },
   {
@@ -472,7 +472,7 @@
     "title": "Ada \u2013 your health companion",
     "icon_url": "https://lh3.googleusercontent.com/nrZjgITchOX_fQwykerw8eflueGYxVkhJPjeC8Kot_MFSLEhf6TmmaHRj0I_21eXigg",
     "developer_id": "Ada Health",
-    "updated_date": "2020-05-04",
+    "updated_date": "2020-05-12",
     "downloads": "5,000,000+",
     "country": ""
   },
@@ -481,7 +481,7 @@
     "title": "Bolivia Segura",
     "icon_url": "https://lh3.googleusercontent.com/BR-MIXheF8RJphrR1XUTpormChjMU1IOAE-nK26CbdhsPlk_J47til_TjwDh-70H1Sg",
     "developer_id": "Agetic Bolivia",
-    "updated_date": "2020-04-26",
+    "updated_date": "2020-05-09",
     "downloads": "50,000+",
     "country": "BO"
   },
@@ -490,7 +490,7 @@
     "title": "Be+ against COVID19",
     "icon_url": "https://lh3.googleusercontent.com/M0BRenscxv8uFN5UH1qguAouukTnl0qh5o9ae_4JuB--GSH5eSDuP4rq5pZYh4s0oA",
     "developer_id": "AppAndAbout",
-    "updated_date": "2020-04-29",
+    "updated_date": "2020-05-11",
     "downloads": "100+",
     "country": "ES"
   },
@@ -519,7 +519,7 @@
     "developer_id": "Innovaccer Inc",
     "updated_date": "2020-04-11",
     "downloads": "10,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.knasirayaz.mohapcovid",
@@ -535,7 +535,7 @@
     "title": "Karantinas",
     "icon_url": "https://lh3.googleusercontent.com/8LJdoKfyth3WPZitg_TCDk-Y-dpHMs17vBSi93yGkK4H5gqWlFAoV_GuVJ1Y0cG2BsA",
     "developer_id": "Vilnius",
-    "updated_date": "2020-04-19",
+    "updated_date": "2020-05-12",
     "downloads": "5,000+",
     "country": "LT"
   },
@@ -607,7 +607,7 @@
     "title": "SM_Covid19",
     "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
     "developer_id": "Softmining Srl",
-    "updated_date": "2020-05-02",
+    "updated_date": "2020-05-12",
     "downloads": "10,000+",
     "country": "IT"
   },
@@ -643,9 +643,9 @@
     "title": "COVID Safe Paths",
     "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
     "developer_id": "Path Check, Inc",
-    "updated_date": "2020-04-30",
+    "updated_date": "2020-05-16",
     "downloads": "5,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "pl.nask.droid.kwarantannadomowa",
@@ -670,7 +670,7 @@
     "title": "Hayat Eve S\u0131\u011far",
     "icon_url": "https://lh3.googleusercontent.com/_Vo90zESrIKxYlNtcOQVdKetWim15bsdWG2Vax6zruz_n2hp5IEMXQWcZj4vxv2ojhHZ",
     "developer_id": "T.C. Sa%C4%9Fl%C4%B1k Bakanl%C4%B1%C4%9F%C4%B1",
-    "updated_date": "2020-05-03",
+    "updated_date": "2020-05-13",
     "downloads": "5,000,000+",
     "country": "TR"
   },
@@ -707,7 +707,7 @@
     "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
     "developer_id": "SmartPalika - %E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F %E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%88%E0%A4%9B %E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2!",
     "updated_date": "2020-04-24",
-    "downloads": "1,000+",
+    "downloads": "5,000+",
     "country": "CO"
   },
   {
@@ -751,7 +751,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-05-11",
+    "updated_date": "2020-05-15",
     "downloads": "10,000+",
     "country": "UK"
   },
@@ -762,6 +762,42 @@
     "developer_id": "FaceTagR",
     "updated_date": "2020-03-30",
     "downloads": "10,000+",
-    "country": ""
+    "country": "IN"
+  },
+  {
+    "id": "ae.tracecovid.app",
+    "title": "TraceCovid",
+    "icon_url": "https://lh3.googleusercontent.com/PAF7-ptxx91SgPq7aHNCaQN-vsGSsyfX_EnbhU4qPyedLCrcaKjNxsAyZ8L4uj1-wmk",
+    "developer_id": "Department of Health - Abu Dhabi",
+    "updated_date": "2020-04-13",
+    "downloads": "100,000+",
+    "country": "AE"
+  },
+  {
+    "id": "cl.gob.digital.coronapp",
+    "title": "CoronApp",
+    "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
+    "developer_id": "Gobierno Digital",
+    "updated_date": "2020-04-29",
+    "downloads": "50,000+",
+    "country": "CL"
+  },
+  {
+    "id": "co.cellapp.bardghatcovid19",
+    "title": "Bardghat Municipality - COVID-19/Disaster Response",
+    "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
+    "developer_id": "SmartPalika - %E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F %E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%88%E0%A4%9B %E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2!",
+    "updated_date": "2020-04-27",
+    "downloads": "100+",
+    "country": "CO"
+  },
+  {
+    "id": "co.gov.cali.calivallecorona",
+    "title": "CaliValle Corona",
+    "icon_url": "https://lh3.googleusercontent.com/IzmNLjF_QsVYl7UWzlSQya7-lJTcG4nzzxYw0hG1RyA23rHHbLaMqLsoKab2AE76s-Gu",
+    "developer_id": "Gobernaci%C3%B3n del Valle del Cauca",
+    "updated_date": "2020-05-16",
+    "downloads": "10,000+",
+    "country": "CO"
   }
 ]
