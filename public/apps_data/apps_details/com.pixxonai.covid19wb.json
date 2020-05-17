@@ -1,0 +1,29 @@
+{
+  "id": "com.pixxonai.covid19wb",
+  "title": "COVID-19 West Bengal Government",
+  "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
+  "developer_id": "SEMT Govt. of West Bengal",
+  "updated_date": "2020-04-06",
+  "downloads": "100,000+",
+  "country": "IN",
+  "description": "This is an official app of West Bengal Government to monitor and control corona virus in the state of West Bengal To control home isolation people and quarantine",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.pixxonai.covid19wb",
+  "permissions": {
+    "Phone": [
+      "Directly call phone numbers"
+    ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  },
+  "developer_url": "https://wb.gov.in/",
+  "available": true,
+  "first_time_seen": "2020-05-10"
+}
