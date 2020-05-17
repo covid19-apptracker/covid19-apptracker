@@ -1,0 +1,28 @@
+# Source: https://medium.com/@Keithweaver_/setting-up-github-actions-for-a-react-app-on-github-pages-f66b28c312ac
+name: MasterDeployCI
+on:
+  create:
+    tags:
+      - *
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [8.x, 10.x, 12.x]
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install Packages
+        run: npm install
+      - name: Deploy to GH Pages
+          run: |
+            git config --global user.email "your_github_email>"
+            git config --global user.name "your_github_username>"
+            git remote set-url origin https://cccc374597dd5aa0978eb5769a4ab93fe9d73411@github.com/family-hackathon/covid19-apptracker.git
+            npm run deploy
+      - name: Updating Domain
+        run: echo "Update domain"
