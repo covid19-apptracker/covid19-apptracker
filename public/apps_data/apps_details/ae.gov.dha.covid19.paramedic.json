@@ -24,14 +24,15 @@
     ],
     "Other": [
       "Receive data from internet",
-      "Full network access",
-      "Draw over other apps",
-      "Prevent device from sleeping",
+      "Change your audio settings",
       "Pair with bluetooth devices",
       "View network connections",
-      "Change your audio settings"
+      "Full network access",
+      "Prevent device from sleeping",
+      "Draw over other apps"
     ]
   },
+  "developer_url": "http://www.dha.gov.ae",
   "available": true,
-  "first_time_seen": "2020-05-16"
+  "first_time_seen": "2020-05-17"
 }
