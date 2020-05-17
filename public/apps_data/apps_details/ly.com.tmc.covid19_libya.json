@@ -6,14 +6,14 @@
   "updated_date": "2020-04-25",
   "downloads": "5,000+",
   "country": "LY",
-  "description": "The application expresses two features.\nFirst, it is a tracker application that makes every person in the country of Libya aware of the number of cases in his/her own city.\nSecond, the application works as a communication channel between the health organizations in Libya and the public, so that individuals who are experiencing the symptoms of COVID19 can request a diagnostic test through the application.\nWith that, the application can help avoid mass gatherings at hospitals which will limit the transmission of the virus.",
+  "description": "The application expresses two features. First, it is a tracker application that makes every person in the country of Libya aware of the number of cases in his/her own city. Second, the application works as a communication channel between the health organizations in Libya and the public, so that individuals who are experiencing the symptoms of COVID19 can request a diagnostic test through the application. With that, the application can help avoid mass gatherings at hospitals which will limit the transmission of the virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ly.com.tmc.covid19_libya",
   "permissions": {
     "Other": [
       "Receive data from internet",
-      "Prevent device from sleeping",
+      "View network connections",
       "Full network access",
-      "View network connections"
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "http://tmc.com.ly",
