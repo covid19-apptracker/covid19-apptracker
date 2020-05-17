@@ -1,0 +1,29 @@
+{
+  "id": "org.theviralapp.app1",
+  "title": "Protego",
+  "icon_url": "https://lh3.googleusercontent.com/-Kgh1wcNwvxdwCDGAF2eTUez77H9ROztJs7pFdLDZ8PZ86F5YcbMf7fb0ZsJ2e7Ho9U",
+  "developer_id": "Protego App Ltd",
+  "updated_date": "2020-05-12",
+  "downloads": "100+",
+  "country": "",
+  "description": "This app is designed by medics and scientists from Imperial College London with one intention: to stop the spread of COVID-19 without compromising your privacy. It will let you know if any app user that you have had close contact with in past 14 days goes on to develop symptoms or a diagnosis of COVID-19. For example: If someone you waited next to in the supermarket queue last week gets a diagnosis of COVID-19 and records this in their app, you will be anonymously informed that someone you have previously been in close contact with now has the virus.You are now free to use this information about your potential exposure to make more educated decisions in your day to day life in order to limit the spread of the virus, protecting those that are most at risk. You can also use this app to help others, by anonymously informing them if you get symptoms or a diagnosis relating to COVID-19. This will enable them to take appropriate action and minimise their risk of infecting others. This app is an example of \"privacy by design\" as we believe the safest way to protect your personal information is by never collecting it in the first place. That is why this app will never even ask for your name and has no sign up whatsoever. We will also never use location data. You are completely anonymous. Neither us nor the government will ever be able to figure out who you are through this app. We use Bluetooth technology to register close contacts and use randomised anonymous IDs that refresh regularly as a substitute for names. For added privacy, this is all stored locally on your own device and only uploaded to the server if you report symptoms or a diagnosis of COVID-19. Additionally, only your personal device knows what IDs you have previously had, and hence only your personal device will be able to check if you have been exposed to someone with the virus. We believe that the best way to do contact tracing is to collect only the absolute essential information. No Names No Location No Log in Just contact tracing. For more information please visit our website at www.protegoapp.org",
+  "app_store_url": "https://play.google.com/store/apps/details?id=org.theviralapp.app1",
+  "permissions": {
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings",
+      "Run at startup"
+    ]
+  },
+  "developer_url": "https://www.protegoapp.org/",
+  "available": true,
+  "first_time_seen": "2020-05-17"
+}

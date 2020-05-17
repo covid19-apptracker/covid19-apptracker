@@ -2,7 +2,7 @@
   "id": "gov.fema.mobile.android",
   "title": "FEMA",
   "icon_url": "https://lh3.googleusercontent.com/3lemGPsoZ_ysd6rBRq1AYScTL6BxycRZVkeofYZVqw4Fdr89nSbGAohRlKZ2TXEFg40",
-  "developer_id": "Federal Emergency Management Agency %28FEMA%29",
+  "developer_id": "Federal Emergency Management Agency (FEMA)",
   "updated_date": "2019-12-23",
   "downloads": "1,000,000+",
   "country": "US",
@@ -10,24 +10,24 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.fema.mobile.android",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
       "View network connections",
-      "Run at startup",
       "Control vibration",
+      "Prevent device from sleeping",
       "Full network access",
-      "Prevent device from sleeping"
+      "Run at startup"
     ]
   },
   "developer_url": "http://www.fema.gov",
