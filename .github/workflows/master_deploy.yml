@@ -19,10 +19,10 @@ jobs:
       - name: Install Packages
         run: npm install
       - name: Deploy to GH Pages
-          run: |
-            git config --global user.email "6730539+carmayna@users.noreply.github.com"
-            git config --global user.name "MasterDeployCI"
-            git remote set-url origin https://cccc374597dd5aa0978eb5769a4ab93fe9d73411@github.com/family-hackathon/covid19-apptracker.git
-            npm run deploy
+        run: |
+          git config --global user.email "6730539+carmayna@users.noreply.github.com"
+          git config --global user.name "MasterDeployCI"
+          git remote set-url origin https://cccc374597dd5aa0978eb5769a4ab93fe9d73411@github.com/family-hackathon/covid19-apptracker.git
+          npm run deploy
       - name: Updating Domain
         run: echo "Update domain"
