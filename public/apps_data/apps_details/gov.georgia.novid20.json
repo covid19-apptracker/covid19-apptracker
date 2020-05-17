@@ -18,17 +18,18 @@
     ],
     "Other": [
       "Receive data from internet",
+      "Connect and disconnect from wi-fi",
+      "Full network access",
+      "Control vibration",
       "View network connections",
       "Prevent device from sleeping",
-      "Run at startup",
       "Pair with bluetooth devices",
       "Access bluetooth settings",
       "Control near field communication",
-      "Full network access",
-      "Control vibration",
-      "Connect and disconnect from wi-fi"
+      "Run at startup"
     ]
   },
+  "developer_url": "http://www.stopcov.ge",
   "available": true,
   "first_time_seen": "2020-05-10"
 }
