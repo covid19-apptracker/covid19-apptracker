@@ -9,9 +9,9 @@ class PlayApp extends Component {
             <Router>
             <Route exact path={"/app/"+this.props.id.toString()} component={AppPage} />
             <Link to={"app/"+this.props.id.toString()}> 
-            <div className="PlayApp flex sm:items-center mx-auto pb-12">
+            <div className="PlayApp flex sm:items-center mx-auto mb-12 p-4 hover:bg-gray-200 rounded-lg">
 
-              <div className="sm:w-2/12 sm:-mr-6 hidden sm:flex">
+              <div className="sm:w-2/12 sm:-mr-6 hidden sm:flex" style={{maxHeight:"60px"}}>
                 <img src={this.props.iconURL} width="60" height="60" className="rounded-lg shadow-lg"></img>
               </div>
               <div className="w-8/12 sm:w-6/12 mr-3">

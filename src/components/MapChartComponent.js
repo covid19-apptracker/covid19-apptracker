@@ -31,7 +31,6 @@ const rounded = num => {
 };
 
 const setCountryColor = totalApps => {
-    console.log(totalApps);
   if (totalApps != undefined && totalApps <= 2) {
     return ({
       default: {
@@ -139,7 +138,7 @@ class MapChartComponent extends Component {
             this.calculateTotalNumberOfApps();
         }
         return (
-            <div>
+            <div className="bg-gray-200">
                 <ComposableMap data-tip="" height={250} projectionConfig={{ scale: 150 }}>
                     <ZoomableGroup center={[0,10]} maxZoom={2}>
                     <Geographies geography={geoUrl}>
