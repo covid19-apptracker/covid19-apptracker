@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 import logo from '../../img/logo_wht.svg';
 
@@ -84,22 +84,21 @@ class AppPage extends Component {
 				>
                    
                         <div className="text-sm font-medium pb-8">
-                            <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>
-                                Home
-                            </Link>{' '}
-                            / <span >{this.props.title}</span>
+                            <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>Home</Link> / <span >{this.props.title}</span>
                         </div>
                     <div id="developerInfo">
-                        <div className="flex items-center pb-12">
-                            <div className="pr-4">
-                                <img alt={this.props.title + " app icon"} src={this.props.iconURL} width="120" height="120" className="rounded-lg shadow-lg"></img>
+                        <div className="sm:flex pb-12 items-center">
+                            <div className="pr-4 sm:mb-0 mb-4 flex-none">
+                                <img alt={this.props.title + " app icon"} src={this.props.iconURL} className="h-48 w-48 sm:h-32 sm:w-32 mx-auto sm:mx-0 rounded-lg shadow-lg"></img>
                             </div>
                             <div>
                                 <div className="items-baseline flex">
-                                    <h1 className="text-3xl pb-2">{this.props.title}<a href={this.props.appStoreURL}><i className="fa fa-share-square pl-4 fa-sm" style={{color: "#0066FF"}}></i></a></h1>
+                                    <h1 className="mx-auto sm:mx-0 text-3xl pb-2 text-center sm:text-left">{this.props.title}<a href={this.props.appStoreURL}><i className="fa fa-share-square pl-4 fa-sm" style={{color: "#0066FF"}}></i></a></h1>
                                 </div>
-                                <div className="flex">
-                                    <p className="font-bold text-sm pr-8">Developers</p>{this.props.developer}
+                                <div className="items-baseline flex"> 
+                                    <div className="mx-auto sm:mx-0"> 
+                                        <p><span className="font-bold text-sm pr-8">Developers</span>   {this.props.developer}</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +106,7 @@ class AppPage extends Component {
 
                     <div id="additionalInfo">
                         <div className="sm:flex pb-12">
-                            <div className="flex-1 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
+                            <div className="flex-1 rounded overflow-hidden shadow-lg mb-4 sm:mb-0 bg-white"> 
                                 <div className="px-6 py-4">
                                     <p className="font-bold text-sm">Origin Country</p>
                                     <div className="pt-6 pb-8 text-center">
@@ -118,7 +117,7 @@ class AppPage extends Component {
                                     {/* <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p>  */}
                                 </div>
                             </div>
-                            <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0"> 
+                            <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0 bg-white"> 
                                 <div className="px-6 py-4">
                                     <p className="font-bold text-sm">Device Installs</p>
                                     <div className="pt-6 pb-8 text-center">
@@ -130,7 +129,7 @@ class AppPage extends Component {
                                     {/* <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p>  */}
                                 </div>
                             </div>
-                            <div className="flex-1 rounded overflow-hidden shadow-lg"> 
+                            <div className="flex-1 rounded overflow-hidden shadow-lg bg-white"> 
                                 <div className="px-6 py-4">
                                     <p className="font-bold text-sm">Last Updated</p>
                                     <div className="pt-6 pb-8 text-center">
