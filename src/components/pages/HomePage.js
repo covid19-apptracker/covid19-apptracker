@@ -64,7 +64,7 @@ class HomePage extends Component {
               id="container"
               className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
             >
-              <div className="headers flex items-center mx-auto pb-6">
+              <div className="headers flex items-center mx-auto mb-6 p-4">
                 <div className="sm:w-2/12 sm:-mr-6"></div>
                 <div className="font-bold w-8/12 sm:w-6/12 min-w-xs mr-3">
                   Application Name
