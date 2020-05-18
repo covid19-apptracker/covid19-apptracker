@@ -14,14 +14,22 @@ class ContactPage extends Component {
                         <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>Home</Link>{' '} / <span>Contact Us</span>
                     </div>
                     <h1 className="text-3xl pb-8">
-                        Get A Hold Of Us
+                        Contact Us
                     </h1>
-                    <div className="text-base">
-                            <p className="pb-12">
-                            For any additional information on the data sets, how we are scraping data, or if you'd like to chat, please visit our <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="https://github.com/family-hackathon/covid19-apptracker" target="_blank">GitHub repository</a> or drop us a line at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a>.
+                    <div className="text-base pb-12">
+                            <p>
+                            We would love to hear from you! Please direct any press inquiries, corrections, or applications we may have missed to <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a>. If you are submitting an application please include in your email the link to the Google Play Store so we may verify the application.
                             </p>
                     </div>
                     <hr className="border-black pb-12" width="32px"/> 
+                    <h1 className="text-3xl pb-8">
+                        Want to Collaborate?
+                    </h1>
+                    <div className="text-base">
+                            <p className="pb-12">
+                            Working together allows us to make bigger and better things! If you’re working on a project related to COVID-19 applications, we’d also love to hear from you! Please contact our team at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a> and include in the subject line “Collaboration Opportunity [ORG / AFFILIATION]”.
+                            </p>
+                    </div> 
                 </div>
                 {/* < Footer / > */}
             </div>
