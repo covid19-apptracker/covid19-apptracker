@@ -3,7 +3,7 @@
   "title": "CoronApp",
   "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
   "developer_id": "Gobierno Digital",
-  "updated_date": "2020-04-29",
+  "updated_date": "2020-05-20",
   "downloads": "50,000+",
   "country": "CL",
   "description": "Aplicaci\u00f3n oficial del Gobierno de Chile para prevenir contagios de Coronavirus. La aplicaci\u00f3n te permite: (i) Realizar una autoevaluaci\u00f3n de tus s\u00edntomas para generar una clasificaci\u00f3n de riesgo.  Lo anterior para ti y tambi\u00e9n tus dependientes, tales como familiares, convivientes, vecinos u otros que no tengan c\u00f3mo acceder a la plataforma (ii) Recibir notificaciones del Ministerio de Salud (ii) Entregar contenido informativo sobre la contingencia y la evoluci\u00f3n de la pandemia (iv) Proveer una instancia para informar y/o denunciar conductas o eventos de alto riesgo (v) Indicar el lugar d\u00f3nde pasar\u00e1s tu cuarentena",
@@ -13,16 +13,16 @@
       "Retrieve running apps"
     ],
     "Location": [
-      "Precise location (gps and network-based)",
+      "Approximate location (network-based)",
       "Access extra location provider commands",
-      "Approximate location (network-based)"
+      "Precise location (gps and network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "Full network access",
-      "Prevent device from sleeping",
+      "Run at startup",
       "View network connections",
-      "Run at startup"
+      "Full network access",
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "https://coronapp.gob.cl",
