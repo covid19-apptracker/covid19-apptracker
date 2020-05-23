@@ -3,19 +3,19 @@
   "title": "CovTracer",
   "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
   "developer_id": "RISE Research Centre of Excellence",
-  "updated_date": "2020-05-13",
+  "updated_date": "2020-05-21",
   "downloads": "500+",
   "country": "CY",
   "description": "Halting the COVID19 epidemic requires rapid identification of the contacts wth whom the infected individuals had contact with, within the previous days and weeks. This allows decontamination of locations the infected individual has visited, plus informing and/or communicating with perhaps infected individuals. With almost half of the world\u2019s population carrying a device capable of GPS tracking, location trails \u2013 timestamped logs of an individual\u2019s location \u2013 can be created. By checking the user\u2019s location trails, one can identify other citizens who have been in close proximity to the diagnosed carrier and, if the exposed users take appropriate action, reduce the spread of the infectious disease. The first version of the mobile app targets mainly employees and workers who need to work outside and cannot stay at home. This includes policemen, doctors and nurses, firemen, people working in important utilities (electricity, water, internet, etc.). It also targets people who need to leave home to go to supermarket or pharmacy. For the rest of Cyprus population, we strongly advice them to stay at home in order to stop the spreading of the epidemics. CovTracer app is based on the MIT project safepaths.",
   "app_store_url": "https://play.google.com/store/apps/details?id=edu.rise.ihnilatis",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Location": [
       "Precise location (gps and network-based)",
@@ -27,16 +27,16 @@
     ],
     "Other": [
       "Receive data from internet",
-      "Access bluetooth settings",
-      "Full network access",
       "Read sync settings",
-      "Google play license check",
-      "View network connections",
-      "Pair with bluetooth devices",
-      "Create accounts and set passwords",
       "Prevent device from sleeping",
+      "Run at startup",
+      "View network connections",
+      "Create accounts and set passwords",
+      "Full network access",
+      "Google play license check",
       "Toggle sync on and off",
-      "Run at startup"
+      "Access bluetooth settings",
+      "Pair with bluetooth devices"
     ]
   },
   "developer_url": "http://covid-19.rise.org.cy/",

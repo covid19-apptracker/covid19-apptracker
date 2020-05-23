@@ -3,7 +3,7 @@
   "title": "Shlonik - \u0634\u0644\u0648\u0646\u0643",
   "icon_url": "https://lh3.googleusercontent.com/CoFYc-iClut8ojj7SfehfTHYHWtxH3VFvwjJnOa7BqGXHmipbGAvV4hVF6fqrAMphYk",
   "developer_id": "Kuwait Central Agency for Information Technology",
-  "updated_date": "2020-05-11",
+  "updated_date": "2020-05-20",
   "downloads": "10,000+",
   "country": "KW",
   "description": "Shlonik is an interactive app used to assist the Ministry of Health in Kuwait to engage with all citizens and  residents and ensure their safety with focus on COVID-19 pandemic. Shlonik offers a variety of features such as the latest health updates, a health Bot, a self check-in mechanism for quarantined patients, vitals reporting and a communication tool with the MOH medical teams. Shlonik is the combined effort of MOH, the Kuwait Central Agency of Information Technology and Zain.",
@@ -20,10 +20,10 @@
       "Read the contents of your usb storage",
       "Modify or delete the contents of your usb storage"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Device & app history": [
@@ -33,20 +33,20 @@
       "Take pictures and videos"
     ],
     "Location": [
-      "Approximate location (network-based)",
       "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Access extra location provider commands",
+      "Approximate location (network-based)"
     ],
     "Other": [
       "Receive data from internet",
-      "Full network access",
-      "Change your audio settings",
-      "Control vibration",
-      "View network connections",
       "Prevent device from sleeping",
-      "Pair with bluetooth devices",
+      "Run at startup",
+      "Change your audio settings",
+      "View network connections",
+      "Control vibration",
+      "Full network access",
       "Access bluetooth settings",
-      "Run at startup"
+      "Pair with bluetooth devices"
     ]
   },
   "developer_url": "https://www.moh.gov.kw/en/Pages/default.aspx",
