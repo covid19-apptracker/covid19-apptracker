@@ -112,7 +112,7 @@
     "title": "CoronApp",
     "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
     "developer_id": "Gobierno Digital",
-    "updated_date": "2020-04-29",
+    "updated_date": "2020-05-20",
     "downloads": "50,000+",
     "country": "CL"
   },
@@ -450,6 +450,15 @@
     "country": "US"
   },
   {
+    "id": "com.speetar.app",
+    "title": "Speetar COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
+    "developer_id": "Speetar",
+    "updated_date": "2020-05-23",
+    "downloads": "1,000+",
+    "country": "LY"
+  },
+  {
     "id": "com.spotteron.coronareport",
     "title": "CoronaReport - COVID-19 reports for Social Science",
     "icon_url": "https://lh3.googleusercontent.com/UFFwN27Tbx0p944HeZQcAoIIrvlVGtHIT-Gy7vU3e8-M0VCkKbYwyZtTrUG8m6UgHtE",
@@ -562,7 +571,7 @@
     "title": "COVID Coach",
     "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
     "developer_id": "US Department of Veterans Affairs (VA)",
-    "updated_date": "2020-05-06",
+    "updated_date": "2020-05-22",
     "downloads": "5,000+",
     "country": "VA"
   },
@@ -679,7 +688,7 @@
     "title": "MySejahtera",
     "icon_url": "https://lh3.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
     "developer_id": "GOVERNMENT OF MALAYSIA",
-    "updated_date": "2020-05-12",
+    "updated_date": "2020-05-22",
     "downloads": "500,000+",
     "country": "MY"
   },
