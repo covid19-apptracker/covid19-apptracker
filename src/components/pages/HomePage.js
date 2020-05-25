@@ -1,4 +1,4 @@
-import React, {Component, useEffect, useState} from 'react';
+import React, { Component, useState } from 'react';
 import ReactDOM from "react-dom";
 import ReactTooltip from "react-tooltip";
 import MapChart from "../MapChartComponent";
