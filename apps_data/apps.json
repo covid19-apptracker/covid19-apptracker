@@ -202,7 +202,7 @@
     "title": "CG Covid-19 ePass",
     "icon_url": "https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
     "developer_id": "AllSoft Consulting",
-    "updated_date": "2020-05-11",
+    "updated_date": "2020-05-24",
     "downloads": "500,000+",
     "country": "IN"
   },
@@ -283,7 +283,7 @@
     "title": "COVID-19 Gov PK",
     "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
     "developer_id": "National IT Board, Government Of Pakistan",
-    "updated_date": "2020-05-12",
+    "updated_date": "2020-05-24",
     "downloads": "500,000+",
     "country": "PK"
   },
@@ -400,7 +400,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2020-05-14",
+    "updated_date": "2020-05-24",
     "downloads": "1,000,000+",
     "country": "QA"
   },
@@ -445,7 +445,7 @@
     "title": "Care19",
     "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
     "developer_id": "ProudCrowd, LLC",
-    "updated_date": "2020-05-08",
+    "updated_date": "2020-05-23",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -826,6 +826,15 @@
     "updated_date": "2020-04-23",
     "downloads": "500+",
     "country": "US"
+  },
+  {
+    "id": "ua.gov.diia.quarantine",
+    "title": "\u0414\u0456\u0439 \u0432\u0434\u043e\u043c\u0430",
+    "icon_url": "https://lh3.googleusercontent.com/zEUpsEVTiuAXm9jnur-4Lxk2et_WVhhmnNmSRrMeTORxRzj4hAsBZ7Jvr5Ew2jlZ-PE",
+    "developer_id": "Ministry of Digital Transformation of Ukraine",
+    "updated_date": "2020-05-24",
+    "downloads": "50,000+",
+    "country": "UA"
   },
   {
     "id": "uk.ac.cam.cl.covid19sounds",
