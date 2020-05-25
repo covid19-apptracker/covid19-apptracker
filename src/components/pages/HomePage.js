@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react';
+import React, {Component, useEffect, useState} from 'react';
 import ReactDOM from "react-dom";
 import ReactTooltip from "react-tooltip";
 import MapChart from "../MapChartComponent";
@@ -8,6 +8,7 @@ import NavBar from "../../components/headerComponent/NavBar.js";
 import Footer from "../../components/footerComponent/Footer.js";
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
 import { HashRouter as Router, Route, Link } from "react-router-dom";
+import Matomo from '../analytics/Matomo'
 
 class HomePage extends Component {
   // const [content, setContent] = useState("");
@@ -76,6 +77,7 @@ class HomePage extends Component {
                   Date Updated
                 </div>
               </div>
+              <Matomo />
               <PlayAppGenerator shareRoutesWithApp={this.props.shareRoutesWithApp} playAppArray={this.state.playAppArray}/>
               {/* <PlayApp />
               <PlayApp />
