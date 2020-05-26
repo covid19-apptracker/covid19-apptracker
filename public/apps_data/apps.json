@@ -130,7 +130,7 @@
     "title": "Bharatpur Metropolitan | COVID-19 Response System",
     "icon_url": "https://lh3.googleusercontent.com/qStbZ8Qro7LL22ZIbvED1ur3grUB93rEThx4lvYqsZc82Z3noXYeeE221pSalzp2uAM",
     "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
-    "updated_date": "2020-04-24",
+    "updated_date": "2020-05-25",
     "downloads": "5,000+",
     "country": "IN"
   },
@@ -223,6 +223,15 @@
     "updated_date": "2020-05-11",
     "downloads": "100+",
     "country": "ES"
+  },
+  {
+    "id": "com.appfeel.interactiveclinics.dev",
+    "title": "Interactive Clinics",
+    "icon_url": "https://lh3.googleusercontent.com/mkoKT_OEAH8Y6B_0ZztQuPXNI-9Xm1ErXK4iu68qKNkzSDcGZM7wp_ZNkaLbJNfqK-Y",
+    "developer_id": "Bit Genoma Digital Solutions SL",
+    "updated_date": "2020-05-22",
+    "downloads": "100+",
+    "country": ""
   },
   {
     "id": "com.bs.ccc",
@@ -382,7 +391,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2020-05-24",
+    "updated_date": "2020-05-25",
     "downloads": "1,000,000+",
     "country": "QA"
   },
@@ -427,7 +436,7 @@
     "title": "Care19",
     "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
     "developer_id": "ProudCrowd, LLC",
-    "updated_date": "2020-05-23",
+    "updated_date": "2020-05-25",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -562,7 +571,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://lh3.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2020-05-21",
+    "updated_date": "2020-05-25",
     "downloads": "1,000,000+",
     "country": "IN"
   },
@@ -652,7 +661,7 @@
     "title": "COVID-19MX",
     "icon_url": "https://lh3.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
     "developer_id": "Secretar\u00eda de Salud MX",
-    "updated_date": "2020-05-20",
+    "updated_date": "2020-05-26",
     "downloads": "500,000+",
     "country": "MX"
   },
@@ -823,7 +832,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-05-22",
+    "updated_date": "2020-05-26",
     "downloads": "10,000+",
     "country": "UK"
   },
