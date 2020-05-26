@@ -78,7 +78,7 @@ class AppPage extends Component {
 
 		return (
 			<div>
-                <Matomo title={this.props.title} href={window.location.href} />
+                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				{/* <NavBar /> */}
 				<div
 					id="container"

@@ -1,14 +1,14 @@
 import React, {useEffect} from 'react'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 
-const Matomo = ({title, href }) => {
+const Matomo = ({title, customUrl }) => {
     const { trackPageView, trackEvent } = useMatomo()
 
     // Track page view
     useEffect(() => {
         trackPageView({
             documentTitle: title,
-            href: href
+            customUrl: customUrl
         })
     }, [])
 
