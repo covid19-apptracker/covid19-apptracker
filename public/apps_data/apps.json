@@ -123,7 +123,7 @@
     "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
     "updated_date": "2020-04-27",
     "downloads": "100+",
-    "country": "CO"
+    "country": "IN"
   },
   {
     "id": "co.cellapp.bharatpurcovid",
@@ -132,7 +132,7 @@
     "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
     "updated_date": "2020-04-24",
     "downloads": "5,000+",
-    "country": "CO"
+    "country": "IN"
   },
   {
     "id": "co.gov.cali.calivallecorona",
@@ -531,15 +531,6 @@
     "country": "ES"
   },
   {
-    "id": "gov.fema.mobile.android",
-    "title": "FEMA",
-    "icon_url": "https://lh3.googleusercontent.com/3lemGPsoZ_ysd6rBRq1AYScTL6BxycRZVkeofYZVqw4Fdr89nSbGAohRlKZ2TXEFg40",
-    "developer_id": "Federal Emergency Management Agency (FEMA)",
-    "updated_date": "2019-12-23",
-    "downloads": "1,000,000+",
-    "country": "US"
-  },
-  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
@@ -555,7 +546,7 @@
     "developer_id": "US Department of Veterans Affairs (VA)",
     "updated_date": "2020-05-22",
     "downloads": "5,000+",
-    "country": "VA"
+    "country": "US"
   },
   {
     "id": "id.jofarsystemskodine.dev",
@@ -825,7 +816,7 @@
     "developer_id": "cam-cl-mobile-systems",
     "updated_date": "2020-05-13",
     "downloads": "1,000+",
-    "country": "CL"
+    "country": "UK"
   },
   {
     "id": "uk.nhs.nhsx.colocate",
