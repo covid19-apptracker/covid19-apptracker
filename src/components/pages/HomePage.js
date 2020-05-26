@@ -8,6 +8,7 @@ import NavBar from "../../components/headerComponent/NavBar.js";
 import Footer from "../../components/footerComponent/Footer.js";
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
 import { HashRouter as Router, Route, Link } from "react-router-dom";
+import Matomo from "../analytics/Matomo";
 
 class HomePage extends Component {
   // const [content, setContent] = useState("");
@@ -50,6 +51,7 @@ class HomePage extends Component {
     render() {
         return (
           <div>
+            <Matomo title={'Home'} customUrl={'/' + window.location.hash.substr(1)} />
             {/* <NavBar /> */}
             <div id="container" className="container w-full content-center items-center justify-center py-24 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
             >

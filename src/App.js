@@ -14,7 +14,6 @@ import Footer from "./components/footerComponent/Footer.js";
 import PlayApp from './components/PlayApp.js';
 
 import { HashRouter as Router, Route} from 'react-router-dom';
-import Matomo from "./components/analytics/Matomo";
 
 class App extends Component {
   constructor(props) {
@@ -96,7 +95,6 @@ class App extends Component {
       <Router basename="">
         <NavBar />
         <ScrollToTop />
-        <Matomo />
         <div className="App container-fullheight">
           <div>
             <Route

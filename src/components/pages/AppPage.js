@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 import logo from '../../img/logo_wht.svg';
+import Matomo from "../analytics/Matomo";
 
 class AppPage extends Component {
     constructor(props) {
@@ -77,6 +78,7 @@ class AppPage extends Component {
 
 		return (
 			<div>
+                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				{/* <NavBar /> */}
 				<div
 					id="container"

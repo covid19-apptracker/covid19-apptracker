@@ -3,11 +3,13 @@ import NavBar from '../../components/headerComponent/NavBar.js';
 import Footer from '../../components/footerComponent/Footer.js';
 
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import Matomo from "../analytics/Matomo";
 
 class AboutPage extends Component {
     render() {
         return (
             <div>
+                <Matomo title={'About'} customUrl={'/' + window.location.hash.substr(1)} />
                 {/* < NavBar / > */}
                 <div id="container" className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto">
                     <div className="text-sm font-medium pb-4">
