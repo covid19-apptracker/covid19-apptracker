@@ -15,17 +15,21 @@
     "Camera": [
       "Take pictures and videos"
     ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "View network connections",
-      "Pair with bluetooth devices",
+      "Receive data from internet",
       "Access bluetooth settings",
+      "Pair with bluetooth devices",
+      "View network connections",
       "Full network access",
-      "Run at startup",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "Run at startup"
     ]
   },
   "developer_url": "http://covidradar.mx",
