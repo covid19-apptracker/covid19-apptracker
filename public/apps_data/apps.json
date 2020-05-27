@@ -441,6 +441,15 @@
     "country": "US"
   },
   {
+    "id": "com.ri.crushcovid",
+    "title": "CRUSH COVID RI",
+    "icon_url": "https://lh3.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
+    "developer_id": "State of Rhode Island",
+    "updated_date": "2020-05-15",
+    "downloads": "5,000+",
+    "country": ""
+  },
+  {
     "id": "com.speetar.app",
     "title": "Speetar COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
