@@ -1,0 +1,31 @@
+{
+  "id": "com.ri.crushcovid",
+  "title": "CRUSH COVID RI",
+  "icon_url": "https://lh3.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
+  "developer_id": "State of Rhode Island",
+  "updated_date": "2020-05-15",
+  "downloads": "5,000+",
+  "country": "",
+  "description": "CRUSH COVID RI is a COVID-19 pandemic response app which provides Rhode Islanders easy access to all of the resources required during the public health crisis, including a location diary that helps users identify the people and places they are in contact with and a symptom checking survey. Thank you for using the CRUSH COVID RI app and taking an active role in slowing the spread of COVID-19 in Rhode Island. You can make a difference in the health of your loved ones and your community by helping us track the virus in our state. The \u201cMy Location Diary\u201d feature uses GPS location data that is already available from your phone to help you easily track the places and people you visited over the past 20 days. If you test positive for COVID-19, and you agree to share this information with the Rhode Island Department of Health, they can quickly identify people you were in contact with and reduce the spread of COVID-19. CRUSH COVID RI also connects you to the latest COVID-19 news and resources \u2013 and helps you quickly check for symptoms and identify testing locations near you. Together we will #CrushCovidRI! Please see our Terms of Use (https://health.ri.gov/covid/crush/termsofuse/) & Privacy Policy (https://health.ri.gov/covid/crush/privacypolicy/) for further information.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.ri.crushcovid",
+  "permissions": {
+    "Phone": [
+      "Directly call phone numbers"
+    ],
+    "Location": [
+      "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Other": [
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping"
+    ]
+  },
+  "developer_url": "https://health.ri.gov/crushcovid",
+  "available": true,
+  "first_time_seen": "2020-05-27"
+}
