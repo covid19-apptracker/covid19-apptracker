@@ -58,7 +58,7 @@
     "title": "ViruSafe",
     "icon_url": "https://lh3.googleusercontent.com/MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUA",
     "developer_id": "government.bg",
-    "updated_date": "2020-05-05",
+    "updated_date": "2020-05-27",
     "downloads": "10,000+",
     "country": "BG"
   },
@@ -85,7 +85,7 @@
     "title": "BC COVID-19 Support",
     "icon_url": "https://lh3.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
     "developer_id": "Province of British Columbia, Canada",
-    "updated_date": "2020-05-15",
+    "updated_date": "2020-05-27",
     "downloads": "10,000+",
     "country": "CA"
   },
@@ -284,7 +284,7 @@
     "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
     "developer_id": "Entro Labs",
     "updated_date": "2020-05-20",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "IN"
   },
   {
@@ -454,7 +454,7 @@
     "title": "Speetar COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
     "developer_id": "Speetar",
-    "updated_date": "2020-05-23",
+    "updated_date": "2020-05-26",
     "downloads": "1,000+",
     "country": "LY"
   },
@@ -544,7 +544,7 @@
     "title": "Asistencia COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-05-07",
+    "updated_date": "2020-05-26",
     "downloads": "10,000+",
     "country": "ES"
   },
@@ -697,7 +697,7 @@
     "title": "Aarogya Setu",
     "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
     "developer_id": "9076108670215860604",
-    "updated_date": "2020-05-21",
+    "updated_date": "2020-05-26",
     "downloads": "100,000,000+",
     "country": "IN"
   },
@@ -841,7 +841,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-05-26",
+    "updated_date": "2020-05-27",
     "downloads": "10,000+",
     "country": "UK"
   },
