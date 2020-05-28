@@ -549,6 +549,15 @@
     "country": "ES"
   },
   {
+    "id": "es.gva.coronavirus",
+    "title": "GVA Coronavirus",
+    "icon_url": "https://lh3.googleusercontent.com/jhjZ8i5445I-xXRlZi1He-eFq8U8uJiiaaUvsrdUii4yZ10ps3dSgA2pY0OHQPmF2vA",
+    "developer_id": "6787972071287437379",
+    "updated_date": "2020-04-07",
+    "downloads": "10,000+",
+    "country": "ES"
+  },
+  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
