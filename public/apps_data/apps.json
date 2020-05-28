@@ -94,7 +94,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-05-15",
+    "updated_date": "2020-05-27",
     "downloads": "100,000+",
     "country": "CA"
   },
@@ -238,7 +238,7 @@
     "title": "CoronaBD",
     "icon_url": "https://lh3.googleusercontent.com/ZIxi1iypjh5uteu9XGiGc0oyiJKj9jY7sJKHkhKXLfvEacseQnnpIkDfpAhkT40-0Q",
     "developer_id": "DG Health",
-    "updated_date": "2020-05-22",
+    "updated_date": "2020-05-27",
     "downloads": "100,000+",
     "country": "BS"
   },
@@ -338,7 +338,7 @@
     "icon_url": "https://lh3.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
     "developer_id": "Intugine Technologies",
     "updated_date": "2020-04-18",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "IN"
   },
   {
@@ -383,7 +383,7 @@
     "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
     "developer_id": "Ministry of Communications",
     "updated_date": "2020-05-08",
-    "downloads": "50+",
+    "downloads": "100+",
     "country": "GH"
   },
   {
@@ -475,6 +475,15 @@
     "updated_date": "2019-02-01",
     "downloads": "100,000+",
     "country": "PL"
+  },
+  {
+    "id": "com.thaialert.app",
+    "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
+    "icon_url": "https://lh3.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
+    "developer_id": "Digital Government Development Agency, Thailand",
+    "updated_date": "2020-05-25",
+    "downloads": "100,000+",
+    "country": "TH"
   },
   {
     "id": "com.tsstate.citizen",
