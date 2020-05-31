@@ -3,7 +3,7 @@
   "title": "COVI",
   "icon_url": "https://lh3.googleusercontent.com/dztT4_lbZlmC_4b_vrCAqiGHX5WKBDo873QXQ-B0xP5E3Qd83RoABUa5iFXFX7zZooQ",
   "developer_id": "Droobi Health Technology",
-  "updated_date": "2020-05-17",
+  "updated_date": "2020-05-31",
   "downloads": "100,000+",
   "country": "QA",
   "description": "Featured as \u201cTech Startup of the Year\u201d by Qatar IT Business Awards 2018, Droobi is a digital company aiming to develop science-based programs to help people become healthier and prevent diseases. \"COVI\" is a free mobile application developed to raise awareness among the population in Qatar and to keep our community informed, healthy, safe and to decrease the spread of the corona virus. How does it work? Our approach combines awareness, assessment and education tools to help you prevent catching and spreading corona virus 2019, while you remain informed of all accurate updates on the corona breakout in Qatar. Our application includes: Simplified education materials regarding definition, risk factors, prevention, symptoms and much more Frequently asked questions regarding corona virus 2019 and its action Accurate updates from reliable sources, as in the Ministry of Public health in Qatar and World Health organization. Daily reminders of useful tips for awareness and prevention of Coronavirus spread About Droobi Health Pioneering digital care for the Arab world, Droobi health is one of the leading disease management platforms that is tailored for the Arabic-speaking region. We create digital programs to help people manage their health to ultimately inspire and enable them to live healthier lives.",
@@ -26,17 +26,12 @@
     "Device ID & call information": [
       "Read phone status and identity"
     ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
     "Other": [
       "Receive data from internet",
       "View network connections",
       "Full network access",
       "Run at startup",
-      "Prevent device from sleeping",
-      "Read google service configuration"
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "https://www.droobihealth.com/",
