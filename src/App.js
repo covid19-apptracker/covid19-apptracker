@@ -33,6 +33,10 @@ class App extends Component {
     )
   }
 
+  sortByCountry = (country) => {
+    this.setState()
+  }
+
   shareRoutesWithApp = (data) => {
     // console.log("made it into shareRoutes")
     // console.log(data)
@@ -103,7 +107,7 @@ class App extends Component {
               render={(props) => (
                 <HomePage
                   shareRoutesWithApp={this.shareRoutesWithApp}
-                  playAppArray={this.state.processedData.map(
+                  playAppArray={this.state.processedData.sort((a, b) => (a.downloads.substring(0, parseInt(a.downloads.length - 1)) > parseInt(b.downloads.substring(0, b.downloads.length - 1))) ? 1 : -1).filter(appInformation => (appInformation.country === "US")).map(
                     (appInfo, index) => (
                       <PlayApp
                         key={appInfo.id}
@@ -115,6 +119,7 @@ class App extends Component {
                         )}
                         downloads={appInfo.downloads}
                         updatedDate={appInfo.updated_date}
+                        country={appInfo.country}
                       />
                     )
                   )}

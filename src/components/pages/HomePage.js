@@ -18,7 +18,9 @@ class HomePage extends Component {
       hasRequestedData: false,
       playAppArray: new Array(),
       content:"",
-      totalNumberOfApps:this.props.totalNumberOfApps
+      totalNumberOfApps:this.props.totalNumberOfApps,
+      countrySortedApps:[],
+      checked: false
       // setContent:this.setState({content:})
     }
   }
@@ -47,7 +49,32 @@ class HomePage extends Component {
         content: newContent
       })
     }
+
+    sortByCountry = () => {
+      let homePageThis = this;
+      console.log(homePageThis.state.countrySortedApps.keys());
+      this.state.playAppArray.forEach(
+
+        function(playApp) {
+          if (playApp.props.country !== "US") {
+            playApp.hide()
+          }
+          if (playApp.props.country === "US" && !homePageThis.state.countrySortedApps.includes(playApp)) {
+            homePageThis.setState({
+              countrySortedApps: [...homePageThis.state.countrySortedApps, playApp],
+              checked: !homePageThis.state.checked
+            })
+          }
+          console.log(homePageThis.state.countrySortedApps.includes(playApp))
+        }
+      );
+      console.log(homePageThis.state.countrySortedApps);
+
+    }
+
+
     render() {
+
         return (
           <div>
             {/* <NavBar /> */}
@@ -59,7 +86,12 @@ class HomePage extends Component {
               <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
               <ReactTooltip>{this.state.content}</ReactTooltip>
             </div>
-
+            <div
+              id="container"
+              className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+            >
+              <p>Sort By US &nbsp;<input type="checkbox" checked={this.state.checked} onChange={this.sortByCountry}></input></p>
+            </div>
             <div
               id="container"
               className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"

@@ -3,9 +3,22 @@ import { HashRouter as Router, Route, Link } from 'react-router-dom';
 import AppPage from './pages/AppPage';
 
 class PlayApp extends Component {
+    constructor(props) {
+      super(props);
+      this.state = {
+        hidden: false
+      }
+    }
+
+    hide = () => {
+      this.setState({
+        hidden:true
+      })
+    }
+
     render() {
         return (
-          <div>
+          <div className={(this.state.hidden===true) ? "hidden" : ""}>
             <Router>
             <Route exact path={"/app/"+this.props.id.toString()} component={AppPage} />
             <Link to={"app/"+this.props.id.toString()}> 
