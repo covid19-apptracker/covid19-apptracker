@@ -1,13 +1,8 @@
-import React, { Component, useState } from 'react';
-import ReactDOM from "react-dom";
+import React, { Component, useState } from 'react'; 
 import ReactTooltip from "react-tooltip";
-import MapChart from "../MapChartComponent";
-import logo from '../../img/logo.svg';
-import PlayApp from '../PlayApp.js';
-import NavBar from "../../components/headerComponent/NavBar.js";
-import Footer from "../../components/footerComponent/Footer.js";
-import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
-import { HashRouter as Router, Route, Link } from "react-router-dom";
+import MapChart from "../MapChartComponent"; 
+import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator'; 
+import Matomo from "../analytics/Matomo";
 
 class HomePage extends Component {
   // const [content, setContent] = useState("");
@@ -77,7 +72,7 @@ class HomePage extends Component {
 
         return (
           <div>
-            {/* <NavBar /> */}
+            <Matomo title={'Home'} customUrl={'/' + window.location.hash.substr(1)} /> 
             <div id="container" className="container w-full content-center items-center justify-center py-24 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
             >
               <h1 className="text-center font-bold text-4xl lg:text-5xl">Learn more about the <span style={{color: "#0066FF"}}>{this.state.totalNumberOfApps}</span> COVID-19 apps around the world.</h1>
@@ -105,19 +100,11 @@ class HomePage extends Component {
                   Downloads
                 </div>
                 <div className="font-bold flex-auto w-4/12 sm:w-2/12 float-right text-left">
-                  Date Updated
+                  Origin Country
                 </div>
               </div>
-              <PlayAppGenerator shareRoutesWithApp={this.props.shareRoutesWithApp} playAppArray={this.state.playAppArray}/>
-              {/* <PlayApp />
-              <PlayApp />
-              <PlayApp />
-              <PlayApp />
-              <PlayApp />
-              <PlayApp />
-              <PlayApp /> */}
-            </div>
-            {/* <Footer /> */}
+              <PlayAppGenerator shareRoutesWithApp={this.props.shareRoutesWithApp} playAppArray={this.state.playAppArray}/> 
+            </div> 
           </div>
         );
     }

@@ -1,14 +1,13 @@
-import React, { Component } from 'react'; 
-import NavBar from '../../components/headerComponent/NavBar.js';
-import Footer from '../../components/footerComponent/Footer.js';
+import React, { Component } from 'react';  
 
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import Matomo from "../analytics/Matomo";
 
 class AboutPage extends Component {
     render() {
         return (
             <div>
-                {/* < NavBar / > */}
+                <Matomo title={'About'} customUrl={'/' + window.location.hash.substr(1)} />
                 <div id="container" className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto">
                     <div className="text-sm font-medium pb-4">
                         <Link className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}}>Home</Link>{' '} / <span>About the Project</span>
@@ -82,8 +81,7 @@ class AboutPage extends Component {
                             </ul> 
                         </div>
                     </div>
-                </div>
-                {/* < Footer / > */}
+                </div> 
             </div>
         );
     }

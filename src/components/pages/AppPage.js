@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 import logo from '../../img/logo_wht.svg';
+import Matomo from "../analytics/Matomo";
+
+import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
 class AppPage extends Component {
     constructor(props) {
@@ -73,10 +76,23 @@ class AppPage extends Component {
         }
     }
 
+    getCountryName(countryIso2) {
+        const countries = require("i18n-iso-countries");
+        countries.registerLocale(i18n_iso_countries);
+
+        // Necessary because UK is not recognized in this library
+        if (countryIso2 === 'UK') {
+            return ('United Kingdom')
+        }
+
+        return (countries.getName(countryIso2, "en"))
+    }
+
     render() {
 
 		return (
 			<div>
+                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				{/* <NavBar /> */}
 				<div
 					id="container"
@@ -111,7 +127,7 @@ class AppPage extends Component {
                                     <p className="font-bold text-sm">Origin Country</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                            {this.props.country}
+                                            {this.getCountryName(this.props.country)}
                                         </p> 
                                     </div> 
                                     {/* <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p>  */}

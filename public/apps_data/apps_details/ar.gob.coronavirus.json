@@ -3,22 +3,24 @@
   "title": "CUIDAR COVID-19 ARGENTINA",
   "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
   "developer_id": "8169270262982486256",
-  "updated_date": "2020-05-16",
-  "downloads": "1,000,000+",
+  "updated_date": "2020-05-29",
+  "downloads": "5,000,000+",
   "country": "AR",
   "description": "Aplicaci\u00f3n del Ministerio de Salud de la Rep\u00fablica Argentina destinada a la prevenci\u00f3n y al cuidado de la ciudadan\u00eda frente a la pandemia del Nuevo Coronavirus Covid-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ar.gob.coronavirus",
   "permissions": {
-    "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
-    ],
     "Camera": [
       "Take pictures and videos"
     ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
     "Other": [
+      "Receive data from internet",
+      "View network connections",
       "Full network access",
-      "View network connections"
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "https://www.argentina.gob.ar/",

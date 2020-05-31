@@ -7,6 +7,8 @@ import HomePage from './components/pages/HomePage.js';
 import AboutPage from './components/pages/AboutPage.js';
 import AppPage from './components/pages/AppPage.js';
 import ContactPage from './components/pages/ContactPage.js'
+import TeamPage from './components/pages/TeamPage.js'
+import PrivacyPolicyPage from './components/pages/PrivacyPolicyPage.js'
 
 import NavBar from "./components/headerComponent/NavBar.js";
 import Footer from "./components/footerComponent/Footer.js";
@@ -129,7 +131,9 @@ class App extends Component {
               )}
             />
             <Route exact path="/about" component={AboutPage} />
+            <Route exact path="/team" component={TeamPage} />
             <Route exact path="/contact" component={ContactPage} />
+            <Route exact path="/privacy-policy" component={PrivacyPolicyPage} />
             {this.state.processedData.map((appInfo) => (
               <Route
                 exact

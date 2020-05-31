@@ -13,6 +13,9 @@
       "Read the contents of your usb storage",
       "Modify or delete the contents of your usb storage"
     ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
     "Storage": [
       "Read the contents of your usb storage",
       "Modify or delete the contents of your usb storage"
@@ -23,12 +26,12 @@
     ],
     "Other": [
       "Receive data from internet",
-      "Access bluetooth settings",
-      "Pair with bluetooth devices",
       "View network connections",
       "Full network access",
       "Prevent device from sleeping",
-      "Run at startup"
+      "Run at startup",
+      "Access bluetooth settings",
+      "Pair with bluetooth devices"
     ]
   },
   "developer_url": "https://tracetogether.gov.sg",
