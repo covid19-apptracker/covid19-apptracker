@@ -1,8 +1,20 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 import AppPage from './pages/AppPage';
+import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
 class PlayApp extends Component {
+    getCountryName(countryIso2) {
+      const countries = require("i18n-iso-countries");
+      countries.registerLocale(i18n_iso_countries);
+
+      // Necessary because UK is not recognized in this library
+      if (countryIso2 === 'UK') {
+          return ('United Kingdom')
+      }
+
+      return (countries.getName(countryIso2, "en"))
+    }
     render() {
         return (
           <div>
@@ -22,7 +34,7 @@ class PlayApp extends Component {
                 <div className="text-base font-medium text-gray-900">{this.props.downloads}</div>
               </div>
               <div className="date w-4/12 sm:w-2/12 float-right text-left">
-                <div className="text-base font-medium text-gray-900">{this.props.updatedDate}</div>
+                <div className="text-base font-medium text-gray-900">{this.getCountryName(this.props.country)}</div>
               </div>
             </div>
           </Link>

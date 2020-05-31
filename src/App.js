@@ -117,6 +117,7 @@ class App extends Component {
                         )}
                         downloads={appInfo.downloads}
                         updatedDate={appInfo.updated_date}
+                        country={appInfo.country}
                       />
                     )
                   )}
