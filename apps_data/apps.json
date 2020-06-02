@@ -103,7 +103,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-05-27",
+    "updated_date": "2020-06-02",
     "downloads": "100,000+",
     "country": "CA"
   },
@@ -185,7 +185,7 @@
     "icon_url": "https://lh3.googleusercontent.com/EBZO_bfXFRbz3lBansXc1LGJRRl-0LZ8Vos4H188aeo3kVhaGBavuHRyEWGRMnvIyd8",
     "developer_id": "National Health Information Center",
     "updated_date": "2020-03-18",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "SA"
   },
   {
@@ -301,7 +301,7 @@
     "title": "COVID-19 Andhra Pradesh",
     "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
     "developer_id": "Entro Labs",
-    "updated_date": "2020-05-20",
+    "updated_date": "2020-06-02",
     "downloads": "100,000+",
     "country": "IN"
   },
@@ -765,6 +765,15 @@
     "country": "NP"
   },
   {
+    "id": "nz.govt.health.covidtracer",
+    "title": "NZ COVID Tracer",
+    "icon_url": "https://lh3.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
+    "developer_id": "Ministry of Health NZ",
+    "updated_date": "2020-05-20",
+    "downloads": "100,000+",
+    "country": "NZ"
+  },
+  {
     "id": "org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
     "title": "Kenya Covid-19 Tracker",
     "icon_url": "https://lh3.googleusercontent.com/yCnt0Emrd9Nln_PlTD9cVFWdLSehJNghg3g27L8u5bA6RAT8PvFA9l7Is82mvMbQzn2_",
@@ -877,7 +886,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-05-31",
+    "updated_date": "2020-06-01",
     "downloads": "50,000+",
     "country": "UK"
   },
