@@ -3,24 +3,24 @@
   "title": "MySejahtera",
   "icon_url": "https://lh3.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
   "developer_id": "GOVERNMENT OF MALAYSIA",
-  "updated_date": "2020-05-29",
+  "updated_date": "2020-06-02",
   "downloads": "500,000+",
   "country": "MY",
   "description": "MySejahtera is an application developed by the Government of Malaysia to assist in managing the COVID-19 outbreaks in the country. It allows users to perform health self-assessment on themselves and their family members. The users can also monitor their health progress throughout the COVID-19 outbreak. Also, MySejahtera enables the Ministry of Health (MOH) to monitor users\u2019 health condition and take immediate actions in providing the treatments required. TOGETHER MALAYSIA, WE CAN STOP THE SPREAD OF COVID-19!",
   "app_store_url": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysejahtera",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Contacts": [
       "Find accounts on the device",
-      "Read your contacts",
-      "Modify your contacts"
+      "Modify your contacts",
+      "Read your contacts"
     ],
     "Phone": [
       "Directly call phone numbers"
@@ -36,16 +36,16 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Manage document storage",
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
       "Control flashlight",
       "Full network access",
-      "Prevent device from sleeping"
+      "Manage document storage",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
-  "developer_url": "https://www.nacsa.gov.my/",
+  "developer_url": "https://mysejahtera.malaysia.gov.my/",
   "available": true,
   "first_time_seen": "2020-05-10"
 }
