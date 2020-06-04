@@ -3,40 +3,24 @@
   "title": "STOP COVID19 CAT",
   "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
   "developer_id": "Generalitat de Catalunya",
-  "updated_date": "2020-04-02",
+  "updated_date": "2020-06-04",
   "downloads": "500,000+",
   "country": "ES",
   "description": "STOP COVID19 CAT is a /Salut mobile application with a double objective: 1. Respond to the information needs of citizens in relation to COVID-19, through a questionnaire that indicates whether they have the possibility of having COVID. 2. Collect population data to be able to create heat maps for the authorities.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat",
   "permissions": {
-    "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
-    ],
-    "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
-    ],
-    "Phone": [
-      "Read phone status and identity"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
       "Prevent device from sleeping",
-      "Control vibration",
-      "Run at startup"
+      "Receive data from internet",
+      "View network connections"
     ]
   },
-  "developer_url": "http://sem.gencat.cat/ca/061CatSalutRespon/apps-mobils/STOPCOVID19/condicions-seguretat",
+  "developer_url": "https://salutweb.gencat.cat",
   "available": true,
   "first_time_seen": "2020-05-10"
 }
