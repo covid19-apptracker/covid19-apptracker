@@ -3,7 +3,7 @@
   "title": "BeAware Bahrain",
   "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
   "developer_id": "Information & eGovernment Authority",
-  "updated_date": "2020-05-02",
+  "updated_date": "2020-06-04",
   "downloads": "100,000+",
   "country": "BH",
   "description": "BeAware Bahrain - Together Against COVID-19: As citizens and residents, we have both a community and individual responsibility to safeguard the safety and well-being of all. Be Aware is a mobile application that assists efforts to contain the spread of COVID-19 by advancing contact tracing efforts. How will the app achieve its objectives? The app utilises location data shared by users to alert the following: - Individuals in the event they approach a location where an active case has been detected, or if they were in close proximity with an active case - Track the movement of quarantine cases for a duration of 14 days, and ensure they abide by quarantine regulations - Track active cases and provide contact tracing updates - Highlight COVID-19 developments - Publish latest recommendations issued by the Kingdom\u2019s health authorities",
@@ -13,30 +13,30 @@
       "Retrieve running apps"
     ],
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Calendar": [
-      "Read calendar events plus confidential information",
-      "Add or modify calendar events and send email to guests without owners' knowledge"
+      "Add or modify calendar events and send email to guests without owners' knowledge",
+      "Read calendar events plus confidential information"
     ],
     "Location": [
+      "Access extra location provider commands",
       "Approximate location (network-based)",
-      "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
       "Access bluetooth settings",
       "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "Run at startup",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
   "developer_url": "https://bahrain.bh",
