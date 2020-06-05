@@ -603,6 +603,15 @@
     "country": "ES"
   },
   {
+    "id": "et.gov.moh.oppia.covid",
+    "title": "COVID-19 Ethiopia -Health Worker Training Platform",
+    "icon_url": "https://lh3.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
+    "developer_id": "Federal Ministry of Health",
+    "updated_date": "2020-05-24",
+    "downloads": "5,000+",
+    "country": "ET"
+  },
+  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
@@ -673,6 +682,15 @@
     "updated_date": "2020-06-02",
     "downloads": "50,000+",
     "country": "IT"
+  },
+  {
+    "id": "jo.gov.moh.aman",
+    "title": "AMAN - Aman.jo JORDAN APP COVID-19",
+    "icon_url": "https://lh3.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
+    "developer_id": "Jordan eGov Program",
+    "updated_date": "2020-05-24",
+    "downloads": "100,000+",
+    "country": "JO"
   },
   {
     "id": "kg.cdt.stopcovid19",
