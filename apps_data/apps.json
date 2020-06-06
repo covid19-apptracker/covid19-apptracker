@@ -378,6 +378,15 @@
     "country": "IN"
   },
   {
+    "id": "com.jamcovid19",
+    "title": "JamCOVID19",
+    "icon_url": "https://lh3.googleusercontent.com/Y-d_xS4sO8nA8b9ibpuqFJ3JWFImE4EE54Yf0gpvlJQb38OZ83_7k2LXeWMx3ShJmA",
+    "developer_id": "opmjm mobile",
+    "updated_date": "2020-06-01",
+    "downloads": "5,000+",
+    "country": "JM"
+  },
+  {
     "id": "com.joinzoe.covid_zoe",
     "title": "COVID Symptom Study",
     "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
@@ -441,6 +450,15 @@
     "country": "PK"
   },
   {
+    "id": "com.panafricare.lasante",
+    "title": "Lasante - Seychelles Coronavirus Tool",
+    "icon_url": "https://lh3.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
+    "developer_id": "7481984480845694382",
+    "updated_date": "2020-04-24",
+    "downloads": "1,000+",
+    "country": "SC"
+  },
+  {
     "id": "com.patientmpower.covid19.usa",
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
@@ -484,6 +502,15 @@
     "updated_date": "2020-05-15",
     "downloads": "10,000+",
     "country": "US"
+  },
+  {
+    "id": "com.sococheck",
+    "title": "SoCo COVID-19 Check",
+    "icon_url": "https://lh3.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
+    "developer_id": "County of Sonoma",
+    "updated_date": "2020-06-03",
+    "downloads": "1,000+",
+    "country": ""
   },
   {
     "id": "com.speetar.app",
@@ -630,6 +657,15 @@
     "country": "US"
   },
   {
+    "id": "health.webtools.awhina.prod",
+    "title": "\u0100whina - informing health workers",
+    "icon_url": "https://lh3.googleusercontent.com/IRF_n78rOXW-AU6CYknWpaevV9GrtH3VwNrcXJ0SRereZh1Dhbk-s55zsaBtn-9IaewV",
+    "developer_id": "Ministry of Health NZ",
+    "updated_date": "2020-05-26",
+    "downloads": "1,000+",
+    "country": "NZ"
+  },
+  {
     "id": "id.jofarsystemskodine.dev",
     "title": "JS COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/xIMoq2hSHGURmRFY32hA_qWMkLzQMReiSROcrLGBN4acnTVaDGYqESFBO5Pv8gpUDU8",
@@ -702,6 +738,15 @@
     "country": "KG"
   },
   {
+    "id": "lv.spkc.gov.apturicovid",
+    "title": "Apturi Covid Latvia \u2013 SPKC",
+    "icon_url": "https://lh3.googleusercontent.com/Ujk59m6SFhlsReiGlGGpsACrmY8pR858wlZuM0j84gPnAWFSK4E_bOf_ldfNKmojy7NR",
+    "developer_id": "SPKC",
+    "updated_date": "2020-05-27",
+    "downloads": "10,000+",
+    "country": "LV"
+  },
+  {
     "id": "ly.com.tmc.covid19_libya",
     "title": "COVID19-Libya",
     "icon_url": "https://lh3.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY",
@@ -718,6 +763,15 @@
     "updated_date": "2020-05-07",
     "downloads": "50,000+",
     "country": "MK"
+  },
+  {
+    "id": "mm.org.mcf.app001",
+    "title": "Saw Saw Shar",
+    "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
+    "developer_id": "Myanmar Computer Federation (MCF)",
+    "updated_date": "2020-06-03",
+    "downloads": "10,000+",
+    "country": "MM"
   },
   {
     "id": "mx.covidradar.radar",
@@ -844,6 +898,15 @@
     "updated_date": "2020-05-30",
     "downloads": "100+",
     "country": "UK"
+  },
+  {
+    "id": "org.who.infoapp",
+    "title": "WHO Info",
+    "icon_url": "https://lh3.googleusercontent.com/E5YzhjQ7PTH07Ink9hDoVwUXelvpnB54Sdg8R0IOjmC9e2rea9BNHEABrfzx3gwdQNX7",
+    "developer_id": "World Health Organization",
+    "updated_date": "2020-06-05",
+    "downloads": "100,000+",
+    "country": ""
   },
   {
     "id": "pl.gov.mc.protegosafe",
