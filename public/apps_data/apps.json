@@ -639,6 +639,15 @@
     "country": "ET"
   },
   {
+    "id": "fr.gouv.android.stopcovid",
+    "title": "StopCovid France",
+    "icon_url": "https://lh3.googleusercontent.com/dXsmDeqJwgHTIIyyi4PEJYlAhhn8bJ_PFxY6R1BOYXSVhu3FcCSoQT_W_SVtzm9Aae-U",
+    "developer_id": "Gouvernement",
+    "updated_date": "2020-06-05",
+    "downloads": "500,000+",
+    "country": "FR"
+  },
+  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
@@ -672,7 +681,7 @@
     "developer_id": "Jofar Systems Ltd",
     "updated_date": "2020-04-04",
     "downloads": "100+",
-    "country": "ID"
+    "country": "CD"
   },
   {
     "id": "in.gov.punjab.cova",
