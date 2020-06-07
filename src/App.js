@@ -25,7 +25,8 @@ class App extends Component {
       hasRequestedData: false,
       processedData: [],
       playAppRoutes: [],
-      totalNumberOfApps: 0
+      totalNumberOfApps: 0,
+      currentFilter: ''
     };
   }
 
@@ -45,6 +46,20 @@ class App extends Component {
     this.setState({
       playAppRoutes: data
     })
+  }
+
+  updateAppFilter = (newFilter) => {
+    if (newFilter !== null) {
+
+    this.setState({
+      currentFilter: newFilter.value
+    });
+    console.log(this.state.currentFilter)
+    } else {
+      this.setState({
+        currentFilter: ''
+      })
+    }
   }
 
   getAppInfo = () => {
@@ -96,6 +111,44 @@ class App extends Component {
     }
   }
 
+  filterDataset = (country, downloads) => {
+    let filteredData = this.state.processedData;
+    if (country !== '') {
+      filteredData = filteredData.filter(
+        (appInformation) => appInformation.country === country
+      );
+    
+
+    // FIX THIS BEFORE PUSHING LIVE - RIGHT NOW IT IS SET TO SORT BY ASCENDING/DESCENDING ONLY IF SORTING BY COUNTRY
+    // TEMP FIX TO AVOID FLICKERING ON LOADING FOR MEETING WITH MEGAN AND CARLOS
+
+
+
+    if (downloads === 'ascending') {
+      filteredData = filteredData.sort((a, b) =>
+        parseInt(
+          a.downloads.substring(0, a.downloads.length - 1).replace(/,/g, "")
+        ) >
+        parseInt(
+          b.downloads.substring(0, b.downloads.length - 1).replace(/,/g, "")
+        )
+          ? 1
+          : -1
+      );
+    } else if (downloads === 'descending') {
+      filteredData = filteredData.sort((a, b) =>
+        parseInt(a.downloads.substring(0, a.downloads.length - 1).replace(/,/g, "")) 
+          <
+        parseInt(b.downloads.substring(0, b.downloads.length - 1).replace(/,/g, ""))
+          ? 1
+          : -1
+      );
+    }
+  }
+    return filteredData;
+
+  }
+
   render() {
     return (
       <Router basename="">
@@ -109,7 +162,7 @@ class App extends Component {
               render={(props) => (
                 <HomePage
                   shareRoutesWithApp={this.shareRoutesWithApp}
-                  playAppArray={this.state.processedData.sort((a, b) => (a.downloads.substring(0, parseInt(a.downloads.length - 1)) > parseInt(b.downloads.substring(0, b.downloads.length - 1))) ? 1 : -1).filter(appInformation => (appInformation.country === "US")).map(
+                  playAppArray={this.filterDataset(this.state.currentFilter, "descending").map(
                     (appInfo, index) => (
                       <PlayApp
                         key={appInfo.id}
@@ -127,6 +180,7 @@ class App extends Component {
                   )}
                   shareTotalAppsNumber={this.shareTotalAppsNumber}
                   totalNumberOfApps={this.state.totalNumberOfApps}
+                  updateAppFilter={this.updateAppFilter}
                 />
               )}
             />

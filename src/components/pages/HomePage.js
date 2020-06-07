@@ -4,6 +4,8 @@ import MapChart from "../MapChartComponent";
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator'; 
 import Matomo from "../analytics/Matomo";
 
+import Select from 'react-select';
+
 class HomePage extends Component {
   // const [content, setContent] = useState("");
 
@@ -12,102 +14,134 @@ class HomePage extends Component {
     this.state = {
       hasRequestedData: false,
       playAppArray: new Array(),
-      content:"",
-      totalNumberOfApps:this.props.totalNumberOfApps,
-      countrySortedApps:[],
-      checked: false
+      content: "",
+      totalNumberOfApps: this.props.totalNumberOfApps,
+      countrySortedApps: [],
+      allCountries: [],
+      checked: false,
       // setContent:this.setState({content:})
-    }
+    };
   }
 
   componentDidMount() {
-    this.setState(
-      {
-        playAppArray: this.props.playAppArray
-      }
-    )
+    this.setState({
+      playAppArray: this.props.playAppArray,
+    });
   }
 
   componentWillReceiveProps(nextProps) {
     // console.log("made it into will receive props in Homepage")
     // console.log(nextProps.playAppArray);
-    this.setState(
-      {playAppArray: nextProps.playAppArray,
-      totalNumberOfApps: nextProps.totalNumberOfApps}
-      );
+    this.setState({
+      playAppArray: nextProps.playAppArray,
+      totalNumberOfApps: nextProps.totalNumberOfApps,
+    });
   }
 
+  updateMapTooltipContent = (newContent) => {
+    this.setState({
+      content: newContent,
+    });
+  };
 
+  shareAllCountries = (countryList) => {
+    this.setState({ allCountries: countryList });
+  };
 
-    updateMapTooltipContent = (newContent) => {
-      this.setState({
-        content: newContent
-      })
-    }
+  sortByCountry = () => {
+    let homePageThis = this;
+    console.log(homePageThis.state.countrySortedApps.keys());
+    this.state.playAppArray.forEach(function (playApp) {
+      if (playApp.props.country !== "US") {
+        playApp.hide();
+      }
+      if (
+        playApp.props.country === "US" &&
+        !homePageThis.state.countrySortedApps.includes(playApp)
+      ) {
+        homePageThis.setState({
+          countrySortedApps: [...homePageThis.state.countrySortedApps, playApp],
+          checked: !homePageThis.state.checked,
+        });
+      }
+      console.log(homePageThis.state.countrySortedApps.includes(playApp));
+    });
+    console.log(homePageThis.state.countrySortedApps);
+  };
 
-    sortByCountry = () => {
-      let homePageThis = this;
-      console.log(homePageThis.state.countrySortedApps.keys());
-      this.state.playAppArray.forEach(
-
-        function(playApp) {
-          if (playApp.props.country !== "US") {
-            playApp.hide()
-          }
-          if (playApp.props.country === "US" && !homePageThis.state.countrySortedApps.includes(playApp)) {
-            homePageThis.setState({
-              countrySortedApps: [...homePageThis.state.countrySortedApps, playApp],
-              checked: !homePageThis.state.checked
-            })
-          }
-          console.log(homePageThis.state.countrySortedApps.includes(playApp))
-        }
-      );
-      console.log(homePageThis.state.countrySortedApps);
-
-    }
-
-
-    render() {
-
-        return (
-          <div>
-            <Matomo title={'Home'} customUrl={'/' + window.location.hash.substr(1)} /> 
-            <div id="container" className="container w-full content-center items-center justify-center py-24 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
-            >
-              <h1 className="text-center font-bold text-4xl lg:text-5xl">Learn more about the <span style={{color: "#0066FF"}}>{this.state.totalNumberOfApps}</span> COVID-19 apps around the world.</h1>
-            </div>
-            <div>
-              <MapChart shareTotalAppsNumber={this.props.shareTotalAppsNumber} setTooltipContent={this.updateMapTooltipContent} totalNumberOfApps={this.state.totalNumberOfApps}/>
-              <ReactTooltip>{this.state.content}</ReactTooltip>
-            </div>
-            <div
-              id="container"
-              className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
-            >
-              <p>Sort By US &nbsp;<input type="checkbox" checked={this.state.checked} onChange={this.sortByCountry}></input></p>
-            </div>
-            <div
-              id="container"
-              className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
-            >
-              <div className="headers flex items-center mx-auto mb-6 p-4">
-                <div className="sm:w-2/12 sm:-mr-6"></div>
-                <div className="font-bold w-8/12 sm:w-6/12 min-w-xs mr-3">
-                  Application Name
-                </div>
-                <div className="font-bold installs hidden sm:flex sm:w-2/12">
-                  Downloads
-                </div>
-                <div className="font-bold flex-auto w-4/12 sm:w-2/12 float-right text-left">
-                  Origin Country
-                </div>
-              </div>
-              <PlayAppGenerator shareRoutesWithApp={this.props.shareRoutesWithApp} playAppArray={this.state.playAppArray}/> 
-            </div> 
+  render() {
+    return (
+      <div>
+        <Matomo
+          title={"Home"}
+          customUrl={"/" + window.location.hash.substr(1)}
+        />
+        <div
+          id="container"
+          className="container w-full content-center items-center justify-center py-24 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+        >
+          <h1 className="text-center font-bold text-4xl lg:text-5xl">
+            Learn more about the{" "}
+            <span style={{ color: "#0066FF" }}>
+              {this.state.totalNumberOfApps}
+            </span>{" "}
+            COVID-19 apps around the world.
+          </h1>
+        </div>
+        <div>
+          <MapChart
+            shareTotalAppsNumber={this.props.shareTotalAppsNumber}
+            setTooltipContent={this.updateMapTooltipContent}
+            totalNumberOfApps={this.state.totalNumberOfApps}
+            shareAllCountries={this.shareAllCountries}
+          />
+          <ReactTooltip>{this.state.content}</ReactTooltip>
+        </div>
+        {/* <div
+          id="container"
+          className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+        >
+          <p>
+            Sort By US &nbsp;
+            <input
+              type="checkbox"
+              checked={this.state.checked}
+              onChange={this.sortByCountry}
+            ></input>
+          </p>
+        </div> */}
+        <div
+          id="container"
+          className="container w-full content-center items-center justify-center pt-16 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
+        >
+          <div className="pb-6">
+            <p className="pb-2">Select an Origin Country to filter by</p>
+            <Select
+              onChange={this.props.updateAppFilter}
+              options={this.state.allCountries}
+              isClearable={true}
+            />
           </div>
-        );
-    }
+          <div className="headers flex items-center mx-auto mb-6 p-4">
+            <div className="sm:w-2/12 sm:-mr-6"></div>
+            <div className="font-bold w-8/12 sm:w-6/12 min-w-xs mr-3">
+              Application Name
+            </div>
+            <div className="font-bold installs hidden sm:flex sm:w-2/12">
+              Downloads
+            </div>
+            <div className="font-bold flex-auto w-4/12 sm:w-2/12 float-right text-left">
+              Origin Country
+            </div>
+          </div>
+          <PlayAppGenerator
+            shareRoutesWithApp={this.props.shareRoutesWithApp}
+            playAppArray={this.state.playAppArray}
+          />
+        </div>
+      </div>
+    );
+  }
 }
 
 export default HomePage;

@@ -11,6 +11,8 @@ import {
     Geography
 } from "react-simple-maps";
 
+import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
+
 const geoUrl =
 process.env.PUBLIC_URL +
 "/map_data/geography.json";
@@ -93,12 +95,32 @@ class MapChartComponent extends Component {
         }
     }
 
+    getCountryName(countryIso2) {
+        const countries = require("i18n-iso-countries");
+        countries.registerLocale(i18n_iso_countries);
+
+        // Necessary because UK is not recognized in this library
+        if (countryIso2 === 'UK') {
+            return ('United Kingdom')
+        }
+
+        return (countries.getName(countryIso2, "en"))
+    }
+
     calculateTotalNumberOfApps = () => {
         Object.values(this.state.totalApps).forEach(value => {
             this.state.totalNumberOfApps += value;
         })
         this.props.shareTotalAppsNumber(this.state.totalNumberOfApps);
+        let countryList = []
+        Object.keys(this.state.totalApps).forEach(value => {
+            countryList.push({value: value, label: this.getCountryName(value)})
+        })
+        /*console.log(countryList);*/
+        this.props.shareAllCountries(countryList);
     }
+
+
 
     dataHandler = () => {
         let tempThis = this;
