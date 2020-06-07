@@ -279,6 +279,15 @@
     "country": "SN"
   },
   {
+    "id": "com.coronacheck.haugxhaug.testyourcorona",
+    "title": "Corona Check Screening",
+    "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
+    "developer_id": "Winfried Schlee",
+    "updated_date": "2020-05-29",
+    "downloads": "5,000+",
+    "country": "DE"
+  },
+  {
     "id": "com.covid19.dgmup",
     "title": "UP Self- Quarantine App",
     "icon_url": "https://lh3.googleusercontent.com/lj8Etg1E8IHOLWH-uoge4qePYf6JBnU97LofOGJRgqK-JlWiSasDrB_VP5fwthP2xA",
