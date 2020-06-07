@@ -1,39 +1,40 @@
 # Project Name: COVID19 *App Tracker*
 
 ## Project Synopsis
+This project is currently a proof of concept. Further work is ongoing and we encourage feedback! If you see apps missing or corrections that should be made, please contact us at info@covid19apptracker.org. We hope this encourages greater transparency and leads to further privacy research around the globe.
 
-With the current COVID19 crisis has emerged privacy concerns with the large number of apps being published and pushed for broad public download. This project aims to track these apps and their release for further investigation, while informing the public if there are known privacy concerns prior before installing.
+With the current pandemic has emerged privacy concerns with the large number of applications being published and promoted around the globe. From symptom tracking to contact tracing, the COVID-19 App Tracker Project aims to identify and track applications published on the Google Play Store.
 
-The current project looks at applications on the Google Play Store or applications.
+At this time, the COVID-19 App Tracker Project only looks for applications on the Google Play Store that fall within at least one of the following categories:
 
-## Who is this for?
+* Contact Tracing
+* Symptom Tracking
+* COVID-19 Information
 
-1. Privacy Researchers and Advocates
-2. Tech Journalists
-3. General Public with Privacy Concerns
+## Our Intended Audience
 
-## Project Components
+We hope this project leads to greater transparency for these new applications’ privacy and security implications around the globe. Many apps are being created quickly, resulting in poor security or are not clearly articulating how they are using the data they are collecting. We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities.
 
-### Core Features
+* Researchers
+* Privacy Advocates
+* Journalists
+* General Public
 
-#### Phase 1
+## Our Roadmap
 
-- Detect when new Coronavirus tracker apps are published on the Google Play Store
-- Automatically post to Twitter
-- Automatically display the compiled list on our site (filter by date, location, name...)
+We are excited to launch our proof of concept of the COVID-19 App Tracker Project, but here are other plans in the works.
 
-#### Phase 2
-- Use Google Alerts API (?) to add articles that specifically mention the app.
+### Proof of Concept Launch (May 18, 2020)
+The following tasks have been completed for the proof of concept launch:
 
-### 1) Dashboard
--- map (# apps per country)
--- API connected from apps store to front end
+* COVID-19 App Tracker engine is fully functional
+* Implement automatic updates to the dashboard
+* Update website content
 
-### 2) Twitter bot
--- hashtag researchers could use in response
--- too many permissions when users install, tracks data (tags)
--- manually uploading articles related to concerns of the apps
+### Version 1.0
+The following tasks we aim to complete under Phase 1 work:
 
-
-
+* Optimize the dashboard and website for mobile and desktop browsers
+* Automate Twitter updates (New App, Update, or Take Down from Google Play)
+* Allow for users to download database of applications identified under the project
 
