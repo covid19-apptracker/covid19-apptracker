@@ -175,7 +175,7 @@
     "title": "CoronApp - Colombia",
     "icon_url": "https://lh3.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
     "developer_id": "INS.GOV",
-    "updated_date": "2020-06-02",
+    "updated_date": "2020-06-06",
     "downloads": "5,000,000+",
     "country": "CO"
   },
@@ -283,7 +283,7 @@
     "title": "Corona Check Screening",
     "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
     "developer_id": "Winfried Schlee",
-    "updated_date": "2020-05-29",
+    "updated_date": "2020-06-07",
     "downloads": "5,000+",
     "country": "DE"
   },
@@ -346,7 +346,7 @@
     "title": "COVID-19 Gov PK",
     "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
     "developer_id": "National IT Board, Government Of Pakistan",
-    "updated_date": "2020-05-24",
+    "updated_date": "2020-06-06",
     "downloads": "500,000+",
     "country": "PK"
   },
@@ -374,7 +374,7 @@
     "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
     "developer_id": "iClick",
     "updated_date": "2020-05-21",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "NP"
   },
   {
@@ -445,7 +445,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2020-05-25",
+    "updated_date": "2020-06-07",
     "downloads": "1,000,000+",
     "country": "QA"
   },
@@ -608,7 +608,7 @@
     "icon_url": "https://lh3.googleusercontent.com/5E4I1QxM4SHjLLLw3ksAp0e9QUyDOcy5pRAMO8HYwPQunOKo50YetjPxSIWN4_5xZxo",
     "developer_id": "Nemocnice Milosrdnych bratri, p.o.",
     "updated_date": "2020-04-08",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "CZ"
   },
   {
@@ -787,8 +787,8 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-06-03",
-    "downloads": "10,000+",
+    "updated_date": "2020-06-06",
+    "downloads": "50,000+",
     "country": "MM"
   },
   {
@@ -1003,7 +1003,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-05",
+    "updated_date": "2020-06-06",
     "downloads": "50,000+",
     "country": "UK"
   },
