@@ -26,12 +26,23 @@ class AboutPage extends Component {
                                 At this time, the <strong>COVID-19 App Tracker Project</strong> only looks for applications on the Google Play Store that fall within at least one of the following categories:
                             </p>
                             <div>
-                                <ul className="list-disc pl-4">
+                                <ul className="list-disc pl-4 pb-4">
                                     <li>Contact Tracing</li>
                                     <li>Symptom Tracking</li>
                                     <li>COVID-19 Information</li>
                                 </ul> 
                             </div>
+                            <div className="text-base pb-2">
+                                <p>
+                                    Download the data we've collected.
+                                </p>
+                            </div>
+                            <a href="https://docs.google.com/spreadsheets/d/1gutqRjHrwRmQCJQJ5f0t5NOhxYIYztkjMTVLJcXSx8k/edit#gid=0"  target="_blank">
+                                <button class="bg-gray-300 text-white py-3 px-5 rounded inline-flex items-center" style={{backgroundColor: "#0066FF"}}>
+                                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
+                                    <span>Download</span>
+                                </button>
+                            </a>
                     </div>
                     <hr className="border-black pb-12" width="32px"/>
                     <h1 className="text-3xl pb-8">
