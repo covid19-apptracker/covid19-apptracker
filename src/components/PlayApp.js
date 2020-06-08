@@ -4,6 +4,19 @@ import AppPage from './pages/AppPage';
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
 class PlayApp extends Component {
+    constructor(props) {
+      super(props);
+      this.state = {
+        hidden: false
+      }
+    }
+
+    hide = () => {
+      this.setState({
+        hidden:true
+      })
+    }
+
     getCountryName(countryIso2) {
       const countries = require("i18n-iso-countries");
       countries.registerLocale(i18n_iso_countries);
@@ -15,9 +28,10 @@ class PlayApp extends Component {
 
       return (countries.getName(countryIso2, "en"))
     }
+
     render() {
         return (
-          <div>
+          <div className={(this.state.hidden===true) ? "hidden" : ""}>
             <Router>
             <Route exact path={"/app/"+this.props.id.toString()} component={AppPage} />
             <Link to={"app/"+this.props.id.toString()}> 

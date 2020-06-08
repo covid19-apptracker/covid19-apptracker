@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
-import logo from '../../img/logo_wht.svg';
 import Matomo from "../analytics/Matomo";
 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
+
+import logo from '../../img/logo_wht.svg';
+import loadingImg from '../../img/loading.gif';
 
 class AppPage extends Component {
     constructor(props) {
@@ -12,6 +14,7 @@ class AppPage extends Component {
         this.state = {
             description: "",
             permissions: [],
+            isLoaded: false
         }
     }
 
@@ -24,7 +27,8 @@ class AppPage extends Component {
     componentWillReceiveProps(nextProps) {
         this.setState({
             description: nextProps.description,
-            permissions: nextProps.permissions
+            permissions: nextProps.permissions,
+            isLoaded: true
         });
     }
 
@@ -51,7 +55,7 @@ class AppPage extends Component {
         if (this.state.permissions !== undefined) {
             return(
                 Object.keys(this.state.permissions).map((permissionName) => 
-                <div id="storage" className="flex align-top sm:pr-6 pb-12">
+                <div id="storage" key={permissionName} className="flex align-top sm:pr-6 pb-12">
                     <div className="pr-4">
                         <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><img width="16" height="16" src={logo} /></div>
                     </div>
@@ -60,7 +64,7 @@ class AppPage extends Component {
                         <ul className="list-disc pl-4 text-gray-700">
                             {
                                 this.state.permissions[permissionName].map((specificPermission) => 
-                                    <li>{specificPermission}</li>
+                                    <li key={specificPermission}>{specificPermission}</li>
                                 ) 
                             }
                         </ul>
@@ -88,10 +92,18 @@ class AppPage extends Component {
         return (countries.getName(countryIso2, "en"))
     }
 
-    render() {
+    locationFinder = () => {
+        let location = window.location.hash;
+        console.log(location);
+        console.log(this.state.isLoaded)
+    }
 
+    render() {
 		return (
 			<div>
+                {/* <div>
+                    <img src={loadingImg} className="mx-auto" alt="logo" />
+                </div> */}
                 <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				{/* <NavBar /> */}
 				<div

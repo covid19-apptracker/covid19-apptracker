@@ -11,6 +11,8 @@ import {
     Geography
 } from "react-simple-maps";
 
+import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
+
 const geoUrl =
 process.env.PUBLIC_URL +
 "/map_data/geography.json";
@@ -31,7 +33,31 @@ const rounded = num => {
 };
 
 const setCountryColor = totalApps => {
-  if (totalApps != undefined && totalApps <= 2) {
+    let color = "rgb(36, 138, 255, ";
+
+    if (totalApps !== undefined) {
+        color += (((totalApps/3)*.15)+0.3)
+        color += ")"
+        return ({
+      default: {
+        fill: color,
+        outline: "none"
+      },
+      hover: {
+        fill: "#0066FF",
+        outline: "none"
+      },
+      pressed: {
+        fill: "#0066FF",
+        outline: "none"
+      }
+    });
+
+        
+    }
+
+
+    if (totalApps != undefined && totalApps <= 2) {
     return ({
       default: {
         fill: "#a7c2f2",
@@ -89,8 +115,21 @@ class MapChartComponent extends Component {
         this.state = {
             hasError: false,
             totalApps: {},
-            totalNumberOfApps: this.props.totalNumberOfApps
+            totalNumberOfApps: this.props.totalNumberOfApps,
+            allCountries: []
         }
+    }
+
+    getCountryName(countryIso2) {
+        const countries = require("i18n-iso-countries");
+        countries.registerLocale(i18n_iso_countries);
+
+        // Necessary because UK is not recognized in this library
+        if (countryIso2 === 'UK') {
+            return ('United Kingdom')
+        }
+
+        return (countries.getName(countryIso2, "en"))
     }
 
     calculateTotalNumberOfApps = () => {
@@ -98,7 +137,27 @@ class MapChartComponent extends Component {
             this.state.totalNumberOfApps += value;
         })
         this.props.shareTotalAppsNumber(this.state.totalNumberOfApps);
+
+
     }
+
+    calculateAllCountries = () => {
+                let countryList = []
+        Object.keys(this.state.totalApps).forEach(value => {
+            countryList.push({value: value, label: this.getCountryName(value)})
+        })
+        if (countryList.length !== 0) {
+            console.log("printing country list")
+            console.log(countryList)
+            this.setState({
+                allCountries: countryList
+            })
+            this.props.shareAllCountries(countryList);
+        }
+        /*console.log(countryList);*/
+    }
+
+
 
     dataHandler = () => {
         let tempThis = this;
@@ -136,6 +195,9 @@ class MapChartComponent extends Component {
     render() {
         if (this.state.totalNumberOfApps === 0) {
             this.calculateTotalNumberOfApps();
+        }
+        if (this.state.allCountries.length === 0){
+            this.calculateAllCountries();
         }
         return (
             <div className="bg-gray-200">
