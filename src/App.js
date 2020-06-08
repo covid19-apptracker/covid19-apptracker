@@ -180,6 +180,7 @@ class App extends Component {
                   )}
                   shareTotalAppsNumber={this.shareTotalAppsNumber}
                   totalNumberOfApps={this.state.totalNumberOfApps}
+                  currentFilter={this.state.currentFilter}
                   updateAppFilter={this.updateAppFilter}
                 />
               )}
@@ -209,6 +210,7 @@ class App extends Component {
                     permissions={appInfo.permissions}
                     description={appInfo.description}
                     appStoreURL={appInfo.app_store_url}
+                    updateAppFilter={this.updateAppFilter}
                   />
                 )}
               />

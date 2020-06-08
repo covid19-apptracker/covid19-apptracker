@@ -33,7 +33,31 @@ const rounded = num => {
 };
 
 const setCountryColor = totalApps => {
-  if (totalApps != undefined && totalApps <= 2) {
+    let color = "rgb(36, 138, 255, ";
+
+    if (totalApps !== undefined) {
+        color += (((totalApps/3)*.15)+0.3)
+        color += ")"
+        return ({
+      default: {
+        fill: color,
+        outline: "none"
+      },
+      hover: {
+        fill: "#0066FF",
+        outline: "none"
+      },
+      pressed: {
+        fill: "#0066FF",
+        outline: "none"
+      }
+    });
+
+        
+    }
+
+
+    if (totalApps != undefined && totalApps <= 2) {
     return ({
       default: {
         fill: "#a7c2f2",
@@ -91,7 +115,8 @@ class MapChartComponent extends Component {
         this.state = {
             hasError: false,
             totalApps: {},
-            totalNumberOfApps: this.props.totalNumberOfApps
+            totalNumberOfApps: this.props.totalNumberOfApps,
+            allCountries: []
         }
     }
 
@@ -112,12 +137,24 @@ class MapChartComponent extends Component {
             this.state.totalNumberOfApps += value;
         })
         this.props.shareTotalAppsNumber(this.state.totalNumberOfApps);
-        let countryList = []
+
+
+    }
+
+    calculateAllCountries = () => {
+                let countryList = []
         Object.keys(this.state.totalApps).forEach(value => {
             countryList.push({value: value, label: this.getCountryName(value)})
         })
+        if (countryList.length !== 0) {
+            console.log("printing country list")
+            console.log(countryList)
+            this.setState({
+                allCountries: countryList
+            })
+            this.props.shareAllCountries(countryList);
+        }
         /*console.log(countryList);*/
-        this.props.shareAllCountries(countryList);
     }
 
 
@@ -158,6 +195,9 @@ class MapChartComponent extends Component {
     render() {
         if (this.state.totalNumberOfApps === 0) {
             this.calculateTotalNumberOfApps();
+        }
+        if (this.state.allCountries.length === 0){
+            this.calculateAllCountries();
         }
         return (
             <div className="bg-gray-200">

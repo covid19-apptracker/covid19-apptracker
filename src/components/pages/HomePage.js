@@ -4,6 +4,7 @@ import MapChart from "../MapChartComponent";
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator'; 
 import Matomo from "../analytics/Matomo";
 
+import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 import Select from 'react-select';
 
 class HomePage extends Component {
@@ -29,12 +30,25 @@ class HomePage extends Component {
     });
   }
 
+  getCountryName(countryIso2) {
+    const countries = require("i18n-iso-countries");
+    countries.registerLocale(i18n_iso_countries);
+
+    // Necessary because UK is not recognized in this library
+    if (countryIso2 === 'UK') {
+      return ('United Kingdom')
+    }
+
+    return (countries.getName(countryIso2, "en"))
+  }
+
   componentWillReceiveProps(nextProps) {
     // console.log("made it into will receive props in Homepage")
     // console.log(nextProps.playAppArray);
     this.setState({
       playAppArray: nextProps.playAppArray,
       totalNumberOfApps: nextProps.totalNumberOfApps,
+      currentFilter: nextProps.currentFilter
     });
   }
 
@@ -45,28 +59,11 @@ class HomePage extends Component {
   };
 
   shareAllCountries = (countryList) => {
-    this.setState({ allCountries: countryList });
-  };
-
-  sortByCountry = () => {
-    let homePageThis = this;
-    console.log(homePageThis.state.countrySortedApps.keys());
-    this.state.playAppArray.forEach(function (playApp) {
-      if (playApp.props.country !== "US") {
-        playApp.hide();
-      }
-      if (
-        playApp.props.country === "US" &&
-        !homePageThis.state.countrySortedApps.includes(playApp)
-      ) {
-        homePageThis.setState({
-          countrySortedApps: [...homePageThis.state.countrySortedApps, playApp],
-          checked: !homePageThis.state.checked,
-        });
-      }
-      console.log(homePageThis.state.countrySortedApps.includes(playApp));
-    });
-    console.log(homePageThis.state.countrySortedApps);
+    if (countryList.length > 0) {
+      this.setState({ allCountries: countryList });
+    }
+    console.log('made it into shareAllCountries!')
+    
   };
 
   render() {
@@ -117,6 +114,7 @@ class HomePage extends Component {
           <div className="pb-6">
             <p className="pb-2">Select an Origin Country to filter by</p>
             <Select
+            defaultInputValue={this.getCountryName(this.props.currentFilter)}
               onChange={this.props.updateAppFilter}
               options={this.state.allCountries}
               isClearable={true}
@@ -135,6 +133,7 @@ class HomePage extends Component {
             </div>
           </div>
           <PlayAppGenerator
+            updateAppFilter={this.props.updateAppFilter}
             shareRoutesWithApp={this.props.shareRoutesWithApp}
             playAppArray={this.state.playAppArray}
           />
