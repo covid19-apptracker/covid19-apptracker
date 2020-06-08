@@ -1,0 +1,31 @@
+{
+  "id": "org.who.infoapp",
+  "title": "WHO Info",
+  "icon_url": "https://lh3.googleusercontent.com/E5YzhjQ7PTH07Ink9hDoVwUXelvpnB54Sdg8R0IOjmC9e2rea9BNHEABrfzx3gwdQNX7",
+  "developer_id": "World Health Organization",
+  "updated_date": "2020-06-05",
+  "downloads": "100,000+",
+  "country": "",
+  "description": "Have the latest health information at your fingertips with the official World Health Organization Information App. This app displays the latest news, events, features and breaking updates on outbreaks. WHO works worldwide to promote health, keep the world safe, and serve the vulnerable. Our goal is to ensure that a billion more people have universal health coverage, to protect a billion more people from health emergencies, and provide a further billion people with better health and well-being.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=org.who.infoapp",
+  "permissions": {
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Calendar": [
+      "Add or modify calendar events and send email to guests without owners' knowledge",
+      "Read calendar events plus confidential information"
+    ],
+    "Other": [
+      "Full network access"
+    ]
+  },
+  "developer_url": "https://www.who.int/",
+  "available": true,
+  "first_time_seen": "2020-06-05"
+}

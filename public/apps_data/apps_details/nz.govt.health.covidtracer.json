@@ -1,0 +1,23 @@
+{
+  "id": "nz.govt.health.covidtracer",
+  "title": "NZ COVID Tracer",
+  "icon_url": "https://lh3.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
+  "developer_id": "Ministry of Health NZ",
+  "updated_date": "2020-05-20",
+  "downloads": "100,000+",
+  "country": "NZ",
+  "description": "NZ COVID Tracer is the Ministry of Health\u2019s official contact tracing mobile app. It helps you protect your friends, wh\u00e2nau and community by enabling faster tracing of the people you\u2019ve come into close contact with. NZ COVID Tracer creates a digital diary of the places you visit when you scan QR codes on display at the entrances to business premises, other organisations and public buildings. You can also register your contact information through the app to make sure the National Close Contact Service can get in touch if they need to. The Ministry of Health has worked closely with the Privacy Commissioner and independent security experts during the development of NZ COVID Tracer to ensure your privacy and data security are protected. Any information you decide to record with NZ COVID Tracer will be stored securely on your phone and deleted automatically after 31 days. Any personal information you choose to share with contact tracers will be used only for public health purposes and never for enforcement. Visit www.health.govt.nz/NZ-COVID-Tracer for further information.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=nz.govt.health.covidtracer",
+  "permissions": {
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Other": [
+      "Full network access",
+      "View network connections"
+    ]
+  },
+  "developer_url": "https://www.health.govt.nz/nz-covid-tracer",
+  "available": true,
+  "first_time_seen": "2020-06-02"
+}
