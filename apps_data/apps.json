@@ -4,7 +4,7 @@
     "title": "COVID19 - DXB Smart App",
     "icon_url": "https://lh3.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
     "developer_id": "Dubai Health Authority - DHA",
-    "updated_date": "2020-05-28",
+    "updated_date": "2020-06-07",
     "downloads": "10,000+",
     "country": "AE"
   },
@@ -43,6 +43,15 @@
     "updated_date": "2020-05-24",
     "downloads": "10,000+",
     "country": "LK"
+  },
+  {
+    "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
+    "title": "Coronavirus Help",
+    "icon_url": "https://lh3.googleusercontent.com/fTJaZKS-HyXe8RArblGSCNMuF4aM8x3DrWuhOLDH4a5s-P1XGhUibBIvEYubGmFoHRQ",
+    "developer_id": "Dave at Ryecroft Community Hub & BITS",
+    "updated_date": "2020-04-23",
+    "downloads": "5,000+",
+    "country": ""
   },
   {
     "id": "ar.gob.coronavirus",
@@ -284,7 +293,7 @@
     "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
     "developer_id": "Winfried Schlee",
     "updated_date": "2020-06-07",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "DE"
   },
   {
@@ -508,7 +517,7 @@
     "title": "CRUSH COVID RI",
     "icon_url": "https://lh3.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
     "developer_id": "State of Rhode Island",
-    "updated_date": "2020-05-15",
+    "updated_date": "2020-06-04",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -617,7 +626,7 @@
     "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
     "developer_id": "RISE Research Centre of Excellence",
     "updated_date": "2020-05-21",
-    "downloads": "500+",
+    "downloads": "1,000+",
     "country": "CY"
   },
   {
@@ -644,7 +653,7 @@
     "icon_url": "https://lh3.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
     "developer_id": "Federal Ministry of Health",
     "updated_date": "2020-05-24",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "ET"
   },
   {
@@ -792,6 +801,15 @@
     "country": "MM"
   },
   {
+    "id": "mn.callpro.shuurkhai",
+    "title": "Shuurkhai 119",
+    "icon_url": "https://lh3.googleusercontent.com/YUKlgqJXI7TdsPQhcIlzqN2AH2QiSAXIhucKXb2X0nL2xR_0mPmyHhYLstMLMsOc09Er",
+    "developer_id": "Communications and IT Authority",
+    "updated_date": "2020-05-29",
+    "downloads": "1,000+",
+    "country": "MN"
+  },
+  {
     "id": "mx.covidradar.radar",
     "title": "CovidRadar.mx",
     "icon_url": "https://lh3.googleusercontent.com/f_Gd1LSXlOna63bc4_96mZLeYr6mrrRlMSpoLnCFwrwqpLeZGQ4JZG_pzbN46A1b3Ew",
@@ -824,7 +842,7 @@
     "icon_url": "https://lh3.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
     "developer_id": "GOVERNMENT OF MALAYSIA",
     "updated_date": "2020-06-02",
-    "downloads": "500,000+",
+    "downloads": "1,000,000+",
     "country": "MY"
   },
   {
@@ -859,7 +877,7 @@
     "title": "Smittestopp",
     "icon_url": "https://lh3.googleusercontent.com/PCgkwVsRAIFTuvuDxGp7d6CHn_cgkRaL-utspBqHov8JP_pQ6s60ONLcHIE7wZjeO4Q",
     "developer_id": "Folkehelseinstituttet",
-    "updated_date": "2020-06-02",
+    "updated_date": "2020-06-08",
     "downloads": "100,000+",
     "country": "NO"
   },
@@ -958,7 +976,7 @@
     "title": "TraceTogether",
     "icon_url": "https://lh3.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
     "developer_id": "Government Technology Agency",
-    "updated_date": "2020-06-05",
+    "updated_date": "2020-06-07",
     "downloads": "1,000,000+",
     "country": "SG"
   },
@@ -1003,7 +1021,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-06",
+    "updated_date": "2020-06-07",
     "downloads": "50,000+",
     "country": "UK"
   },
