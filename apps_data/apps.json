@@ -94,7 +94,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2020-06-04",
+    "updated_date": "2020-06-08",
     "downloads": "100,000+",
     "country": "BH"
   },
@@ -184,7 +184,7 @@
     "title": "CoronApp - Colombia",
     "icon_url": "https://lh3.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
     "developer_id": "INS.GOV",
-    "updated_date": "2020-06-06",
+    "updated_date": "2020-06-08",
     "downloads": "5,000,000+",
     "country": "CO"
   },
@@ -355,7 +355,7 @@
     "title": "COVID-19 Gov PK",
     "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
     "developer_id": "National IT Board, Government Of Pakistan",
-    "updated_date": "2020-06-06",
+    "updated_date": "2020-06-08",
     "downloads": "500,000+",
     "country": "PK"
   },
@@ -374,7 +374,7 @@
     "icon_url": "https://lh3.googleusercontent.com/CoFYc-iClut8ojj7SfehfTHYHWtxH3VFvwjJnOa7BqGXHmipbGAvV4hVF6fqrAMphYk",
     "developer_id": "Kuwait Central Agency for Information Technology",
     "updated_date": "2020-05-20",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "KW"
   },
   {
@@ -545,7 +545,7 @@
     "icon_url": "https://lh3.googleusercontent.com/UFFwN27Tbx0p944HeZQcAoIIrvlVGtHIT-Gy7vU3e8-M0VCkKbYwyZtTrUG8m6UgHtE",
     "developer_id": "SPOTTERON",
     "updated_date": "2020-04-11",
-    "downloads": "500+",
+    "downloads": "1,000+",
     "country": "UK"
   },
   {
@@ -706,7 +706,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://lh3.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2020-06-04",
+    "updated_date": "2020-06-08",
     "downloads": "1,000,000+",
     "country": "IN"
   },
@@ -760,7 +760,7 @@
     "title": "Stop COVID-19 KG",
     "icon_url": "https://lh3.googleusercontent.com/R8OnFzq0l3xWYn-CcMBgqP9Pd3RLfCU-QYipRJUCtkuBfS4-GuoH1LpzNMzDjxDa7gk",
     "developer_id": "\u041c\u041f \"\u0426\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\" \u043c\u044d\u0440\u0438\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0438\u0448\u043a\u0435\u043a",
-    "updated_date": "2020-06-05",
+    "updated_date": "2020-06-09",
     "downloads": "10,000+",
     "country": "KG"
   },
@@ -796,7 +796,7 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-06-06",
+    "updated_date": "2020-06-08",
     "downloads": "50,000+",
     "country": "MM"
   },
@@ -947,9 +947,9 @@
   {
     "id": "pl.gov.mc.protegosafe",
     "title": "ProteGO Safe",
-    "icon_url": "https://lh3.googleusercontent.com/NtUrs_H-kNSrK5Nj0qNk-DiiSfPRjFxzP8VQVsugRVCQVM13LHPoRBbhQc105efj44Q",
+    "icon_url": "https://lh3.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
     "developer_id": "Ministerstwo Cyfryzacji",
-    "updated_date": "2020-04-30",
+    "updated_date": "2020-06-08",
     "downloads": "10,000+",
     "country": "PL"
   },
@@ -967,7 +967,7 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
     "developer_id": "National Information Center",
-    "updated_date": "2020-05-25",
+    "updated_date": "2020-06-08",
     "downloads": "1,000,000+",
     "country": "SA"
   },
@@ -1021,7 +1021,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-07",
+    "updated_date": "2020-06-08",
     "downloads": "50,000+",
     "country": "UK"
   },
