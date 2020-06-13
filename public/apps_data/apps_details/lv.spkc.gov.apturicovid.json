@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/Ujk59m6SFhlsReiGlGGpsACrmY8pR858wlZuM0j84gPnAWFSK4E_bOf_ldfNKmojy7NR",
   "developer_id": "SPKC",
   "updated_date": "2020-05-27",
-  "downloads": "10,000+",
+  "downloads": "50,000+",
   "country": "LV",
   "description": "This is the official COVID-19 contact tracing app for Latvia, provided by SPKC, the local Centre for Disease Prevention and Control. Contact tracing is key to limiting the spread of COVID-19. This app makes it accessible to any smartphone user in Latvia. The more residents use this app, the more efficient it will be and help stop the spread of the virus. It is secure and respects your privacy: * It doesn\u2019t track your location. * It stores data on device only, and automatically deletes it after 14 days. * The app does not record GPS data even if GPS is switched on. * If you choose to provide a contact number, it will only be shared with SPKC and only if and when your contact with a COVID-19 case has been detected. SPKC will have access to the following data: phone number, contact date, signal strength, contact duration. What exactly does contact mean here? 15+ minutes of up to ~2 m proximity to someone who also has this app switched on, and this information is encrypted and stored on both phones. The app will let you know if you have come in contact with a COVID-19 case \u2013 without revealing the sender or the recipient. And it will equip you with knowledge what to do when that happens. The app uses Bluetooth technology and Google\u2019s Exposure Notification API to ensure privacy and security.",
   "app_store_url": "https://play.google.com/store/apps/details?id=lv.spkc.gov.apturicovid",
