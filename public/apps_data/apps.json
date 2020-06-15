@@ -459,6 +459,15 @@
     "country": "PK"
   },
   {
+    "id": "com.optic.covdr",
+    "title": "COVID-RD",
+    "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
+    "developer_id": "Rep\u00fablica Digital",
+    "updated_date": "2020-06-07",
+    "downloads": "1,000+",
+    "country": "DM"
+  },
+  {
     "id": "com.panafricare.lasante",
     "title": "Lasante - Seychelles Coronavirus Tool",
     "icon_url": "https://lh3.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
@@ -652,7 +661,7 @@
     "title": "StopCovid France",
     "icon_url": "https://lh3.googleusercontent.com/dXsmDeqJwgHTIIyyi4PEJYlAhhn8bJ_PFxY6R1BOYXSVhu3FcCSoQT_W_SVtzm9Aae-U",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-06-13",
+    "updated_date": "2020-06-15",
     "downloads": "500,000+",
     "country": "FR"
   },
@@ -715,7 +724,7 @@
     "title": "Rakning C-19",
     "icon_url": "https://lh3.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
     "developer_id": "9072923057432209139",
-    "updated_date": "2020-04-19",
+    "updated_date": "2020-06-14",
     "downloads": "50,000+",
     "country": "IS"
   },
@@ -770,7 +779,7 @@
     "icon_url": "https://lh3.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY",
     "developer_id": "7571629351755240168",
     "updated_date": "2020-04-25",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "LY"
   },
   {
@@ -923,7 +932,7 @@
     "icon_url": "https://lh3.googleusercontent.com/-Kgh1wcNwvxdwCDGAF2eTUez77H9ROztJs7pFdLDZ8PZ86F5YcbMf7fb0ZsJ2e7Ho9U",
     "developer_id": "Protego App Ltd",
     "updated_date": "2020-05-30",
-    "downloads": "100+",
+    "downloads": "500+",
     "country": "UK"
   },
   {
@@ -1021,7 +1030,7 @@
     "title": "Coronavirus UY",
     "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
     "developer_id": "AGESIC",
-    "updated_date": "2020-04-27",
+    "updated_date": "2020-06-08",
     "downloads": "100,000+",
     "country": "UY"
   },
