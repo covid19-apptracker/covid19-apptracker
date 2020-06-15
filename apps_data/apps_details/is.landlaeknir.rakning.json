@@ -3,7 +3,7 @@
   "title": "Rakning C-19",
   "icon_url": "https://lh3.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
   "developer_id": "9072923057432209139",
-  "updated_date": "2020-04-19",
+  "updated_date": "2020-06-14",
   "downloads": "50,000+",
   "country": "IS",
   "description": "Official app from the Icelandic Government to help mitigate the Covid-19 pandemic in Iceland The app collects the GPS location of the phone and stores locally on the device. If the phone owner is diagnosed with the Covid-19 disease he is asked by the Directorate of Health to share the location data for contact tracing in order to identify individuals that might need to go into quarantine.",
@@ -24,21 +24,21 @@
       "Read phone status and identity"
     ],
     "Location": [
-      "Precise location (gps and network-based)",
       "Access extra location provider commands",
-      "Approximate location (network-based)"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "Read google service configuration",
-      "Full network access",
-      "Read sync settings",
-      "View network connections",
       "Create accounts and set passwords",
+      "Draw over other apps",
+      "Full network access",
       "Prevent device from sleeping",
-      "Toggle sync on and off",
+      "Read google service configuration",
+      "Read sync settings",
+      "Receive data from internet",
       "Run at startup",
-      "Draw over other apps"
+      "Toggle sync on and off",
+      "View network connections"
     ]
   },
   "developer_url": "http://covid.is",
