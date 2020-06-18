@@ -364,7 +364,7 @@
     "title": "\u05d4\u05de\u05d2\u05df - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
     "icon_url": "https://lh3.googleusercontent.com/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ",
     "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
-    "updated_date": "2020-05-07",
+    "updated_date": "2020-06-16",
     "downloads": "1,000,000+",
     "country": "IL"
   },
@@ -446,7 +446,7 @@
     "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
     "developer_id": "Ministry of Communications",
     "updated_date": "2020-05-08",
-    "downloads": "100+",
+    "downloads": "500+",
     "country": "GH"
   },
   {
@@ -535,7 +535,7 @@
     "title": "SoCo COVID-19 Check",
     "icon_url": "https://lh3.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
     "developer_id": "County of Sonoma",
-    "updated_date": "2020-06-05",
+    "updated_date": "2020-06-16",
     "downloads": "1,000+",
     "country": ""
   },
@@ -715,7 +715,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://lh3.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2020-06-15",
+    "updated_date": "2020-06-17",
     "downloads": "1,000,000+",
     "country": "IN"
   },
@@ -895,7 +895,7 @@
     "title": "Hamro Swasthya",
     "icon_url": "https://lh3.googleusercontent.com/Ti9DD7ky73C3N3DC5RbSODRCaK6-IFHux6-Mw4vFzZjfWbbX4TX0gRNSqbt-diOEVA",
     "developer_id": "Ministry of Health and Population",
-    "updated_date": "2020-05-10",
+    "updated_date": "2020-06-18",
     "downloads": "100,000+",
     "country": "NP"
   },
@@ -1030,7 +1030,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-16",
+    "updated_date": "2020-06-17",
     "downloads": "50,000+",
     "country": "UK"
   },
