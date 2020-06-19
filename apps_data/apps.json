@@ -76,7 +76,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://lh3.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2020-06-04",
+    "updated_date": "2020-06-18",
     "downloads": "1,000,000+",
     "country": "AU"
   },
@@ -121,7 +121,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-06-15",
+    "updated_date": "2020-06-19",
     "downloads": "100,000+",
     "country": "CA"
   },
@@ -130,7 +130,7 @@
     "title": "STOP COVID19 CAT",
     "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
     "developer_id": "Generalitat de Catalunya",
-    "updated_date": "2020-06-11",
+    "updated_date": "2020-06-18",
     "downloads": "500,000+",
     "country": "ES"
   },
@@ -283,7 +283,7 @@
     "title": "Corona Check Screening",
     "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
     "developer_id": "Winfried Schlee",
-    "updated_date": "2020-06-10",
+    "updated_date": "2020-06-18",
     "downloads": "10,000+",
     "country": "DE"
   },
@@ -472,7 +472,7 @@
     "title": "COVID-RD",
     "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
     "developer_id": "Rep\u00fablica Digital",
-    "updated_date": "2020-06-07",
+    "updated_date": "2020-06-19",
     "downloads": "1,000+",
     "country": "DM"
   },
@@ -967,7 +967,7 @@
     "title": "Home Quarantine (Kwarantanna domowa)",
     "icon_url": "https://lh3.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
     "developer_id": "Ministerstwo Cyfryzacji",
-    "updated_date": "2020-05-06",
+    "updated_date": "2020-06-15",
     "downloads": "100,000+",
     "country": "PL"
   },
@@ -1021,7 +1021,7 @@
     "title": "COVID-19 Sounds",
     "icon_url": "https://lh3.googleusercontent.com/eD1KAaXlM8e4YGbH_GeebDYAmQJ8UFEFJ8kFzFUNXfRaLYGVnHa23E3Bvp7w9ctdRx2E",
     "developer_id": "cam-cl-mobile-systems",
-    "updated_date": "2020-05-13",
+    "updated_date": "2020-06-18",
     "downloads": "5,000+",
     "country": "UK"
   },
@@ -1030,7 +1030,7 @@
     "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-17",
+    "updated_date": "2020-06-18",
     "downloads": "50,000+",
     "country": "UK"
   },
