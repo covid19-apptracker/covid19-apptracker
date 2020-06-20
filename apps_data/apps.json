@@ -985,7 +985,7 @@
     "title": "TraceTogether",
     "icon_url": "https://lh3.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
     "developer_id": "Government Technology Agency",
-    "updated_date": "2020-06-14",
+    "updated_date": "2020-06-20",
     "downloads": "1,000,000+",
     "country": "SG"
   },
@@ -1023,6 +1023,15 @@
     "developer_id": "cam-cl-mobile-systems",
     "updated_date": "2020-06-18",
     "downloads": "5,000+",
+    "country": "UK"
+  },
+  {
+    "id": "uk.nhs.nhsx.colocate",
+    "title": "NHS COVID-19 - No longer available",
+    "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
+    "developer_id": "NHSX",
+    "updated_date": "2020-06-19",
+    "downloads": "50,000+",
     "country": "UK"
   },
   {
