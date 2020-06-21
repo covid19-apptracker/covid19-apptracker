@@ -58,7 +58,7 @@
     "title": "CUIDAR COVID-19 ARGENTINA",
     "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
     "developer_id": "8169270262982486256",
-    "updated_date": "2020-05-29",
+    "updated_date": "2020-06-20",
     "downloads": "5,000,000+",
     "country": "AR"
   },
@@ -355,7 +355,7 @@
     "title": "COVID-19 Gov PK",
     "icon_url": "https://lh3.googleusercontent.com/F47bdIXHyUQIrBqc_KqNqq9lkIOEKU6jlx_WOvPCoo5wsVcSNRD9lvJg8z3boJHbj1g",
     "developer_id": "National IT Board, Government Of Pakistan",
-    "updated_date": "2020-06-13",
+    "updated_date": "2020-06-21",
     "downloads": "500,000+",
     "country": "PK"
   },
@@ -401,7 +401,7 @@
     "icon_url": "https://lh3.googleusercontent.com/Y-d_xS4sO8nA8b9ibpuqFJ3JWFImE4EE54Yf0gpvlJQb38OZ83_7k2LXeWMx3ShJmA",
     "developer_id": "opmjm mobile",
     "updated_date": "2020-06-16",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "JM"
   },
   {
@@ -472,7 +472,7 @@
     "title": "COVID-RD",
     "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
     "developer_id": "Rep\u00fablica Digital",
-    "updated_date": "2020-06-19",
+    "updated_date": "2020-06-20",
     "downloads": "1,000+",
     "country": "DM"
   },
@@ -904,7 +904,7 @@
     "title": "NZ COVID Tracer",
     "icon_url": "https://lh3.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
     "developer_id": "Ministry of Health NZ",
-    "updated_date": "2020-06-09",
+    "updated_date": "2020-06-20",
     "downloads": "100,000+",
     "country": "NZ"
   },
@@ -1032,7 +1032,7 @@
     "developer_id": "NHSX",
     "updated_date": "2020-06-19",
     "downloads": "50,000+",
-    "country": "UK"
+    "country": ""
   },
   {
     "id": "uk.nhs.nhsx.colocate",
@@ -1048,7 +1048,7 @@
     "title": "Coronavirus UY",
     "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
     "developer_id": "AGESIC",
-    "updated_date": "2020-06-15",
+    "updated_date": "2020-06-20",
     "downloads": "100,000+",
     "country": "UY"
   },
