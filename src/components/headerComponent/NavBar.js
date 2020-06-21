@@ -43,6 +43,10 @@ class NavBar extends Component{
                         className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
                             Team
                         </NavLink>
+                        <a href = "https://medium.com/@apptracker.cvd19" activeStyle={{color: "#000000"}}
+                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
+                            Blog
+                        </a>
                         < NavLink exact to = "/contact" activeStyle={{color: "#000000"}}
                         className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
                             Contact

@@ -18,6 +18,7 @@ class Footer extends Component {
                             <div className="text-sm flex-grow antialiased">
                                 <Link to="/about" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">About</Link>
                                 <Link to="/team" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Team</Link>
+                                <a href="https://medium.com/@apptracker.cvd19" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Blog</a>
                                 <Link to="/contact" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Contact</Link>
                                 <Link to="/privacy-policy" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500">Privacy Policy</Link>
                             </div>
