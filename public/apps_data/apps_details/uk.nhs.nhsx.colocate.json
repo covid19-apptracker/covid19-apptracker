@@ -1,12 +1,12 @@
 {
   "id": "uk.nhs.nhsx.colocate",
-  "title": "NHS COVID-19 - No longer available",
+  "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
   "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
   "developer_id": "NHSX",
-  "updated_date": "2020-06-23",
+  "updated_date": "2020-06-18",
   "downloads": "50,000+",
-  "country": "",
-  "description": "The Government has announced that the Isle of Wight trial of the NHS COVID-19 app has ended, and is shifting focus to developing a solution based on Google Apple technology. We'd like to thank everyone on the Isle of Wight for the vital role they have played. We will use the lessons we have learned on the island to inform the next phase of development. If you took part in the trial by downloading the app on your smartphone, please now delete the app. If you are feeling unwell, please follow the official NHS advice on nhs.uk.  If you have coronavirus symptoms, call 119 to book a test.",
+  "country": "UK",
+  "description": "This is the first version of the app, currently available for Isle of Wight residents only. If you develop symptoms of coronavirus and report them in the app, the NHS COVID-19 app will anonymously warn those that you have been near to. They will receive advice from the NHS on the right action to take to stop the virus spreading further. This means that people can be quickly encouraged to self-isolate before they become infectious, allowing the country to stay one step ahead of the virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=uk.nhs.nhsx.colocate",
   "permissions": {
     "Location": [
@@ -25,5 +25,5 @@
   },
   "developer_url": "https://covid19.nhs.uk/our-policies.html",
   "available": true,
-  "first_time_seen": "2020-06-25"
+  "first_time_seen": "2020-05-12"
 }
