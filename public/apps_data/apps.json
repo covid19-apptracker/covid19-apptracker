@@ -67,7 +67,7 @@
     "title": "Stopp Corona",
     "icon_url": "https://lh3.googleusercontent.com/2NERfqltW9rIkNkgCY96ZHjxWRRAm_5UXVWI3KcZJ3c1b9TKJZbD95N_7vGv1gUIbBA",
     "developer_id": "\u00d6sterreichisches Rotes Kreuz",
-    "updated_date": "2020-06-11",
+    "updated_date": "2020-06-25",
     "downloads": "100,000+",
     "country": "AT"
   },
@@ -446,7 +446,7 @@
     "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
     "developer_id": "Ministry of Communications",
     "updated_date": "2020-05-08",
-    "downloads": "500+",
+    "downloads": "1,000+",
     "country": "GH"
   },
   {
@@ -670,7 +670,7 @@
     "title": "StopCovid France",
     "icon_url": "https://lh3.googleusercontent.com/dXsmDeqJwgHTIIyyi4PEJYlAhhn8bJ_PFxY6R1BOYXSVhu3FcCSoQT_W_SVtzm9Aae-U",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-06-17",
+    "updated_date": "2020-06-26",
     "downloads": "1,000,000+",
     "country": "FR"
   },
@@ -778,7 +778,7 @@
     "title": "Apturi Covid Latvia \u2013 SPKC",
     "icon_url": "https://lh3.googleusercontent.com/Ujk59m6SFhlsReiGlGGpsACrmY8pR858wlZuM0j84gPnAWFSK4E_bOf_ldfNKmojy7NR",
     "developer_id": "SPKC",
-    "updated_date": "2020-05-27",
+    "updated_date": "2020-06-26",
     "downloads": "50,000+",
     "country": "LV"
   },
@@ -927,6 +927,15 @@
     "country": "US"
   },
   {
+    "id": "org.pathcheck.covidsafepaths",
+    "title": "PathCheck SafePlaces",
+    "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
+    "developer_id": "Path Check, Inc",
+    "updated_date": "2020-06-25",
+    "downloads": "10,000+",
+    "country": "US"
+  },
+  {
     "id": "org.prixa.p5covidtracker",
     "title": "Province 5 COVID-19 Tracker",
     "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
@@ -958,7 +967,7 @@
     "title": "ProteGO Safe",
     "icon_url": "https://lh3.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
     "developer_id": "Ministerstwo Cyfryzacji",
-    "updated_date": "2020-06-08",
+    "updated_date": "2020-06-23",
     "downloads": "50,000+",
     "country": "PL"
   },
@@ -1012,7 +1021,7 @@
     "title": "\u0414\u0456\u0439 \u0432\u0434\u043e\u043c\u0430",
     "icon_url": "https://lh3.googleusercontent.com/zEUpsEVTiuAXm9jnur-4Lxk2et_WVhhmnNmSRrMeTORxRzj4hAsBZ7Jvr5Ew2jlZ-PE",
     "developer_id": "Ministry of Digital Transformation of Ukraine",
-    "updated_date": "2020-06-04",
+    "updated_date": "2020-06-26",
     "downloads": "100,000+",
     "country": "UA"
   },
@@ -1030,7 +1039,7 @@
     "title": "NHS COVID-19 - No longer available",
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
-    "updated_date": "2020-06-23",
+    "updated_date": "2020-06-25",
     "downloads": "50,000+",
     "country": ""
   },
