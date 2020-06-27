@@ -51,7 +51,7 @@
     "developer_id": "Dave at Ryecroft Community Hub & BITS",
     "updated_date": "2020-04-23",
     "downloads": "5,000+",
-    "country": ""
+    "country": "UK"
   },
   {
     "id": "ar.gob.coronavirus",
@@ -312,7 +312,7 @@
     "developer_id": "Delhi e-Governance Society, IT Department",
     "updated_date": "2020-06-12",
     "downloads": "100,000+",
-    "country": ""
+    "country": "IN"
   },
   {
     "id": "com.droobihealth.corona",
@@ -537,7 +537,7 @@
     "developer_id": "County of Sonoma",
     "updated_date": "2020-06-22",
     "downloads": "1,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.speetar.app",
@@ -1040,15 +1040,6 @@
     "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
     "developer_id": "NHSX",
     "updated_date": "2020-06-25",
-    "downloads": "50,000+",
-    "country": ""
-  },
-  {
-    "id": "uk.nhs.nhsx.colocate",
-    "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
-    "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
-    "developer_id": "NHSX",
-    "updated_date": "2020-06-18",
     "downloads": "50,000+",
     "country": "UK"
   },
