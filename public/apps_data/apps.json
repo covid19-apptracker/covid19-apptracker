@@ -1044,15 +1044,6 @@
     "country": ""
   },
   {
-    "id": "uk.nhs.nhsx.colocate",
-    "title": "NHS COVID-19 \u2013 Isle of Wight residents only",
-    "icon_url": "https://lh3.googleusercontent.com/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c",
-    "developer_id": "NHSX",
-    "updated_date": "2020-06-18",
-    "downloads": "50,000+",
-    "country": "UK"
-  },
-  {
     "id": "uy.gub.salud.plancovid19uy",
     "title": "Coronavirus UY",
     "icon_url": "https://lh3.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
