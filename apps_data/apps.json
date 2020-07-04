@@ -282,7 +282,7 @@
     "id": "com.coronacheck.haugxhaug.testyourcorona",
     "title": "Corona Check Screening",
     "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
-    "developer_id": "Winfried Schlee",
+    "developer_id": "TRI Initiative",
     "updated_date": "2020-06-18",
     "downloads": "10,000+",
     "country": "DE"
@@ -463,7 +463,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://lh3.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2020-06-24",
+    "updated_date": "2020-07-02",
     "downloads": "1,000,000+",
     "country": "QA"
   },
@@ -481,7 +481,7 @@
     "title": "COVID-RD",
     "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
     "developer_id": "Rep\u00fablica Digital",
-    "updated_date": "2020-06-22",
+    "updated_date": "2020-07-02",
     "downloads": "1,000+",
     "country": "DM"
   },
@@ -769,7 +769,7 @@
     "title": "SM_Covid19",
     "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
     "developer_id": "Softmining Srl",
-    "updated_date": "2020-06-30",
+    "updated_date": "2020-07-03",
     "downloads": "50,000+",
     "country": "IT"
   },
@@ -1012,7 +1012,7 @@
     "title": "TraceTogether",
     "icon_url": "https://lh3.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
     "developer_id": "Government Technology Agency",
-    "updated_date": "2020-06-20",
+    "updated_date": "2020-07-03",
     "downloads": "1,000,000+",
     "country": "SG"
   },
