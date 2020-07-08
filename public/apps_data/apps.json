@@ -927,6 +927,15 @@
     "country": "NZ"
   },
   {
+    "id": "org.cvkey.cvkey",
+    "title": "CVKey",
+    "icon_url": "https://lh3.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
+    "developer_id": "CVKey Project",
+    "updated_date": "2020-05-01",
+    "downloads": "100+",
+    "country": ""
+  },
+  {
     "id": "org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
     "title": "Kenya Covid-19 Tracker",
     "icon_url": "https://lh3.googleusercontent.com/yCnt0Emrd9Nln_PlTD9cVFWdLSehJNghg3g27L8u5bA6RAT8PvFA9l7Is82mvMbQzn2_",
