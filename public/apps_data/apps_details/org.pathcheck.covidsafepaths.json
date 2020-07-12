@@ -1,20 +1,20 @@
 {
   "id": "org.pathcheck.covidsafepaths",
-  "title": "PathCheck SafePlaces",
+  "title": "COVID Safe Paths",
   "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
   "developer_id": "Path Check, Inc",
-  "updated_date": "2020-07-02",
+  "updated_date": "2020-05-16",
   "downloads": "10,000+",
-  "country": "",
-  "description": "PathCheck (formerly COVID Safe Paths) can privately save the places you visit and store them on your phone. Subscribe to Healthcare Authorities in your area for information about COVID-19 near you, where available. Receive alerts from your local Healthcare Authority with information about potential exposure to COVID-19. We are a global movement to develop free, open-source, privacy-by-design tools for residents, public health officials, and larger communities. The PathCheck program has spun out of initial privacy-first research conducted by MIT and TripleBlind, into a newly created non-profit called PathCheck Foundation, established with the initial purpose of supporting global rollout of the PathCheck app and associated tools for contact tracers and healthcare authorities. The goal of PathCheck is to help enable the reemergence and re-opening of economies and communities.  Through global partnerships, we are prepared to support public health officials everywhere in the effort to slow the spread of COVID-19.",
+  "country": "US",
+  "description": "Safe Paths can privately save the places you visit and store them on your phone. Select Healthcare Authorities in your area for information about COVID-19 near you, where available. Coming Soon: Receive alerts from your local Healthcare Authority with information about potential exposure to COVID-19. We are a global movement to develop free, open-source, privacy-by-design tools for residents, public health officials, and larger communities. The Safe Paths team is composed of engineers, epidemiologists, data privacy evangelists, professors, and researchers, and is guided by mentors from the US Department of Health and Human Services, the World Health Organization, and the Graduate Institute of International and Development Studies. The Safe Paths program has spun out of initial privacy-first research conducted by MIT and TripleBlind, into a newly created non-profit called PathCheck, Inc (PCI), established with the initial purpose of supporting global rollout of the COVID Safe Paths app and Safe Places tools for contact tracers and healthcare authorities. The goal of Safe Paths is to help enable the reemergence and re-opening of economies and communities.  Through global partnerships, we are prepared to support public health officials everywhere in the effort to slow the spread of COVID-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths",
   "permissions": {
-    "Device & app history": [
-      "Retrieve running apps"
-    ],
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
+    ],
+    "Device & app history": [
+      "Retrieve running apps"
     ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
@@ -29,10 +29,12 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
+      "Access bluetooth settings",
       "Control vibration",
       "Create accounts and set passwords",
       "Full network access",
       "Google play license check",
+      "Pair with bluetooth devices",
       "Prevent device from sleeping",
       "Read sync settings",
       "Receive data from internet",
@@ -43,5 +45,5 @@
   },
   "developer_url": "https://pathcheck.org",
   "available": true,
-  "first_time_seen": "2020-07-11"
+  "first_time_seen": "2020-05-10"
 }
