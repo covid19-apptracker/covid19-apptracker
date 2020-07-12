@@ -20,13 +20,13 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Access extra location provider commands",
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Control vibration",
@@ -43,5 +43,5 @@
   },
   "developer_url": "https://pathcheck.org",
   "available": true,
-  "first_time_seen": "2020-07-11"
+  "first_time_seen": "2020-07-12"
 }
