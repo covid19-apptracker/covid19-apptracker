@@ -12,6 +12,9 @@
     "Camera": [
       "Take pictures and videos"
     ],
+    "Contacts": [
+      "Read your contacts"
+    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
