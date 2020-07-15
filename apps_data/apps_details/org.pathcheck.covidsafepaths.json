@@ -9,24 +9,24 @@
   "description": "PathCheck (formerly COVID Safe Paths) can privately save the places you visit and store them on your phone. Subscribe to Healthcare Authorities in your area for information about COVID-19 near you, where available. Receive alerts from your local Healthcare Authority with information about potential exposure to COVID-19. We are a global movement to develop free, open-source, privacy-by-design tools for residents, public health officials, and larger communities. The PathCheck program has spun out of initial privacy-first research conducted by MIT and TripleBlind, into a newly created non-profit called PathCheck Foundation, established with the initial purpose of supporting global rollout of the PathCheck app and associated tools for contact tracers and healthcare authorities. The goal of PathCheck is to help enable the reemergence and re-opening of economies and communities.  Through global partnerships, we are prepared to support public health officials everywhere in the effort to slow the spread of COVID-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths",
   "permissions": {
-    "Device & app history": [
-      "Retrieve running apps"
-    ],
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
+    ],
+    "Device & app history": [
+      "Retrieve running apps"
     ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Access extra location provider commands",
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Control vibration",
@@ -43,5 +43,5 @@
   },
   "developer_url": "https://pathcheck.org",
   "available": true,
-  "first_time_seen": "2020-07-14"
+  "first_time_seen": "2020-07-15"
 }
