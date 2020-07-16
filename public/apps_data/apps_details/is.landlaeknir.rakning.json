@@ -3,7 +3,7 @@
   "title": "Rakning C-19",
   "icon_url": "https://lh3.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
   "developer_id": "9072923057432209139",
-  "updated_date": "2020-07-10",
+  "updated_date": "2020-07-14",
   "downloads": "50,000+",
   "country": "IS",
   "description": "Official app from the Icelandic Government to help mitigate the Covid-19 pandemic in Iceland The app collects the GPS location of the phone and stores locally on the device. If the phone owner is diagnosed with the Covid-19 disease he is asked by the Directorate of Health to share the location data for contact tracing in order to identify individuals that might need to go into quarantine.",
@@ -17,10 +17,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Location": [
