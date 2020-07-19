@@ -1,12 +1,12 @@
 {
   "id": "com.proudcrowd.care",
-  "title": "Care19",
+  "title": "Care19 Diary",
   "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
   "developer_id": "ProudCrowd, LLC",
-  "updated_date": "2020-06-23",
-  "downloads": "10,000+",
-  "country": "US",
-  "description": "Care19 is the official COVID-19 app for the states of South Dakota and North Dakota.  It can be used with reduced functionality in other US states. A key part of the contact tracing process is remembering where you have been over the last 5-10 days before testing positive.  This helps contact tracers determine people you may have been near while you were infectious. Care19 is a digital diary that records places you visit.  Many of the places you visit can be recorded automatically by Care19 using the phone's location services.  In some cases you may need to manually add an entry if the automated routines miss a place visit.  This can happen based on a variety of environmental factors. You will not be asked to provide any personally identifiable information within the app. Location data will only be shared with the North Dakota or South Dakota Department of Health if you consent upon testing positive for COVID-19. This is done by sharing a code number displayed on the \u201cAbout\u201d section of the app. If you use the Care19 app outside of North and South Dakota it can be used as a memory aide if you test positive and are contacted by your state's Department of Health.",
+  "updated_date": "2020-06-26",
+  "downloads": "50,000+",
+  "country": "",
+  "description": "Care19 is the official COVID-19 app for the states of Wyoming, South Dakota and North Dakota.  It can be used with reduced functionality in other US states. A key part of the contact tracing process is remembering where you have been over the last 5-10 days before testing positive.  This helps contact tracers determine people you may have been near while you were infectious. Care19 is a digital diary that records places you visit.  Many of the places you visit can be recorded automatically by Care19 using the phone's location services.  In some cases you may need to manually add an entry if the automated routines miss a place visit.  This can happen based on a variety of environmental factors. You will not be asked to provide any personally identifiable information within the app. Location data will only be shared with the North Dakota or South Dakota Department of Health if you consent upon testing positive for COVID-19. This is done by sharing a code number displayed on the \u201cAbout\u201d section of the app. If you use the Care19 app outside of North and South Dakota it can be used as a memory aide if you test positive and are contacted by your state's Department of Health.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.proudcrowd.care",
   "permissions": {
     "Location": [
@@ -23,5 +23,5 @@
   },
   "developer_url": "https://www.care19.app",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-07-19"
 }
