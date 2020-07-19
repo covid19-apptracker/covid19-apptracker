@@ -4,7 +4,7 @@
     "title": "COVID19 - DXB Smart App",
     "icon_url": "https://lh3.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
     "developer_id": "Dubai Health Authority - DHA",
-    "updated_date": "2020-07-08",
+    "updated_date": "2020-07-15",
     "downloads": "50,000+",
     "country": "AE"
   },
@@ -51,7 +51,7 @@
     "developer_id": "Dave at Ryecroft Community Hub & BITS",
     "updated_date": "2020-04-23",
     "downloads": "5,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "ar.gob.coronavirus",
@@ -195,7 +195,7 @@
     "developer_id": "Vincent Harding - UCL Health Creatives",
     "updated_date": "2020-04-30",
     "downloads": "100+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "com.CoronaMapSA",
@@ -357,7 +357,7 @@
     "developer_id": "Florida Department of Health",
     "updated_date": "2020-05-06",
     "downloads": "1,000+",
-    "country": ""
+    "country": "US"
   },
   {
     "id": "com.govpk.covid19",
@@ -383,7 +383,7 @@
     "icon_url": "https://lh3.googleusercontent.com/CoFYc-iClut8ojj7SfehfTHYHWtxH3VFvwjJnOa7BqGXHmipbGAvV4hVF6fqrAMphYk",
     "developer_id": "Kuwait Central Agency for Information Technology",
     "updated_date": "2020-06-21",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "KW"
   },
   {
@@ -420,7 +420,7 @@
     "developer_id": "Zoe Global Limited",
     "updated_date": "2020-06-10",
     "downloads": "1,000,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "com.knasirayaz.mohapcovid",
@@ -531,15 +531,6 @@
     "country": "US"
   },
   {
-    "id": "com.proudcrowd.care",
-    "title": "Care19 Diary",
-    "icon_url": "https://lh3.googleusercontent.com/GkV-M1OmeQEuT_Be4p60lDxcYIDrZrmSjh317QRhFq6IUDhgejbq4lmRezMSUxRYBI2o",
-    "developer_id": "ProudCrowd, LLC",
-    "updated_date": "2020-06-26",
-    "downloads": "50,000+",
-    "country": ""
-  },
-  {
     "id": "com.ri.crushcovid",
     "title": "CRUSH COVID RI",
     "icon_url": "https://lh3.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
@@ -570,10 +561,10 @@
     "id": "com.spotteron.coronareport",
     "title": "CoronaReport - COVID-19 reports for Social Science",
     "icon_url": "https://lh3.googleusercontent.com/UFFwN27Tbx0p944HeZQcAoIIrvlVGtHIT-Gy7vU3e8-M0VCkKbYwyZtTrUG8m6UgHtE",
-    "developer_id": "SPOTTERON",
+    "developer_id": "6074809323558115618",
     "updated_date": "2020-06-11",
     "downloads": "1,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "com.symptomate.mobile",
@@ -609,7 +600,7 @@
     "developer_id": "Binary Mango",
     "updated_date": "2020-03-10",
     "downloads": "100+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "com.vnptit.innovation.ncovi",
@@ -978,7 +969,7 @@
     "developer_id": "Protego App Ltd",
     "updated_date": "2020-05-30",
     "downloads": "1,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "org.who.infoapp",
@@ -1059,7 +1050,7 @@
     "developer_id": "cam-cl-mobile-systems",
     "updated_date": "2020-06-18",
     "downloads": "5,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "uk.nhs.nhsx.colocate",
@@ -1068,7 +1059,7 @@
     "developer_id": "NHSX",
     "updated_date": "2020-06-26",
     "downloads": "50,000+",
-    "country": "UK"
+    "country": "GB"
   },
   {
     "id": "uy.gub.salud.plancovid19uy",
