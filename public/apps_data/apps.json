@@ -135,6 +135,15 @@
     "country": "ES"
   },
   {
+    "id": "ch.admin.bag.dp3t",
+    "title": "SwissCovid",
+    "icon_url": "https://lh3.googleusercontent.com/aqKA0KyE2W88K0GWkFJekgfG_vsGm35H0QdeCcSuo7TaZWQlUsZLnfd265ywVY69pf4",
+    "developer_id": "Federal Office of Public Health FOPH",
+    "updated_date": "2020-07-17",
+    "downloads": "500,000+",
+    "country": "CH"
+  },
+  {
     "id": "cl.gob.digital.coronapp",
     "title": "CoronApp",
     "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
@@ -637,6 +646,15 @@
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
     "country": "CZ"
+  },
+  {
+    "id": "de.rki.coronawarnapp",
+    "title": "Corona-Warn-App",
+    "icon_url": "https://lh3.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
+    "developer_id": "Robert Koch-Institut",
+    "updated_date": "2020-07-07",
+    "downloads": "5,000,000+",
+    "country": "DE"
   },
   {
     "id": "edu.rise.ihnilatis",
