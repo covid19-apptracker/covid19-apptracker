@@ -291,7 +291,7 @@
     "id": "com.coronacheck.haugxhaug.testyourcorona",
     "title": "Corona Check Screening",
     "icon_url": "https://lh3.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
-    "developer_id": "TRI Initiative",
+    "developer_id": "TRI Initiative in cooperation with UKW W\u00fcrzburg",
     "updated_date": "2020-06-18",
     "downloads": "10,000+",
     "country": "DE"
@@ -652,7 +652,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://lh3.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2020-07-07",
+    "updated_date": "2020-07-20",
     "downloads": "5,000,000+",
     "country": "DE"
   },
@@ -671,7 +671,7 @@
     "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
     "updated_date": "2020-07-14",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "ES"
   },
   {
@@ -778,7 +778,7 @@
     "title": "SM_Covid19",
     "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
     "developer_id": "Softmining Srl",
-    "updated_date": "2020-07-13",
+    "updated_date": "2020-07-17",
     "downloads": "50,000+",
     "country": "IT"
   },
@@ -958,7 +958,7 @@
     "title": "PathCheck SafePlaces",
     "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
     "developer_id": "Path Check, Inc",
-    "updated_date": "2020-07-02",
+    "updated_date": "2020-07-18",
     "downloads": "10,000+",
     "country": "US"
   },
