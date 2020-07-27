@@ -67,7 +67,7 @@
     "title": "Stopp Corona",
     "icon_url": "https://lh3.googleusercontent.com/2NERfqltW9rIkNkgCY96ZHjxWRRAm_5UXVWI3KcZJ3c1b9TKJZbD95N_7vGv1gUIbBA",
     "developer_id": "\u00d6sterreichisches Rotes Kreuz",
-    "updated_date": "2020-06-28",
+    "updated_date": "2020-07-08",
     "downloads": "100,000+",
     "country": "AT"
   },
@@ -379,10 +379,10 @@
   },
   {
     "id": "com.hamagen",
-    "title": "\u05d4\u05de\u05d2\u05df - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
+    "title": "\u05d4\u05de\u05d2\u05df 2 - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
     "icon_url": "https://lh3.googleusercontent.com/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ",
     "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
-    "updated_date": "2020-06-16",
+    "updated_date": "2020-07-23",
     "downloads": "1,000,000+",
     "country": "IL"
   },
@@ -670,7 +670,7 @@
     "title": "Asistencia COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-07-14",
+    "updated_date": "2020-07-24",
     "downloads": "50,000+",
     "country": "ES"
   },
@@ -715,7 +715,7 @@
     "title": "COVID Coach",
     "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
     "developer_id": "US Department of Veterans Affairs (VA)",
-    "updated_date": "2020-05-22",
+    "updated_date": "2020-07-22",
     "downloads": "5,000+",
     "country": "US"
   },
@@ -1003,7 +1003,7 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
     "developer_id": "National Information Center",
-    "updated_date": "2020-07-05",
+    "updated_date": "2020-07-22",
     "downloads": "1,000,000+",
     "country": "SA"
   },
@@ -1019,7 +1019,7 @@
   {
     "id": "tr.gov.saglik.hayatevesigar",
     "title": "Hayat Eve S\u0131\u011far",
-    "icon_url": "https://lh3.googleusercontent.com/_Vo90zESrIKxYlNtcOQVdKetWim15bsdWG2Vax6zruz_n2hp5IEMXQWcZj4vxv2ojhHZ",
+    "icon_url": "https://lh3.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
     "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
     "updated_date": "2020-07-24",
     "downloads": "5,000,000+",
