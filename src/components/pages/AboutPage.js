@@ -64,30 +64,38 @@ class AboutPage extends Component {
                     <h1 className="text-3xl pb-8">
                         Our Roadmap
                     </h1>
-                    <div className="text-base pb-12">
-                        <p className="pb-8">
-                            We are excited to launch our proof of concept of the COVID-19 App Tracker Project, but here are other plans in the works. 
-                        </p>
+                    <div className="text-base pb-12"> 
                         <p className="pb-4">
-                            <strong>Proof of Concept Launch (May 18, 2020)</strong><br/> 
+                            <strong>Proof of Concept Launch | May 2020</strong><br/> 
                             The following tasks have been completed for the proof of concept launch: 
                         </p>
                         <div className="pb-8">
                             <ul className="list-disc pl-4">
                                 <li>COVID-19 App Tracker engine is fully functional</li>
-                                <li>Implement automatic updates to the dashboard</li>
+                                <li>Implement automatic updates to dashboard</li>
                                 <li>Update website content</li> 
                             </ul> 
                         </div>
                         <p className="pb-4">
-                            <strong>Version 1.0</strong><br/> 
-                            The following tasks we aim to complete under Phase 1 work: 
+                            <strong>Version 1.0 | July 2020</strong><br/> 
+                            The following tasks have been completed under version 1: 
+                        </p>
+                        <div className="pb-8">
+                            <ul className="list-disc pl-4">
+                                <li>Optimize dashboard and website for mobile and desktop browsers</li>
+                                <li>Build app search functionality (by country)</li>
+                                <li>Share data on google sheets</li>
+                            </ul> 
+                        </div>
+                        <p>
+                            <strong>Version 2.0 | Ongoing</strong><br/>  
                         </p>
                         <div>
                             <ul className="list-disc pl-4">
-                                <li>Optimize the dashboard and website for mobile and desktop browsers</li>
                                 <li>Automate Twitter updates (New App, Update, or Take Down from Google Play)</li>
-                                <li>Allow for users to download database of applications identified under the project</li>
+                                <li>Refine and add app search functionality</li>
+                                <li>Identify more concerning permissions granted by apps based on existing methodologies and frameworks</li>
+                                <li>Identify additional data sources to pull into database of apps</li>
                             </ul> 
                         </div>
                     </div>
