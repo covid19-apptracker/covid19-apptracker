@@ -67,7 +67,7 @@
     "title": "Stopp Corona",
     "icon_url": "https://lh3.googleusercontent.com/2NERfqltW9rIkNkgCY96ZHjxWRRAm_5UXVWI3KcZJ3c1b9TKJZbD95N_7vGv1gUIbBA",
     "developer_id": "\u00d6sterreichisches Rotes Kreuz",
-    "updated_date": "2020-07-08",
+    "updated_date": "2020-06-28",
     "downloads": "100,000+",
     "country": "AT"
   },
@@ -94,7 +94,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://lh3.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2020-07-23",
+    "updated_date": "2020-07-19",
     "downloads": "100,000+",
     "country": "BH"
   },
@@ -148,7 +148,7 @@
     "title": "CoronApp",
     "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
     "developer_id": "Gobierno Digital",
-    "updated_date": "2020-07-22",
+    "updated_date": "2020-05-20",
     "downloads": "50,000+",
     "country": "CL"
   },
@@ -193,7 +193,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2020-07-20",
+    "updated_date": "2020-07-15",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -338,7 +338,7 @@
     "icon_url": "https://lh3.googleusercontent.com/1eXM2W-MY4HDgQTm973UDLOwPZ0zoyJ67wTMsazKE35-GTZUszljMSKMnYfV50O-eA",
     "developer_id": "Aga Khan University",
     "updated_date": "2020-04-04",
-    "downloads": "50,000+",
+    "downloads": "10,000+",
     "country": "PK"
   },
   {
@@ -379,10 +379,10 @@
   },
   {
     "id": "com.hamagen",
-    "title": "\u05d4\u05de\u05d2\u05df 2 - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
+    "title": "\u05d4\u05de\u05d2\u05df - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
     "icon_url": "https://lh3.googleusercontent.com/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ",
     "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
-    "updated_date": "2020-07-23",
+    "updated_date": "2020-06-16",
     "downloads": "1,000,000+",
     "country": "IL"
   },
@@ -490,7 +490,7 @@
     "title": "COVID-RD",
     "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
     "developer_id": "Rep\u00fablica Digital",
-    "updated_date": "2020-07-26",
+    "updated_date": "2020-07-07",
     "downloads": "10,000+",
     "country": "DM"
   },
@@ -634,7 +634,7 @@
     "title": "eRou\u0161ka - part of smart quarantine",
     "icon_url": "https://lh3.googleusercontent.com/XmybKTYht3tPjkL_1gLQAjywDWD96kpvSu5No5AH4kujTOxSuqX4m1bVxBtcPoHdww",
     "developer_id": "Ministerstvo zdravotnictv\u00ed \u010cesk\u00e9 republiky",
-    "updated_date": "2020-07-26",
+    "updated_date": "2020-05-22",
     "downloads": "100,000+",
     "country": "CZ"
   },
@@ -670,7 +670,7 @@
     "title": "Asistencia COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-07-24",
+    "updated_date": "2020-07-14",
     "downloads": "50,000+",
     "country": "ES"
   },
@@ -688,7 +688,7 @@
     "title": "COVID-19 Ethiopia -Health Worker Training Platform",
     "icon_url": "https://lh3.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
     "developer_id": "Federal Ministry of Health",
-    "updated_date": "2020-07-23",
+    "updated_date": "2020-05-24",
     "downloads": "10,000+",
     "country": "ET"
   },
@@ -715,7 +715,7 @@
     "title": "COVID Coach",
     "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
     "developer_id": "US Department of Veterans Affairs (VA)",
-    "updated_date": "2020-07-22",
+    "updated_date": "2020-05-22",
     "downloads": "5,000+",
     "country": "US"
   },
@@ -742,7 +742,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://lh3.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2020-07-24",
+    "updated_date": "2020-07-07",
     "downloads": "1,000,000+",
     "country": "IN"
   },
@@ -922,7 +922,7 @@
     "title": "Hamro Swasthya",
     "icon_url": "https://lh3.googleusercontent.com/Ti9DD7ky73C3N3DC5RbSODRCaK6-IFHux6-Mw4vFzZjfWbbX4TX0gRNSqbt-diOEVA",
     "developer_id": "Ministry of Health and Population",
-    "updated_date": "2020-07-25",
+    "updated_date": "2020-06-18",
     "downloads": "100,000+",
     "country": "NP"
   },
@@ -1003,7 +1003,7 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
     "developer_id": "National Information Center",
-    "updated_date": "2020-07-22",
+    "updated_date": "2020-07-05",
     "downloads": "1,000,000+",
     "country": "SA"
   },
@@ -1019,9 +1019,9 @@
   {
     "id": "tr.gov.saglik.hayatevesigar",
     "title": "Hayat Eve S\u0131\u011far",
-    "icon_url": "https://lh3.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
+    "icon_url": "https://lh3.googleusercontent.com/_Vo90zESrIKxYlNtcOQVdKetWim15bsdWG2Vax6zruz_n2hp5IEMXQWcZj4vxv2ojhHZ",
     "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
-    "updated_date": "2020-07-24",
+    "updated_date": "2020-06-24",
     "downloads": "5,000,000+",
     "country": "TR"
   },
@@ -1039,7 +1039,7 @@
     "title": "\u0414\u0456\u0439 \u0432\u0434\u043e\u043c\u0430",
     "icon_url": "https://lh3.googleusercontent.com/zEUpsEVTiuAXm9jnur-4Lxk2et_WVhhmnNmSRrMeTORxRzj4hAsBZ7Jvr5Ew2jlZ-PE",
     "developer_id": "Ministry of Digital Transformation of Ukraine",
-    "updated_date": "2020-07-21",
+    "updated_date": "2020-07-08",
     "downloads": "100,000+",
     "country": "UA"
   },
