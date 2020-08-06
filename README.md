@@ -1,14 +1,17 @@
 ## About the Project
-With the current pandemic, security and privacy concerns have emerged around the large number of applications being quickly developed and promoted around the globe. From symptom tracking to contact tracing, the COVID-19 App Tracker Project (https://covid19apptracker.org) aims to automate the detection of new applications published on the Google Play Store and create an open data set for further analysis and insights.
+With the current pandemic has emerged privacy concerns with the large number of applications being published and promoted around the globe. From symptom tracking to contact tracing, the COVID-19 App Tracker Project aims to identify and track applications published on the Google Play Store.
 
-At this time, the COVID-19 App Tracker Project only looks for applications on the Google Play Store that fall within at least one of the following categories: 
+At this time, the COVID-19 App Tracker Project only looks for applications on the Google Play Store that fall within at least one of the following categories:
 
 - Contact Tracing
 - Symptom Tracking
 - COVID-19 Information
 
+Download the data we've collected from our public Google Sheets document.
+https://docs.google.com/spreadsheets/d/1gutqRjHrwRmQCJQJ5f0t5NOhxYIYztkjMTVLJcXSx8k/edit#gid=0
+
 ## Our Intended Audience
-We hope this project leads to greater transparency around how the data is collected, used, stored, and maintained long-term. We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities.
+We hope this project leads to greater transparency for these new applications’ privacy and security implications around the globe. Many apps are being created quickly, resulting in poor security or are not clearly articulating how they are using the data they are collecting. We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities.
 
 - Researchers
 - Privacy Advocates
@@ -17,20 +20,23 @@ We hope this project leads to greater transparency around how the data is collec
 
 ## Our Roadmap
 
-**Proof of Concept Launch | May 18, 2020**
-The following tasks have been completed for the proof of concept launch.
+**Proof of Concept Launch | May 2020**
+The following tasks have been completed for the proof of concept launch:
+
 - COVID-19 App Tracker engine is fully functional
 - Implement automatic updates to dashboard
 - Update website content
 
-**Version 1.0 | July XX**
-The following tasks have been completed under version 1. 
+**Version 1.0 | July 2020**
+The following tasks have been completed under version 1:
+
 - Optimize dashboard and website for mobile and desktop browsers
 - Build app search functionality (by country)
 - Share data on google sheets
 
-**Version 2.0 | tbd**
+**Version 2.0 | Ongoing**
+
 - Automate Twitter updates (New App, Update, or Take Down from Google Play)
-- Refine and add app search functionality 
+- Refine and add app search functionality
 - Identify more concerning permissions granted by apps based on existing methodologies and frameworks
-- Identify additional data sources to pull into database of apps
+Identify additional data sources to pull into database of apps
