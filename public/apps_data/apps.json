@@ -126,6 +126,15 @@
     "country": "CA"
   },
   {
+    "id": "ca.gc.hcsc.canada.stopcovid",
+    "title": "COVID Alert",
+    "icon_url": "https://lh3.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
+    "developer_id": "Health Canada | Sant\u00e9 Canada",
+    "updated_date": "2020-07-30",
+    "downloads": "500,000+",
+    "country": "CA"
+  },
+  {
     "id": "cat.gencat.mobi.StopCovid19Cat",
     "title": "STOP COVID19 CAT",
     "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
@@ -276,7 +285,7 @@
     "developer_id": "DG Health",
     "updated_date": "2020-06-16",
     "downloads": "100,000+",
-    "country": "BS"
+    "country": "BD"
   },
   {
     "id": "com.bsmart.covid19",
@@ -304,6 +313,15 @@
     "updated_date": "2020-07-30",
     "downloads": "100,000+",
     "country": "IN"
+  },
+  {
+    "id": "com.covidtracker.hse",
+    "title": "COVID Tracker Ireland",
+    "icon_url": "https://lh3.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
+    "developer_id": "Health Service Executive (HSE)",
+    "updated_date": "2020-07-17",
+    "downloads": "500,000+",
+    "country": "IE"
   },
   {
     "id": "com.cspire.telehealth",
@@ -367,6 +385,15 @@
     "updated_date": "2020-05-06",
     "downloads": "1,000+",
     "country": "US"
+  },
+  {
+    "id": "com.gha.covid.tracker",
+    "title": "Beat Covid Gibraltar",
+    "icon_url": "https://lh3.googleusercontent.com/HRy_hVA1PHNBwk4S_R12rIZbNQI94pTdPlFWhY5JO4TrN1UUF0V3bFAeOj51ELY_MwY",
+    "developer_id": "Gibraltar Health Authority",
+    "updated_date": "2020-06-25",
+    "downloads": "10,000+",
+    "country": "GI"
   },
   {
     "id": "com.govpk.covid19",
@@ -657,6 +684,15 @@
     "country": "DE"
   },
   {
+    "id": "ec.gob.asi.android",
+    "title": "ASI",
+    "icon_url": "https://lh3.googleusercontent.com/yVmhVhI1rRyuTp8ohYg99hTs0ybG0whv9U_kjZTU6NCrpO6fICl6NT3hhvzyeuBB3dY",
+    "developer_id": "Ministerio de Telecomunicaciones Ecuador",
+    "updated_date": "2020-08-02",
+    "downloads": "10,000+",
+    "country": "EC"
+  },
+  {
     "id": "edu.rise.ihnilatis",
     "title": "CovTracer",
     "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
@@ -783,6 +819,15 @@
     "country": "IT"
   },
   {
+    "id": "it.ministerodellasalute.immuni",
+    "title": "Immuni",
+    "icon_url": "https://lh3.googleusercontent.com/QSb7_bHeT5dQZReUWLirWVSQygmr4CzBioyfxutL84IB-CFY6BuKPdDyKVSWuvIVbtk",
+    "developer_id": "Ministero della Salute",
+    "updated_date": "2020-08-05",
+    "downloads": "1,000,000+",
+    "country": "IT"
+  },
+  {
     "id": "it.softmining.projects.covid19.savelifestyle",
     "title": "SM_Covid19",
     "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
@@ -799,6 +844,15 @@
     "updated_date": "2020-05-24",
     "downloads": "500,000+",
     "country": "JO"
+  },
+  {
+    "id": "jp.go.mhlw.covid19radar",
+    "title": "COCOA - COVID-19 Contact App",
+    "icon_url": "https://lh3.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
+    "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
+    "updated_date": "2020-07-14",
+    "downloads": "1,000,000+",
+    "country": "JP"
   },
   {
     "id": "kg.cdt.stopcovid19",
@@ -900,6 +954,15 @@
     "country": "MY"
   },
   {
+    "id": "net.hscni.covidtracker",
+    "title": "StopCOVID NI",
+    "icon_url": "https://lh3.googleusercontent.com/8iuYQNvpufFAoM9T6hCwQOJOQAVwCmjDjAIYhREIufrAMTfYZ3yWivgb1gOtVNY5LUE",
+    "developer_id": "Health & Social Care Northern Ireland",
+    "updated_date": "2020-07-29",
+    "downloads": "50,000+",
+    "country": ""
+  },
+  {
     "id": "nic.goi.aarogyasetu",
     "title": "Aarogya Setu",
     "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
@@ -990,6 +1053,15 @@
     "country": "GB"
   },
   {
+    "id": "ph.staysafe.mobileapp",
+    "title": "StaySafe PH",
+    "icon_url": "https://lh3.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
+    "developer_id": "Multisys Technologies Corporation",
+    "updated_date": "2020-08-01",
+    "downloads": "100,000+",
+    "country": "PH"
+  },
+  {
     "id": "pl.gov.mc.protegosafe",
     "title": "ProteGO Safe",
     "icon_url": "https://lh3.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
@@ -1006,6 +1078,15 @@
     "updated_date": "2020-06-15",
     "downloads": "100,000+",
     "country": "PL"
+  },
+  {
+    "id": "sa.gov.nic.tabaud",
+    "title": "Tabaud (COVID-19 KSA)",
+    "icon_url": "https://lh3.googleusercontent.com/woCQKXmq8-3us_tBqV8edoJs0s0KVAbOw9d6NVDgQ8-DqmV7diBR61r_z9EqjnBgcA",
+    "developer_id": "National Information Center",
+    "updated_date": "2020-07-10",
+    "downloads": "500,000+",
+    "country": "SA"
   },
   {
     "id": "sa.gov.nic.tawakkalna",
