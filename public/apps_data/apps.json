@@ -202,7 +202,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2020-08-02",
+    "updated_date": "2020-08-06",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -486,6 +486,15 @@
     "country": "IE"
   },
   {
+    "id": "com.mic.bluezone",
+    "title": "Bluezone - Contact detection",
+    "icon_url": "https://lh3.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
+    "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
+    "updated_date": "2020-08-04",
+    "downloads": "5,000,000+",
+    "country": "VN"
+  },
+  {
     "id": "com.moc.gh",
     "title": "GH COVID-19 Tracker",
     "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
@@ -612,6 +621,15 @@
     "country": "PL"
   },
   {
+    "id": "com.telkom.tracencare",
+    "title": "PeduliLindungi",
+    "icon_url": "https://lh3.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
+    "developer_id": "Kementerian Kominfo",
+    "updated_date": "2020-07-21",
+    "downloads": "1,000,000+",
+    "country": "ID"
+  },
+  {
     "id": "com.thaialert.app",
     "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
     "icon_url": "https://lh3.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
@@ -635,7 +653,7 @@
     "icon_url": "https://lh3.googleusercontent.com/FEWRHvgD6VqYxUhw8ZW787k05gp9h6_rwrzYnxrxkomhNyshcVblQ6q6iqLY0R-S3A",
     "developer_id": "Binary Mango",
     "updated_date": "2020-03-10",
-    "downloads": "100+",
+    "downloads": "500+",
     "country": "GB"
   },
   {
@@ -729,11 +747,20 @@
     "country": "ET"
   },
   {
+    "id": "fj.gov.carefiji",
+    "title": "careFIJI",
+    "icon_url": "https://lh3.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
+    "developer_id": "Government of the Republic of Fiji",
+    "updated_date": "2020-06-23",
+    "downloads": "50,000+",
+    "country": "FJ"
+  },
+  {
     "id": "fr.gouv.android.stopcovid",
     "title": "StopCovid France",
     "icon_url": "https://lh3.googleusercontent.com/dXsmDeqJwgHTIIyyi4PEJYlAhhn8bJ_PFxY6R1BOYXSVhu3FcCSoQT_W_SVtzm9Aae-U",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-06-26",
+    "updated_date": "2020-08-07",
     "downloads": "1,000,000+",
     "country": "FR"
   },
@@ -761,7 +788,7 @@
     "icon_url": "https://lh3.googleusercontent.com/ACfAOBoDuPVw-c3_H1HnCPVuM8HZ8VUArAF4bOQZMfvzy2-hVmQmBPKFdKU5MimTSy2S",
     "developer_id": "VDH",
     "updated_date": "2020-08-04",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "US"
   },
   {
@@ -772,6 +799,15 @@
     "updated_date": "2020-07-05",
     "downloads": "1,000+",
     "country": "NZ"
+  },
+  {
+    "id": "hu.gov.virusradar",
+    "title": "V\u00edrusRadar",
+    "icon_url": "https://lh3.googleusercontent.com/MUdMe5iqzqJNe2Dt9P54fqsQpSp00Qf8l3C5sVxRGm3tvtwUM9eXaousVCstlzd6_Q",
+    "developer_id": "Korm\u00e1nyzati Informatikai Fejleszt\u00e9si \u00dcgyn\u00f6ks\u00e9g",
+    "updated_date": "2020-05-15",
+    "downloads": "10,000+",
+    "country": "HU"
   },
   {
     "id": "id.jofarsystemskodine.dev",
@@ -1105,6 +1141,15 @@
     "updated_date": "2020-08-05",
     "downloads": "1,000,000+",
     "country": "SG"
+  },
+  {
+    "id": "tn.onmne.e7mi",
+    "title": "E7mi - \u0625\u062d\u0645\u064a",
+    "icon_url": "https://lh3.googleusercontent.com/RTvf-nzORwvqdIlJ1zeV1DvKA1VAsiynsemSF_8_f_YLwKjsnNZ7nmi58dKCjNqqAiI",
+    "developer_id": "ONMNE Tunisie",
+    "updated_date": "2020-05-22",
+    "downloads": "10,000+",
+    "country": "TN"
   },
   {
     "id": "tr.gov.saglik.hayatevesigar",
