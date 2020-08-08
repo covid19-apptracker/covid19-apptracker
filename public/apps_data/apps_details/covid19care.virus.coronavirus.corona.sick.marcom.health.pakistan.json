@@ -2,7 +2,7 @@
   "id": "covid19care.virus.coronavirus.corona.sick.marcom.health.pakistan",
   "title": "COVID19 Care for Media",
   "icon_url": "https://lh3.googleusercontent.com/ris1g9aDUAX2lC20JJonYcFKkJlhjnHPtIj6kqzapeCjY5xUAsWuMUiDeti0ha3BhIyn",
-  "developer_id": "MarCom Pvt. Ltd.",
+  "developer_id": "MarCom",
   "updated_date": "2020-04-17",
   "downloads": "10,000+",
   "country": "PK",
@@ -13,9 +13,9 @@
       "Send sms messages"
     ],
     "Other": [
-      "View network connections",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "View network connections"
     ]
   },
   "developer_url": "http://www.marcompk.com/",
