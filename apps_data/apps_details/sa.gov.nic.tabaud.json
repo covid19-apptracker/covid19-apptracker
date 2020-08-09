@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/woCQKXmq8-3us_tBqV8edoJs0s0KVAbOw9d6NVDgQ8-DqmV7diBR61r_z9EqjnBgcA",
   "developer_id": "National Information Center",
   "updated_date": "2020-07-10",
-  "downloads": "500,000+",
+  "downloads": "1,000,000+",
   "country": "SA",
   "description": "Tabaud app for smartphones is one of the latest government efforts in Saudi Arabia to combat and contain the coronavirus (COVID-19) pandemic via Apple/Google Exposure Notification API. The app was developed by the National Information Center NIC of the Saudi Data and Artificial Intelligence Authority SDAIA, in close cooperation with the Ministry of Health MoH as the official contact tracing application in Saudi Arabia. The app provides 3 main services for users: notifying people if they had contact with others confirmed to be infected with coronavirus; also, providing them help by sending their health forms to the Ministry of Health to provide them necessary medical support according to the status and progress of the case; in addition to enabling those confirmed to be infected with coronavirus to voluntarily share their tests' results with people they had contact with during the past 14 days. Tabaud completely respects user privacy. Use of the app requires no information or location sharing, as it relies on Bluetooth technology to gather and refresh IDs randomly. In case the user wants to start the medical procedure of testing for coronavirus, the Ministry of Health regulations require providing main information, such as: name, National or Residence ID number, and date of birth.",
   "app_store_url": "https://play.google.com/store/apps/details?id=sa.gov.nic.tabaud",
