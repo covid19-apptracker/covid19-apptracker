@@ -157,7 +157,7 @@
     "title": "CoronApp",
     "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
     "developer_id": "Gobierno Digital",
-    "updated_date": "2020-07-22",
+    "updated_date": "2020-08-11",
     "downloads": "50,000+",
     "country": "CL"
   },
@@ -585,6 +585,15 @@
     "country": "US"
   },
   {
+    "id": "com.shield.CombatCovidPBC",
+    "title": "CombatCOVID PBC",
+    "icon_url": "https://lh3.googleusercontent.com/_dfi0uCY0AomGf-Te8Iai0tJZYdttfq28OabiBkpiMuga-xiff_DG0NR3s9ckzB19g",
+    "developer_id": "Palm Beach County BoCC",
+    "updated_date": "2020-08-06",
+    "downloads": "500+",
+    "country": ""
+  },
+  {
     "id": "com.sococheck",
     "title": "SoCo COVID-19 Check",
     "icon_url": "https://lh3.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
@@ -895,7 +904,7 @@
     "title": "Stop COVID-19 KG",
     "icon_url": "https://lh3.googleusercontent.com/R8OnFzq0l3xWYn-CcMBgqP9Pd3RLfCU-QYipRJUCtkuBfS4-GuoH1LpzNMzDjxDa7gk",
     "developer_id": "\u041c\u041f \"\u0426\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\" \u043c\u044d\u0440\u0438\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0438\u0448\u043a\u0435\u043a",
-    "updated_date": "2020-06-09",
+    "updated_date": "2020-08-12",
     "downloads": "10,000+",
     "country": "KG"
   },
@@ -1183,7 +1192,7 @@
     "title": "\u0414\u0456\u0439 \u0432\u0434\u043e\u043c\u0430",
     "icon_url": "https://lh3.googleusercontent.com/zEUpsEVTiuAXm9jnur-4Lxk2et_WVhhmnNmSRrMeTORxRzj4hAsBZ7Jvr5Ew2jlZ-PE",
     "developer_id": "Ministry of Digital Transformation of Ukraine",
-    "updated_date": "2020-07-21",
+    "updated_date": "2020-08-12",
     "downloads": "100,000+",
     "country": "UA"
   },
