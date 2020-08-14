@@ -747,6 +747,15 @@
     "country": "ES"
   },
   {
+    "id": "es.gob.radarcovid",
+    "title": "Radar COVID",
+    "icon_url": "https://lh3.googleusercontent.com/CG1SrQhMAHr85BQWANnU-QhcSLMHcu8r5h9LnzHYqweIre7copRzMSPXa5MJP3G0PA",
+    "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
+    "updated_date": "2020-08-07",
+    "downloads": "1,000,000+",
+    "country": "ES"
+  },
+  {
     "id": "es.gva.coronavirus",
     "title": "GVA Coronavirus",
     "icon_url": "https://lh3.googleusercontent.com/jhjZ8i5445I-xXRlZi1He-eFq8U8uJiiaaUvsrdUii4yZ10ps3dSgA2pY0OHQPmF2vA",
@@ -1023,7 +1032,7 @@
     "developer_id": "Health & Social Care Northern Ireland",
     "updated_date": "2020-07-29",
     "downloads": "100,000+",
-    "country": "US"
+    "country": "GB"
   },
   {
     "id": "nic.goi.aarogyasetu",
