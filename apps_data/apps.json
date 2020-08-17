@@ -113,7 +113,7 @@
     "icon_url": "https://lh3.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
     "developer_id": "Province of British Columbia, Canada",
     "updated_date": "2020-08-06",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "CA"
   },
   {
@@ -491,7 +491,7 @@
     "icon_url": "https://lh3.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
     "updated_date": "2020-08-13",
-    "downloads": "5,000,000+",
+    "downloads": "10,000,000+",
     "country": "VN"
   },
   {
@@ -790,6 +790,15 @@
     "updated_date": "2020-08-07",
     "downloads": "1,000,000+",
     "country": "FR"
+  },
+  {
+    "id": "gov.adph.exposurenotifications",
+    "title": "GuideSafe",
+    "icon_url": "https://lh3.googleusercontent.com/mnkrWkffJOOKH6yWwt65sQeS-42GoXkLFM9Rtn3S2jy7HdKQnFsy540uDnzFlyMqKQ",
+    "developer_id": "Alabama Department of Public Health",
+    "updated_date": "2020-08-12",
+    "downloads": "100+",
+    "country": ""
   },
   {
     "id": "gov.georgia.novid20",
@@ -1193,7 +1202,7 @@
     "icon_url": "https://lh3.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
     "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
     "updated_date": "2020-07-24",
-    "downloads": "5,000,000+",
+    "downloads": "10,000,000+",
     "country": "TR"
   },
   {
