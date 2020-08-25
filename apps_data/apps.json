@@ -108,6 +108,15 @@
     "country": "BR"
   },
   {
+    "id": "ca.albertahealthservices.contacttracing",
+    "title": "ABTraceTogether",
+    "icon_url": "https://lh3.googleusercontent.com/vjEfwYpWeXX2hrjXbk7EMewqSROo8E5IHpVZl8bvVnJMxCkcRWkUHmkN4W_UFFJKx3EJ",
+    "developer_id": "Government of the Province of Alberta",
+    "updated_date": "2020-06-17",
+    "downloads": "50,000+",
+    "country": "CA"
+  },
+  {
     "id": "ca.bc.gov.health.hlbc.COVID19",
     "title": "BC COVID-19 Support",
     "icon_url": "https://lh3.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
@@ -799,6 +808,15 @@
     "updated_date": "2020-08-12",
     "downloads": "5,000+",
     "country": "US"
+  },
+  {
+    "id": "gov.azdhs.covidwatch.android",
+    "title": "Covid Watch Arizona",
+    "icon_url": "https://lh3.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
+    "developer_id": "ADHS-Arizona Department of Health Services",
+    "updated_date": "2020-08-19",
+    "downloads": "1,000+",
+    "country": ""
   },
   {
     "id": "gov.georgia.novid20",
