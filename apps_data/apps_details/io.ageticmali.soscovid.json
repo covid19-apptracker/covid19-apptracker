@@ -5,20 +5,20 @@
   "developer_id": "AGETIC DEV",
   "updated_date": "2020-04-09",
   "downloads": "10,000+",
-  "country": "ML",
+  "country": "IO",
   "description": "Cette application a \u00e9t\u00e9 con\u00e7ue par le Minist\u00e8re de l'Economie Num\u00e9rique et de la Prospective \u00e0 travers L'AGETIC et en partenariat avec le Minist\u00e8re de la Sant\u00e9 et des Affaires Sociales, afin d'informer et de sensibiliser la population sur les dangers du covid-19 et assurer une meilleure prise en charge des cas suspects.",
   "app_store_url": "https://play.google.com/store/apps/details?id=io.ageticmali.soscovid",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Phone": [
       "Directly call phone numbers",
@@ -35,13 +35,13 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Change your audio settings",
+      "Receive data from internet",
+      "View network connections",
       "Control flashlight",
       "Full network access",
+      "Change your audio settings",
       "Prevent device from sleeping",
-      "Read google service configuration",
-      "Receive data from internet",
-      "View network connections"
+      "Read google service configuration"
     ]
   },
   "developer_url": "https://agetic.gouv.ml",

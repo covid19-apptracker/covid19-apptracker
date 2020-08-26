@@ -4,7 +4,7 @@
   "icon_url": "https://lh3.googleusercontent.com/CoFYc-iClut8ojj7SfehfTHYHWtxH3VFvwjJnOa7BqGXHmipbGAvV4hVF6fqrAMphYk",
   "developer_id": "Kuwait Central Agency for Information Technology",
   "updated_date": "2020-06-21",
-  "downloads": "100,000+",
+  "downloads": "50,000+",
   "country": "KW",
   "description": "Shlonik is an interactive app used to assist the Ministry of Health in Kuwait to engage with all citizens and  residents and ensure their safety with focus on COVID-19 pandemic. Shlonik offers a variety of features such as the latest health updates, a health Bot, a self check-in mechanism for quarantined patients, vitals reporting and a communication tool with the MOH medical teams. Shlonik is the combined effort of MOH, the Kuwait Central Agency of Information Technology and Zain.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.healthcarekw.app",
@@ -20,10 +20,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
     "Device & app history": [

@@ -4,34 +4,34 @@
   "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
   "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
   "updated_date": "2020-04-27",
-  "downloads": "500+",
+  "downloads": "100+",
   "country": "IN",
   "description": "This Application Contains: - Official Information and Communication Channels - Tracking and Emergency Response Systems - COVID-19 Quarantine Management and Reports This System is Jointly Developed by SmartPalika, Cellapp Innovations and Rakshya.",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bardghatcovid19",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Phone": [
       "Directly call phone numbers"
     ],
     "Location": [
-      "Access extra location provider commands",
       "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      "Precise location (gps and network-based)",
+      "Access extra location provider commands"
     ],
     "Other": [
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
       "Receive data from internet",
-      "View network connections"
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Full network access",
+      "Control vibration",
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "https://bardghatmun.gov.np",

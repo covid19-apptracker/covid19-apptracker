@@ -4,21 +4,21 @@
   "icon_url": "https://lh3.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
   "developer_id": "MOHAP-UAE",
   "updated_date": "2020-05-18",
-  "downloads": "50,000+",
+  "downloads": "10,000+",
   "country": "AE",
   "description": "COVID-19 UAE is Ministry of Health\u2019s Official Mobile App on Coronavirus management. The App provides you with real-time Coronavirus cases information and keeps you up to date with regional news & events. If you are general user, the app is a one-stop-shop for all the information you need on COVID-19 including a self-awareness Kit, for patients App offers a full stack of services ranging from Live Calls, Quarantine management and support. Stay Safe and Strong!",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.knasirayaz.mohapcovid",
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Phone": [
       "Read phone status and identity"
@@ -33,11 +33,11 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Access bluetooth settings",
-      "Change your audio settings",
-      "Full network access",
+      "View network connections",
       "Pair with bluetooth devices",
-      "View network connections"
+      "Access bluetooth settings",
+      "Full network access",
+      "Change your audio settings"
     ]
   },
   "developer_url": "https://www.mohap.gov.ae",
