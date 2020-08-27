@@ -1,7 +1,7 @@
 {
   "id": "nl.lumc.covidradar",
   "title": "COVID Radar",
-  "icon_url": "https://lh3.googleusercontent.com/hSkCL9B0Qe2QsBGjsOgJBzNWLKE4BFmPcurk4bAFFbIv9nAUYjjxvLNzlFS_L1RFLv4",
+  "icon_url": "https://play-lh.googleusercontent.com/hSkCL9B0Qe2QsBGjsOgJBzNWLKE4BFmPcurk4bAFFbIv9nAUYjjxvLNzlFS_L1RFLv4",
   "developer_id": "LUMC Leiden",
   "updated_date": "2020-04-08",
   "downloads": "50,000+",
@@ -10,12 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=nl.lumc.covidradar",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Read phone status and identity"
@@ -24,11 +24,11 @@
       "Read phone status and identity"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "Run at startup",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
   "developer_url": "https://www.lumc.nl",
