@@ -1,7 +1,7 @@
 {
   "id": "ae.gov.dha.covid19.paramedic",
   "title": "COVID19 - DXB Responder",
-  "icon_url": "https://lh3.googleusercontent.com/iHVWvXy_DXL8W9X-SYfnXvlMP23MpTTm9NsP94y2a83Q9e4X47QlgvtjG2hBLmF9wxoL",
+  "icon_url": "https://play-lh.googleusercontent.com/iHVWvXy_DXL8W9X-SYfnXvlMP23MpTTm9NsP94y2a83Q9e4X47QlgvtjG2hBLmF9wxoL",
   "developer_id": "Dubai Health Authority - DHA",
   "updated_date": "2020-05-10",
   "downloads": "5,000+",
@@ -15,12 +15,12 @@
     "Camera": [
       "Take pictures and videos"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Calendar": [
       "Add or modify calendar events and send email to guests without owners' knowledge",
       "Read calendar events plus confidential information"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Change your audio settings",
