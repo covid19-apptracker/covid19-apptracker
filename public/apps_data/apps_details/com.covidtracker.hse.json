@@ -1,7 +1,7 @@
 {
   "id": "com.covidtracker.hse",
   "title": "COVID Tracker Ireland",
-  "icon_url": "https://lh3.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
+  "icon_url": "https://play-lh.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
   "developer_id": "Health Service Executive (HSE)",
   "updated_date": "2020-07-17",
   "downloads": "500,000+",
@@ -15,6 +15,7 @@
     "Other": [
       "Full network access",
       "Pair with bluetooth devices",
+      "Run at startup",
       "View network connections"
     ]
   },
