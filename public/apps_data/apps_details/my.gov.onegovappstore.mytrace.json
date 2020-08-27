@@ -1,7 +1,7 @@
 {
   "id": "my.gov.onegovappstore.mytrace",
   "title": "MyTrace",
-  "icon_url": "https://lh3.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
+  "icon_url": "https://play-lh.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
   "developer_id": "GOVERNMENT OF MALAYSIA",
   "updated_date": "2020-04-26",
   "downloads": "100,000+",
@@ -13,25 +13,25 @@
       "Retrieve running apps"
     ],
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
       "Access bluetooth settings",
       "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "Run at startup",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
   "developer_url": "https://www.mosti.gov.my",
