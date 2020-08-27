@@ -1,7 +1,7 @@
 {
   "id": "gov.georgia.novid20",
   "title": "Stop Covid - let's fight this together",
-  "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
+  "icon_url": "https://play-lh.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
   "developer_id": "Ministry of IDPs, Labour, Health, Social Affairs",
   "updated_date": "2020-04-17",
   "downloads": "100,000+",
@@ -10,23 +10,23 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.georgia.novid20",
   "permissions": {
     "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Wi-Fi connection information": [
       "View wi-fi connections"
     ],
     "Other": [
-      "Receive data from internet",
       "Access bluetooth settings",
-      "Control vibration",
       "Connect and disconnect from wi-fi",
-      "Full network access",
       "Control near field communication",
-      "View network connections",
+      "Control vibration",
+      "Full network access",
       "Pair with bluetooth devices",
       "Prevent device from sleeping",
-      "Run at startup"
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "http://www.stopcov.ge",
