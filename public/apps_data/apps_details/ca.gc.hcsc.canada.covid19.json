@@ -1,7 +1,7 @@
 {
   "id": "ca.gc.hcsc.canada.covid19",
   "title": "Canada COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
+  "icon_url": "https://play-lh.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
   "developer_id": "Health Canada | Sant\u00e9 Canada",
   "updated_date": "2020-08-22",
   "downloads": "100,000+",
@@ -12,11 +12,11 @@
     "Photos/Media/Files": [
       "Read the contents of your usb storage"
     ],
-    "Storage": [
-      "Read the contents of your usb storage"
-    ],
     "Camera": [
       "Take pictures and videos"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage"
     ],
     "Location": [
       "Approximate location (network-based)",
