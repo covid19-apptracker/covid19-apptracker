@@ -1,7 +1,7 @@
 {
   "id": "com.symptomate.mobile",
   "title": "Symptomate \u2013 Symptom checker",
-  "icon_url": "https://lh3.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
+  "icon_url": "https://play-lh.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
   "developer_id": "Infermedica",
   "updated_date": "2019-02-01",
   "downloads": "100,000+",
@@ -10,9 +10,9 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.symptomate.mobile",
   "permissions": {
     "Other": [
+      "Control vibration",
       "Full network access",
-      "View network connections",
-      "Control vibration"
+      "View network connections"
     ]
   },
   "developer_url": "https://symptomate.com",
