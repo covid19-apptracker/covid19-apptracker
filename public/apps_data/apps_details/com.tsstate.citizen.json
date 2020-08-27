@@ -1,7 +1,7 @@
 {
   "id": "com.tsstate.citizen",
   "title": "T COVID'19",
-  "icon_url": "https://lh3.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
+  "icon_url": "https://play-lh.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
   "developer_id": "ET Wing, Govt of Telangana",
   "updated_date": "2020-04-14",
   "downloads": "50,000+",
@@ -10,15 +10,15 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.tsstate.citizen",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Directly call phone numbers",
@@ -28,8 +28,8 @@
       "Read phone status and identity"
     ],
     "Calendar": [
-      "Read calendar events plus confidential information",
-      "Add or modify calendar events and send email to guests without owners' knowledge"
+      "Add or modify calendar events and send email to guests without owners' knowledge",
+      "Read calendar events plus confidential information"
     ],
     "Wi-Fi connection information": [
       "View wi-fi connections"
@@ -38,19 +38,19 @@
       "Take pictures and videos"
     ],
     "Location": [
+      "Access extra location provider commands",
       "Approximate location (network-based)",
-      "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Send sticky broadcast",
-      "Full network access",
-      "Run at startup",
       "Draw over other apps",
+      "Full network access",
       "Prevent device from sleeping",
-      "Read google service configuration"
+      "Read google service configuration",
+      "Receive data from internet",
+      "Run at startup",
+      "Send sticky broadcast",
+      "View network connections"
     ]
   },
   "developer_url": "https://quantela.com/",
