@@ -1,7 +1,7 @@
 {
   "id": "com.appfeel.interactiveclinics.dev",
   "title": "Interactive Clinics",
-  "icon_url": "https://lh3.googleusercontent.com/mkoKT_OEAH8Y6B_0ZztQuPXNI-9Xm1ErXK4iu68qKNkzSDcGZM7wp_ZNkaLbJNfqK-Y",
+  "icon_url": "https://play-lh.googleusercontent.com/mkoKT_OEAH8Y6B_0ZztQuPXNI-9Xm1ErXK4iu68qKNkzSDcGZM7wp_ZNkaLbJNfqK-Y",
   "developer_id": "Bit Genoma Digital Solutions SL",
   "updated_date": "2020-05-22",
   "downloads": "100+",
@@ -10,15 +10,15 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.appfeel.interactiveclinics.dev",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Contacts": [
       "Find accounts on the device"
@@ -26,11 +26,11 @@
     "Device ID & call information": [
       "Read phone status and identity"
     ],
-    "Wearable sensors/Activity data": [
-      "Body sensors (like heart rate monitors)"
-    ],
     "Phone": [
       "Read phone status and identity"
+    ],
+    "Wearable sensors/Activity data": [
+      "Body sensors (like heart rate monitors)"
     ],
     "Camera": [
       "Take pictures and videos"
@@ -43,15 +43,15 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
+      "Access bluetooth settings",
+      "Change your audio settings",
+      "Control vibration",
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
       "Receive data from internet",
       "Use accounts on the device",
-      "Full network access",
-      "View network connections",
-      "Control vibration",
-      "Change your audio settings",
-      "Prevent device from sleeping",
-      "Pair with bluetooth devices",
-      "Access bluetooth settings"
+      "View network connections"
     ]
   },
   "developer_url": "https://interactiveclinics.com",
