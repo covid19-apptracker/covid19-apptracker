@@ -1,7 +1,7 @@
 {
   "id": "com.Eha.covid_19",
   "title": "COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
+  "icon_url": "https://play-lh.googleusercontent.com/Zz64kEmO2y13YjEOaKa6BL8CZAYrxb1DSlHKTx7tOSvdN8PxTAOqLqyxD0v5PX7h6s4L",
   "developer_id": "Electronic Health Administration",
   "updated_date": "2020-03-11",
   "downloads": "100,000+",
@@ -10,15 +10,15 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.Eha.covid_19",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Read phone status and identity"
@@ -37,15 +37,15 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Download files without notification",
-      "Receive data from internet",
-      "View network connections",
-      "Full network access",
-      "Run at startup",
-      "Draw over other apps",
       "Control vibration",
+      "Download files without notification",
+      "Draw over other apps",
+      "Full network access",
+      "Google play license check",
       "Prevent device from sleeping",
-      "Google play license check"
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "http://ehealth.gov.vn/",
