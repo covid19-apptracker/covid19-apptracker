@@ -1,7 +1,7 @@
 {
   "id": "com.telkom.tracencare",
   "title": "PeduliLindungi",
-  "icon_url": "https://lh3.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
+  "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
   "developer_id": "Kementerian Kominfo",
   "updated_date": "2020-07-21",
   "downloads": "1,000,000+",
@@ -13,19 +13,19 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Camera": [
-      "Take pictures and videos"
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",
