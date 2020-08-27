@@ -1,7 +1,7 @@
 {
   "id": "com.pixxonai.covid19wb",
   "title": "COVID-19 West Bengal Government",
-  "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
+  "icon_url": "https://play-lh.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
   "developer_id": "SEMT Govt. of West Bengal",
   "updated_date": "2020-04-06",
   "downloads": "100,000+",
@@ -17,10 +17,10 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://wb.gov.in/",
