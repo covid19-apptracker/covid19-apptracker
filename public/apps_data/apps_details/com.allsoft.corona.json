@@ -1,7 +1,7 @@
 {
   "id": "com.allsoft.corona",
   "title": "CG Covid-19 ePass",
-  "icon_url": "https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
+  "icon_url": "https://play-lh.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
   "developer_id": "AllSoft Consulting",
   "updated_date": "2020-05-29",
   "downloads": "1,000,000+",
@@ -13,12 +13,12 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
-    ],
-    "Camera": [
-      "Take pictures and videos"
     ],
     "Other": [
       "Full network access",
