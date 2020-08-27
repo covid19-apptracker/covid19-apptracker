@@ -1,7 +1,7 @@
 {
   "id": "com.mic.bluezone",
   "title": "Bluezone - Contact detection",
-  "icon_url": "https://lh3.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
+  "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
   "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
   "updated_date": "2020-08-18",
   "downloads": "10,000,000+",
@@ -17,11 +17,11 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",
