@@ -1,7 +1,7 @@
 {
   "id": "edu.rise.ihnilatis",
   "title": "CovTracer",
-  "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
+  "icon_url": "https://play-lh.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
   "developer_id": "RISE Research Centre of Excellence",
   "updated_date": "2020-06-11",
   "downloads": "1,000+",
@@ -17,13 +17,13 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Access extra location provider commands",
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",
