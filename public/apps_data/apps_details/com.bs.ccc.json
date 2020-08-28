@@ -1,7 +1,7 @@
 {
   "id": "com.bs.ccc",
   "title": "CoronaBD",
-  "icon_url": "https://play-lh.googleusercontent.com/ZIxi1iypjh5uteu9XGiGc0oyiJKj9jY7sJKHkhKXLfvEacseQnnpIkDfpAhkT40-0Q",
+  "icon_url": "https://lh3.googleusercontent.com/ZIxi1iypjh5uteu9XGiGc0oyiJKj9jY7sJKHkhKXLfvEacseQnnpIkDfpAhkT40-0Q",
   "developer_id": "DG Health",
   "updated_date": "2020-08-10",
   "downloads": "100,000+",
@@ -20,12 +20,12 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",
