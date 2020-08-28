@@ -1,7 +1,7 @@
 {
   "id": "mm.org.mcf.app001",
   "title": "Saw Saw Shar",
-  "icon_url": "https://play-lh.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
+  "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
   "developer_id": "Myanmar Computer Federation (MCF)",
   "updated_date": "2020-07-14",
   "downloads": "50,000+",
@@ -17,10 +17,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
     "Device & app history": [
