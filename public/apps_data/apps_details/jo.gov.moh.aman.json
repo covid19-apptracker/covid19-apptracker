@@ -1,7 +1,7 @@
 {
   "id": "jo.gov.moh.aman",
   "title": "AMAN - Aman.jo JORDAN APP COVID-19",
-  "icon_url": "https://play-lh.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
+  "icon_url": "https://lh3.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
   "developer_id": "Jordan eGov Program",
   "updated_date": "2020-05-24",
   "downloads": "1,000,000+",
@@ -20,13 +20,13 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
     "Location": [
       "Access extra location provider commands",
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
     ],
     "Other": [
       "Change network connectivity",
