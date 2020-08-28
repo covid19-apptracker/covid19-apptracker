@@ -1,7 +1,7 @@
 {
   "id": "com.iclick.covidnew",
   "title": "Nepal COVID-19 Surveillance",
-  "icon_url": "https://play-lh.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
+  "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
   "developer_id": "iClick",
   "updated_date": "2020-05-21",
   "downloads": "10,000+",
@@ -13,12 +13,12 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
-    ],
-    "Camera": [
-      "Take pictures and videos"
     ],
     "Location": [
       "Approximate location (network-based)",
