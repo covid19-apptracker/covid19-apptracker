@@ -10,26 +10,26 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.appfeel.interactiveclinics.dev",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Microphone": [
       "Record audio"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Contacts": [
       "Find accounts on the device"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
     ],
     "Wearable sensors/Activity data": [
       "Body sensors (like heart rate monitors)"
     ],
     "Phone": [
+      "Read phone status and identity"
+    ],
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Camera": [
@@ -43,15 +43,15 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
+      "Access bluetooth settings",
+      "Change your audio settings",
+      "Control vibration",
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
       "Receive data from internet",
       "Use accounts on the device",
-      "Full network access",
-      "View network connections",
-      "Control vibration",
-      "Change your audio settings",
-      "Prevent device from sleeping",
-      "Pair with bluetooth devices",
-      "Access bluetooth settings"
+      "View network connections"
     ]
   },
   "developer_url": "https://interactiveclinics.com",

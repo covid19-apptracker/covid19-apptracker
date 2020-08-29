@@ -14,12 +14,12 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
       "Access bluetooth settings",
       "Full network access",
-      "Prevent device from sleeping"
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://stop.koronavirus.gov.mk/",

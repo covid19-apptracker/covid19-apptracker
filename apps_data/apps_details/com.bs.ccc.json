@@ -20,12 +20,12 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",

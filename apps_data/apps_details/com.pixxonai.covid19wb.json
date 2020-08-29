@@ -17,10 +17,10 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://wb.gov.in/",

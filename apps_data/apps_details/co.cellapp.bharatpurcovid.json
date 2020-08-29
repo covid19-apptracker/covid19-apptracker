@@ -10,32 +10,32 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bharatpurcovid",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Directly call phone numbers"
     ],
     "Location": [
+      "Access extra location provider commands",
       "Approximate location (network-based)",
-      "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Create accounts and set passwords",
-      "Pair with bluetooth devices",
-      "Full network access",
-      "Read sync settings",
-      "Run at startup",
       "Control vibration",
+      "Create accounts and set passwords",
+      "Full network access",
+      "Pair with bluetooth devices",
       "Prevent device from sleeping",
-      "Toggle sync on and off"
+      "Read sync settings",
+      "Receive data from internet",
+      "Run at startup",
+      "Toggle sync on and off",
+      "View network connections"
     ]
   },
   "developer_url": "http://bharatpurmun.gov.np%20",
