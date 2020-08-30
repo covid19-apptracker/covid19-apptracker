@@ -10,12 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.agetic.coronavirusapp",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Directly call phone numbers"
@@ -24,10 +24,10 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://boliviasegura.gob.bo",

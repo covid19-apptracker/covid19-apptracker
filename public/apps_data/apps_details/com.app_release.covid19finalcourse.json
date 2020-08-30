@@ -10,12 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.app_release.covid19finalcourse",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Camera": [
       "Take pictures and videos"
@@ -24,9 +24,9 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "View network connections",
+      "Control vibration",
       "Full network access",
-      "Control vibration"
+      "View network connections"
     ]
   },
   "developer_url": "https://www.userc.org/",

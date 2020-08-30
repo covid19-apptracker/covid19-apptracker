@@ -9,12 +9,12 @@
   "description": "Using StopCovid helps to protect your loved ones, yourself and everybody else by alerting you if you have been close to a user who tests positive. The StopCovid application is designed for use in France. Let\u2019s protect our loved ones, ourselves and everybody else. StopCovid is simple: # Activate the application StopCovid uses your phone\u2019s Bluetooth connection to detect other users\u2019 phones when they are close to yours. # Stay informed You will be alerted when you have been close to a user who tests positive for COVID-19. # Protect your loved ones and everybody else If you take a test for COVID-19 that turns out to be positive, the laboratory will give you a code to scan or enter manually to send an anonymous alert to users who have been close to you. # Your data are protected The application never tracks your location and it is impossible to discover a user\u2019s identity. This application of contact tracing for Covid-19 has been developed by the StopCovid team under the supervision of the Ministry for Solidarity and Health and the Ministry of State for Digital Affairs.",
   "app_store_url": "https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid",
   "permissions": {
-    "Camera": [
-      "Take pictures and videos"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Other": [
       "Access bluetooth settings",

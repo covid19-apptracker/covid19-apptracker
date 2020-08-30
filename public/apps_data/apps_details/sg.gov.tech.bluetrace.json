@@ -13,12 +13,12 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
     "Storage": [
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Location": [
       "Approximate location (network-based)",

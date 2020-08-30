@@ -20,10 +20,10 @@
     "Contacts": [
       "Read your contacts"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Wi-Fi connection information": [
@@ -37,11 +37,11 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
       "Control vibration",
-      "View network connections",
       "Full network access",
-      "Prevent device from sleeping"
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://speetar.com",

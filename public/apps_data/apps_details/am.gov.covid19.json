@@ -12,16 +12,16 @@
     "Photos/Media/Files": [
       "Read the contents of your usb storage"
     ],
-    "Storage": [
-      "Read the contents of your usb storage"
-    ],
     "Camera": [
       "Take pictures and videos"
     ],
+    "Storage": [
+      "Read the contents of your usb storage"
+    ],
     "Other": [
-      "Receive data from internet",
-      "Prevent device from sleeping",
       "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "View network connections"
     ]
   },

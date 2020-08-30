@@ -20,13 +20,13 @@
       "Precise location (gps and network-based)"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
       "Access bluetooth settings",
       "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "Run at startup",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
   "developer_url": "https://tracecovid.ae/",

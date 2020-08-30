@@ -17,10 +17,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Camera": [

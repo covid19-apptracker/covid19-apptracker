@@ -9,24 +9,24 @@
   "description": "The great danger with COVID-19 is the long incubation period and the fact that many infected people do not experience any symptoms.   Our goal is to inform people who have had contact with another infected person at an early stage and thus prevent them from unknowingly spreading the virus further. The Stop Covid app anonymously determines social interactions with other app users. Encounters that have a certain intensity in terms of time and proximity are stored locally by both apps in an encrypted form. If someone tests positive for COVID-19, people who may have had contact with the infected person within the last few days will receive a warning with instructions to contact the local governmental authority.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.georgia.novid20",
   "permissions": {
-    "Location": [
-      "Precise location (gps and network-based)",
-      "Approximate location (network-based)"
-    ],
     "Wi-Fi connection information": [
       "View wi-fi connections"
     ],
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
     "Other": [
-      "Receive data from internet",
       "Access bluetooth settings",
-      "Control vibration",
       "Connect and disconnect from wi-fi",
-      "Full network access",
       "Control near field communication",
-      "View network connections",
+      "Control vibration",
+      "Full network access",
       "Pair with bluetooth devices",
       "Prevent device from sleeping",
-      "Run at startup"
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "http://www.stopcov.ge",

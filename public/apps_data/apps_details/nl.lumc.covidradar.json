@@ -10,12 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=nl.lumc.covidradar",
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
       "Read phone status and identity"
@@ -24,11 +24,11 @@
       "Read phone status and identity"
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
       "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
       "Run at startup",
-      "Prevent device from sleeping"
+      "View network connections"
     ]
   },
   "developer_url": "https://www.lumc.nl",
