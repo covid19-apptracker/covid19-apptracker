@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import logo from '../../img/logo_wht.svg';
 
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class Footer extends Component {
 
@@ -20,7 +22,8 @@ class Footer extends Component {
                                 <Link to="/team" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Team</Link>
                                 <a href="https://medium.com/@apptracker.cvd19" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Blog</a>
                                 <Link to="/contact" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Contact</Link>
-                                <Link to="/privacy-policy" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500">Privacy Policy</Link>
+                                <Link to="/privacy-policy" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500 mr-4">Privacy Policy</Link>
+                                <a href="https://github.com/covid19-apptracker" className="dark-bg-link-hover mt-4 sm:inline-block transition-all duration-200 ease-in-out transform hover:-translate-y-1 hover:text-indigo-500" target="_blank"><FontAwesomeIcon icon={faGithub} size="lg" /></a>
                             </div>
                         </div>
                     </div>
