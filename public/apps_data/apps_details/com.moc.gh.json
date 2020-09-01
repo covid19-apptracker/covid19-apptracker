@@ -3,21 +3,41 @@
   "title": "GH COVID-19 Tracker",
   "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
   "developer_id": "Ministry of Communications",
-  "updated_date": "2020-05-08",
+  "updated_date": "2020-07-27",
   "downloads": "1,000+",
   "country": "GH",
-  "description": "GH COVID-19 Tracker is an easy to use, digital tool to help you assess and self report your symptoms for COVID-19. It should help to improve and accelerate the Government\u2019s response to the challenges of the COVID-19 pandemic. You can use the Ghana Government COVID-19 Tracker to: -  Check coronavirus symptoms -  Latest guidance on COVID-19 Disclaimer: This app does not give health advice but it allows you to assess your symptoms and help control the spread of COVID-19. Please visit the Ghana Health Service website if you need health advice.",
+  "description": "GH COVID-19 Tracker is an easy to use, digital tool to help you assess & self report your symptoms and check your risk of infection for COVID-19. It should help to improve and accelerate the Government\u2019s response to the challenges of the COVID-19 pandemic. You can use the Ghana Government COVID-19 Tracker to: - Check coronavirus symptoms - Check your risk of infection - Users near you - Self quarantine management - Event management - In-App reporting - Guidance on COVID-19 Disclaimer: This app does not give health advice but it allows you to assess your symptoms and help control the spread of COVID-19. Please visit the Ghana Health Service website if you need health advice.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.moc.gh",
   "permissions": {
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+    "Photos/Media/Files": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Storage": [
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Wi-Fi connection information": [
       "View wi-fi connections"
     ],
+    "Device & app history": [
+      "Retrieve running apps"
+    ],
+    "Camera": [
+      "Take pictures and videos"
+    ],
+    "Location": [
+      "Access extra location provider commands",
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
     "Other": [
+      "Control vibration",
       "Full network access",
+      "Prevent device from sleeping",
+      "Read google service configuration",
+      "Receive data from internet",
+      "Run at startup",
       "View network connections"
     ]
   },
