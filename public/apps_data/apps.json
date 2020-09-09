@@ -949,7 +949,7 @@
     "title": "COCOA - COVID-19 Contact App",
     "icon_url": "https://lh3.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
-    "updated_date": "2020-07-14",
+    "updated_date": "2020-09-08",
     "downloads": "5,000,000+",
     "country": "JP"
   },
@@ -1111,7 +1111,7 @@
     "title": "NZ COVID Tracer",
     "icon_url": "https://lh3.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
     "developer_id": "Ministry of Health NZ",
-    "updated_date": "2020-09-02",
+    "updated_date": "2020-09-07",
     "downloads": "1,000,000+",
     "country": "NZ"
   },
@@ -1171,10 +1171,10 @@
   },
   {
     "id": "pl.gov.mc.protegosafe",
-    "title": "ProteGO Safe",
+    "title": "STOP COVID - ProteGO Safe",
     "icon_url": "https://lh3.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
     "developer_id": "Ministerstwo Cyfryzacji",
-    "updated_date": "2020-08-15",
+    "updated_date": "2020-09-07",
     "downloads": "500,000+",
     "country": "PL"
   },
@@ -1201,7 +1201,7 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
     "developer_id": "National Information Center",
-    "updated_date": "2020-08-27",
+    "updated_date": "2020-09-08",
     "downloads": "1,000,000+",
     "country": "SA"
   },
