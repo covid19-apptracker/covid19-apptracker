@@ -1143,6 +1143,15 @@
     "country": "US"
   },
   {
+    "id": "org.pathcheck.guam.bt",
+    "title": "Guam Covid Alert",
+    "icon_url": "https://lh3.googleusercontent.com/1vdQ3DhLgTCDxaBBShJBfsV6z-sqXuXafzDyRXeqd9p8PzqLB1h25c-LFulcGJVm7ao",
+    "developer_id": "Otech Developer",
+    "updated_date": "2020-09-08",
+    "downloads": "1,000+",
+    "country": "GU"
+  },
+  {
     "id": "org.prixa.p5covidtracker",
     "title": "Province 5 COVID-19 Tracker",
     "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
