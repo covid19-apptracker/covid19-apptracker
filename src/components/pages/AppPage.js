@@ -7,6 +7,8 @@ import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
 import logo from '../../img/logo_wht.svg';
 import loadingImg from '../../img/loading.gif';
+import { faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class AppPage extends Component {
     constructor(props) {
@@ -101,11 +103,8 @@ class AppPage extends Component {
     render() {
 		return (
 			<div>
-                {/* <div>
-                    <img src={loadingImg} className="mx-auto" alt="logo" />
-                </div> */}
-                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
-				{/* <NavBar /> */}
+                
+                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} /> 
 				<div
 					id="container"
 					className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
@@ -141,8 +140,7 @@ class AppPage extends Component {
                                         <p className="text-black text-3xl">
                                             {this.getCountryName(this.props.country)}
                                         </p> 
-                                    </div> 
-                                    {/* <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p>  */}
+                                    </div>  
                                 </div>
                             </div>
                             <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0 bg-white"> 
@@ -150,11 +148,9 @@ class AppPage extends Component {
                                     <p className="font-bold text-sm">Device Installs</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                        {this.props.downloads}
-                                        {/* <span className="text-gray-700 text-sm">MM</span> */}
+                                        {this.props.downloads} 
                                         </p> 
-                                    </div> 
-                                    {/* <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p>  */}
+                                    </div>  
                                 </div>
                             </div>
                             <div className="flex-1 rounded overflow-hidden shadow-lg bg-white"> 
@@ -172,92 +168,19 @@ class AppPage extends Component {
 
                     <div id="appPermissions" className="pb-12">
                         <p className="font-bold text-sm pb-6">App Permissions</p>
+                        <div className="bg-red-100 rounded-md border-red-600 border mb-6">
+                            <div className="px-6 sm:px-4 py-4"> 
+                                <p className="text-red-600">
+                                    <FontAwesomeIcon className="text-red-600" icon={faExclamationTriangle} size="lg" /> Number of dangerous permissions this application asks for: <strong># of permissions</strong>    
+                                </p>                           
+                                <a className="text-red-600 underline" href="https://developer.android.com/guide/topics/permissions/overview#dangerous-permission-prompt" target="_blank">
+                                    What are dangerous permissions?   
+                                </a>                           
+                            </div>
+                        </div>
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
                             {this.createPermissions()}
-                            {/* <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div className="pr-4">
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-map-marker fa-md text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Location</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Location')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div>
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div className="pr-4">
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-mobile fa-lg text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Phone</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Phone')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div>
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div className="pr-4">
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-download fa-md text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Storage</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Storage')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div>
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div className="pr-4">
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-microphone fa-md text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Microphone</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Microphone')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div>
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                < div className = "pr-4" >
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-phone fa-md text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Device ID & Call Info</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Device ID & Call information')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div>
-                            <div id="storage" className="flex align-top sm:pr-6 pb-12">
-                                <div className="pr-4">
-                                    <div className="rounded-full h-10 w-10 flex items-center justify-center " style={{backgroundColor: "#0066FF"}}><i className="fa fa-question fa-lg text-white"></i></div>
-                                </div>
-                                <div>
-                                    <p className="pb-1 font-medium">Other</p>
-                                    <ul className="list-disc pl-4 text-gray-700">
-                                        {
-                                            this.createPermissionsObject('Other')
-                                        }
-							        </ul>
-                                    
-                                </div>
-                            </div> */}
+                            
                         </div>
                     </div>
 
@@ -271,10 +194,8 @@ class AppPage extends Component {
                                 </p>                           
                             </div>
                         </div>
-                    </div>
-
-				</div>
-				{/* <Footer /> */}
+                    </div> 
+				</div> 
 			</div>
 		);
 	}
