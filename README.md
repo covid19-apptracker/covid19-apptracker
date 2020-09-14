@@ -10,6 +10,8 @@ At this time, the COVID-19 App Tracker only looks for applications on the Google
 Download the data we've collected from our public Google Sheets document.
 https://docs.google.com/spreadsheets/d/1gutqRjHrwRmQCJQJ5f0t5NOhxYIYztkjMTVLJcXSx8k/edit#gid=0
 
+Further work is ongoing and we encourage feedback! If you see apps missing or corrections that should be made, please contact us at info@covid19apptracker.org. We hope this encourages greater transparency and leads to further privacy research around the globe.
+
 ## Our Intended Audience
 We hope this project leads to greater transparency for these new applications’ privacy and security implications around the globe. Many apps are being created quickly, resulting in poor security or are not clearly articulating how they are using the data they are collecting. We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities.
 
