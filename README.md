@@ -1,7 +1,7 @@
 ## About the Project
-With the current pandemic has emerged privacy concerns with the large number of applications being published and promoted around the globe. From symptom tracking to contact tracing, the COVID-19 App Tracker Project aims to identify and track applications published on the Google Play Store.
+With the current pandemic has emerged privacy concerns with the large number of applications being published and promoted around the globe. From symptom tracking to contact tracing, the open source project, COVID-19 App Tracker, aims to identify and track applications published on the Google Play Store.
 
-At this time, the COVID-19 App Tracker Project only looks for applications on the Google Play Store that fall within at least one of the following categories:
+At this time, the COVID-19 App Tracker only looks for applications on the Google Play Store that fall within at least one of the following categories:
 
 - Contact Tracing
 - Symptom Tracking
@@ -36,6 +36,7 @@ The following tasks have been completed under version 1:
 
 **Version 2.0 | Ongoing**
 
+- Open source codebase
 - Automate Twitter updates (New App, Update, or Take Down from Google Play)
 - Refine and add app search functionality
 - Identify more concerning permissions granted by apps based on existing methodologies and frameworks
