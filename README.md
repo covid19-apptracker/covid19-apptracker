@@ -42,4 +42,4 @@ The following tasks have been completed under version 1:
 - Automate Twitter updates (New App, Update, or Take Down from Google Play)
 - Refine and add app search functionality
 - Identify more concerning permissions granted by apps based on existing methodologies and frameworks
-Identify additional data sources to pull into database of apps
+- Identify additional data sources to pull into database of apps
