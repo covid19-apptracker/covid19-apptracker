@@ -819,6 +819,15 @@
     "country": "US"
   },
   {
+    "id": "gov.de.covidtracker",
+    "title": "Covid Alert DE",
+    "icon_url": "https://lh3.googleusercontent.com/Dmp9LWljNvHUthiwys_hh9MiKwbH2QiiFPe_y2RxrNEURuOhXGTYwY7niC7I_NN4Zhs",
+    "developer_id": "Delaware Department of Health and Social Services",
+    "updated_date": "2020-09-08",
+    "downloads": "5+",
+    "country": "DE"
+  },
+  {
     "id": "gov.georgia.novid20",
     "title": "Stop Covid - let's fight this together",
     "icon_url": "https://lh3.googleusercontent.com/RNiT98VOXG4i5B1xWFab6Gc8cRftlo1ntwRT6pn3VXWnZw_iBuUJy9wpzTIqNPcm6fsr",
