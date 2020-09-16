@@ -211,7 +211,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2020-09-11",
+    "updated_date": "2020-09-13",
     "downloads": "10,000+",
     "country": "US"
   },
@@ -378,6 +378,15 @@
     "country": "IN"
   },
   {
+    "id": "com.expii.novid",
+    "title": "NOVID",
+    "icon_url": "https://lh3.googleusercontent.com/J7JeUMkjDaKCW928Y7fT-7GIbq65e3NHnfqblq71DVkwnPLfSR5UZcvcQvtUIArPiIU",
+    "developer_id": "Expii, Inc.",
+    "updated_date": "2020-08-17",
+    "downloads": "10,000+",
+    "country": "US"
+  },
+  {
     "id": "com.family.tokhaiyte",
     "title": "FAMILY - COVID 19",
     "icon_url": "https://lh3.googleusercontent.com/Ren8jOghqCc3YpcOvGsyGdyuPywiC4CuXMYgiODxZwZmz7d6uQMyo8X5EDIla2rY71U",
@@ -529,6 +538,15 @@
     "updated_date": "2020-03-25",
     "downloads": "50,000+",
     "country": "PK"
+  },
+  {
+    "id": "com.netcompany.smittestop_exposure_notification",
+    "title": "Smittestop",
+    "icon_url": "https://lh3.googleusercontent.com/ucXPOwW7AhYdQhzMFN_xm7Ha12Ga9D9QEBxztSA0ZP3BlI9z3rFrLf72FDrtiRxigA",
+    "developer_id": "Sundheds- og \u00c6ldreministeriet",
+    "updated_date": "2020-08-14",
+    "downloads": "100,000+",
+    "country": "DK"
   },
   {
     "id": "com.optic.covdr",
@@ -783,6 +801,15 @@
     "country": "ET"
   },
   {
+    "id": "fi.thl.koronahaavi",
+    "title": "Koronavilkku",
+    "icon_url": "https://lh3.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
+    "developer_id": "Terveyden ja hyvinvoinnin laitos",
+    "updated_date": "2020-09-11",
+    "downloads": "1,000,000+",
+    "country": "FI"
+  },
+  {
     "id": "fj.gov.carefiji",
     "title": "careFIJI",
     "icon_url": "https://lh3.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
@@ -824,7 +851,7 @@
     "icon_url": "https://lh3.googleusercontent.com/Dmp9LWljNvHUthiwys_hh9MiKwbH2QiiFPe_y2RxrNEURuOhXGTYwY7niC7I_NN4Zhs",
     "developer_id": "Delaware Department of Health and Social Services",
     "updated_date": "2020-09-08",
-    "downloads": "10+",
+    "downloads": "500+",
     "country": "DE"
   },
   {
@@ -844,6 +871,15 @@
     "updated_date": "2020-09-08",
     "downloads": "5,000+",
     "country": "US"
+  },
+  {
+    "id": "gov.scot.covidtracker",
+    "title": "Protect Scotland",
+    "icon_url": "https://lh3.googleusercontent.com/l61Y45bG4-IVkBdFMJJnr9_buLB0pMMzKt-t3VbDrnSSzNLgiu9mpfKUEZTiXzfmG5w",
+    "developer_id": "NHS Education for Scotland",
+    "updated_date": "2020-09-07",
+    "downloads": "100,000+",
+    "country": "GB"
   },
   {
     "id": "gov.va.mobilehealth.ncptsd.covid",
@@ -1095,6 +1131,15 @@
     "developer_id": "LUMC Leiden",
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
+    "country": "NL"
+  },
+  {
+    "id": "nl.rijksoverheid.en",
+    "title": "CoronaMelder",
+    "icon_url": "https://lh3.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
+    "developer_id": "Rijksoverheid",
+    "updated_date": "2020-09-11",
+    "downloads": "100,000+",
     "country": "NL"
   },
   {

@@ -1,0 +1,23 @@
+{
+  "id": "nl.rijksoverheid.en",
+  "title": "CoronaMelder",
+  "icon_url": "https://lh3.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
+  "developer_id": "Rijksoverheid",
+  "updated_date": "2020-09-11",
+  "downloads": "100,000+",
+  "country": "NL",
+  "description": "CoronaMelder is the official Dutch coronavirus notification app, developed under supervision by the Ministry of Health, Welfare and Sport. The app digitally helps Municipal Public Health Service\u2019s (GGD) with their source and contact research. The app warns you when you\u2019ve been near someone who has coronavirus. That way, you can protect yourself and the people around you. And we can keep the number of infections in The Netherlands as low as possible. Using this app isn\u2019t mandatory. But the more people use the app, the better it works. During the development of this app, we took accessibility into account. See our accessibility statement for more information. How does the app work? You only give access to your Bluetooth data CoronaMelder uses Bluetooth to see when you\u2019re near other people who have the app. The app doesn\u2019t use any personal or location data. So it doesn\u2019t know who you are or where you\u2019ve been. You get a notification after you\u2019ve experienced a higher risk of infection The app sends you a notification when you've been near someone for at least 15 minutes who later turns out to have corona. That person must be using the app as well. You can warn others if you turn out to be infected yourself Did you test positive for the virus by the GGD? You can then use the app to warn the people you\u2019ve been around during the time you were contagious. This warning is completely anonymous as well. What makes the app safe and anonymous? * You don\u2019t have to enter any personal data like your name or email address. * All contacts are anonymous. If you run into someone, your phones exchange random codes using Bluetooth. This is how the app measures the duration and the distance of the contact. The codes never includes information about who you are and where you\u2019ve been. * The codes you exchange via Bluetooth are only saved on your phone. They\u2019re automatically deleted after 14 days. * App users cannot be traced by the app\u2019s makers, the government or other users. Everyone is always anonymous. Both the infected people sending out a warning with the app and the people getting this notification.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=nl.rijksoverheid.en",
+  "permissions": {
+    "Other": [
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Run at startup",
+      "View network connections"
+    ]
+  },
+  "developer_url": "https://coronamelder.nl/",
+  "available": true,
+  "first_time_seen": "2020-09-16"
+}
