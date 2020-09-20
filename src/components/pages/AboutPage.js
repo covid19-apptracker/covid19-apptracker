@@ -20,10 +20,10 @@ class AboutPage extends Component {
                     </h1>
                     <div className="text-base pb-12">
                             <p className="pb-4">
-                                Privacy concerns have emerged with a large number of COVID-19 applications being published and promoted around the globe. From symptom tracking to contact tracing, the <strong>COVID-19 App Tracker Project</strong> aims to identify and track applications published on the Google Play Store.
+                                Privacy concerns have emerged with a large number of COVID-19 applications being published and promoted around the globe. From symptom tracking to contact tracing, the open source project, <i>COVID-19 App Tracker Project</i>, aims to identify and track applications published on the Google Play Store.
                             </p>
                             <p className="pb-4">
-                                At this time, the <strong>COVID-19 App Tracker Project</strong> only looks for applications on the Google Play Store that fall within at least one of the following categories:
+                                At this time, the <i>COVID-19 App Tracker Project</i> only looks for applications on the Google Play Store that fall within at least one of the following categories:
                             </p>
                             <div>
                                 <ul className="list-disc pl-4 pb-4">
@@ -108,6 +108,7 @@ class AboutPage extends Component {
                         </p>
                         <div>
                             <ul className="list-disc pl-4">
+                                <li>Make codebase open source</li>
                                 <li>Automate Twitter updates (New App, Update, or Take Down from Google Play)</li>
                                 <li>Refine and add app search functionality</li>
                                 <li>Identify more concerning permissions granted by apps based on existing methodologies and frameworks</li>

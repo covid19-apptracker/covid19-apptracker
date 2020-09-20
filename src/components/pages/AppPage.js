@@ -168,16 +168,17 @@ class AppPage extends Component {
 
                     <div id="appPermissions" className="pb-12">
                         <p className="font-bold text-sm pb-6">App Permissions</p>
-                        <div className="bg-red-100 rounded-md border-red-600 border mb-6">
-                            <div className="px-6 sm:px-4 py-4"> 
-                                <p className="text-red-600">
-                                    <FontAwesomeIcon className="text-red-600" icon={faExclamationTriangle} size="lg" /> Number of dangerous permissions this application asks for: <strong># of permissions</strong>    
-                                </p>                           
-                                <a className="text-red-600 underline" href="https://developer.android.com/guide/topics/permissions/overview#dangerous-permission-prompt" target="_blank">
-                                    What are dangerous permissions?   
-                                </a>                           
-                            </div>
-                        </div>
+                        <div className="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-6 mb-6" role="alert">
+                            <p>
+                                <FontAwesomeIcon className="mr-1 text-orange-500" icon={faExclamationTriangle} size="md" /> <strong>Dangerous Permissions</strong>
+                            </p>
+                            <p>
+                                Number of dangerous permissions this application asks for: <strong># of permissions</strong>    
+                            </p> 
+                            <a className="underline" href="https://developer.android.com/guide/topics/permissions/overview" target="_blank">
+                                What are dangerous permissions?   
+                            </a>  
+                        </div> 
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
                             {this.createPermissions()}
                             
