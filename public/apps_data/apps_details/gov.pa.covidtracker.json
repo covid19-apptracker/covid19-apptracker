@@ -1,0 +1,26 @@
+{
+  "id": "gov.pa.covidtracker",
+  "title": "COVID Alert PA",
+  "icon_url": "https://lh3.googleusercontent.com/efaP-5GqgN_NgiKKhzCJ7ccoDDJ7Kvf2ReXpvY77hHrIktGKXwVaW4zHBO-uJBf0UY4",
+  "developer_id": "Executive Office Commonwealth of Pennsylvania",
+  "updated_date": "2020-09-11",
+  "downloads": "10+",
+  "country": "PA",
+  "description": "The COVID Alert App can help reduce the spread of coronavirus in Pennsylvania and help everyone stay safe. It's easy: - download the app - choose what information you want to share, or not - that's it, you are now part of the contact tracing community, helping to keep everyone safe from coronavirus. If you use the app you will: -be alerted if you have been in close contact with someone who has tested positive for coronavirus -be able to track your symptoms and get advice on what to do -have the choice to anonymously warn others if you test positive for coronavirus - this will help keep other people safe -protect yourself and others as everyone begins to return to normal life How the COVID Alert app works The app has 3 functions: contact tracing COVID check-in updates and information 1. Contact tracing Contact tracing identifies people who were in close contact with someone who has coronavirus. For example, family members, friends, colleagues or fellow travellers. The app will help contact tracing by: reducing the time it takes to alert you if you're a close contact notifying close contacts that might have been forgotten enabling us to contact people who are unknown to each other The app uses Bluetooth technology and anonymous IDs to log: -any phone you are in contact with that also has the app installed -the distances between your phone and other phones that use the app -the length of time your phone is near other phones that use the app Every 2 hours the app on your phone downloads a list of anonymous IDs. These have been shared with the Pennsylvania Department of Health by people using the app who have tested positive for coronavirus. If you have been closer than 2 metres for more than 15 minutes with any of these phones you will receive a notification that you are a close contact. Close contact alerts If the app finds that you have been in close contact with someone who has tested positive for coronavirus, you will get an alert. You'll be advised to: -restrict your movements -get tested for coronavirus You won't know who the contact is or where the contact happened. If you test positive If you test positive for coronavirus, you can choose to use the app to anonymously alert other app users you have been in close contact with. Alerting your close contacts Our contact tracing team will phone you if you test positive. They will ask you if you have the app. If you have the app, they will ask you to share your set of anonymous IDs through the app. It's your choice if you want to do this. The contact tracing team will send you a unique upload code by text message. This code unlocks the upload functionality on the app. You can then upload your anonymous IDs for the last 14 days. Only the Pennsylvania Department of Health can issue upload codes. People who do not have the virus will not be able to use this function. 2. COVID check-in You can use this to: -track how you feel each day -find out if you have symptoms of coronavirus -get advice on what to do Any information you share on the app is anonymous. 3. Updates and information You can use the app to get the latest facts and figures about coronavirus in Pennsylvania. You can also get advice to help you to care for yourself if you are sick. Privacy Your data is collected anonymously and stored on your phone. Your name, location or movements are not tracked. You will be asked to allow the app to collect: - your anonymous data - anonymous data sent by other app users' devices You can choose: - what data you want to share - to change your privacy settings at any time - to use the app without sharing any data at all No one will ever know your personal details unless you choose to share them. This includes the Pennsylvania Department of Health.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=gov.pa.covidtracker",
+  "permissions": {
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
+    ],
+    "Other": [
+      "Control vibration",
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Run at startup",
+      "View network connections"
+    ]
+  },
+  "developer_url": "https://docs.google.com/document/d/1EAhZV7gqpHt7DWZMThqzgX9zZOlKIYmTd90F-_uEQgE/edit#heading=h.96ervcndgzgb",
+  "available": true,
+  "first_time_seen": "2020-09-21"
+}
