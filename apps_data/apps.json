@@ -864,6 +864,15 @@
     "country": "GE"
   },
   {
+    "id": "gov.nc.dhhs.exposurenotification",
+    "title": "SlowCOVIDNC",
+    "icon_url": "https://lh3.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
+    "developer_id": "NC DHHS Technology Center",
+    "updated_date": "2020-09-16",
+    "downloads": "10+",
+    "country": "NC"
+  },
+  {
     "id": "gov.nv.dhhs.en",
     "title": "Covid Trace Nevada",
     "icon_url": "https://lh3.googleusercontent.com/fOJ5ER6nNUkTmnFbz-ZpyC7u6MvDKNvP-62ncLjymkuigrbbawA94C-O9DpTPLxOATY",
@@ -871,6 +880,15 @@
     "updated_date": "2020-09-17",
     "downloads": "5,000+",
     "country": "US"
+  },
+  {
+    "id": "gov.pa.covidtracker",
+    "title": "COVID Alert PA",
+    "icon_url": "https://lh3.googleusercontent.com/efaP-5GqgN_NgiKKhzCJ7ccoDDJ7Kvf2ReXpvY77hHrIktGKXwVaW4zHBO-uJBf0UY4",
+    "developer_id": "Executive Office Commonwealth of Pennsylvania",
+    "updated_date": "2020-09-11",
+    "downloads": "10+",
+    "country": "PA"
   },
   {
     "id": "gov.scot.covidtracker",
