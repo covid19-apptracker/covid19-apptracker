@@ -25,5 +25,41 @@
   },
   "developer_url": "https://krungthai.com/",
   "available": true,
-  "first_time_seen": "2020-09-24"
+  "first_time_seen": "2020-09-24",
+  "permissions_new": {
+    "Location": [
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
