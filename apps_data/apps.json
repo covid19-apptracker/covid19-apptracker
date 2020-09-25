@@ -6,7 +6,8 @@
     "developer_id": "Dubai Health Authority - DHA",
     "updated_date": "2020-09-10",
     "downloads": "100,000+",
-    "country": "AE"
+    "country": "AE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ae.gov.dha.covid19.paramedic",
@@ -15,7 +16,8 @@
     "developer_id": "Dubai Health Authority - DHA",
     "updated_date": "2020-05-10",
     "downloads": "5,000+",
-    "country": "AE"
+    "country": "AE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ae.tracecovid.app",
@@ -24,7 +26,8 @@
     "developer_id": "Department of Health - Abu Dhabi",
     "updated_date": "2020-04-13",
     "downloads": "100,000+",
-    "country": "AE"
+    "country": "AE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "am.gov.covid19",
@@ -33,7 +36,8 @@
     "developer_id": "EKENG CJSC",
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
-    "country": "AM"
+    "country": "AM",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "app.ceylon.selftrackingapp",
@@ -42,7 +46,8 @@
     "developer_id": "ICTA Sri Lanka",
     "updated_date": "2020-05-24",
     "downloads": "10,000+",
-    "country": "LK"
+    "country": "LK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
@@ -51,7 +56,8 @@
     "developer_id": "Dave at Ryecroft Community Hub & BITS",
     "updated_date": "2020-04-23",
     "downloads": "5,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ar.gob.coronavirus",
@@ -60,7 +66,8 @@
     "developer_id": "8169270262982486256",
     "updated_date": "2020-08-10",
     "downloads": "5,000,000+",
-    "country": "AR"
+    "country": "AR",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "at.roteskreuz.stopcorona",
@@ -69,7 +76,8 @@
     "developer_id": "\u00d6sterreichisches Rotes Kreuz",
     "updated_date": "2020-07-08",
     "downloads": "100,000+",
-    "country": "AT"
+    "country": "AT",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "au.gov.health.covidsafe",
@@ -78,7 +86,8 @@
     "developer_id": "Australian Department of Health",
     "updated_date": "2020-09-10",
     "downloads": "1,000,000+",
-    "country": "AU"
+    "country": "AU",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "bg.government.virusafe",
@@ -87,7 +96,8 @@
     "developer_id": "government.bg",
     "updated_date": "2020-05-27",
     "downloads": "10,000+",
-    "country": "BG"
+    "country": "BG",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "bh.bahrain.corona.tracker",
@@ -96,7 +106,8 @@
     "developer_id": "Information & eGovernment Authority",
     "updated_date": "2020-09-21",
     "downloads": "100,000+",
-    "country": "BH"
+    "country": "BH",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "br.gov.datasus.guardioes",
@@ -105,7 +116,8 @@
     "developer_id": "5829287075355252046",
     "updated_date": "2020-08-28",
     "downloads": "5,000,000+",
-    "country": "BR"
+    "country": "BR",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ca.albertahealthservices.contacttracing",
@@ -114,7 +126,8 @@
     "developer_id": "Government of the Province of Alberta",
     "updated_date": "2020-06-17",
     "downloads": "50,000+",
-    "country": "CA"
+    "country": "CA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ca.bc.gov.health.hlbc.COVID19",
@@ -123,7 +136,8 @@
     "developer_id": "Province of British Columbia, Canada",
     "updated_date": "2020-09-23",
     "downloads": "50,000+",
-    "country": "CA"
+    "country": "CA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ca.gc.hcsc.canada.covid19",
@@ -132,7 +146,8 @@
     "developer_id": "Health Canada | Sant\u00e9 Canada",
     "updated_date": "2020-09-14",
     "downloads": "100,000+",
-    "country": "CA"
+    "country": "CA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ca.gc.hcsc.canada.stopcovid",
@@ -141,7 +156,8 @@
     "developer_id": "Health Canada | Sant\u00e9 Canada",
     "updated_date": "2020-09-22",
     "downloads": "1,000,000+",
-    "country": "CA"
+    "country": "CA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "cat.gencat.mobi.StopCovid19Cat",
@@ -150,7 +166,8 @@
     "developer_id": "Generalitat de Catalunya",
     "updated_date": "2020-06-18",
     "downloads": "500,000+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ch.admin.bag.dp3t",
@@ -159,7 +176,8 @@
     "developer_id": "Federal Office of Public Health FOPH",
     "updated_date": "2020-08-28",
     "downloads": "500,000+",
-    "country": "CH"
+    "country": "CH",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "cl.gob.digital.coronapp",
@@ -168,7 +186,8 @@
     "developer_id": "Gobierno Digital",
     "updated_date": "2020-08-11",
     "downloads": "100,000+",
-    "country": "CL"
+    "country": "CL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.cellapp.bardghatcovid19",
@@ -177,7 +196,8 @@
     "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
     "updated_date": "2020-04-27",
     "downloads": "500+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.cellapp.bharatpurcovid",
@@ -186,7 +206,8 @@
     "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
     "updated_date": "2020-09-10",
     "downloads": "5,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.gov.cali.calivallecorona",
@@ -195,7 +216,8 @@
     "developer_id": "Gobernaci\u00f3n del Valle del Cauca",
     "updated_date": "2020-09-02",
     "downloads": "10,000+",
-    "country": "CO"
+    "country": "CO",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.gov.ins.guardianes",
@@ -204,7 +226,8 @@
     "developer_id": "INS.GOV",
     "updated_date": "2020-09-23",
     "downloads": "10,000,000+",
-    "country": "CO"
+    "country": "CO",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.twenty.stop.spread",
@@ -213,7 +236,8 @@
     "developer_id": "Twenty Inc.",
     "updated_date": "2020-09-18",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "co.uk.healthcreatives.uclhcovid19",
@@ -222,7 +246,8 @@
     "developer_id": "Vincent Harding - UCL Health Creatives",
     "updated_date": "2020-04-30",
     "downloads": "100+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.CoronaMapSA",
@@ -231,7 +256,8 @@
     "developer_id": "National Health Information Center",
     "updated_date": "2020-03-18",
     "downloads": "100,000+",
-    "country": "SA"
+    "country": "SA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.Eha.covid_19",
@@ -240,7 +266,8 @@
     "developer_id": "Electronic Health Administration",
     "updated_date": "2020-03-11",
     "downloads": "500,000+",
-    "country": "VN"
+    "country": "VN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.agetic.coronavirusapp",
@@ -249,7 +276,8 @@
     "developer_id": "Agetic Bolivia",
     "updated_date": "2020-05-09",
     "downloads": "50,000+",
-    "country": "BO"
+    "country": "BO",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.allsoft.corona",
@@ -258,7 +286,8 @@
     "developer_id": "AllSoft Consulting",
     "updated_date": "2020-09-10",
     "downloads": "1,000,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.app_release.covid19finalcourse",
@@ -267,7 +296,8 @@
     "developer_id": "Govt of Uttarakhand (USERC)",
     "updated_date": "2020-03-26",
     "downloads": "10,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.appandabout.defusing",
@@ -276,7 +306,8 @@
     "developer_id": "AppAndAbout",
     "updated_date": "2020-07-28",
     "downloads": "500+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.appfeel.interactiveclinics.dev",
@@ -285,7 +316,8 @@
     "developer_id": "Bit Genoma Digital Solutions SL",
     "updated_date": "2020-05-22",
     "downloads": "100+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.bs.ccc",
@@ -294,7 +326,8 @@
     "developer_id": "DG Health",
     "updated_date": "2020-08-10",
     "downloads": "100,000+",
-    "country": "BD"
+    "country": "BD",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.bsmart.covid19",
@@ -303,7 +336,8 @@
     "developer_id": "5050630332065951284",
     "updated_date": "2020-03-30",
     "downloads": "100+",
-    "country": "SN"
+    "country": "SN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.coronacheck.haugxhaug.testyourcorona",
@@ -312,7 +346,8 @@
     "developer_id": "TRI Initiative in cooperation with UKW W\u00fcrzburg",
     "updated_date": "2020-08-07",
     "downloads": "50,000+",
-    "country": "DE"
+    "country": "DE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.covid19.dgmup",
@@ -321,7 +356,8 @@
     "developer_id": "India Health Action Trust",
     "updated_date": "2020-08-18",
     "downloads": "100,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.covidtracker.hse",
@@ -330,7 +366,8 @@
     "developer_id": "Health Service Executive (HSE)",
     "updated_date": "2020-08-26",
     "downloads": "500,000+",
-    "country": "IE"
+    "country": "IE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.cspire.telehealth",
@@ -339,7 +376,8 @@
     "developer_id": "C Spire",
     "updated_date": "2020-06-02",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.delhi.covidcare",
@@ -348,7 +386,8 @@
     "developer_id": "Delhi e-Governance Society, IT Department",
     "updated_date": "2020-06-29",
     "downloads": "100,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.droobihealth.corona",
@@ -357,7 +396,8 @@
     "developer_id": "Droobi Health Technology",
     "updated_date": "2020-07-15",
     "downloads": "100,000+",
-    "country": "QA"
+    "country": "QA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.edu.aku.akuhccheck",
@@ -366,7 +406,8 @@
     "developer_id": "Aga Khan University",
     "updated_date": "2020-04-04",
     "downloads": "50,000+",
-    "country": "PK"
+    "country": "PK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.entrolabs.apcovid19",
@@ -375,7 +416,8 @@
     "developer_id": "Entro Labs",
     "updated_date": "2020-08-03",
     "downloads": "500,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.expii.novid",
@@ -384,7 +426,8 @@
     "developer_id": "Expii, Inc.",
     "updated_date": "2020-08-17",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.family.tokhaiyte",
@@ -393,7 +436,8 @@
     "developer_id": "Family Hospital",
     "updated_date": "2020-04-01",
     "downloads": "500+",
-    "country": "VN"
+    "country": "VN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.flherm",
@@ -402,7 +446,8 @@
     "developer_id": "Florida Department of Health",
     "updated_date": "2020-05-06",
     "downloads": "1,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.gha.covid.tracker",
@@ -411,7 +456,8 @@
     "developer_id": "Gibraltar Health Authority",
     "updated_date": "2020-06-25",
     "downloads": "10,000+",
-    "country": "GI"
+    "country": "GI",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.govpk.covid19",
@@ -420,7 +466,8 @@
     "developer_id": "National IT Board, Government Of Pakistan",
     "updated_date": "2020-07-30",
     "downloads": "500,000+",
-    "country": "PK"
+    "country": "PK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.hamagen",
@@ -429,7 +476,8 @@
     "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
     "updated_date": "2020-08-27",
     "downloads": "1,000,000+",
-    "country": "IL"
+    "country": "IL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.healthcarekw.app",
@@ -438,7 +486,8 @@
     "developer_id": "Kuwait Central Agency for Information Technology",
     "updated_date": "2020-06-21",
     "downloads": "100,000+",
-    "country": "KW"
+    "country": "KW",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.iclick.covidnew",
@@ -447,7 +496,8 @@
     "developer_id": "iClick",
     "updated_date": "2020-05-21",
     "downloads": "10,000+",
-    "country": "NP"
+    "country": "NP",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.intutrack.covidtrack",
@@ -456,7 +506,8 @@
     "developer_id": "Intugine Technologies",
     "updated_date": "2020-06-02",
     "downloads": "100,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.jamcovid19",
@@ -465,7 +516,8 @@
     "developer_id": "opmjm mobile",
     "updated_date": "2020-09-17",
     "downloads": "10,000+",
-    "country": "JM"
+    "country": "JM",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.joinzoe.covid_zoe",
@@ -474,7 +526,8 @@
     "developer_id": "Zoe Global Limited",
     "updated_date": "2020-06-10",
     "downloads": "1,000,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.knasirayaz.mohapcovid",
@@ -483,7 +536,8 @@
     "developer_id": "MOHAP-UAE",
     "updated_date": "2020-08-26",
     "downloads": "50,000+",
-    "country": "AE"
+    "country": "AE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.ktb.thaichana.prod",
@@ -492,7 +546,8 @@
     "developer_id": "Krungthai Bank PCL.",
     "updated_date": "2020-08-07",
     "downloads": "500,000+",
-    "country": "TH"
+    "country": "TH",
+    "dangerous_permissions_count": "2"
   },
   {
     "id": "com.lympo.covid19",
@@ -501,7 +556,8 @@
     "developer_id": "Vilnius",
     "updated_date": "2020-05-12",
     "downloads": "10,000+",
-    "country": "LT"
+    "country": "LT",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.maithu.transplantbuddy.covid19",
@@ -510,7 +566,8 @@
     "developer_id": "patientMpower",
     "updated_date": "2020-07-13",
     "downloads": "1,000+",
-    "country": "IE"
+    "country": "IE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.mic.bluezone",
@@ -519,7 +576,8 @@
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
     "updated_date": "2020-09-18",
     "downloads": "10,000,000+",
-    "country": "VN"
+    "country": "VN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.moc.gh",
@@ -528,7 +586,8 @@
     "developer_id": "Ministry of Communications",
     "updated_date": "2020-07-27",
     "downloads": "5,000+",
-    "country": "GH"
+    "country": "GH",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.moi.covid19",
@@ -537,7 +596,8 @@
     "developer_id": "Ministry Of Interior - Qatar",
     "updated_date": "2020-08-10",
     "downloads": "1,000,000+",
-    "country": "QA"
+    "country": "QA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.nap_pakistan.app",
@@ -546,7 +606,8 @@
     "developer_id": "Aiwatech",
     "updated_date": "2020-03-25",
     "downloads": "50,000+",
-    "country": "PK"
+    "country": "PK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.netcompany.smittestop_exposure_notification",
@@ -555,7 +616,8 @@
     "developer_id": "Sundheds- og \u00c6ldreministeriet",
     "updated_date": "2020-08-14",
     "downloads": "100,000+",
-    "country": "DK"
+    "country": "DK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.optic.covdr",
@@ -564,7 +626,8 @@
     "developer_id": "Rep\u00fablica Digital",
     "updated_date": "2020-09-21",
     "downloads": "10,000+",
-    "country": "DM"
+    "country": "DM",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.panafricare.lasante",
@@ -573,7 +636,8 @@
     "developer_id": "7481984480845694382",
     "updated_date": "2020-07-10",
     "downloads": "1,000+",
-    "country": "SC"
+    "country": "SC",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.patientmpower.covid19.usa",
@@ -582,7 +646,8 @@
     "developer_id": "patientMpower",
     "updated_date": "2020-06-02",
     "downloads": "50+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.pixxonai.covid19wb",
@@ -591,7 +656,8 @@
     "developer_id": "SEMT Govt. of West Bengal",
     "updated_date": "2020-04-06",
     "downloads": "100,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.pratikthorat.coronatracker",
@@ -600,7 +666,8 @@
     "developer_id": "Pratik Babasaheb Thorat",
     "updated_date": "2020-05-01",
     "downloads": "100,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.proudcrowd.care",
@@ -609,7 +676,8 @@
     "developer_id": "ProudCrowd, LLC",
     "updated_date": "2020-06-26",
     "downloads": "50,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.proudcrowd.exposure",
@@ -618,7 +686,8 @@
     "developer_id": "ProudCrowd, LLC",
     "updated_date": "2020-09-17",
     "downloads": "5,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.ri.crushcovid",
@@ -627,7 +696,8 @@
     "developer_id": "State of Rhode Island",
     "updated_date": "2020-09-04",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.shield.CombatCovidPBC",
@@ -636,7 +706,8 @@
     "developer_id": "Palm Beach County BoCC",
     "updated_date": "2020-08-28",
     "downloads": "1,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.sococheck",
@@ -645,7 +716,8 @@
     "developer_id": "County of Sonoma",
     "updated_date": "2020-06-22",
     "downloads": "5,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.speetar.app",
@@ -654,7 +726,8 @@
     "developer_id": "Speetar",
     "updated_date": "2020-05-26",
     "downloads": "5,000+",
-    "country": "LY"
+    "country": "LY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.spotteron.coronareport",
@@ -663,7 +736,8 @@
     "developer_id": "6074809323558115618",
     "updated_date": "2020-06-11",
     "downloads": "5,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.symptomate.mobile",
@@ -672,7 +746,8 @@
     "developer_id": "Infermedica",
     "updated_date": "2019-02-01",
     "downloads": "100,000+",
-    "country": "PL"
+    "country": "PL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.telkom.tracencare",
@@ -681,7 +756,8 @@
     "developer_id": "Kementerian Kominfo",
     "updated_date": "2020-07-21",
     "downloads": "1,000,000+",
-    "country": "ID"
+    "country": "ID",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.thaialert.app",
@@ -690,7 +766,8 @@
     "developer_id": "Digital Government Development Agency, Thailand",
     "updated_date": "2020-06-06",
     "downloads": "100,000+",
-    "country": "TH"
+    "country": "TH",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.tsstate.citizen",
@@ -699,7 +776,8 @@
     "developer_id": "ET Wing, Govt of Telangana",
     "updated_date": "2020-04-14",
     "downloads": "50,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.virustracker.app",
@@ -708,7 +786,8 @@
     "developer_id": "Binary Mango",
     "updated_date": "2020-03-10",
     "downloads": "500+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "com.vnptit.innovation.ncovi",
@@ -717,7 +796,8 @@
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
     "updated_date": "2020-04-21",
     "downloads": "1,000,000+",
-    "country": "VN"
+    "country": "VN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "covid19care.virus.coronavirus.corona.sick.marcom.health.pakistan",
@@ -726,7 +806,8 @@
     "developer_id": "MarCom",
     "updated_date": "2020-04-17",
     "downloads": "10,000+",
-    "country": "PK"
+    "country": "PK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "cz.covid19cz.erouska",
@@ -735,7 +816,8 @@
     "developer_id": "6973241785916756870",
     "updated_date": "2020-09-23",
     "downloads": "100,000+",
-    "country": "CZ"
+    "country": "CZ",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "cz.nmbbrno.covid",
@@ -744,7 +826,8 @@
     "developer_id": "Nemocnice Milosrdnych bratri, p.o.",
     "updated_date": "2020-04-08",
     "downloads": "100,000+",
-    "country": "CZ"
+    "country": "CZ",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "de.rki.coronawarnapp",
@@ -753,7 +836,8 @@
     "developer_id": "Robert Koch-Institut",
     "updated_date": "2020-09-02",
     "downloads": "5,000,000+",
-    "country": "DE"
+    "country": "DE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ec.gob.asi.android",
@@ -762,7 +846,8 @@
     "developer_id": "Ministerio de Telecomunicaciones Ecuador",
     "updated_date": "2020-08-30",
     "downloads": "500,000+",
-    "country": "EC"
+    "country": "EC",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "edu.rise.ihnilatis",
@@ -771,7 +856,8 @@
     "developer_id": "RISE Research Centre of Excellence",
     "updated_date": "2020-06-11",
     "downloads": "1,000+",
-    "country": "CY"
+    "country": "CY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "es.gob.asistenciacovid19",
@@ -780,7 +866,8 @@
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
     "updated_date": "2020-09-17",
     "downloads": "100,000+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "es.gob.radarcovid",
@@ -789,7 +876,8 @@
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
     "updated_date": "2020-09-15",
     "downloads": "1,000,000+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "es.gva.coronavirus",
@@ -798,7 +886,8 @@
     "developer_id": "6787972071287437379",
     "updated_date": "2020-06-19",
     "downloads": "10,000+",
-    "country": "ES"
+    "country": "ES",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "et.gov.moh.oppia.covid",
@@ -807,7 +896,8 @@
     "developer_id": "Federal Ministry of Health",
     "updated_date": "2020-07-23",
     "downloads": "10,000+",
-    "country": "ET"
+    "country": "ET",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "fi.thl.koronahaavi",
@@ -816,7 +906,8 @@
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
     "updated_date": "2020-09-11",
     "downloads": "1,000,000+",
-    "country": "FI"
+    "country": "FI",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "fj.gov.carefiji",
@@ -825,7 +916,8 @@
     "developer_id": "Government of the Republic of Fiji",
     "updated_date": "2020-09-12",
     "downloads": "50,000+",
-    "country": "FJ"
+    "country": "FJ",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "fr.gouv.android.stopcovid",
@@ -834,7 +926,8 @@
     "developer_id": "Gouvernement",
     "updated_date": "2020-09-15",
     "downloads": "1,000,000+",
-    "country": "FR"
+    "country": "FR",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.adph.exposurenotifications",
@@ -843,7 +936,8 @@
     "developer_id": "Alabama Department of Public Health",
     "updated_date": "2020-09-11",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.azdhs.covidwatch.android",
@@ -852,7 +946,8 @@
     "developer_id": "ADHS-Arizona Department of Health Services",
     "updated_date": "2020-09-03",
     "downloads": "1,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.de.covidtracker",
@@ -861,7 +956,8 @@
     "developer_id": "Delaware Department of Health and Social Services",
     "updated_date": "2020-09-08",
     "downloads": "5,000+",
-    "country": "DE"
+    "country": "DE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.georgia.novid20",
@@ -870,7 +966,8 @@
     "developer_id": "Ministry of IDPs, Labour, Health, Social Affairs",
     "updated_date": "2020-04-17",
     "downloads": "100,000+",
-    "country": "GE"
+    "country": "GE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.nc.dhhs.exposurenotification",
@@ -879,7 +976,8 @@
     "developer_id": "NC DHHS Technology Center",
     "updated_date": "2020-09-16",
     "downloads": "10,000+",
-    "country": "NC"
+    "country": "NC",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.nv.dhhs.en",
@@ -888,7 +986,8 @@
     "developer_id": "Nevada Division of Public and Behavioral Health",
     "updated_date": "2020-09-17",
     "downloads": "5,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.pa.covidtracker",
@@ -897,7 +996,8 @@
     "developer_id": "Executive Office Commonwealth of Pennsylvania",
     "updated_date": "2020-09-11",
     "downloads": "10,000+",
-    "country": "PA"
+    "country": "PA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.scot.covidtracker",
@@ -906,7 +1006,8 @@
     "developer_id": "NHS Education for Scotland",
     "updated_date": "2020-09-21",
     "downloads": "100,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.va.mobilehealth.ncptsd.covid",
@@ -915,7 +1016,8 @@
     "developer_id": "US Department of Veterans Affairs (VA)",
     "updated_date": "2020-07-22",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "gov.vdh.exposurenotification",
@@ -924,7 +1026,8 @@
     "developer_id": "VDH",
     "updated_date": "2020-08-28",
     "downloads": "100,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "health.webtools.awhina.prod",
@@ -933,7 +1036,8 @@
     "developer_id": "Ministry of Health NZ",
     "updated_date": "2020-09-10",
     "downloads": "5,000+",
-    "country": "NZ"
+    "country": "NZ",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "hu.gov.virusradar",
@@ -942,7 +1046,8 @@
     "developer_id": "Korm\u00e1nyzati Informatikai Fejleszt\u00e9si \u00dcgyn\u00f6ks\u00e9g",
     "updated_date": "2020-05-15",
     "downloads": "50,000+",
-    "country": "HU"
+    "country": "HU",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "id.jofarsystemskodine.dev",
@@ -951,7 +1056,8 @@
     "developer_id": "Jofar Systems Ltd",
     "updated_date": "2020-04-04",
     "downloads": "100+",
-    "country": "CD"
+    "country": "CD",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "in.gov.punjab.cova",
@@ -960,7 +1066,8 @@
     "developer_id": "Government of Punjab",
     "updated_date": "2020-09-08",
     "downloads": "1,000,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "io.ageticmali.soscovid",
@@ -969,7 +1076,8 @@
     "developer_id": "AGETIC DEV",
     "updated_date": "2020-04-09",
     "downloads": "10,000+",
-    "country": "ML"
+    "country": "ML",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "is.landlaeknir.rakning",
@@ -978,7 +1086,8 @@
     "developer_id": "9072923057432209139",
     "updated_date": "2020-07-19",
     "downloads": "100,000+",
-    "country": "IS"
+    "country": "IS",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "it.adilife.covid19.app",
@@ -987,7 +1096,8 @@
     "developer_id": "ADiLife Srl",
     "updated_date": "2020-05-05",
     "downloads": "1,000+",
-    "country": "IT"
+    "country": "IT",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "it.ministerodellasalute.immuni",
@@ -996,7 +1106,8 @@
     "developer_id": "Ministero della Salute",
     "updated_date": "2020-09-21",
     "downloads": "1,000,000+",
-    "country": "IT"
+    "country": "IT",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "it.softmining.projects.covid19.savelifestyle",
@@ -1005,7 +1116,8 @@
     "developer_id": "Softmining Srl",
     "updated_date": "2020-07-17",
     "downloads": "50,000+",
-    "country": "IT"
+    "country": "IT",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "jo.gov.moh.aman",
@@ -1014,7 +1126,8 @@
     "developer_id": "Jordan eGov Program",
     "updated_date": "2020-05-24",
     "downloads": "1,000,000+",
-    "country": "JO"
+    "country": "JO",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "jp.go.mhlw.covid19radar",
@@ -1023,7 +1136,8 @@
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
     "updated_date": "2020-09-08",
     "downloads": "5,000,000+",
-    "country": "JP"
+    "country": "JP",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "kg.cdt.stopcovid19",
@@ -1032,7 +1146,8 @@
     "developer_id": "\u041c\u041f \"\u0426\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\" \u043c\u044d\u0440\u0438\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0438\u0448\u043a\u0435\u043a",
     "updated_date": "2020-08-12",
     "downloads": "10,000+",
-    "country": "KG"
+    "country": "KG",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "kr.go.safekorea.sqsm",
@@ -1041,7 +1156,8 @@
     "developer_id": "\ud589\uc815\uc548\uc804\ubd80",
     "updated_date": "2020-09-21",
     "downloads": "100,000+",
-    "country": "KR"
+    "country": "KR",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "lv.spkc.gov.apturicovid",
@@ -1050,7 +1166,8 @@
     "developer_id": "SPKC",
     "updated_date": "2020-08-13",
     "downloads": "100,000+",
-    "country": "LV"
+    "country": "LV",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ly.com.tmc.covid19_libya",
@@ -1059,7 +1176,8 @@
     "developer_id": "7571629351755240168",
     "updated_date": "2020-06-30",
     "downloads": "10,000+",
-    "country": "LY"
+    "country": "LY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mk.gov.koronavirus.stop",
@@ -1068,7 +1186,8 @@
     "developer_id": "Ministry of Information Society and Administration",
     "updated_date": "2020-05-07",
     "downloads": "50,000+",
-    "country": "MK"
+    "country": "MK",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mm.org.mcf.app001",
@@ -1077,7 +1196,8 @@
     "developer_id": "Myanmar Computer Federation (MCF)",
     "updated_date": "2020-09-15",
     "downloads": "100,000+",
-    "country": "MM"
+    "country": "MM",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mn.callpro.shuurkhai",
@@ -1086,7 +1206,8 @@
     "developer_id": "Communications and IT Authority",
     "updated_date": "2020-05-29",
     "downloads": "5,000+",
-    "country": "MN"
+    "country": "MN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mx.covidradar.radar",
@@ -1095,7 +1216,8 @@
     "developer_id": "Americas Alliance",
     "updated_date": "2020-08-07",
     "downloads": "10,000+",
-    "country": "MX"
+    "country": "MX",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mx.gob.tamaulipas.covid19",
@@ -1104,7 +1226,8 @@
     "developer_id": "Gobierno del Estado de Tamaulipas",
     "updated_date": "2020-07-09",
     "downloads": "100,000+",
-    "country": "MX"
+    "country": "MX",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "mx.gob.www",
@@ -1113,7 +1236,8 @@
     "developer_id": "Secretar\u00eda de Salud MX",
     "updated_date": "2020-05-26",
     "downloads": "500,000+",
-    "country": "MX"
+    "country": "MX",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "my.gov.onegovappstore.mysejahtera",
@@ -1122,7 +1246,8 @@
     "developer_id": "GOVERNMENT OF MALAYSIA",
     "updated_date": "2020-08-10",
     "downloads": "10,000,000+",
-    "country": "MY"
+    "country": "MY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "my.gov.onegovappstore.mytrace",
@@ -1131,7 +1256,8 @@
     "developer_id": "GOVERNMENT OF MALAYSIA",
     "updated_date": "2020-04-26",
     "downloads": "100,000+",
-    "country": "MY"
+    "country": "MY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "net.hscni.covidtracker",
@@ -1140,7 +1266,8 @@
     "developer_id": "Health & Social Care Northern Ireland",
     "updated_date": "2020-08-19",
     "downloads": "100,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "nic.goi.aarogyasetu",
@@ -1149,7 +1276,8 @@
     "developer_id": "9076108670215860604",
     "updated_date": "2020-07-08",
     "downloads": "100,000,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "nl.lumc.covidradar",
@@ -1158,7 +1286,8 @@
     "developer_id": "LUMC Leiden",
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
-    "country": "NL"
+    "country": "NL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "nl.rijksoverheid.en",
@@ -1167,7 +1296,8 @@
     "developer_id": "Rijksoverheid",
     "updated_date": "2020-09-11",
     "downloads": "500,000+",
-    "country": "NL"
+    "country": "NL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "no.simula.smittestopp",
@@ -1176,7 +1306,8 @@
     "developer_id": "Folkehelseinstituttet",
     "updated_date": "2020-06-08",
     "downloads": "100,000+",
-    "country": "NO"
+    "country": "NO",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "np.com.naxa.covid19",
@@ -1185,7 +1316,8 @@
     "developer_id": "Ministry of Health and Population",
     "updated_date": "2020-08-25",
     "downloads": "100,000+",
-    "country": "NP"
+    "country": "NP",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "nz.govt.health.covidtracer",
@@ -1194,7 +1326,8 @@
     "developer_id": "Ministry of Health NZ",
     "updated_date": "2020-09-21",
     "downloads": "1,000,000+",
-    "country": "NZ"
+    "country": "NZ",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.cvkey.cvkey",
@@ -1203,7 +1336,8 @@
     "developer_id": "CVKey Project",
     "updated_date": "2020-09-22",
     "downloads": "1,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
@@ -1212,7 +1346,8 @@
     "developer_id": "Medic Mobile, Inc.",
     "updated_date": "2020-04-28",
     "downloads": "1,000+",
-    "country": "KE"
+    "country": "KE",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.pathcheck.covidsafepaths",
@@ -1221,7 +1356,8 @@
     "developer_id": "Path Check, Inc",
     "updated_date": "2020-08-05",
     "downloads": "10,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.pathcheck.guam.bt",
@@ -1230,7 +1366,8 @@
     "developer_id": "Otech Developer",
     "updated_date": "2020-09-22",
     "downloads": "1,000+",
-    "country": "GU"
+    "country": "GU",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.prixa.p5covidtracker",
@@ -1239,7 +1376,8 @@
     "developer_id": "8818240120731662306",
     "updated_date": "2020-04-02",
     "downloads": "10,000+",
-    "country": "NP"
+    "country": "NP",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "org.theviralapp.app1",
@@ -1248,7 +1386,8 @@
     "developer_id": "Protego App Ltd",
     "updated_date": "2020-05-30",
     "downloads": "1,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ph.staysafe.mobileapp",
@@ -1257,7 +1396,8 @@
     "developer_id": "Multisys Technologies Corporation",
     "updated_date": "2020-09-14",
     "downloads": "100,000+",
-    "country": "PH"
+    "country": "PH",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "pl.gov.mc.protegosafe",
@@ -1266,7 +1406,8 @@
     "developer_id": "Ministerstwo Cyfryzacji",
     "updated_date": "2020-09-20",
     "downloads": "500,000+",
-    "country": "PL"
+    "country": "PL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "pl.nask.droid.kwarantannadomowa",
@@ -1275,7 +1416,8 @@
     "developer_id": "Ministerstwo Cyfryzacji",
     "updated_date": "2020-07-31",
     "downloads": "500,000+",
-    "country": "PL"
+    "country": "PL",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "sa.gov.nic.tabaud",
@@ -1284,7 +1426,8 @@
     "developer_id": "National Information Center",
     "updated_date": "2020-08-28",
     "downloads": "1,000,000+",
-    "country": "SA"
+    "country": "SA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "sa.gov.nic.tawakkalna",
@@ -1293,7 +1436,8 @@
     "developer_id": "National Information Center",
     "updated_date": "2020-09-22",
     "downloads": "1,000,000+",
-    "country": "SA"
+    "country": "SA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "sg.gov.tech.bluetrace",
@@ -1302,7 +1446,8 @@
     "developer_id": "Government Technology Agency",
     "updated_date": "2020-09-24",
     "downloads": "1,000,000+",
-    "country": "SG"
+    "country": "SG",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "tn.onmne.e7mi",
@@ -1311,7 +1456,8 @@
     "developer_id": "ONMNE Tunisie",
     "updated_date": "2020-05-22",
     "downloads": "50,000+",
-    "country": "TN"
+    "country": "TN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "tr.gov.saglik.hayatevesigar",
@@ -1320,7 +1466,8 @@
     "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
     "updated_date": "2020-09-18",
     "downloads": "10,000,000+",
-    "country": "TR"
+    "country": "TR",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "tracker.healthcare.sentinel",
@@ -1329,7 +1476,8 @@
     "developer_id": "Sentinel Healthcare",
     "updated_date": "2020-04-23",
     "downloads": "1,000+",
-    "country": "US"
+    "country": "US",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "ua.gov.diia.quarantine",
@@ -1338,7 +1486,8 @@
     "developer_id": "Ministry of Digital Transformation of Ukraine",
     "updated_date": "2020-09-05",
     "downloads": "100,000+",
-    "country": "UA"
+    "country": "UA",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "uk.ac.cam.cl.covid19sounds",
@@ -1347,7 +1496,8 @@
     "developer_id": "cam-cl-mobile-systems",
     "updated_date": "2020-06-18",
     "downloads": "10,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "uk.nhs.nhsx.colocate",
@@ -1356,7 +1506,8 @@
     "developer_id": "NHSX",
     "updated_date": "2020-06-26",
     "downloads": "50,000+",
-    "country": "GB"
+    "country": "GB",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "uy.gub.salud.plancovid19uy",
@@ -1365,7 +1516,8 @@
     "developer_id": "AGESIC",
     "updated_date": "2020-07-01",
     "downloads": "100,000+",
-    "country": "UY"
+    "country": "UY",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "vn.suckhoetoandan.v2",
@@ -1374,7 +1526,8 @@
     "developer_id": "Viettel Business Solutions Corporation",
     "updated_date": "2020-04-22",
     "downloads": "500,000+",
-    "country": "VN"
+    "country": "VN",
+    "dangerous_permissions_count": "0"
   },
   {
     "id": "www.facetagr.com.cobuddy",
@@ -1383,6 +1536,7 @@
     "developer_id": "FaceTagR",
     "updated_date": "2020-03-30",
     "downloads": "10,000+",
-    "country": "IN"
+    "country": "IN",
+    "dangerous_permissions_count": "0"
   }
 ]
