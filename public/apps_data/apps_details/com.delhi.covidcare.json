@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "Delhi Corona is the official mobile application of the Government of NCT of Delhi providing citizens with comprehensive resources to combat COVID using services of the line departments of GNCTD. Delhi Corona plans to provide a single avenue to cater to all the needs and issues of the Delhi populace during these tough times. It contains a self-assessment tool, guidelines and important helplines to ensure well being of the users. The app also allows the user to view all COVID centers and access lockdown services like ration, e-pass and hunger/shelter relief centres. It will be built as a stack and continue to be updated over time. This platform will ensure a seamless experience for the user while complying with citizen friendly privacy and security norms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.delhi.covidcare",
+  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Full network access",
@@ -19,6 +20,7 @@
   "developer_url": "https://nctdelhi.blob.core.windows.net/nctdelhi/privacy_policy.html",
   "available": true,
   "first_time_seen": "2020-06-16",
+  "privacy_policy": "https://nctdelhi.blob.core.windows.net/nctdelhi/privacy_policy.html",
   "permissions_new": {
     "Other": [
       {
