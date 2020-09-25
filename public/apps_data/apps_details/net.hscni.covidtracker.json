@@ -16,10 +16,41 @@
       "Control vibration",
       "Full network access",
       "Pair with bluetooth devices",
+      "Run at startup",
       "View network connections"
     ]
   },
   "developer_url": "https://covid-19.hscni.net/contact-tracing/",
   "available": true,
-  "first_time_seen": "2020-08-06"
+  "first_time_seen": "2020-08-06",
+  "permissions_new": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
