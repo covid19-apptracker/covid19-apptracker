@@ -8,6 +8,7 @@
   "country": "TH",
   "description": "Application MorChana is a tool to assist Medical Staffs, Government Agencies, Business Owners, and most importantly, YOU in taking care and protect oneself from the spread of COVID-19 Application MorChana will collect use and disseminate only necessary data to protect or suppress dangers to life, body, and health of you, the people around you and all citizen. The application will track infection, probability and risk of COVID-19 and observe the outbreak situation from data provided by you.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.thaialert.app",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
@@ -43,6 +44,7 @@
   "developer_url": "https://dga.or.th",
   "available": true,
   "first_time_seen": "2020-05-28",
+  "privacy_policy": "https://dga.or.th",
   "permissions_new": {
     "Device & app history": [
       {
