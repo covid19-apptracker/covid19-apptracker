@@ -21,5 +21,31 @@
   },
   "developer_url": "https://de.gov/covidalert",
   "available": true,
-  "first_time_seen": "2020-09-14"
+  "first_time_seen": "2020-09-14",
+  "permissions_new": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
