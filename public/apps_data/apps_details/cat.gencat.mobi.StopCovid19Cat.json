@@ -8,6 +8,7 @@
   "country": "ES",
   "description": "STOP COVID19 CAT is a /Salut mobile application with a double objective: 1. Respond to the information needs of citizens in relation to COVID-19, through a questionnaire that indicates whether they have the possibility of having COVID. 2. Collect population data to be able to create heat maps for the authorities.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -23,6 +24,7 @@
   "developer_url": "https://salutweb.gencat.cat",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://sem.gencat.cat/ca/061CatSalutRespon/apps-mobils/STOPCOVID19/condicions-seguretat",
   "permissions_new": {
     "Location": [
       {
