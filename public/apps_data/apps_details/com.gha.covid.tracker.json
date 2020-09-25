@@ -20,5 +20,27 @@
   },
   "developer_url": "https://www.gibraltar.gov.gi/beatcovidapp",
   "available": true,
-  "first_time_seen": "2020-08-06"
+  "first_time_seen": "2020-08-06",
+  "permissions_new": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
