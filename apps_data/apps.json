@@ -7,7 +7,7 @@
     "updated_date": "2020-09-10",
     "downloads": "100,000+",
     "country": "AE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 10
   },
   {
     "id": "ae.gov.dha.covid19.paramedic",
@@ -17,7 +17,7 @@
     "updated_date": "2020-05-10",
     "downloads": "5,000+",
     "country": "AE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "ae.tracecovid.app",
@@ -27,7 +27,7 @@
     "updated_date": "2020-04-13",
     "downloads": "100,000+",
     "country": "AE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "am.gov.covid19",
@@ -37,7 +37,7 @@
     "updated_date": "2020-04-08",
     "downloads": "50,000+",
     "country": "AM",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 3
   },
   {
     "id": "app.ceylon.selftrackingapp",
@@ -47,7 +47,7 @@
     "updated_date": "2020-05-24",
     "downloads": "10,000+",
     "country": "LK",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 2
   },
   {
     "id": "appinventor.ai_david_taylor.Coronavirus_help2020",
@@ -57,7 +57,7 @@
     "updated_date": "2020-04-23",
     "downloads": "5,000+",
     "country": "GB",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "ar.gob.coronavirus",
@@ -67,7 +67,7 @@
     "updated_date": "2020-08-10",
     "downloads": "5,000,000+",
     "country": "AR",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 3
   },
   {
     "id": "at.roteskreuz.stopcorona",
@@ -87,7 +87,7 @@
     "updated_date": "2020-09-10",
     "downloads": "1,000,000+",
     "country": "AU",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 2
   },
   {
     "id": "bg.government.virusafe",
@@ -97,7 +97,7 @@
     "updated_date": "2020-05-27",
     "downloads": "10,000+",
     "country": "BG",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 1
   },
   {
     "id": "bh.bahrain.corona.tracker",
@@ -107,7 +107,7 @@
     "updated_date": "2020-09-21",
     "downloads": "100,000+",
     "country": "BH",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 8
   },
   {
     "id": "br.gov.datasus.guardioes",
@@ -127,7 +127,7 @@
     "updated_date": "2020-06-17",
     "downloads": "50,000+",
     "country": "CA",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 1
   },
   {
     "id": "ca.bc.gov.health.hlbc.COVID19",
@@ -137,7 +137,7 @@
     "updated_date": "2020-09-23",
     "downloads": "50,000+",
     "country": "CA",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 5
   },
   {
     "id": "ca.gc.hcsc.canada.covid19",
@@ -147,7 +147,7 @@
     "updated_date": "2020-09-14",
     "downloads": "100,000+",
     "country": "CA",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 5
   },
   {
     "id": "ca.gc.hcsc.canada.stopcovid",
@@ -167,7 +167,7 @@
     "updated_date": "2020-06-18",
     "downloads": "500,000+",
     "country": "ES",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 2
   },
   {
     "id": "ch.admin.bag.dp3t",
@@ -187,7 +187,7 @@
     "updated_date": "2020-08-11",
     "downloads": "100,000+",
     "country": "CL",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "co.cellapp.bardghatcovid19",
@@ -197,7 +197,7 @@
     "updated_date": "2020-04-27",
     "downloads": "500+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 7
   },
   {
     "id": "co.cellapp.bharatpurcovid",
@@ -207,7 +207,7 @@
     "updated_date": "2020-09-10",
     "downloads": "5,000+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 7
   },
   {
     "id": "co.gov.cali.calivallecorona",
@@ -217,7 +217,7 @@
     "updated_date": "2020-09-02",
     "downloads": "10,000+",
     "country": "CO",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 10
   },
   {
     "id": "co.gov.ins.guardianes",
@@ -227,7 +227,7 @@
     "updated_date": "2020-09-23",
     "downloads": "10,000,000+",
     "country": "CO",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "co.twenty.stop.spread",
@@ -237,7 +237,7 @@
     "updated_date": "2020-09-18",
     "downloads": "10,000+",
     "country": "US",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 3
   },
   {
     "id": "co.uk.healthcreatives.uclhcovid19",
@@ -247,7 +247,7 @@
     "updated_date": "2020-04-30",
     "downloads": "100+",
     "country": "GB",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "com.CoronaMapSA",
@@ -267,7 +267,7 @@
     "updated_date": "2020-03-11",
     "downloads": "500,000+",
     "country": "VN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 10
   },
   {
     "id": "com.agetic.coronavirusapp",
@@ -277,7 +277,7 @@
     "updated_date": "2020-05-09",
     "downloads": "50,000+",
     "country": "BO",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "com.allsoft.corona",
@@ -287,7 +287,7 @@
     "updated_date": "2020-09-10",
     "downloads": "1,000,000+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 5
   },
   {
     "id": "com.app_release.covid19finalcourse",
@@ -297,7 +297,7 @@
     "updated_date": "2020-03-26",
     "downloads": "10,000+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "com.appandabout.defusing",
@@ -317,7 +317,7 @@
     "updated_date": "2020-05-22",
     "downloads": "100+",
     "country": "ES",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 14
   },
   {
     "id": "com.bs.ccc",
@@ -327,7 +327,7 @@
     "updated_date": "2020-08-10",
     "downloads": "100,000+",
     "country": "BD",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "com.bsmart.covid19",
@@ -337,7 +337,7 @@
     "updated_date": "2020-03-30",
     "downloads": "100+",
     "country": "SN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "com.coronacheck.haugxhaug.testyourcorona",
@@ -347,7 +347,7 @@
     "updated_date": "2020-08-07",
     "downloads": "50,000+",
     "country": "DE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 2
   },
   {
     "id": "com.covid19.dgmup",
@@ -357,7 +357,7 @@
     "updated_date": "2020-08-18",
     "downloads": "100,000+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 6
   },
   {
     "id": "com.covidtracker.hse",
@@ -397,7 +397,7 @@
     "updated_date": "2020-07-15",
     "downloads": "100,000+",
     "country": "QA",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 7
   },
   {
     "id": "com.edu.aku.akuhccheck",
@@ -417,7 +417,7 @@
     "updated_date": "2020-08-03",
     "downloads": "500,000+",
     "country": "IN",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 7
   },
   {
     "id": "com.expii.novid",
@@ -427,7 +427,7 @@
     "updated_date": "2020-08-17",
     "downloads": "10,000+",
     "country": "US",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 3
   },
   {
     "id": "com.family.tokhaiyte",

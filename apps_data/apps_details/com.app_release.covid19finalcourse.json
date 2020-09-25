@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "This application is developed to provide essential information about COVID 19 for Uttarakhand, India. This app is a Government of Uttarakhand's health department's application meant to help the people in this hour of corona pandemic.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.app_release.covid19finalcourse",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -32,6 +33,7 @@
   "developer_url": "https://www.userc.org/",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.userc.org/privacy-policy/",
   "permissions_new": {
     "Photos/Media/Files": [
       {

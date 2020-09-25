@@ -8,13 +8,14 @@
   "country": "AR",
   "description": "Aplicaci\u00f3n del Ministerio de Salud de la Rep\u00fablica Argentina destinada a la prevenci\u00f3n y al cuidado de la ciudadan\u00eda frente a la pandemia del Nuevo Coronavirus Covid-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ar.gob.coronavirus",
+  "dangerous_permissions_count": 3,
   "permissions": {
-    "Camera": [
-      "Take pictures and videos"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Other": [
       "Full network access",
@@ -26,13 +27,8 @@
   "developer_url": "https://www.argentina.gob.ar/",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.argentina.gob.ar/sites/default/files/terminos_y_condiciones_aplicacion_cuidar_-_covid_19_-_v5.pdf",
   "permissions_new": {
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -43,13 +39,15 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Other": [
       {
         "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
         "isDangerous": 0
       },
       {
@@ -58,6 +56,10 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

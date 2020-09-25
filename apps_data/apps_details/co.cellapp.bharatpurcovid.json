@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "This Application Contains: - Official Information and Communication Channels - Tracking and Emergency Response Systems - COVID-19 Quarantine Management and Reports",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bharatpurcovid",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -41,6 +42,7 @@
   "developer_url": "http://bharatpurmun.gov.np%20",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://smartpalika.org/apps/bharatpur/covid19/privacy-policy.html",
   "permissions_new": {
     "Photos/Media/Files": [
       {

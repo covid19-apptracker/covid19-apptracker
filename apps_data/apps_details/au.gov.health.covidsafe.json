@@ -8,6 +8,7 @@
   "country": "AU",
   "description": "COVIDSafe app has been developed by the Australian Government Department of Health to help keep the community safe from coronavirus (COVID-19). Together, let\u2019s help stop the spread and keep ourselves and each other healthy. COVIDSafe uses the Bluetooth\u00ae technology on your mobile phone to look for other devices with COVIDSafe installed. Your device will take a note of contact you\u2019ve had with other users by securely logging the other user\u2019s reference code. If you or someone you\u2019ve been in contact with is diagnosed with COVID-19, the close contact information securely stored in your phone can be uploaded and used\u2014with your consent\u2014by state and territory health officials to quickly inform people who\u2019ve been exposed to the virus. How you can help stop the spread of COVID-19: \u2022 Download the COVIDSafe app \u2022 Register using your mobile phone number, name, age range and postcode \u2022 Turn on Bluetooth\u00ae \u2022 Check that COVIDSafe is running when you are out and about or are likely to come into contact with others \u2022 If you test positive for COVID-19, you can consent for your close contact information to be used by state and territory health officials to contact people who may have been exposed. If you\u2019ve been exposed to the virus by someone you\u2019ve been in close contact with, state and territory health officials will be able to contact you quickly so you can get the support you need COVIDSafe is an Australian Government Department of Health initiative. Visit https://www.health.gov.au/resources/apps-and-tools/covidsafe-app for more information.",
   "app_store_url": "https://play.google.com/store/apps/details?id=au.gov.health.covidsafe",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -26,14 +27,15 @@
   "developer_url": "https://www.health.gov.au/resources/apps-and-tools/covidsafe-app#covidsafe-app-help",
   "available": true,
   "first_time_seen": "2020-06-04",
+  "privacy_policy": "https://covidsafe.gov.au/privacy-policy.html",
   "permissions_new": {
     "Location": [
       {
-        "permissionName": "Precise location (gps and network-based)",
+        "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
-        "permissionName": "Approximate location (network-based)",
+        "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
       }
     ],
@@ -43,15 +45,15 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
+        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
         "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -63,7 +65,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       }
     ]
