@@ -8,6 +8,7 @@
   "country": "CL",
   "description": "Aplicaci\u00f3n oficial del Gobierno de Chile para prevenir contagios de Coronavirus. La aplicaci\u00f3n te permite: (i) Realizar una autoevaluaci\u00f3n de tus s\u00edntomas para generar una clasificaci\u00f3n de riesgo. (ii) Recibir notificaciones del Ministerio de Salud. (iii) Entregar contenido informativo sobre la contingencia y la evoluci\u00f3n de la pandemia. (iv) Informar y/o denunciar conductas o eventos de alto riesgo. (v) Ayudar o pedir ayuda a tus vecinos.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cl.gob.digital.coronapp",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -31,24 +32,25 @@
   "developer_url": "https://coronapp.gob.cl",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://coronapp.gob.cl/politicas.html",
   "permissions_new": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -68,15 +70,15 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
