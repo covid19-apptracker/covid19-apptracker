@@ -8,6 +8,7 @@
   "country": "US",
   "description": "The Sentinel Monitor allows for individuals who are not feeling well (COVID-19, Flu, etc) to track their temperature and associated symptoms. Sentinel Monitor can be used by individuals or in conjunction with approved healthcare organizations. DISCLAIMER: ALL OF THE MATERIAL PROVIDED THROUGH SENTINEL'S SYMPTOM CHECKER PORTION OF THE PLATFORM, SUCH AS TEXT, GRAPHICS, PHOTOGRAPHS, IMAGES, MESSAGES, FORUM POSTINGS, AND ANY OTHER MATERIALS, ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE OR TREATMENT. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING YOUR HEALTH. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY IN SEEKING IT BECAUSE OF ANY INFORMATION PROVIDED THROUGH THE PLATFORM. ADDITIONALLY, COMPANY DOES NOT PROMISE ANY PARTICULAR RESULTS WITH REGARDS TO YOUR HEALTH IN CONNECTION WITH YOUR USE OF THE PLATFORM.  IF YOU THINK YOU HAVE A MEDICAL EMERGENCY, CALL YOUR DOCTOR OR YOUR LOCAL EMERGENCY PHONE NUMBER IMMEDIATELY.",
   "app_store_url": "https://play.google.com/store/apps/details?id=tracker.healthcare.sentinel",
+  "dangerous_permissions_count": 8,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -41,6 +42,7 @@
   "developer_url": "http://sentinel.healthcare",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://sentinel.healthcare/eula",
   "permissions_new": {
     "Photos/Media/Files": [
       {
@@ -96,7 +98,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Pair with bluetooth devices",
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
         "isDangerous": 0
       },
       {
@@ -104,11 +110,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       }
     ]

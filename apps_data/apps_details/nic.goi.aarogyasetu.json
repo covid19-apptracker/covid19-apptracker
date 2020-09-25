@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu",
+  "dangerous_permissions_count": 3,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -29,6 +30,7 @@
   "developer_url": "https://web.swaraksha.gov.in/ncv19/privacy/",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://web.swaraksha.gov.in/ncv19/privacy/",
   "permissions_new": {
     "Location": [
       {

@@ -8,6 +8,7 @@
   "country": "SG",
   "description": "TraceTogether supports Singapore\u2019s efforts to fight the spread of COVID-19 through community-driven contact tracing. TraceTogether notifies you quickly if you\u2019ve been exposed to COVID-19 through close contact with other TraceTogether users. The app allows the Ministry of Health (MOH) to give you timely care and guidance, protecting you and those around you. The app uses Bluetooth, and your Bluetooth data is stored securely on your phone. It\u2019ll only be shared with MOH if you test positive for COVID-19, for the sole purpose of contact tracing. Also, all Bluetooth data stored on your phone is automatically deleted after 25 days. TraceTogether helps us ensure that we don\u2019t spread the virus to our loved ones unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together. App functionality will cease once the outbreak ends. TraceTogether is designed for use by people in Singapore. To register, you will need a valid NRIC, FIN, or a valid document of your current stay in Singapore.",
   "app_store_url": "https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -38,6 +39,7 @@
   "developer_url": "https://tracetogether.gov.sg",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://www.tracetogether.gov.sg/common/privacystatement",
   "permissions_new": {
     "Photos/Media/Files": [
       {
@@ -81,10 +83,6 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Control vibration",
         "isDangerous": 0
       },
@@ -93,7 +91,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Pair with bluetooth devices",
+        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -101,11 +99,15 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       }
     ]

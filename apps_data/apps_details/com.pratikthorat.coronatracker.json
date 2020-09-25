@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "While the coronavirus pandemic and climate change are inherently different issues, they share two important characteristics: both are global crises that threaten the lives of millions of people. As of Today the number of coronavirus infections approaches 100,000 people worldwide & increasing in India very rapidly. In continuation to initiative taken by the Maharashtra government to reduce exposure of COVID-19, Suspected should undergo home quarantine for few weeks. These home quarantined people are supposed to stay home / hospital. Unfortunately many of them are not following these guidelines. To stop people doing this, we have developed technological solution (Android application & website) to monitor home quarantined people with GPS system from corporation office itself. Alongside to tracking, we can generate different reports which you need to share with health officials every day.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.pratikthorat.coronatracker",
+  "dangerous_permissions_count": 3,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -27,6 +28,7 @@
   "developer_url": "http://fightcovid.live/",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://fightcovid.live/corvis/android/policy/fightcovid_privacy_policy.html",
   "permissions_new": {
     "Location": [
       {

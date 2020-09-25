@@ -8,6 +8,7 @@
   "country": "NP",
   "description": "Hamro Swasthya is a mobile application developed by Ministry of Health and Population, Government of Nepal to provide reliable information on important health to Nepali citizens. At this time of COVID-19 global pandemic, this app is dedicated towards COVID-19 control and awareness, but the overall target of the application is to cover all health related issues in coming days.",
   "app_store_url": "https://play.google.com/store/apps/details?id=np.com.naxa.covid19",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -38,6 +39,7 @@
   "developer_url": "http://www.mohp.gov.np",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://mohp.gov.np/privacy/privacy.html",
   "permissions_new": {
     "Photos/Media/Files": [
       {

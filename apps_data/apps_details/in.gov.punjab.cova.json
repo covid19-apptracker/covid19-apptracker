@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "COVA Punjab (Corona Virus Alert) App has been developed by Government of Punjab to provide citizens with preventive care information and other government advisories. The app has following main sections for citizens: 1.\tReal time dashboard for Punjab, India and global stats 2.\tTo check for symptoms of Corona and have a quick self-screening 3.\tCorona Awareness 4.\tTraveling instructions 5.\tPrevention Products 6.\tCorona Hospitals, Punjab 7.\tFAQ 8.\tCall Support You will receive updates from government, advisories and instructions from time to time via PUSH notification on the App. This App will provide quick information and help to you. You should definitely visit nearest hospital / doctor in-case you develop novel corona virus symptoms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=in.gov.punjab.cova",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -37,6 +38,7 @@
   "developer_url": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html",
   "permissions_new": {
     "Photos/Media/Files": [
       {

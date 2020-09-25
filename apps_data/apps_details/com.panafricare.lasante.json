@@ -8,6 +8,7 @@
   "country": "SC",
   "description": "*Important: This app only works in Seychelles* A free app to help you understand what to do next about Coronavirus (COVID-19) in the Seychelles. \u2705Unlimited virtual COVID-19 screening \u2705Personalised guidance on what to do next \u2705Direct call access to 141 national helpline \u2705Access to live Seychelles case statistics \u2705Push notifications for new cases",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.panafricare.lasante",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -25,6 +26,7 @@
   "developer_url": "https://lasante.app",
   "available": true,
   "first_time_seen": "2020-06-05",
+  "privacy_policy": "https://lasante.app/privacy.html",
   "permissions_new": {
     "Location": [
       {

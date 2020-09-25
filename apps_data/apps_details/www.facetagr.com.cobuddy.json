@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "CoBuddy - Covid 19 Coronavirus Help Tool - To help stop the spread of Covid 19, get info & help from Government. The App makes sure that the people quarantined are within their location, communicate directly with them, provide information and receive alerts if the quarantined are in need of any help. Some of the features include: Location tracking and user verification with heat-maps Communication management Notifications and alerts Health tracking and feedback Essential Operations Management",
   "app_store_url": "https://play.google.com/store/apps/details?id=www.facetagr.com.cobuddy",
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -45,6 +46,7 @@
   "developer_url": "https://www.facetagr.com",
   "available": true,
   "first_time_seen": "2020-05-12",
+  "privacy_policy": "https://www.facetagr.com",
   "permissions_new": {
     "Photos/Media/Files": [
       {
