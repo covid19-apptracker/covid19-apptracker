@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "Covid Locator App helps Government of Goa track home quarantined citizens within the State of Goa. The app also helps the general public with preventive guidelines and information about hospitals within the State of Goa that are authorised to treat COVID-19. Covid Locator App has been developed by the Government of Goa to provide the general public with preventive guidelines and helpline information. The app also provides a heat map of home quarantined citizens within the State of Goa. The app has the following main sections for citizens: 1. India Tracker - A real-time dashboard for statistical data nationwide 2. Tracking feature to enable tracking of home quarantined citizens within the State of Goa. 3. Heat Map of home quarantined citizens within the State of Goa 4. Information of hospitals enabled to treat COVID-19 5. Government-issued information for preventive care and advisories 6. Helpline numbers for emergency 7. FAQ The App will help you with essential information. Stay Home. Stay Safe.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.intutrack.covidtrack",
+  "dangerous_permissions_count": 3,
   "permissions": {
     "Phone": [
       "Read phone status and identity"
@@ -28,6 +29,7 @@
   "developer_url": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
   "permissions_new": {
     "Phone": [
       {
