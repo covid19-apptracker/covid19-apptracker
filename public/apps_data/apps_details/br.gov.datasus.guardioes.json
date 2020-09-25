@@ -8,6 +8,7 @@
   "country": "BR",
   "description": "O Minist\u00e9rio da Sa\u00fade do Brasil lan\u00e7a o app Coronav\u00edrus-SUS com o objetivo de conscientizar a popula\u00e7\u00e3o sobre o Corona V\u00edrus COVID-19, para isso o aplicativo conta com as seguintes funcionalidades: - Informativos de diversos t\u00f3picos como os sintomas, como se prevenir, o que fazer em caso de suspeita e infec\u00e7\u00e3o e etc; - Mapa indicando unidades de sa\u00fade pr\u00f3ximas; - Em caso de suspeita de infec\u00e7\u00e3o, o cidad\u00e3o pode conferir se os sintomas s\u00e3o compat\u00edveis com o do Corona, e caso seja ser\u00e1 instru\u00eddo e encaminhado para a unidade de sa\u00fade b\u00e1sica mais pr\u00f3xima; - \u00c1rea de not\u00edcias oficial do Minist\u00e9rio da Sa\u00fade do Brasil com foco no Coronav\u00edrus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes",
+  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Control vibration",
@@ -22,6 +23,7 @@
   "developer_url": "https://coronavirus.saude.gov.br/",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://validacovid.saude.gov.br/politica-privacidade",
   "permissions_new": {
     "Other": [
       {
