@@ -16,5 +16,17 @@
   },
   "developer_url": "https://coronamap.sa",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
