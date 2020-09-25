@@ -19,5 +19,29 @@
   },
   "developer_url": "http://covidwise.org",
   "available": true,
-  "first_time_seen": "2020-08-05"
+  "first_time_seen": "2020-08-05",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
