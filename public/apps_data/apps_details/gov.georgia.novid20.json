@@ -8,6 +8,7 @@
   "country": "GE",
   "description": "The great danger with COVID-19 is the long incubation period and the fact that many infected people do not experience any symptoms.   Our goal is to inform people who have had contact with another infected person at an early stage and thus prevent them from unknowingly spreading the virus further. The Stop Covid app anonymously determines social interactions with other app users. Encounters that have a certain intensity in terms of time and proximity are stored locally by both apps in an encrypted form. If someone tests positive for COVID-19, people who may have had contact with the infected person within the last few days will receive a warning with instructions to contact the local governmental authority.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.georgia.novid20",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -32,14 +33,15 @@
   "developer_url": "http://www.stopcov.ge",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://api.novid20.app/api/v1/mobile/privacy",
   "permissions_new": {
     "Location": [
       {
-        "permissionName": "Precise location (gps and network-based)",
+        "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
-        "permissionName": "Approximate location (network-based)",
+        "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
       }
     ],
@@ -55,15 +57,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Control near field communication",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -75,11 +69,19 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Access bluetooth settings",
+        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control near field communication",
         "isDangerous": 0
       },
       {
@@ -87,7 +89,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       }
     ]
