@@ -8,6 +8,7 @@
   "country": "IN",
   "description": "\u201cCOVID 19 Andhra Pradesh\u201d is a mobile application developed by the Department of Health, Medical & Family Welfare Department, Government of Andhra Pradesh. This will enable citizens to connect with all essential health services in the fight against COVID 19. The application is aimed at removing physical barriers resulting in the speed of access and delivery of services to the citizens of Andhra Pradesh. The application also aims to reach out to the citizens with information regarding the status of their District/Mandal/Village, do\u2019s and don\u2019ts, announcements, and media bulletins. Download this app now to have all information on your fingertips",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.entrolabs.apcovid19",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -35,6 +36,7 @@
   "developer_url": "https://www.ap.gov.in/?page_id=20396",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.ap.gov.in/?page_id=20396",
   "permissions_new": {
     "Photos/Media/Files": [
       {
