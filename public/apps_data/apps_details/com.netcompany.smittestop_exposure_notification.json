@@ -19,5 +19,29 @@
   },
   "developer_url": "https://www.smittestop.dk",
   "available": true,
-  "first_time_seen": "2020-09-16"
+  "first_time_seen": "2020-09-16",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
