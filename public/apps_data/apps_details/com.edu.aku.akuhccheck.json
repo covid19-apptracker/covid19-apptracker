@@ -15,5 +15,13 @@
   },
   "developer_url": "https://hospitals.aku.edu/pakistan/Pages/MobileAppPrivacyPolicy.aspx",
   "available": true,
-  "first_time_seen": "2020-05-30"
+  "first_time_seen": "2020-05-30",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
