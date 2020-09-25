@@ -8,6 +8,7 @@
   "country": "QA",
   "description": "EHTERAZ is your trusted smart application to follow up on the latest updates of COVID-19 Coronavirus in Qatar. EHTERAZ has been designed and developed in the Ministry of Interior to support all categories of the Qatari community to spread the health awareness tips and techniques as well as the protection methods that are necessary to halt the outbreak of Coronavirus. This smart tool is also meant to give a hand to those people that are responsible for their families in their endeavors to protect their love ones, and to support healthcare and related entities in order to protect the safety of individuals and that of the Qatari community from this pandemic virus at large.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.moi.covid19",
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -43,6 +44,7 @@
   "developer_url": "https://moi.gov.qa",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://ehtraz.com",
   "permissions_new": {
     "Photos/Media/Files": [
       {
