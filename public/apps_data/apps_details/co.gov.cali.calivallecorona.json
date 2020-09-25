@@ -8,6 +8,7 @@
   "country": "CO",
   "description": "Valle Corona es la Aplicaci\u00f3n M\u00f3vil de la Gobernaci\u00f3n del Valle del Cauca para autoevaluaci\u00f3n del Covid-19. Mas informaci\u00f3n en www.vallecorona.com. Valle Corona #QuedateEnCasa con #ValleCorona",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.gov.cali.calivallecorona",
+  "dangerous_permissions_count": 10,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -50,6 +51,7 @@
   "developer_url": "http://www.vallecorona.com",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.valledelcauca.gov.co/documentos/11038/politica-de-privacidad/",
   "permissions_new": {
     "Photos/Media/Files": [
       {
