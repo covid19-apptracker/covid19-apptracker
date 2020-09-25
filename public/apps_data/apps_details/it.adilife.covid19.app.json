@@ -8,6 +8,7 @@
   "country": "IT",
   "description": "ADiLife C-19 is the new platform suitable for the remote assistance of patients infected by COVID-19. Born as a health care toolkit, includes all the functions and services suitable for providing assistance to any age and for any need. Access to the service is possible after receiving the Login account from  your reference healthcare facility, to start the forced isolation surveillance period  following the doctors recommendations. ADiLife C-19 is part of the ADiLife Connected Health platform and allows self assessments of his daily physiological status and to monitor his vital parameter such as temperature, heart rate, oxygen and blood pressure making use of Bluetooth Certified medical devices. ADiLife C-19 App is connected to a medical operation center with a threshold monitoring tools which may origin notifications, alerts on threshold values are exceeded. All gathered data and trends are available in the PHR accessable from App or Web Portal. The App allows to request a medical consultation in video communication thanks to the Web RTC facility included in the Mobile App. For more information visit https://www.adilife.net/en/covid-19 . ADiLife is your  health in your pocket.",
   "app_store_url": "https://play.google.com/store/apps/details?id=it.adilife.covid19.app",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
       "Approximate location (network-based)",
@@ -24,6 +25,7 @@
   "developer_url": "https://www.adilife.net",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.adilife.net/en/policy-gdpr-app",
   "permissions_new": {
     "Location": [
       {
