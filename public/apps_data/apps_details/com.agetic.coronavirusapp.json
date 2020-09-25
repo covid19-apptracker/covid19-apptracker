@@ -8,6 +8,7 @@
   "country": "BO",
   "description": "Toda la informaci\u00f3n oficial acerca del Coronavirus(COVID-19) en Bolivia: - Prevenciones y cuidados - S\u00edntomas - Preguntas frecuentes - N\u00fameros de Emergencia - Datos Oficiales - Comunicados Oficiales - \u00daltimas Noticias #Qu\u00e9dateEnCasa",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.agetic.coronavirusapp",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -33,6 +34,7 @@
   "developer_url": "https://boliviasegura.gob.bo",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://autoevaluacioncovid19.agetic.gob.bo/terminos-condiciones",
   "permissions_new": {
     "Photos/Media/Files": [
       {
