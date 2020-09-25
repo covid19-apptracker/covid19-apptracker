@@ -8,6 +8,7 @@
   "country": "DM",
   "description": "COVID-RD permite visualizar los datos de los casos validados de COVID-19 en el pa\u00eds y reportar los s\u00edntomas si eres un posible infectado del virus al Ministerio de Salud P\u00fablica (MSP). En esta entrega de COVID-RD tendr\u00e1s acceso a: - Registrar tus s\u00edntomas en una encuesta elaborada por la Direcci\u00f3n General de Epidemiolog\u00eda (DIGEPI) con la intenci\u00f3n de descartar o validar si es necesario ir a realizarse la prueba del COVID-19 a una entidad de salud - Validar si has estado en contacto con otros usuarios que resulten positivos de COVID-19 - Mapa con el listado de hospitales y laboratorios m\u00e1s cercano a tu residencia - Acceder al chatbot de Aurora - Consultar los boletines del MSP, informaciones relevantes de Presidencia y consejos relacionados a la pandemia",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.optic.covdr",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
@@ -48,6 +49,7 @@
   "developer_url": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing",
   "available": true,
   "first_time_seen": "2020-06-15",
+  "privacy_policy": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing",
   "permissions_new": {
     "Device & app history": [
       {
