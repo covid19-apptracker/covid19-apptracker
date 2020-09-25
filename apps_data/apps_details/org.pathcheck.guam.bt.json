@@ -3,7 +3,7 @@
   "title": "Guam Covid Alert",
   "icon_url": "https://lh3.googleusercontent.com/1vdQ3DhLgTCDxaBBShJBfsV6z-sqXuXafzDyRXeqd9p8PzqLB1h25c-LFulcGJVm7ao",
   "developer_id": "Otech Developer",
-  "updated_date": "2020-09-08",
+  "updated_date": "2020-09-22",
   "downloads": "1,000+",
   "country": "GU",
   "description": "Guam Covid Alert, an app by the Guam Department of Public Health and Social Services helps aid contact tracing for COVID-19 by using the privacy centric Exposure Notification System. Subscribe to Healthcare Authorities in your area for information about COVID-19 near you, where available. Receive alerts from the local Healthcare Authority with information about potential exposure to COVID-19. The goal of Guam Covid Alert by the Guam Department of Public Health and Social Services is to help enable the reemergence and re-opening of economies and communities. Through global partnerships, we are prepared to support public health officials everywhere in the effort to slow the spread of COVID-19. The Guam Covid Alert app was built using an open source project developed by PathCheck Foundation.",
@@ -23,5 +23,39 @@
   },
   "developer_url": "https://guamcovidalert.guam.gov/",
   "available": true,
-  "first_time_seen": "2020-09-10"
+  "first_time_seen": "2020-09-10",
+  "permissions_new": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

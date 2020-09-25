@@ -15,5 +15,13 @@
   },
   "developer_url": "http://infocoronavirus.gva.es/",
   "available": true,
-  "first_time_seen": "2020-05-27"
+  "first_time_seen": "2020-05-27",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

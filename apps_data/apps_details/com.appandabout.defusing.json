@@ -15,5 +15,13 @@
   },
   "developer_url": "https://secondvictimscovid19.umh.es",
   "available": true,
-  "first_time_seen": "2020-05-11"
+  "first_time_seen": "2020-05-11",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

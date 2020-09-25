@@ -9,12 +9,12 @@
   "description": "The great danger with COVID-19 is the long incubation period and the fact that many infected people do not experience any symptoms.   Our goal is to inform people who have had contact with another infected person at an early stage and thus prevent them from unknowingly spreading the virus further. The Stop Covid app anonymously determines social interactions with other app users. Encounters that have a certain intensity in terms of time and proximity are stored locally by both apps in an encrypted form. If someone tests positive for COVID-19, people who may have had contact with the infected person within the last few days will receive a warning with instructions to contact the local governmental authority.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.georgia.novid20",
   "permissions": {
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
     "Location": [
       "Approximate location (network-based)",
       "Precise location (gps and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "View wi-fi connections"
     ],
     "Other": [
       "Access bluetooth settings",
@@ -31,5 +31,65 @@
   },
   "developer_url": "http://www.stopcov.ge",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "permissions_new": {
+    "Location": [
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control near field communication",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Connect and disconnect from wi-fi",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

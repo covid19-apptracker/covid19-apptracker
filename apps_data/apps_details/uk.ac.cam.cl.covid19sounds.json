@@ -35,5 +35,63 @@
   },
   "developer_url": "http://covid-19-sounds.org",
   "available": true,
-  "first_time_seen": "2020-05-13"
+  "first_time_seen": "2020-05-13",
+  "permissions_new": {
+    "Microphone": [
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
+    ],
+    "Identity": [
+      {
+        "permissionName": "Find accounts on the device",
+        "isDangerous": 1
+      }
+    ],
+    "Contacts": [
+      {
+        "permissionName": "Find accounts on the device",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Read sync statistics",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Create accounts and set passwords",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read sync settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Toggle sync on and off",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
