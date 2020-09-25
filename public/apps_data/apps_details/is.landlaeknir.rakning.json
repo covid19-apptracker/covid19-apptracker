@@ -8,6 +8,7 @@
   "country": "IS",
   "description": "Official app from the Icelandic Government to help mitigate the Covid-19 pandemic in Iceland The app collects the GPS location of the phone and stores locally on the device. If the phone owner is diagnosed with the Covid-19 disease he is asked by the Directorate of Health to share the location data for contact tracing in order to identify individuals that might need to go into quarantine.",
   "app_store_url": "https://play.google.com/store/apps/details?id=is.landlaeknir.rakning",
+  "dangerous_permissions_count": 8,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -17,10 +18,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Location": [
@@ -44,6 +45,7 @@
   "developer_url": "http://covid.is",
   "available": true,
   "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.covid.is/app/privacystatement",
   "permissions_new": {
     "Photos/Media/Files": [
       {
@@ -65,13 +67,13 @@
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -79,16 +81,16 @@
     ],
     "Location": [
       {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
       },
       {
         "permissionName": "Access extra location provider commands",
         "isDangerous": 0
-      },
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
       }
     ],
     "Other": [
@@ -97,7 +99,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Read sync settings",
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       },
       {
@@ -109,7 +115,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "Read sync settings",
         "isDangerous": 0
       },
       {
@@ -117,19 +123,15 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Toggle sync on and off",
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
