@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://lh3.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2020-09-10",
+    "updated_date": "2020-09-25",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -834,7 +834,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://lh3.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2020-09-02",
+    "updated_date": "2020-09-24",
     "downloads": "5,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -973,7 +973,7 @@
     "id": "gov.nc.dhhs.exposurenotification",
     "title": "SlowCOVIDNC",
     "icon_url": "https://lh3.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
-    "developer_id": "NC DHHS Technology Center",
+    "developer_id": "NC Department of Health and Human Services",
     "updated_date": "2020-09-16",
     "downloads": "10,000+",
     "country": "NC",
