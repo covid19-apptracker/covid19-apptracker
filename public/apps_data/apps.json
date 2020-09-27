@@ -65,7 +65,7 @@
     "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
     "developer_id": "8169270262982486256",
     "updated_date": "2020-08-10",
-    "downloads": "5,000,000+",
+    "downloads": "10,000,000+",
     "country": "AR",
     "dangerous_permissions_count": 3
   },
@@ -533,7 +533,7 @@
     "id": "com.knasirayaz.mohapcovid",
     "title": "COVID19 UAE",
     "icon_url": "https://lh3.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
-    "developer_id": "MOHAP-UAE",
+    "developer_id": "Ministry of Health and Prevention - UAE",
     "updated_date": "2020-08-26",
     "downloads": "50,000+",
     "country": "AE",
@@ -995,7 +995,7 @@
     "icon_url": "https://lh3.googleusercontent.com/KKyoldyweWvgVeZCOa33d2J7ef5D0bS07cYvSng_EB_sXYdYD1OWwL8B6CmATix7KP4",
     "developer_id": "Executive Office Commonwealth of Pennsylvania",
     "updated_date": "2020-09-11",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "PA",
     "dangerous_permissions_count": 0
   },
@@ -1434,10 +1434,10 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
     "developer_id": "National Information Center",
-    "updated_date": "2020-09-22",
+    "updated_date": "2020-09-25",
     "downloads": "1,000,000+",
     "country": "SA",
-    "dangerous_permissions_count": 6
+    "dangerous_permissions_count": 7
   },
   {
     "id": "sg.gov.tech.bluetrace",
