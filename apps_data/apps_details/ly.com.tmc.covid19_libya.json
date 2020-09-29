@@ -18,25 +18,5 @@
   },
   "developer_url": "http://tmc.com.ly",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

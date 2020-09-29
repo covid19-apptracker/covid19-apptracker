@@ -8,7 +8,6 @@
   "country": "IN",
   "description": "This is an official app of West Bengal Government to monitor and control corona virus in the state of West Bengal To control home isolation people and quarantine",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.pixxonai.covid19wb",
-  "dangerous_permissions_count": 3,
   "permissions": {
     "Phone": [
       "Directly call phone numbers"
@@ -26,42 +25,5 @@
   },
   "developer_url": "https://wb.gov.in/",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://wb.gov.in/",
-  "permissions_new": {
-    "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

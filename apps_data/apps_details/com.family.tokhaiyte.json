@@ -15,13 +15,5 @@
   },
   "developer_url": "http://member.familyhospital.vn",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

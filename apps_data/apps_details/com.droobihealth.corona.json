@@ -8,7 +8,6 @@
   "country": "QA",
   "description": "Featured as \u201cTech Startup of the Year\u201d by Qatar IT Business Awards 2018, Droobi is a digital company aiming to develop science-based programs to help people become healthier and prevent diseases. \"COVI\" is a free mobile application developed to raise awareness among the population in Qatar and to keep our community informed, healthy, safe and to decrease the spread of the corona virus. How does it work? Our approach combines awareness, assessment and education tools to help you prevent catching and spreading corona virus 2019, while you remain informed of all accurate updates on the corona breakout in Qatar. Our application includes: Simplified education materials regarding definition, risk factors, prevention, symptoms and much more Frequently asked questions regarding corona virus 2019 and its action Accurate updates from reliable sources, as in the Ministry of Public health in Qatar and World Health organization. Daily reminders of useful tips for awareness and prevention of Coronavirus spread About Droobi Health Pioneering digital care for the Arab world, Droobi health is one of the leading disease management platforms that is tailored for the Arabic-speaking region. We create digital programs to help people manage their health to ultimately inspire and enable them to live healthier lives.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.droobihealth.corona",
-  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -37,68 +36,5 @@
   },
   "developer_url": "https://www.droobihealth.com/",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.droobihealth.com/user-app/privacy",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

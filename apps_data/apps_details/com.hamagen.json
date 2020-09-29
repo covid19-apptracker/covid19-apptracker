@@ -3,15 +3,20 @@
   "title": "\u05d4\u05de\u05d2\u05df 2 - \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05de\u05dc\u05d7\u05de\u05d4 \u05d1\u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4",
   "icon_url": "https://lh3.googleusercontent.com/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ",
   "developer_id": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea Gov",
-  "updated_date": "2020-08-27",
+  "updated_date": "2020-07-23",
   "downloads": "1,000,000+",
   "country": "IL",
   "description": "\u05db\u05d3\u05d9 \u05e9\u05e0\u05d5\u05db\u05dc \u05dc\u05d4\u05d2\u05df \u05e2\u05dc \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea\u05dd \u05e9\u05dc \u05d4\u05d0\u05e0\u05e9\u05d9\u05dd \u05d1\u05e7\u05d1\u05d5\u05e6\u05d5\u05ea \u05d4\u05e1\u05d9\u05db\u05d5\u05df, \u05e9\u05dc \u05d1\u05e0\u05d9 \u05de\u05e9\u05e4\u05d7\u05ea\u05e0\u05d5 \u05d5\u05e9\u05dc \u05db\u05dc \u05d0\u05d7\u05d3 \u05de\u05d0\u05d9\u05ea\u05e0\u05d5 - \u05e2\u05dc \u05db\u05d5\u05dc\u05e0\u05d5 \u05dc\u05e7\u05d7\u05ea \u05d7\u05dc\u05e7 \u05d1\u05de\u05d0\u05de\u05e5 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05e0\u05d2\u05d3 \u05e0\u05d2\u05d9\u05e3 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4. \u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d9\u05ea \u05d4- \u05de\u05d2\u05df \u05e9\u05dc \u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05de\u05e6\u05dc\u05d9\u05d1\u05d4 \u05d0\u05ea \u05de\u05d9\u05e7\u05d5\u05de\u05da \u05e2\u05dd \u05de\u05e4\u05d5\u05ea \u05d4\u05de\u05e1\u05dc\u05d5\u05dc\u05d9\u05dd \u05e9\u05dc \u05d7\u05d5\u05dc\u05d9 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4 \u05d4\u05de\u05d0\u05d5\u05de\u05ea\u05d9\u05dd \u05d5\u05de\u05e2\u05d3\u05db\u05e0\u05ea \u05d0\u05d5\u05ea\u05da \u05d1\u05de\u05e7\u05e8\u05d4 \u05e9\u05dc \u05d7\u05e4\u05d9\u05e4\u05d4. \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05e9\u05dc \u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05e4\u05d5\u05e2\u05dc\u05ea \u05d1\u05e8\u05e7\u05e2 \u05d5\u05d4\u05de\u05d9\u05d3\u05e2 \u05e9\u05dc\u05da \u05e0\u05e9\u05d0\u05e8 \u05e2\u05dc \u05d4\u05de\u05db\u05e9\u05d9\u05e8 \u05e9\u05dc\u05da \u05d1\u05dc\u05d1\u05d3.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.hamagen",
-  "dangerous_permissions_count": 2,
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
+    ],
+    "Photos/Media/Files": [
+      "Read the contents of your usb storage"
+    ],
+    "Storage": [
+      "Read the contents of your usb storage"
     ],
     "Location": [
       "Access extra location provider commands",
@@ -23,9 +28,12 @@
     ],
     "Other": [
       "Access bluetooth settings",
+      "Change network connectivity",
+      "Connect and disconnect from wi-fi",
       "Control vibration",
       "Draw over other apps",
       "Full network access",
+      "Google play license check",
       "Pair with bluetooth devices",
       "Prevent device from sleeping",
       "Receive data from internet",
@@ -36,76 +44,5 @@
   },
   "developer_url": "https://govextra.gov.il/ministry-of-health/hamagen-app/Privacy-policy-EN",
   "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://govextra.gov.il/ministry-of-health/hamagen-app/Privacy-policy-EN",
-  "permissions_new": {
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Draw over other apps",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Set an alarm",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-17"
 }

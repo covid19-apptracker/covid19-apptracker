@@ -3,12 +3,11 @@
   "title": "Hayat Eve S\u0131\u011far",
   "icon_url": "https://lh3.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
   "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
-  "updated_date": "2020-09-18",
+  "updated_date": "2020-08-20",
   "downloads": "10,000,000+",
   "country": "TR",
   "description": "Hayat Eve S\u0131\u011far Mobil Uygulamas\u0131, T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131 taraf\u0131ndan vatanda\u015flar\u0131m\u0131z\u0131 Yeni Koronavir\u00fcs\u00fc (Covid-19) konusunda bilgilendirmek, y\u00f6nlendirmek ve ya\u015fanabilecek salg\u0131n hastal\u0131k ile ilgili riskleri en az seviyeye indirmek ve yay\u0131lmas\u0131n\u0131 \u00f6nlemek amac\u0131yla geli\u015ftirilen mobil uygulamad\u0131r. T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131 taraf\u0131ndan vatanda\u015flara sunulan Hayat Eve S\u0131\u011far uygulamas\u0131 ile telefon numaran\u0131z ile do\u011frulama yaparak ad\u0131m ad\u0131m size sorulan sorular\u0131 cevaplay\u0131p, koronavir\u00fcs hastal\u0131\u011f\u0131 anlam\u0131nda vermi\u015f oldu\u011funuz \u015fikayetlerinize g\u00f6re de\u011ferlendirilerek nas\u0131l davranman\u0131z gerekti\u011fine g\u00f6re y\u00f6nlendirme alabilirsiniz. Vermi\u015f oldu\u011funuz cevaplara g\u00f6re y\u00f6nlendirmeler sadece \u00f6neri niteli\u011fi ta\u015f\u0131maktad\u0131r ve nihai bir sonu\u00e7/kesinlik i\u00e7ermemektedir, tavsiye niteli\u011findedir. Ayn\u0131 zamanda harita \u00fczerinde hastane, eczane, market zincirleri, metro ve duraklar gibi temel ihtiya\u00e7 noktalar\u0131na kolayca ula\u015fabilir, evde izolasyon, enfekte ki\u015filer ve riskli b\u00f6lgelerin yo\u011funlu\u011funu g\u00f6rebilirsiniz. Ailem b\u00f6l\u00fcm\u00fcne merak etti\u011finiz ve takip etmek istedi\u011finiz yak\u0131nlar\u0131n\u0131z\u0131 ekleyerek, ilgili ki\u015finin bu uygulamay\u0131 y\u00fckleyip, uygulama \u00fczerinden onay vermesi  durumunda onlar\u0131n konum bilgilerini g\u00f6rebilir, takip edebilir ve bulunduklar\u0131 b\u00f6lgelere  g\u00f6re risk durumlar\u0131n\u0131 g\u00f6rebilirsiniz. Bu uygulama ile \u2018Kontroll\u00fc Sosyal Hayat\u2019 ge\u00e7i\u015fi sa\u011flanabilecektir.",
   "app_store_url": "https://play.google.com/store/apps/details?id=tr.gov.saglik.hayatevesigar",
-  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -47,96 +46,5 @@
   },
   "developer_url": "https://hesapp.saglik.gov.tr/hayat_eve_sigar_aydinlatma.pdf",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://hesapp.saglik.gov.tr/hayat_eve_sigar_aydinlatma.pdf",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Contacts": [
-      {
-        "permissionName": "Read your contacts",
-        "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Read google service configuration",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

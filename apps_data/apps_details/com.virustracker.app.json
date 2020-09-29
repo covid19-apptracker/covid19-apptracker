@@ -8,7 +8,6 @@
   "country": "GB",
   "description": "An orderly way to allow users to send reports to relevant Governments in the UK, Public Health England and in the US, the CDC with emphasis on the current coronavirus crisis. We show and share locations with the government agencies and provide the ability for users to donate to the Government toward finding the cure and preventing the spread of viruses.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.virustracker.app",
-  "dangerous_permissions_count": 1,
   "permissions": {
     "Location": [
       "Precise location (gps and network-based)"
@@ -20,24 +19,5 @@
   },
   "developer_url": "https://www.virus-tracker.com",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "",
-  "permissions_new": {
-    "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

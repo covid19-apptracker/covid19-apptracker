@@ -8,7 +8,6 @@
   "country": "KE",
   "description": "The Kenya Covid-19 tracking application is an android application developed for Kenya\u2019s COVID-19 surveillance & response team. The app is designed for use together with the KenyaEMR Covid-19 tracking system and is for use by field disease surveillance teams to report suspected Covid19 cases to the national surveillance system, conduct case investigations by submitting laboratory requests to the national testing laboratories through the Kenya EMR Covid-19 tracking system. The Kenya Covid-19 tracking app can also be used by Covid-19 contact tracing teams to conduct tracing and follow-up of contacts of patients confirmed to be Covid-19 infected and for monitoring these contacts during the quarantine period.",
   "app_store_url": "https://play.google.com/store/apps/details?id=org.medicmobile.webapp.mobile.surveillance_covid19_kenya",
-  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -32,60 +31,5 @@
   },
   "developer_url": "http://medicmobile.org",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://docs.google.com/document/d/e/2PACX-1vS1YCuJjwXX3lqddh0f2pSeRSBN98JW3zcp7HAu0idmju3BWdw67umiG_ck4sq0XzuNOyEeeEiOWx9C/pub",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Install shortcuts",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Uninstall shortcuts",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

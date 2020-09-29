@@ -8,7 +8,6 @@
   "country": "US",
   "description": "The Sentinel Monitor allows for individuals who are not feeling well (COVID-19, Flu, etc) to track their temperature and associated symptoms. Sentinel Monitor can be used by individuals or in conjunction with approved healthcare organizations. DISCLAIMER: ALL OF THE MATERIAL PROVIDED THROUGH SENTINEL'S SYMPTOM CHECKER PORTION OF THE PLATFORM, SUCH AS TEXT, GRAPHICS, PHOTOGRAPHS, IMAGES, MESSAGES, FORUM POSTINGS, AND ANY OTHER MATERIALS, ARE FOR INFORMATIONAL PURPOSES ONLY AND ARE NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE OR TREATMENT. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING YOUR HEALTH. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY IN SEEKING IT BECAUSE OF ANY INFORMATION PROVIDED THROUGH THE PLATFORM. ADDITIONALLY, COMPANY DOES NOT PROMISE ANY PARTICULAR RESULTS WITH REGARDS TO YOUR HEALTH IN CONNECTION WITH YOUR USE OF THE PLATFORM.  IF YOU THINK YOU HAVE A MEDICAL EMERGENCY, CALL YOUR DOCTOR OR YOUR LOCAL EMERGENCY PHONE NUMBER IMMEDIATELY.",
   "app_store_url": "https://play.google.com/store/apps/details?id=tracker.healthcare.sentinel",
-  "dangerous_permissions_count": 8,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -18,10 +17,10 @@
       "Modify or delete the contents of your usb storage",
       "Read the contents of your usb storage"
     ],
-    "Device ID & call information": [
+    "Phone": [
       "Read phone status and identity"
     ],
-    "Phone": [
+    "Device ID & call information": [
       "Read phone status and identity"
     ],
     "Camera": [
@@ -41,78 +40,5 @@
   },
   "developer_url": "http://sentinel.healthcare",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://sentinel.healthcare/eula",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

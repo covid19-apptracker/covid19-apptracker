@@ -4,11 +4,10 @@
   "icon_url": "https://lh3.googleusercontent.com/sbVmlIuE2vURIGJzMUMpHgfft4EXD5T6ngPe2OHOg900CTmjAQzRiTEX_7qfApU5WXA",
   "developer_id": "Gobierno Digital",
   "updated_date": "2020-08-11",
-  "downloads": "100,000+",
+  "downloads": "50,000+",
   "country": "CL",
   "description": "Aplicaci\u00f3n oficial del Gobierno de Chile para prevenir contagios de Coronavirus. La aplicaci\u00f3n te permite: (i) Realizar una autoevaluaci\u00f3n de tus s\u00edntomas para generar una clasificaci\u00f3n de riesgo. (ii) Recibir notificaciones del Ministerio de Salud. (iii) Entregar contenido informativo sobre la contingencia y la evoluci\u00f3n de la pandemia. (iv) Informar y/o denunciar conductas o eventos de alto riesgo. (v) Ayudar o pedir ayuda a tus vecinos.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cl.gob.digital.coronapp",
-  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -31,56 +30,5 @@
   },
   "developer_url": "https://coronapp.gob.cl",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://coronapp.gob.cl/politicas.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

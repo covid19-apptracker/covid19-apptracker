@@ -8,7 +8,6 @@
   "country": "QA",
   "description": "EHTERAZ is your trusted smart application to follow up on the latest updates of COVID-19 Coronavirus in Qatar. EHTERAZ has been designed and developed in the Ministry of Interior to support all categories of the Qatari community to spread the health awareness tips and techniques as well as the protection methods that are necessary to halt the outbreak of Coronavirus. This smart tool is also meant to give a hand to those people that are responsible for their families in their endeavors to protect their love ones, and to support healthcare and related entities in order to protect the safety of individuals and that of the Qatari community from this pandemic virus at large.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.moi.covid19",
-  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -43,92 +42,5 @@
   },
   "developer_url": "https://moi.gov.qa",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://ehtraz.com",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Disable your screen lock",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Draw over other apps",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

@@ -3,12 +3,11 @@
   "title": "Covid Watch Arizona",
   "icon_url": "https://lh3.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
   "developer_id": "ADHS-Arizona Department of Health Services",
-  "updated_date": "2020-09-03",
+  "updated_date": "2020-08-19",
   "downloads": "1,000+",
   "country": "US",
   "description": "Let your smartphone notify you to potential exposure to COVID-19\u2013using fully anonymous Bluetooth signals\u2013and help stop the spread of coronavirus in Arizona. Get peace of mind by taking this small step and start rebuilding trust in your community \u2013 install this free app, released in partnership with the Arizona Department of Health Services (ADHS). Once you opt-in and enable exposure notification on your phone, Covid Watch works in the background, automatically detecting if you come into close proximity with someone else, without tracking you by GPS or ever revealing any personal data. The more people participate, the more effective we can be. Encourage your friends, family, and colleagues to install Covid Watch today. Members of the following campus communities can access a customized version of the app: \u2022 University of Arizona \u2022 Northern Arizona University Provided by Covid Watch, an Arizona non-profit organization dedicated to your health and privacy.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.azdhs.covidwatch.android",
-  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Full network access",
@@ -20,30 +19,5 @@
   },
   "developer_url": "https://covidwatch.org",
   "available": true,
-  "first_time_seen": "2020-08-25",
-  "privacy_policy": "https://azdhs.gov/documents/privacy-policy/covid-watch-application-privacy-policy.pdf",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-08-25"
 }

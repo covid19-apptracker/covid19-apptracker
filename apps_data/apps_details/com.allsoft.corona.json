@@ -3,12 +3,11 @@
   "title": "CG Covid-19 ePass",
   "icon_url": "https://lh3.googleusercontent.com/YyNtfaPxPDyxNzZO4fNbQDVOV5avRAKDNmWIJlGM25oXJ6Lgp5CVqNp0ctI8EtEUkWY",
   "developer_id": "AllSoft Consulting",
-  "updated_date": "2020-09-10",
+  "updated_date": "2020-08-27",
   "downloads": "1,000,000+",
   "country": "IN",
   "description": "This is an official app of Government of Chhattisgarh. The World is fighting with the \u201cCovid-19\u201d Pandemic and to take on this battle in State of Chhattisgarh, the State Government has imposed a lock-down in the entire State. This lockdown has directed people of Chhattisgarh to stay put in their homes as a preventive measure to stop the spread of Covid-19. Government of Chhattisgarh has launched this app to issue Inter-State and Intra-State e-Pass for vehicular movement during the lock-down period to enable migrants/stranded people to reach their homes and join with their families. It would also facilitate people to undertake travel in case of personal emergency like Medical treatment or Death in the Family. This app would also allow seamless transportation of essential commodities within the State of Chhattisgarh. The applicant can obtain an e-Pass by submitting Photograph, Id Proof and valid proof for travel. The Applicant will be able to select the travel date, time and destination. This mobile app would enable the State Administration to facilitate people to undertake inter-state or Intra-state travel and at the same time strive hard to keep them safe during these times of hardship.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.allsoft.corona",
-  "dangerous_permissions_count": 5,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -30,52 +29,5 @@
   },
   "developer_url": "https://raipur.gov.in/",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://allsoft.co/cgepass/privacy",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

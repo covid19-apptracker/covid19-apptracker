@@ -8,7 +8,6 @@
   "country": "SN",
   "description": "ALERTE S\u00c9CURITE PR\u00c9VENTION (ASP) des populations est une application d\u2019alerte g\u00e9olocalis\u00e9e, qui d\u2019abord permet au utilisateur d\u2019\u00eatre averti en cas de danger, \u00e9v\u00e8nement majeur ou d\u2019un caract\u00e8re particuli\u00e8rement exceptionnel et d\u2019autre part, elle permet de faire intervenir les forces de l\u2019ordre sur la zone du danger. Etre avis\u00e9 : Via notification sur Smartphone d\u2019alertes en cours, relevant d\u2019un danger (cambriolage, vol, braquage, etc) Recevoir des alertes g\u00e9olocalis\u00e9es : Avant de pouvoir envoyer l\u2019alerte, il est demand\u00e9 \u00e0 l\u2019utilisateur d\u2019accepter d\u2019\u00eatre g\u00e9o localis\u00e9. N\u00e9anmoins, contrairement classiques utilisant la fonction de g\u00e9olocalisation, aucune remont\u00e9e d\u2019information personnelle n\u2019est op\u00e9r\u00e9e \u00e0 partir du t\u00e9l\u00e9phone. L\u2019application ASP utilise une technologie innovante et unique, fonctionnant exclusivement dans chaque terminal mobile sans remont\u00e9e ou enregistrement des identit\u00e9s ; Recevoir des alertes d\u2019autres zones : L\u2019application permet de \u00e9galement de recevoir des notifications d\u2019alertes concernant des lieux diff\u00e9rents de sa g\u00e9olocalisation. Il est possible d\u2019enregistrer d\u2019autres zones qui permettent aux utilisateurs d\u2019\u00eatre inform\u00e9s en cas d\u2019alerte chez un proche par exemple ; Disponible sous \u2018\u2019Android\u2019\u2019 et \u2018\u2019IOS\u2019\u2019, l\u2019application permet \u00e0 ses utilisateurs de relayer",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.bsmart.covid19",
-  "dangerous_permissions_count": 4,
   "permissions": {
     "Phone": [
       "Read phone status and identity"
@@ -35,66 +34,5 @@
   },
   "developer_url": "https://b-smart-senegal.com",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://b-smart-senegal.com",
-  "permissions_new": {
-    "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

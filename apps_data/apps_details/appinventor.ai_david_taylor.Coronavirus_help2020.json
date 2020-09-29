@@ -8,7 +8,6 @@
   "country": "GB",
   "description": "This app collates genuine information from sources such as the UK Government, WHO, NHS and others in one place. This idea being all of the information is genuine and updated on a regular basis by the organisations mentioned. We should point out that the information contained in the app is only information published by trusted organisations. Please note the Ryecroft NRC link provides extra information such as learning resources, fall prevention and much more.",
   "app_store_url": "https://play.google.com/store/apps/details?id=appinventor.ai_david_taylor.Coronavirus_help2020",
-  "dangerous_permissions_count": 4,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -28,44 +27,5 @@
   },
   "developer_url": "http://www.ryecroftnrc.org",
   "available": true,
-  "first_time_seen": "2020-06-08",
-  "privacy_policy": "",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-06-08"
 }

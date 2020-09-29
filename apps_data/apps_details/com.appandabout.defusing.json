@@ -4,11 +4,10 @@
   "icon_url": "https://lh3.googleusercontent.com/M0BRenscxv8uFN5UH1qguAouukTnl0qh5o9ae_4JuB--GSH5eSDuP4rq5pZYh4s0oA",
   "developer_id": "AppAndAbout",
   "updated_date": "2020-07-28",
-  "downloads": "500+",
+  "downloads": "100+",
   "country": "ES",
   "description": "App with various resources and materials to mitigate acute stress in healthcare and non-healthcare professionals in the frontline taking care of COVID-19-infected patients.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.appandabout.defusing",
-  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Full network access"
@@ -16,14 +15,5 @@
   },
   "developer_url": "https://secondvictimscovid19.umh.es",
   "available": true,
-  "first_time_seen": "2020-05-11",
-  "privacy_policy": "https://segundasvictimascovid19.umh.es/p/politica-de-privacidad-de-la-app.html",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-11"
 }

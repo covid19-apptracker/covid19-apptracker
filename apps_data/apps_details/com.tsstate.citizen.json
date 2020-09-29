@@ -8,7 +8,6 @@
   "country": "IN",
   "description": "T COVID`19 Telangana (Corona Virus Alert) App has been developed by Government of Telangana to provide citizens with preventive care information and other government advisories. The app has following main sections for citizens: 1. Government Hospitals with Isolation Wards 2. Prevention and Precautions 3. Private Hospitals with Isolation Wards 4. Approved Labs and Test Centers 5. Helpline Numbers 6. Tele Medicine 7. Government Announcements 8.Essential services 9.Contribution. You will receive updates from government, advisories and instructions from time to time via PUSH notification on the App. This App will provide quick information and help to you. You should definitely visit nearest hospital / doctor in-case you develop novel corona virus symptoms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.tsstate.citizen",
-  "dangerous_permissions_count": 13,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -56,120 +55,5 @@
   },
   "developer_url": "https://quantela.com/",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://quantela.com/",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Calendar": [
-      {
-        "permissionName": "Read calendar events plus confidential information",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Add or modify calendar events and send email to guests without owners' knowledge",
-        "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Send sticky broadcast",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Draw over other apps",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Read google service configuration",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

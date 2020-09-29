@@ -1,16 +1,20 @@
 {
   "id": "cz.covid19cz.erouska",
-  "title": "eRou\u0161ka - Part of Smart Quarantine",
-  "icon_url": "https://lh3.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
+  "title": "eRou\u0161ka - part of smart quarantine",
+  "icon_url": "https://lh3.googleusercontent.com/XmybKTYht3tPjkL_1gLQAjywDWD96kpvSu5No5AH4kujTOxSuqX4m1bVxBtcPoHdww",
   "developer_id": "6973241785916756870",
-  "updated_date": "2020-09-23",
+  "updated_date": "2020-07-26",
   "downloads": "100,000+",
   "country": "CZ",
-  "description": "Protect yourself, protect others. eRouska remembers other eRouska apps you have met. When a user is infected, he/she can easily and anonymously notify others about the risk of infection. eRouska is the official exposure notification app of Czech Republic, developed by the Ministry of Health in collaboration with NAKIT (National Agency for Information and Communication Technology). In the fight against the COVID-19 epidemic, the app aims to notify users, who are at risk of carrying the virus. Based on the history of exposure to other potentially contagious users, the app gives instructions, how to proceed to minimize spread of the epidemic. However, the app is not a medical device and is certainly not a substitute for a doctor. The app is based on Bluetooth Low Energy technology, which is designed to be especially energy-efficient, and it doesn\u2019t collect any geolocation data, including GPS data. The app is developed and released in full compliance with Exposure Notification API Policy requirements, fully GDPR compliant and doesn't collect and directly process any personal data - any data that would identify the user or his mobile device, such as their name, address or telephone number. eRouska is able to determine that contact has taken place between two users without knowing who those users are and where the contact occurred. The app is a part of Czech Smart Quarantine concept and a valuable tool in the fight against COVID-19 epidemic. Every single user increases its overall effectiveness. It is strongly recommended to install the app and encourage others to do likewise.",
+  "description": "Application eRou\u0161ka remembers, thanks to Bluetooth, other eRou\u0161ka users that you\u2019ve met. It simplifies the work of hygienic station workers to find contacts at risk. Help to flatten the curve of people infected by coronavirus. If you\u2019ve meet somebody infected: If you meet somebody who will later test positive for coronavirus, the hygienic station will be able to contact you by phone. Even if you just stayed close to each other in a shop. If you get infected: If you test positive for coronavirus, a hygienic station worker will ask for a list of people that you\u2019ve met in the last days. You can simply, in one-click, send them an anonymous list of eRou\u0161ka users that you were in close contact with. Including those you don't know personally, but you happened to share the same bus ride with, for instance. Nobody will know that you might have been the one who helped spread the virus on them.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cz.covid19cz.erouska",
-  "dangerous_permissions_count": 0,
   "permissions": {
+    "Location": [
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
     "Other": [
+      "Access bluetooth settings",
       "Full network access",
       "Pair with bluetooth devices",
       "Prevent device from sleeping",
@@ -21,34 +25,5 @@
   },
   "developer_url": "https://erouska.cz",
   "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://erouska.cz/gdpr",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-17"
 }

@@ -8,7 +8,6 @@
   "country": "GB",
   "description": "This app has been developed for UCLH as part of their COVID-19 response. The guidelines in this app have been authored by a wide range of clinical and staff, who have worked closely with our operational teams at UCLH and draws on all their invaluable expertise. It contains guidance on staff and patient protection, clinical care, clinician-facing standard operating procedures and educational materials. The guidelines are based on: \u2022 The expertise of our teams \u2022 Existing best practice \u2022 Experience from colleagues working in organisations, cities and countries dealing with the COIVD-19 epidemic \u2022 Published research \u2022 Content released from professional and speciality organisations and associations Content will expand rapidly over the coming days in response to clinical need for guidance, our evolving understanding of COVID-19 and as our approach adapts. The guidance will be made available through a release cycle. Each release will describe key changes since last time, this information can be found via the \"version control\" button. Content has been approved UCLH COVID-19 clinical guideline committee. Some of our guidance may be relevant to clinicians working in other organisations and we are keen to share approaches to clinical management and service design during this pandemic. Please refer to your local clinical and governance leads regarding adaption of any guidance locally and contact for any information about the guidance. We would also be keen to hear from non-UCLH clinicians regarding their learning, expertise and how we might improve our approach.",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.uk.healthcreatives.uclhcovid19",
-  "dangerous_permissions_count": 4,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -24,34 +23,5 @@
   },
   "developer_url": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

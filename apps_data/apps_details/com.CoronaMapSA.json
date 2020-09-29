@@ -8,7 +8,6 @@
   "country": "SA",
   "description": "National Health Information Center - Saudi Health Council has developed its own Corona interactive map application that allows users to track all coronavirus cases in the word with statistics and charts and the ability to talk to BashairBot to answer questions about Corona Virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.CoronaMapSA",
-  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Full network access",
@@ -17,18 +16,5 @@
   },
   "developer_url": "https://coronamap.sa",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://nhic.gov.sa/Pages/PrivacyPolicy.aspx",
-  "permissions_new": {
-    "Other": [
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }

@@ -3,12 +3,11 @@
   "title": "COVA Punjab",
   "icon_url": "https://lh3.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
   "developer_id": "Government of Punjab",
-  "updated_date": "2020-09-08",
+  "updated_date": "2020-08-25",
   "downloads": "1,000,000+",
   "country": "IN",
   "description": "COVA Punjab (Corona Virus Alert) App has been developed by Government of Punjab to provide citizens with preventive care information and other government advisories. The app has following main sections for citizens: 1.\tReal time dashboard for Punjab, India and global stats 2.\tTo check for symptoms of Corona and have a quick self-screening 3.\tCorona Awareness 4.\tTraveling instructions 5.\tPrevention Products 6.\tCorona Hospitals, Punjab 7.\tFAQ 8.\tCall Support You will receive updates from government, advisories and instructions from time to time via PUSH notification on the App. This App will provide quick information and help to you. You should definitely visit nearest hospital / doctor in-case you develop novel corona virus symptoms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=in.gov.punjab.cova",
-  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -37,74 +36,5 @@
   },
   "developer_url": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Other": [
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      }
-    ]
-  }
+  "first_time_seen": "2020-05-10"
 }
