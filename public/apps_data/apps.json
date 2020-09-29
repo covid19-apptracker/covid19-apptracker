@@ -64,7 +64,7 @@
     "title": "CUIDAR COVID-19 ARGENTINA",
     "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
     "developer_id": "8169270262982486256",
-    "updated_date": "2020-08-10",
+    "updated_date": "2020-09-26",
     "downloads": "10,000,000+",
     "country": "AR",
     "dangerous_permissions_count": 3
@@ -144,7 +144,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-09-14",
+    "updated_date": "2020-09-27",
     "downloads": "100,000+",
     "country": "CA",
     "dangerous_permissions_count": 5
@@ -364,7 +364,7 @@
     "title": "COVID Tracker Ireland",
     "icon_url": "https://lh3.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
     "developer_id": "Health Service Executive (HSE)",
-    "updated_date": "2020-08-26",
+    "updated_date": "2020-09-22",
     "downloads": "500,000+",
     "country": "IE",
     "dangerous_permissions_count": 0
@@ -815,7 +815,7 @@
     "icon_url": "https://lh3.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
     "developer_id": "6973241785916756870",
     "updated_date": "2020-09-23",
-    "downloads": "100,000+",
+    "downloads": "500,000+",
     "country": "CZ",
     "dangerous_permissions_count": 0
   },
@@ -904,7 +904,7 @@
     "title": "Koronavilkku",
     "icon_url": "https://lh3.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
-    "updated_date": "2020-09-11",
+    "updated_date": "2020-09-25",
     "downloads": "1,000,000+",
     "country": "FI",
     "dangerous_permissions_count": 0
@@ -1134,7 +1134,7 @@
     "title": "COCOA - COVID-19 Contact App",
     "icon_url": "https://lh3.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
-    "updated_date": "2020-09-08",
+    "updated_date": "2020-09-25",
     "downloads": "5,000,000+",
     "country": "JP",
     "dangerous_permissions_count": 0
@@ -1194,7 +1194,7 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-09-15",
+    "updated_date": "2020-09-26",
     "downloads": "100,000+",
     "country": "MM",
     "dangerous_permissions_count": 9
