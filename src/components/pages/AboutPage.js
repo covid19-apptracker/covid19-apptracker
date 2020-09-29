@@ -20,10 +20,10 @@ class AboutPage extends Component {
                     </h1>
                     <div className="text-base pb-12">
                             <p className="pb-4">
-                                Privacy concerns have emerged with a large number of COVID-19 applications being published and promoted around the globe. From symptom tracking to contact tracing, the open source project, <i>COVID-19 App Tracker Project</i>, aims to identify and track applications published on the Google Play Store.
+                            With the current pandemic has emerged privacy concerns with the large number of applications being published and promoted around the globe. From symptom tracking to contact tracing, the open source project, <i>COVID-19 App Tracker</i>, aims to identify and track applications published on the Google Play Store.
                             </p>
                             <p className="pb-4">
-                                At this time, the <i>COVID-19 App Tracker Project</i> only looks for applications on the Google Play Store that fall within at least one of the following categories:
+                            At this time, the <i>COVID-19 App Tracker</i> only looks for applications on the Google Play Store that fall within at least one of the following categories:
                             </p>
                             <div>
                                 <ul className="list-disc pl-4 pb-4">
@@ -33,7 +33,7 @@ class AboutPage extends Component {
                                 </ul> 
                             </div>
                             <p className="pb-10">
-                                This project is currently a proof of concept and because of that we’ve made it open source so we encourage feedback! If you see apps missing or corrections that should be made, please contact us at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a>. We hope this encourages greater transparency and leads to further privacy research around the globe.
+                                We are a team of volunteers, but we encourage feedback! If you see apps missing or corrections that should be made, please contact us at <a className="hover:underline hover:text-blue-400" to="/" style={{color: "#0066FF"}} href="mailto:info@covid19apptracker.org">info@covid19apptracker.org</a> and we'll do our best to add them quickly. We hope this project encourages greater transparency and leads to further privacy research around the globe. 
                             </p>
                             <div className="text-base pb-6">
                                 <p className="pb-2">
@@ -62,19 +62,16 @@ class AboutPage extends Component {
                     </h1>
                     <div className="text-base pb-12">
                         <p className="pb-4">
-                            We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities. 
+                            We hope this project leads to greater transparency for these new applications’ privacy and security implications around the globe. Many apps are being created quickly, resulting in poor security or are not clearly articulating how they are using the data they are collecting. We created this project for the following groups so that they may be better equipped to conduct further research or advocate for specific changes they see fit for their communities. 
                         </p>
-                        <div className="pb-4">
+                        <div>
                             <ul className="list-disc pl-4">
                                 <li>Researchers</li>
                                 <li>Privacy Advocates</li>
                                 <li>Journalists</li>
                                 <li>General Public</li>
                             </ul> 
-                        </div>
-                        <p className="pb-4">
-                            We hope this project leads to greater transparency for these new applications’ privacy and security implications around the globe. Many apps are being created quickly, resulting in poor security and/or are not clearly articulating how they are using the data they are collecting. 
-                        </p>
+                        </div> 
                     </div>
                     <hr className="border-black pb-12" width="32px"/>
                     <h1 className="text-3xl pb-8">

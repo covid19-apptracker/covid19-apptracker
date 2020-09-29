@@ -40,7 +40,7 @@ class AppPage extends Component {
                 return (
                     this.state.permissions[specifiedPermissions].map((permission) => 
                     <li> 
-                        {permission} 
+                        {permission['permissionName']} 
                     </li>)
                 )
             } else {
@@ -66,7 +66,8 @@ class AppPage extends Component {
                         <ul className="list-disc pl-4 text-gray-700">
                             {
                                 this.state.permissions[permissionName].map((specificPermission) => 
-                                    <li key={specificPermission}>{specificPermission}</li>
+                                    <li key={specificPermission['permissionName']} className={specificPermission['isDangerous'] ? "isDangerous text-orange-700" : "isSafe"}>
+                                        {specificPermission['isDangerous'] ? <div><FontAwesomeIcon className="mr-1 text-orange-500" icon={faExclamationTriangle} size="md" /> {specificPermission['permissionName']}</div> : <div>{specificPermission['permissionName']}</div> }</li>
                                 ) 
                             }
                         </ul>
@@ -103,8 +104,10 @@ class AppPage extends Component {
     render() {
 		return (
 			<div>
-                
-                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} /> 
+                {/* <div>
+                    <img src={loadingImg} className="mx-auto" alt="logo" />
+                </div> */}
+                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				<div
 					id="container"
 					className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
@@ -140,7 +143,8 @@ class AppPage extends Component {
                                         <p className="text-black text-3xl">
                                             {this.getCountryName(this.props.country)}
                                         </p> 
-                                    </div>  
+                                    </div> 
+                                    {/* <p className="text-right text-xs text-gray-700">Last Updated DATE CHECK</p>  */}
                                 </div>
                             </div>
                             <div className="flex-1 sm:mx-4 rounded overflow-hidden shadow-lg mb-4 sm:mb-0 bg-white"> 
@@ -148,9 +152,11 @@ class AppPage extends Component {
                                     <p className="font-bold text-sm">Device Installs</p>
                                     <div className="pt-6 pb-8 text-center">
                                         <p className="text-black text-3xl">
-                                        {this.props.downloads} 
+                                        {this.props.downloads}
+                                        {/* <span className="text-gray-700 text-sm">MM</span> */}
                                         </p> 
-                                    </div>  
+                                    </div> 
+                                    {/* <p className="text-right text-xs text-gray-700">Last Updated 04-12-2020</p>  */}
                                 </div>
                             </div>
                             <div className="flex-1 rounded overflow-hidden shadow-lg bg-white"> 
@@ -168,20 +174,22 @@ class AppPage extends Component {
 
                     <div id="appPermissions" className="pb-12">
                         <p className="font-bold text-sm pb-6">App Permissions</p>
+
+                        {/* DANGEROUS PERMISSIONS STYLING/PROPER LANGUAGE TO GO HERE
+                        ----------------------------------------------------------------------------------------------- */} 
                         <div className="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-6 mb-6" role="alert">
                             <p>
                                 <FontAwesomeIcon className="mr-1 text-orange-500" icon={faExclamationTriangle} size="md" /> <strong>Dangerous Permissions</strong>
                             </p>
                             <p>
-                                Number of dangerous permissions this application asks for: <strong># of permissions</strong>    
+                                Number of dangerous permissions this application asks for: <strong>{this.props.dangerousPermissionsCount}</strong>    
                             </p> 
                             <a className="underline" href="https://developer.android.com/guide/topics/permissions/overview" target="_blank">
                                 What are dangerous permissions?   
                             </a>  
-                        </div> 
+                        </div>
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
                             {this.createPermissions()}
-                            
                         </div>
                     </div>
 
@@ -195,8 +203,10 @@ class AppPage extends Component {
                                 </p>                           
                             </div>
                         </div>
-                    </div> 
-				</div> 
+                    </div>
+
+				</div>
+				{/* <Footer /> */}
 			</div>
 		);
 	}
