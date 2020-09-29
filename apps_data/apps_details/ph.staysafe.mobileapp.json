@@ -3,11 +3,12 @@
   "title": "StaySafe PH",
   "icon_url": "https://lh3.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
   "developer_id": "Multisys Technologies Corporation",
-  "updated_date": "2020-08-01",
+  "updated_date": "2020-09-24",
   "downloads": "100,000+",
   "country": "PH",
   "description": "StaySafe.PH is a digital bayanihan platform with health condition reporting, social distancing, and contact tracing system. Join us as you protect yourself, your loved ones, and your community. Your efforts will help our leaders and frontliners to know if you're safe. It will also alert them on individuals who are in need of immediate medical assistance. Stay at home, stay healthy, and stay safe!",
   "app_store_url": "https://play.google.com/store/apps/details?id=ph.staysafe.mobileapp",
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -46,5 +47,96 @@
   },
   "developer_url": "https://www.staysafe.ph/",
   "available": true,
-  "first_time_seen": "2020-08-06"
+  "first_time_seen": "2020-08-06",
+  "privacy_policy": "https://www.staysafe.ph/data-privacy",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

@@ -8,6 +8,7 @@
   "country": "LT",
   "description": "The app Karantinas enables daily coronavirus symptom tracking, encourages healthy actions that curb the spread of the virus and helps to care for people in self-isolation. All actions in the app Karantinas are rewarded with points which can be spent to buy great discounts in the app shop. How it works: -\tDaily health tasks based on the recommendations of the World Health Organisation preventing the spread of the coronavirus; -\tDaily questionnaires on coronavirus symptoms. After filling in a questionnaire you will receive a recommendation on whom to contact in case of alerting symptoms; -\tThe latest official information about the coronavirus in Lithuania; -\tAdvice on how to stay healthy at home. -\tActivation and tracking of the self-isolation regime, useful information on self-isolation, daily questions and tasks, assistance to all people in self-isolation regime. Every app user will be rewarded! Answer the questions, complete Daily health tasks and get points. Later, you will be able to spend them in the app shop and buy great prizes. It\u2019s really easy and very important: daily health monitoring will help to prevent the spread of COVID-19. This app is developed together with the City of Vilnius (Lithuania), the Hospital of Lithuanian University of Health Sciences Kauno Klinikos and the National Public Health Center under the Ministry of Health of the Republic of Lithuania. IMPORTANT: THIS IS NOT A MEDICAL ADVICE. IF YOU DON\u2019T FEEL WELL, PLEASE IMMEDIATELLY CONTANT THE HOTLINE 1808 (IN LITHUANIA ONLY).",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.lympo.covid19",
+  "dangerous_permissions_count": 10,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -55,5 +56,120 @@
   },
   "developer_url": "https://lympo.com",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://cdn.lympo.io/karantinas-privacy-policy-lt-20200407.html",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Wearable sensors/Activity data": [
+      {
+        "permissionName": "Body sensors (like heart rate monitors)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Connect and disconnect from wi-fi",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Draw over other apps",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

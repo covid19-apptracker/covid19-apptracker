@@ -8,6 +8,7 @@
   "country": "PL",
   "description": "What concerns you about your health today? Check your symptoms and find out what could be causing them. It's fast, free and anonymous. Symptomate is the most advanced symptom checker that uses artificial intelligence to evaluate your symptoms. Developed and validated by doctors, Symptomate knows more than 800 conditions and will help you to check your state of health instantly. HOW IT WORKS 1. Enter symptoms Symptomate will ask you to enter basic information about yourself and your symptoms. 2. Answer a few questions Symptomate will start looking for the cause of your symptoms. It will ask you a few carefully selected follow-up questions. 3. Done! Check your results Symptomate will analyze all your answers using advanced artificial intelligence technology. As a result you will receive information on the following: \u2022 how serious your symptoms are \u2022 possible causes of your symptoms \u2022 actions to take \u2022 suggested lab tests THE APP AT A GLANCE \u2022 AI-powered symptom checker \u2022 Learns and evolves every day \u2022 Verified by physicians and data scientists (10,000+ hours of review) \u2022 3M+ assessments performed \u2022 800+ conditions and 1,500+ symptoms in the database \u2022 Available in many languages, including English, Spanish, Chinese, German, French, Portuguese, Russian, Polish and Slovak \u2022 No login required \u2022 ... and more! 1,500+ SYMPTOMS Ask Symptomate about: \u2022 Feeling weak, tired or sick \u2022 Headache \u2022 Abdominal pain \u2022 Shortness of breath \u2022 Fever, sore throat, cough \u2022 Dizziness \u2022 Weight loss \u2022 Bloating \u2022 Back pain \u2022 Diarrhea \u2022 Chest pain \u2022 Dermatological changes, rash \u2022 ... and many more FEEDBACK Have you noticed a problem or simply have a suggestion? Drop us a line at support@infermedica.com. We look forward to hearing from you! LEGAL NOTICE \u2022 The Checkup is not a diagnosis. It is for informational purposes and is not a qualified medical opinion. \u2022 Do not use in emergencies. In case of a health emergency, call your local emergency number immediately. \u2022 Your data is safe. The information you provide is anonymous and not shared with anyone. Read more in our Terms and Conditions (https://symptomate.com/site/terms-of-service/) and Privacy Policy (https://symptomate.com/site/privacy-policy/).",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.symptomate.mobile",
+  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
       "Control vibration",
@@ -17,5 +18,22 @@
   },
   "developer_url": "https://symptomate.com",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://symptomate.com/site/privacy-policy/",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

@@ -8,6 +8,7 @@
   "country": "TH",
   "description": "Application MorChana is a tool to assist Medical Staffs, Government Agencies, Business Owners, and most importantly, YOU in taking care and protect oneself from the spread of COVID-19 Application MorChana will collect use and disseminate only necessary data to protect or suppress dangers to life, body, and health of you, the people around you and all citizen. The application will track infection, probability and risk of COVID-19 and observe the outbreak situation from data provided by you.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.thaialert.app",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
@@ -42,5 +43,92 @@
   },
   "developer_url": "https://dga.or.th",
   "available": true,
-  "first_time_seen": "2020-05-28"
+  "first_time_seen": "2020-05-28",
+  "privacy_policy": "https://dga.or.th",
+  "permissions_new": {
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

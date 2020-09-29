@@ -3,11 +3,12 @@
   "title": "Valle Corona",
   "icon_url": "https://lh3.googleusercontent.com/GfmrG_Ya_LEHG90HQpb7bW1gFQQZiZlbBZLTs0Wtr9SCCbARiZJnBHdPHWm9SbminxA",
   "developer_id": "Gobernaci\u00f3n del Valle del Cauca",
-  "updated_date": "2020-08-05",
+  "updated_date": "2020-09-02",
   "downloads": "10,000+",
   "country": "CO",
   "description": "Valle Corona es la Aplicaci\u00f3n M\u00f3vil de la Gobernaci\u00f3n del Valle del Cauca para autoevaluaci\u00f3n del Covid-19. Mas informaci\u00f3n en www.vallecorona.com. Valle Corona #QuedateEnCasa con #ValleCorona",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.gov.cali.calivallecorona",
+  "dangerous_permissions_count": 10,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -49,5 +50,102 @@
   },
   "developer_url": "http://www.vallecorona.com",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.valledelcauca.gov.co/documentos/11038/politica-de-privacidad/",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control flashlight",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

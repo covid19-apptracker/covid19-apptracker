@@ -1,0 +1,49 @@
+{
+  "id": "fi.thl.koronahaavi",
+  "title": "Koronavilkku",
+  "icon_url": "https://lh3.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
+  "developer_id": "Terveyden ja hyvinvoinnin laitos",
+  "updated_date": "2020-09-25",
+  "downloads": "1,000,000+",
+  "country": "FI",
+  "description": "Koronavilkku on Suomen virallinen koronasovellus, jonka avulla pyrit\u00e4\u00e4n ehk\u00e4isem\u00e4\u00e4n koronavirustaudin levi\u00e4mist\u00e4. Sovelluksessa yksityisyytesi on vahvasti suojattu. Sovelluksesta vastaa Terveyden ja hyvinvoinnin laitos. Koronavilkku seuraa l\u00e4hell\u00e4si olevia puhelimia, joihin on asennettu sama sovellus. Jos aiemmin kohtaamasi henkil\u00f6 ilmoittaa tartunnastaan Koronavilkun avulla, saat ilmoituksen altistumisesta. Jos sinulla todetaan tartunta, voit ilmoittaa siit\u00e4 sovelluksella nimett\u00f6m\u00e4sti. Sovellus on tarkoitettu kaikenik\u00e4isille. Jos olet alaik\u00e4inen, keskustele kuitenkin huoltajasi kanssa ennen kuin lataat sovelluksen. K\u00c4YTT\u00d6 ON VAPAAEHTOISTA Koronavilkun k\u00e4ytt\u00f6 ei ole pakollista. Voit milloin tahansa lopettaa k\u00e4yt\u00f6n poistamalla sovelluksen puhelimestasi. N\u00c4IN YKSITYISYYDEST\u00c4SI HUOLEHDITAAN - Sovelluksen ker\u00e4\u00e4m\u00e4t kohtaamistiedot tallentuvat vain sinun laitteellesi. Tallennetut tiedot poistuvat viimeist\u00e4\u00e4n 21 p\u00e4iv\u00e4n kuluttua tai jos poistat sovelluksen. - Henkil\u00f6llisyytesi salataan satunnaisten tunnuskoodien avulla. - Sovellus ei koskaan tallenna puhelimesi sijaintitietoja. TARVITSETKO LIS\u00c4TIETOJA TAI APUA? Lue lis\u00e4\u00e4 sovelluksesta: www.koronavilkku.fi",
+  "app_store_url": "https://play.google.com/store/apps/details?id=fi.thl.koronahaavi",
+  "dangerous_permissions_count": 0,
+  "permissions": {
+    "Other": [
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Run at startup",
+      "View network connections"
+    ]
+  },
+  "developer_url": "https://thl.fi/en/web/thlfi-en",
+  "available": true,
+  "first_time_seen": "2020-09-16",
+  "privacy_policy": "https://koronavilkku.fi/tietosuojaseloste/",
+  "permissions_new": {
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
+}

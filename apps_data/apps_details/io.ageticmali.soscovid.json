@@ -8,6 +8,7 @@
   "country": "ML",
   "description": "Cette application a \u00e9t\u00e9 con\u00e7ue par le Minist\u00e8re de l'Economie Num\u00e9rique et de la Prospective \u00e0 travers L'AGETIC et en partenariat avec le Minist\u00e8re de la Sant\u00e9 et des Affaires Sociales, afin d'informer et de sensibiliser la population sur les dangers du covid-19 et assurer une meilleure prise en charge des cas suspects.",
   "app_store_url": "https://play.google.com/store/apps/details?id=io.ageticmali.soscovid",
+  "dangerous_permissions_count": 11,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -46,5 +47,96 @@
   },
   "developer_url": "https://agetic.gouv.ml",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://54.38.241.35/soscovid/files/PC.pdf",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Microphone": [
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control flashlight",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Change your audio settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

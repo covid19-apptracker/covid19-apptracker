@@ -8,6 +8,7 @@
   "country": "PK",
   "description": "COVID 19 Care for Media is an android application particularly designed to facilitate Pakistani media/journalists to stay updated about coronavirus pandemic and report cases as and when required. This app can be used by any person seeking latest updates on COVID-19 globally and in Pakistan. This app is endorsed by Cyber Wing, Ministry of Information and Broadcasting, Government of Pakistan. \u2022\tWhat is COVID-19 and How it spreads? \u2022\tWhat are its symptoms? \u2022\tHow to prevent yourself and others? \u2022\tLatest updates/ statistics (Global and Pakistan) \u2022\tWhat are the myths about COVID-19? \u2022\tHelpline numbers and testing laboratories details \u2022\tReport COVID-19 cases through in built app SMS service (intended purpose of use to identify Caller ID, spam detection, and/or spam blocking) and also gives an option directing users to call on toll free number (feature only for media) Note* Standard SMS charges applicable as per your mobile operator",
   "app_store_url": "https://play.google.com/store/apps/details?id=covid19care.virus.coronavirus.corona.sick.marcom.health.pakistan",
+  "dangerous_permissions_count": 1,
   "permissions": {
     "SMS": [
       "Send sms messages"
@@ -20,5 +21,28 @@
   },
   "developer_url": "http://www.marcompk.com/",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://www.marcompk.com/privacy-policy-mobile-apps/",
+  "permissions_new": {
+    "SMS": [
+      {
+        "permissionName": "Send sms messages",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

@@ -8,6 +8,7 @@
   "country": "US",
   "description": "The world as we know it has changed and we are living in unprecedented and uncertain times. COVID Coach is designed to help you build resilience, manage stress, and increase your well-being during this crisis. The app is free, secure, and helps connect you to important resources for coping and adapting during the COVID-19 pandemic. Customized tools are available to help you cope with stress, stay well, stay safe, stay healthy, stay connected, and navigate parenting, care-giving, and working from home while social distancing, quarantined, or sheltered in place. You can track your mood, visualize your progress, and find resources to seek additional help and support. No account or password is required and user data is not collected. COVID Coach was made by the mobile mental health team of the National Center for PTSD, Dissemination & Training Division.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -39,5 +40,74 @@
   },
   "developer_url": "https://www.ptsd.va.gov/appvid/mobile/",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.ptsd.va.gov/appvid/mobile/",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Microphone": [
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Contacts": [
+      {
+        "permissionName": "Read your contacts",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

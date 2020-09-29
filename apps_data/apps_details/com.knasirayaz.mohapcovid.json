@@ -2,12 +2,13 @@
   "id": "com.knasirayaz.mohapcovid",
   "title": "COVID19 UAE",
   "icon_url": "https://lh3.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
-  "developer_id": "MOHAP-UAE",
+  "developer_id": "Ministry of Health and Prevention - UAE",
   "updated_date": "2020-08-26",
   "downloads": "50,000+",
   "country": "AE",
   "description": "COVID-19 UAE is Ministry of Health\u2019s Official Mobile App on Coronavirus management. The App provides you with real-time Coronavirus cases information and keeps you up to date with regional news & events. If you are general user, the app is a one-stop-shop for all the information you need on COVID-19 including a self-awareness Kit, for patients App offers a full stack of services ranging from Live Calls, Quarantine management and support. Stay Safe and Strong!",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.knasirayaz.mohapcovid",
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       "Modify or delete the contents of your usb storage",
@@ -42,5 +43,80 @@
   },
   "developer_url": "https://www.mohap.gov.ae",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.mohap.gov.ae/en/Pages/PrivacyPolicy.aspx",
+  "permissions_new": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Microphone": [
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Change your audio settings",
+        "isDangerous": 0
+      }
+    ]
+  }
 }

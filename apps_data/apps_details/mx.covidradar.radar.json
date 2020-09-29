@@ -2,12 +2,13 @@
   "id": "mx.covidradar.radar",
   "title": "CovidRadar.mx",
   "icon_url": "https://lh3.googleusercontent.com/f_Gd1LSXlOna63bc4_96mZLeYr6mrrRlMSpoLnCFwrwqpLeZGQ4JZG_pzbN46A1b3Ew",
-  "developer_id": "Lertek",
+  "developer_id": "Americas Alliance",
   "updated_date": "2020-08-07",
   "downloads": "10,000+",
   "country": "MX",
   "description": "Con esta aplicaci\u00f3n, quien resulte positivo con Covid19 ya no solo se basar\u00e1 en su memoria para alertar a aquellas personas con las que ha tenido contacto en d\u00edas previos, ya que esta herramienta tecnol\u00f3gica ayudar\u00e1 a detectar y alertar a toda persona con la que haya estado en contacto en los \u00faltimos 14 d\u00edas, tanto de forma directa (familiares, amistades, conocidos) como indirecta (personas al azar en supermercados, farmacias, oficinas, elevadores, entre otros lugares p\u00fablicos), notific\u00e1ndoles de esta situaci\u00f3n, garantizando en todo caso el anonimato. Ello ayudar\u00e1 con mayor eficiencia a minimizar la propagaci\u00f3n del virus y con ello, a salvar vidas. Es un proceso an\u00f3nimo y confidencial.",
   "app_store_url": "https://play.google.com/store/apps/details?id=mx.covidradar.radar",
+  "dangerous_permissions_count": 3,
   "permissions": {
     "Device & app history": [
       "Retrieve running apps"
@@ -34,5 +35,66 @@
   },
   "developer_url": "http://covidradar.mx",
   "available": true,
-  "first_time_seen": "2020-05-17"
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": "http://covidradar.mx/avisoprivacidad.html",
+  "permissions_new": {
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      }
+    ]
+  }
 }
