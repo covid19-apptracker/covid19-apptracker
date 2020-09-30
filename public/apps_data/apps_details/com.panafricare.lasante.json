@@ -11,24 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://lasante.app",
-  "available": true,
-  "first_time_seen": "2020-06-05",
-  "privacy_policy": "https://lasante.app/privacy.html",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -64,5 +46,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://lasante.app",
+  "available": true,
+  "first_time_seen": "2020-06-05",
+  "privacy_policy": "https://lasante.app/privacy.html"
 }
