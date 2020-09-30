@@ -11,27 +11,6 @@
   "dangerous_permissions_count": 4,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Full network access",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://www.ryecroftnrc.org",
-  "available": true,
-  "first_time_seen": "2020-06-08",
-  "privacy_policy": "",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
@@ -67,5 +46,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.ryecroftnrc.org",
+  "available": true,
+  "first_time_seen": "2020-06-08",
+  "privacy_policy": ""
 }
