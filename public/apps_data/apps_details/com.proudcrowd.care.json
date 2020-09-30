@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.care19.app",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://care19.app/privacy",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
@@ -59,5 +42,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.care19.app",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://care19.app/privacy"
 }
