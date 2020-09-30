@@ -11,31 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Camera": [
-      "Take pictures and videos"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://stopcovid.gouv.fr",
-  "available": true,
-  "first_time_seen": "2020-06-06",
-  "privacy_policy": "https://bonjour.stopcovid.gouv.fr/privacy.html",
-  "permissions_new": {
-    "Camera": [
       {
         "permissionName": "Take pictures and videos",
         "isDangerous": 1
@@ -87,5 +62,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://stopcovid.gouv.fr",
+  "available": true,
+  "first_time_seen": "2020-06-06",
+  "privacy_policy": "https://bonjour.stopcovid.gouv.fr/privacy.html"
 }
