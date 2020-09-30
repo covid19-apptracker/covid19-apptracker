@@ -11,36 +11,6 @@
   "dangerous_permissions_count": 6,
   "permissions": {
     "Device & app history": [
-      "Retrieve running apps"
-    ],
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.mosti.gov.my",
-  "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://www.mosti.gov.my/web/dasar-privasi/",
-  "permissions_new": {
-    "Device & app history": [
       {
         "permissionName": "Retrieve running apps",
         "isDangerous": 0
@@ -106,5 +76,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.mosti.gov.my",
+  "available": true,
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": "https://www.mosti.gov.my/web/dasar-privasi/"
 }
