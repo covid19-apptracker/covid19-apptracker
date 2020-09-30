@@ -11,20 +11,6 @@
   "dangerous_permissions_count": 1,
   "permissions": {
     "SMS": [
-      "Send sms messages"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://www.marcompk.com/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://www.marcompk.com/privacy-policy-mobile-apps/",
-  "permissions_new": {
-    "SMS": [
       {
         "permissionName": "Send sms messages",
         "isDangerous": 1
@@ -44,5 +30,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.marcompk.com/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://www.marcompk.com/privacy-policy-mobile-apps/"
 }
