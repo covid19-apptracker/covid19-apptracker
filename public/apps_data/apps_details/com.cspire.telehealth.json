@@ -8,38 +8,10 @@
   "country": "US",
   "description": "Introducing C Spire Heath, a mobile telehealth app featuring medical services by the University of Mississippi Medical Center. Powered by the state\u2019s leaders in technology and medicine, C Spire Health lets anyone located in Mississippi connect with a UMMC clinician right from their phone. For a limited time, the C Spire Health app is only serving users experiencing fever, coughing, respiratory issues and other symptoms related to COVID-19. All visits are free. Download the app, sign up, and you\u2019re all set to schedule your appointment. No contracts. No long-term commitments. No insurance required. You can even get prescriptions sent to your local pharmacy.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.cspire.telehealth",
-  "permissions": {
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Microphone": [
-      "Record audio"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Phone": [
-      "Directly call phone numbers"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read google service configuration",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
+  "dangerous_permissions_count": 0,
+  "permissions": {},
   "developer_url": "https://www.cspire.com",
-  "available": true,
-  "first_time_seen": "2020-05-10"
+  "available": false,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": ""
 }
