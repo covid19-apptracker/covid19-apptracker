@@ -11,19 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://covid19.ncdhhs.gov/SlowCOVIDNC",
-  "available": true,
-  "first_time_seen": "2020-09-21",
-  "privacy_policy": "https://covid19.ncdhhs.gov/slowcovidnc-privacy-policy",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Run at startup",
         "isDangerous": 0
@@ -45,5 +32,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://covid19.ncdhhs.gov/SlowCOVIDNC",
+  "available": true,
+  "first_time_seen": "2020-09-21",
+  "privacy_policy": "https://covid19.ncdhhs.gov/slowcovidnc-privacy-policy"
 }
