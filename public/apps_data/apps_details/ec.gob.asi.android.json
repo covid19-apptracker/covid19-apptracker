@@ -11,19 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://asiecuador.com/assets/TERMINOS_DE_PRIVACIDAD_Y_USO.pdf",
-  "available": true,
-  "first_time_seen": "2020-08-06",
-  "privacy_policy": "https://asiecuador.com/assets/TERMINOS_DE_PRIVACIDAD_Y_USO.pdf",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
@@ -45,5 +32,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://asiecuador.com/assets/TERMINOS_DE_PRIVACIDAD_Y_USO.pdf",
+  "available": true,
+  "first_time_seen": "2020-08-06",
+  "privacy_policy": "https://asiecuador.com/assets/TERMINOS_DE_PRIVACIDAD_Y_USO.pdf"
 }
