@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.adilife.net",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.adilife.net/en/policy-gdpr-app",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -59,5 +42,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.adilife.net",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.adilife.net/en/policy-gdpr-app"
 }
