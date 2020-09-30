@@ -11,25 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://prixatech.com/pradesh-5-covid-19-tracker-privacy-policy",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://prixatech.com/pradesh-5-covid-19-tracker-privacy-policy",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -63,5 +44,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://prixatech.com/pradesh-5-covid-19-tracker-privacy-policy",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://prixatech.com/pradesh-5-covid-19-tracker-privacy-policy"
 }
