@@ -11,20 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.gibraltar.gov.gi/beatcovidapp",
-  "available": true,
-  "first_time_seen": "2020-08-06",
-  "privacy_policy": "https://gibraltar.gov.gi/beatcovidapp/privacy",
-  "permissions_new": {
-    "Wi-Fi connection information": [
       {
         "permissionName": "View wi-fi connections",
         "isDangerous": 0
@@ -44,5 +30,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.gibraltar.gov.gi/beatcovidapp",
+  "available": true,
+  "first_time_seen": "2020-08-06",
+  "privacy_policy": "https://gibraltar.gov.gi/beatcovidapp/privacy"
 }
