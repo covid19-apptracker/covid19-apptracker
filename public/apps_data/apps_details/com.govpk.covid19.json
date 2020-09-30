@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://covidappapi1.nitb.gov.pk/privacypolicy",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://covidappapi1.nitb.gov.pk/privacypolicy",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -59,5 +42,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://covidappapi1.nitb.gov.pk/privacypolicy",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://covidappapi1.nitb.gov.pk/privacypolicy"
 }
