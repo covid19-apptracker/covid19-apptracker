@@ -11,17 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Control vibration",
-      "Full network access",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://symptomate.com",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://symptomate.com/site/privacy-policy/",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "View network connections",
         "isDangerous": 0
@@ -35,5 +24,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://symptomate.com",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://symptomate.com/site/privacy-policy/"
 }
