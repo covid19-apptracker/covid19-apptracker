@@ -11,31 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Connect and disconnect from wi-fi",
-      "Control near field communication",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://www.stopcov.ge",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://api.novid20.app/api/v1/mobile/privacy",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -93,5 +68,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.stopcov.ge",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://api.novid20.app/api/v1/mobile/privacy"
 }
