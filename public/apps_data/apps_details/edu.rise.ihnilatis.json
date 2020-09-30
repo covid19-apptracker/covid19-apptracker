@@ -11,41 +11,6 @@
   "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Create accounts and set passwords",
-      "Full network access",
-      "Google play license check",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read sync settings",
-      "Receive data from internet",
-      "Run at startup",
-      "Toggle sync on and off",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://covid-19.rise.org.cy/",
-  "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "http://covid-19.rise.org.cy/en/privacy/",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
@@ -131,5 +96,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://covid-19.rise.org.cy/",
+  "available": true,
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": "http://covid-19.rise.org.cy/en/privacy/"
 }
