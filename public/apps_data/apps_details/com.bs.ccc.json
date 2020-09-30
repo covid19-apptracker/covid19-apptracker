@@ -11,43 +11,6 @@
   "dangerous_permissions_count": 6,
   "permissions": {
     "Device & app history": [
-      "Retrieve running apps"
-    ],
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Connect and disconnect from wi-fi",
-      "Control vibration",
-      "Full network access",
-      "Google play license check",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read google service configuration",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://corona.gov.bd/",
-  "available": true,
-  "first_time_seen": "2020-05-25",
-  "privacy_policy": "http://bit.ly/CoronaBD_Privacy_Policy",
-  "permissions_new": {
-    "Device & app history": [
       {
         "permissionName": "Retrieve running apps",
         "isDangerous": 0
@@ -135,5 +98,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://corona.gov.bd/",
+  "available": true,
+  "first_time_seen": "2020-05-25",
+  "privacy_policy": "http://bit.ly/CoronaBD_Privacy_Policy"
 }
