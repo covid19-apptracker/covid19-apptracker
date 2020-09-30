@@ -11,18 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/",
-  "available": true,
-  "first_time_seen": "2020-06-05",
-  "privacy_policy": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Receive data from internet",
         "isDangerous": 0
@@ -40,5 +28,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/",
+  "available": true,
+  "first_time_seen": "2020-06-05",
+  "privacy_policy": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/"
 }
