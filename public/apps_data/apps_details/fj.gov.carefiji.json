@@ -11,25 +11,6 @@
   "dangerous_permissions_count": 1,
   "permissions": {
     "Location": [
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://www.carefiji.digitalfiji.gov.fj",
-  "available": true,
-  "first_time_seen": "2020-08-07",
-  "privacy_policy": "http://carefiji.digitalfiji.gov.fj/privacy/",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
@@ -69,5 +50,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.carefiji.digitalfiji.gov.fj",
+  "available": true,
+  "first_time_seen": "2020-08-07",
+  "privacy_policy": "http://carefiji.digitalfiji.gov.fj/privacy/"
 }
