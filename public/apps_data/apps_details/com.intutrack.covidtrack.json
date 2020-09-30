@@ -11,27 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Phone": [
-      "Read phone status and identity"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
-    ],
-    "Location": [
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
-  "permissions_new": {
-    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -67,5 +46,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html"
 }
