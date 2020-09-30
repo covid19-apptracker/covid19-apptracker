@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 4,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Other": [
-      "Full network access"
-    ]
-  },
-  "developer_url": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
@@ -53,5 +36,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://healthcreatives.co.uk/privacy/uclh-covid-19/index.html"
 }
