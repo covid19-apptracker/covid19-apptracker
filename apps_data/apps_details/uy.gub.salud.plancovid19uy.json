@@ -11,28 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Microphone": [
-      "Record audio"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Other": [
-      "Change network connectivity",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://coronavirus.uy",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/politica-privacidad-app-coronavirusuy",
-  "permissions_new": {
-    "Microphone": [
       {
         "permissionName": "Record audio",
         "isDangerous": 1
@@ -78,5 +56,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://coronavirus.uy",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/politica-privacidad-app-coronavirusuy"
 }

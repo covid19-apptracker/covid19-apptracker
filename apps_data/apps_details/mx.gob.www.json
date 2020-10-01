@@ -11,40 +11,6 @@
   "dangerous_permissions_count": 8,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Contacts": [
-      "Read your contacts"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.gob.mx",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://documentos.salud.gob.mx/covid/avisoprivacidad.pdf",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
@@ -120,5 +86,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.gob.mx",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://documentos.salud.gob.mx/covid/avisoprivacidad.pdf"
 }

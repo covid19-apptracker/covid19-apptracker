@@ -11,34 +11,6 @@
   "dangerous_permissions_count": 4,
   "permissions": {
     "Microphone": [
-      "Record audio"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Calendar": [
-      "Add or modify calendar events and send email to guests without owners' knowledge",
-      "Read calendar events plus confidential information"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Change your audio settings",
-      "Draw over other apps",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://www.dha.gov.ae",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://csms.ae/PrivacyPolicy.html",
-  "permissions_new": {
-    "Microphone": [
       {
         "permissionName": "Record audio",
         "isDangerous": 1
@@ -96,5 +68,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.dha.gov.ae",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://csms.ae/PrivacyPolicy.html"
 }

@@ -11,22 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Device & app history": [
-      "Retrieve running apps"
-    ],
-    "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://dpbh.nv.gov/",
-  "available": true,
-  "first_time_seen": "2020-08-25",
-  "privacy_policy": "https://covidtrace.com/nct_privacy_policy.pdf",
-  "permissions_new": {
-    "Device & app history": [
       {
         "permissionName": "Retrieve running apps",
         "isDangerous": 0
@@ -54,5 +38,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://dpbh.nv.gov/",
+  "available": true,
+  "first_time_seen": "2020-08-25",
+  "privacy_policy": "https://covidtrace.com/nct_privacy_policy.pdf"
 }

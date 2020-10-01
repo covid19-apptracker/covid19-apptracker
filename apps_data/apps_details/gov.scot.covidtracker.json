@@ -11,22 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://protect.scot/index.html",
-  "available": true,
-  "first_time_seen": "2020-09-16",
-  "privacy_policy": "https://protect.scot/privacy-policy-app",
-  "permissions_new": {
-    "Wi-Fi connection information": [
       {
         "permissionName": "View wi-fi connections",
         "isDangerous": 0
@@ -54,5 +38,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://protect.scot/index.html",
+  "available": true,
+  "first_time_seen": "2020-09-16",
+  "privacy_policy": "https://protect.scot/privacy-policy-app"
 }

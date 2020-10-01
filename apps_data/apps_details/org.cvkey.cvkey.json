@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 1,
   "permissions": {
     "Camera": [
-      "Take pictures and videos"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://cvkey.org",
-  "available": true,
-  "first_time_seen": "2020-07-08",
-  "privacy_policy": "https://support.cvkey.org/privacy-policy",
-  "permissions_new": {
-    "Camera": [
       {
         "permissionName": "Take pictures and videos",
         "isDangerous": 1
@@ -59,5 +42,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://cvkey.org",
+  "available": true,
+  "first_time_seen": "2020-07-08",
+  "privacy_policy": "https://support.cvkey.org/privacy-policy"
 }

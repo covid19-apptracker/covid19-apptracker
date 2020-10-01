@@ -11,23 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://guamcovidalert.guam.gov/",
-  "available": true,
-  "first_time_seen": "2020-09-10",
-  "privacy_policy": "https://guamcovidalert.guam.gov/privacy-policy/",
-  "permissions_new": {
-    "Wi-Fi connection information": [
       {
         "permissionName": "View wi-fi connections",
         "isDangerous": 0
@@ -59,5 +42,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://guamcovidalert.guam.gov/",
+  "available": true,
+  "first_time_seen": "2020-09-10",
+  "privacy_policy": "https://guamcovidalert.guam.gov/privacy-policy/"
 }

@@ -11,21 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://de.gov/covidalert",
-  "available": true,
-  "first_time_seen": "2020-09-14",
-  "privacy_policy": "https://docs.google.com/document/d/1n1xZSpCCKc5eDpuJojHcd84k46joRCIR2NysOsQX6JE/edit?usp=sharing",
-  "permissions_new": {
-    "Wi-Fi connection information": [
       {
         "permissionName": "View wi-fi connections",
         "isDangerous": 0
@@ -49,5 +34,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://de.gov/covidalert",
+  "available": true,
+  "first_time_seen": "2020-09-14",
+  "privacy_policy": "https://docs.google.com/document/d/1n1xZSpCCKc5eDpuJojHcd84k46joRCIR2NysOsQX6JE/edit?usp=sharing"
 }

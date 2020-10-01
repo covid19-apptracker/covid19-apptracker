@@ -11,28 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://web.swaraksha.gov.in/ncv19/privacy/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://web.swaraksha.gov.in/ncv19/privacy/",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -78,5 +56,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://web.swaraksha.gov.in/ncv19/privacy/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://web.swaraksha.gov.in/ncv19/privacy/"
 }

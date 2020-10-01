@@ -11,16 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://coronamap.sa",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://nhic.gov.sa/Pages/PrivacyPolicy.aspx",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "View network connections",
         "isDangerous": 0
@@ -30,5 +20,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://coronamap.sa",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://nhic.gov.sa/Pages/PrivacyPolicy.aspx"
 }

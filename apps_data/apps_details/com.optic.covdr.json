@@ -11,47 +11,6 @@
   "dangerous_permissions_count": 6,
   "permissions": {
     "Device & app history": [
-      "Retrieve running apps"
-    ],
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Change system display settings",
-      "Control vibration",
-      "Create accounts and set passwords",
-      "Disable your screen lock",
-      "Full network access",
-      "Google play license check",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read sync settings",
-      "Receive data from internet",
-      "Run at startup",
-      "Toggle sync on and off",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing",
-  "available": true,
-  "first_time_seen": "2020-06-15",
-  "privacy_policy": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing",
-  "permissions_new": {
-    "Device & app history": [
       {
         "permissionName": "Retrieve running apps",
         "isDangerous": 0
@@ -155,5 +114,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing",
+  "available": true,
+  "first_time_seen": "2020-06-15",
+  "privacy_policy": "https://docs.google.com/document/d/1fVXZ411uMP-b88GcaaeZG9cEMjje4INJY2-Q71XEyfQ/edit?usp=sharing"
 }

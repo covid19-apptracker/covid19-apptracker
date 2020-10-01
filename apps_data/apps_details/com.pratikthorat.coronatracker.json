@@ -11,26 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://fightcovid.live/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://fightcovid.live/corvis/android/policy/fightcovid_privacy_policy.html",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -68,5 +48,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://fightcovid.live/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://fightcovid.live/corvis/android/policy/fightcovid_privacy_policy.html"
 }

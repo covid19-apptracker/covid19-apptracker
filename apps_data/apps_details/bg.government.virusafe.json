@@ -11,22 +11,6 @@
   "dangerous_permissions_count": 1,
   "permissions": {
     "Location": [
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://virusafe.io/information/terms-of-use.html",
-  "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://virusafe.io/information/terms-of-use.html",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
@@ -54,5 +38,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://virusafe.io/information/terms-of-use.html",
+  "available": true,
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": "https://virusafe.io/information/terms-of-use.html"
 }

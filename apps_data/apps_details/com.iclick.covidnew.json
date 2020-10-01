@@ -11,33 +11,6 @@
   "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://kathmandu.gov.np",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://ict4dnepal.org/privacy-policy-android.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
@@ -91,5 +64,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://kathmandu.gov.np",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://ict4dnepal.org/privacy-policy-android.html"
 }

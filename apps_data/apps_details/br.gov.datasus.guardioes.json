@@ -11,21 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://coronavirus.saude.gov.br/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://validacovid.saude.gov.br/politica-privacidade",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Receive data from internet",
         "isDangerous": 0
@@ -55,5 +40,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://coronavirus.saude.gov.br/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://validacovid.saude.gov.br/politica-privacidade"
 }

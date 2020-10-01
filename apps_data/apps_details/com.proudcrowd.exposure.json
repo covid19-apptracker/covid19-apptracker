@@ -11,20 +11,6 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.care19.app",
-  "available": true,
-  "first_time_seen": "2020-08-13",
-  "privacy_policy": "https://www.care19.app/alert/privacy",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Receive data from internet",
         "isDangerous": 0
@@ -50,5 +36,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.care19.app",
+  "available": true,
+  "first_time_seen": "2020-08-13",
+  "privacy_policy": "https://www.care19.app/alert/privacy"
 }

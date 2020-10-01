@@ -11,40 +11,6 @@
   "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Phone": [
-      "Directly call phone numbers"
-    ],
-    "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Control vibration",
-      "Create accounts and set passwords",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read sync settings",
-      "Receive data from internet",
-      "Run at startup",
-      "Toggle sync on and off",
-      "View network connections"
-    ]
-  },
-  "developer_url": "http://bharatpurmun.gov.np%20",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://smartpalika.org/apps/bharatpur/covid19/privacy-policy.html",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
@@ -126,5 +92,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://bharatpurmun.gov.np%20",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://smartpalika.org/apps/bharatpur/covid19/privacy-policy.html"
 }

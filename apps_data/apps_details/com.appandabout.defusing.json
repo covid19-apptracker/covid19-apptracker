@@ -11,19 +11,14 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access"
-    ]
-  },
-  "developer_url": "https://secondvictimscovid19.umh.es",
-  "available": true,
-  "first_time_seen": "2020-05-11",
-  "privacy_policy": "https://segundasvictimascovid19.umh.es/p/politica-de-privacidad-de-la-app.html",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Full network access",
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://secondvictimscovid19.umh.es",
+  "available": true,
+  "first_time_seen": "2020-05-11",
+  "privacy_policy": "https://segundasvictimascovid19.umh.es/p/politica-de-privacidad-de-la-app.html"
 }

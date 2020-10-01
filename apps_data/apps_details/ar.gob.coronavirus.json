@@ -11,25 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Camera": [
-      "Take pictures and videos"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.argentina.gob.ar/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.argentina.gob.ar/sites/default/files/terminos_y_condiciones_aplicacion_cuidar_-_covid_19_-_v5.pdf",
-  "permissions_new": {
-    "Camera": [
       {
         "permissionName": "Take pictures and videos",
         "isDangerous": 1
@@ -63,5 +44,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.argentina.gob.ar/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.argentina.gob.ar/sites/default/files/terminos_y_condiciones_aplicacion_cuidar_-_covid_19_-_v5.pdf"
 }

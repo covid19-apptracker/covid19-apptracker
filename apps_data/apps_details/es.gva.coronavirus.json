@@ -11,19 +11,14 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access"
-    ]
-  },
-  "developer_url": "http://infocoronavirus.gva.es/",
-  "available": true,
-  "first_time_seen": "2020-05-27",
-  "privacy_policy": "http://coronavirusautotest.san.gva.es/proteccion-datos-es.html",
-  "permissions_new": {
-    "Other": [
       {
         "permissionName": "Full network access",
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://infocoronavirus.gva.es/",
+  "available": true,
+  "first_time_seen": "2020-05-27",
+  "privacy_policy": "http://coronavirusautotest.san.gva.es/proteccion-datos-es.html"
 }

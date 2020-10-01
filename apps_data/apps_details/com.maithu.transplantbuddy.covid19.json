@@ -11,37 +11,6 @@
   "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Camera": [
-      "Take pictures and videos"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://info.patientmpower.com/",
-  "available": true,
-  "first_time_seen": "2020-05-13",
-  "privacy_policy": "https://info.patientmpower.com/covid19-privacy-policy",
-  "permissions_new": {
-    "Photos/Media/Files": [
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
@@ -111,5 +80,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://info.patientmpower.com/",
+  "available": true,
+  "first_time_seen": "2020-05-13",
+  "privacy_policy": "https://info.patientmpower.com/covid19-privacy-policy"
 }

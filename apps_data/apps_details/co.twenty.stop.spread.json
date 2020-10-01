@@ -11,34 +11,6 @@
   "dangerous_permissions_count": 3,
   "permissions": {
     "Camera": [
-      "Take pictures and videos"
-    ],
-    "Contacts": [
-      "Read your contacts"
-    ],
-    "Location": [
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Control vibration",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://healthytogether.io/",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://healthytogether.io/legal/privacy",
-  "permissions_new": {
-    "Camera": [
       {
         "permissionName": "Take pictures and videos",
         "isDangerous": 1
@@ -96,5 +68,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://healthytogether.io/",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://healthytogether.io/legal/privacy"
 }

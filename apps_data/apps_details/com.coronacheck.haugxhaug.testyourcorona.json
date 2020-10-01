@@ -11,19 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Full network access"
-    ]
-  },
-  "developer_url": "http://www.coronacheck.science",
-  "available": true,
-  "first_time_seen": "2020-06-07",
-  "privacy_policy": "https://www.coronacheck.science/de/privacy/",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -39,5 +26,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "http://www.coronacheck.science",
+  "available": true,
+  "first_time_seen": "2020-06-07",
+  "privacy_policy": "https://www.coronacheck.science/de/privacy/"
 }

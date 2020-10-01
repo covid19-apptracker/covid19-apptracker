@@ -11,34 +11,6 @@
   "dangerous_permissions_count": 4,
   "permissions": {
     "Phone": [
-      "Read phone status and identity"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
-    ],
-    "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
-    ],
-    "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://b-smart-senegal.com",
-  "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://b-smart-senegal.com",
-  "permissions_new": {
-    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -96,5 +68,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://b-smart-senegal.com",
+  "available": true,
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://b-smart-senegal.com"
 }

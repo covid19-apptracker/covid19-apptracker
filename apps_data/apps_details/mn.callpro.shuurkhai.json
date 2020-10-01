@@ -11,35 +11,6 @@
   "dangerous_permissions_count": 6,
   "permissions": {
     "Microphone": [
-      "Record audio"
-    ],
-    "Phone": [
-      "Directly call phone numbers",
-      "Read phone status and identity"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
-    ],
-    "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Change your audio settings",
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://help.callpro.mn",
-  "available": true,
-  "first_time_seen": "2020-06-08",
-  "privacy_policy": "https://www.callpro.mn/",
-  "permissions_new": {
-    "Microphone": [
       {
         "permissionName": "Record audio",
         "isDangerous": 1
@@ -101,5 +72,9 @@
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://help.callpro.mn",
+  "available": true,
+  "first_time_seen": "2020-06-08",
+  "privacy_policy": "https://www.callpro.mn/"
 }

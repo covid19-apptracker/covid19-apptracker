@@ -11,25 +11,6 @@
   "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
-    ],
-    "Other": [
-      "Access bluetooth settings",
-      "Full network access",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
-    ]
-  },
-  "developer_url": "https://www.protegoapp.org/",
-  "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "",
-  "permissions_new": {
-    "Location": [
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -49,11 +30,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
@@ -65,9 +42,17 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Access bluetooth settings",
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
         "isDangerous": 0
       }
     ]
-  }
+  },
+  "developer_url": "https://www.protegoapp.org/",
+  "available": true,
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": ""
 }
