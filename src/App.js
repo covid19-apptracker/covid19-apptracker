@@ -208,6 +208,7 @@ class App extends Component {
                     updatedDate={appInfo.updated_date}
                     country={appInfo.country}
                     permissions={appInfo.permissions}
+                    dangerousPermissionsCount={appInfo.dangerous_permissions_count}
                     description={appInfo.description}
                     appStoreURL={appInfo.app_store_url}
                     updateAppFilter={this.updateAppFilter}
