@@ -1,12 +1,12 @@
 {
   "id": "net.hscni.covidtracker",
   "title": "StopCOVID NI",
-  "icon_url": "https://lh3.googleusercontent.com/8iuYQNvpufFAoM9T6hCwQOJOQAVwCmjDjAIYhREIufrAMTfYZ3yWivgb1gOtVNY5LUE",
+  "icon_url": "https://lh3.googleusercontent.com/u7Gu7Kl8W3lnEHGM_GlALPc6VnKPyFsukcTag6O3E2V8S3jdTylbghCFKVO7ivBdbw",
   "developer_id": "Health & Social Care Northern Ireland",
-  "updated_date": "2020-08-19",
+  "updated_date": "2020-10-07",
   "downloads": "100,000+",
   "country": "GB",
-  "description": "Use this HSC contact tracing app to help all of us in NI by stopping or slowing the spread of COVID-19. ** Support the health services ** ** Help avoid more lockdowns ** ** Save lives ** How does the app work? If you are in close contact with an app user who has added a positive COVID-19 test result to their app, this app will notify you. You won\u2019t know who, when or where. If you test positive for COVID-19 you can add that result to this app. This will notify other app users that you have been in close contact with. This app will never reveal your identity or location. How is my privacy protected? It uses the \u2018Exposure Notification API\u2019 developed by Apple and Google in a joint effort to help governments and health agencies reduce the spread of COVID-19 through contact tracing, with user privacy and security core to the design. This is sometimes referred to as the \u2018decentralised\u2019 model. If you test positive for COVID-19 you will get a code by SMS text message from 'HSCresult'. When you put that code into this app you will be asked to share the random IDs that your phone has been swapping with other app users over the last 14 days. If you agree, these 'diagnosis keys' will allow us to tell those people that they have been exposed to COVID-19. So that you can use this app when travelling abroad we will securely share 'diagnosis keys' with other countries. This also means that apps used by visitors from those countries will work here. ** This app will never track your identity or location **",
+  "description": "If you are 11 or older and live in Northern Ireland you can use this HSC contact tracing app. By using it you will help stop or slow the spread of coronavirus. ** Support the health services ** ** Help avoid more lockdowns ** ** Save lives ** How does the app work? If you are in close contact with an app user who has told their app that they have COVID-19, you will get an alert from this app. You won\u2019t know who, when or where. If you test positive for COVID-19 you can tell this app. Other app users that you\u2019ve been close to will then be alerted. They won\u2019t know who, when or where. ** Works in the background on Bluetooth, not GPS, and uses very little battery ** ** Please keep Bluetooth on so the app can work properly ** How is my privacy protected? ** This app never knows your name or where you are, so it\u2019s completely private ** It uses the \u2018Exposure Notification API\u2019 developed by Apple and Google in a joint effort to help governments and health agencies reduce the spread of COVID-19 through contact tracing, with user privacy and security core to the design. This is sometimes called the \u2018decentralised\u2019 model. If you test positive for COVID-19 you will get a code by SMS text message from 'HSCresult'. When you put your code into this app you will be asked to share the 'Random IDs\u2019 that your phone has been swapping with other app users over the last 14 days. This will allow us to tell those people that they have been exposed to COVID-19. ** We will never ask you to reply to the SMS text message ** ** Please ignore any message if it asks you to reply or send information ** So that you can use this app when travelling abroad we will securely share 'Random IDs' with other countries. This also means that apps used by visitors from those countries will work here. ** This app will never track your identity or location **",
   "app_store_url": "https://play.google.com/store/apps/details?id=net.hscni.covidtracker",
   "dangerous_permissions_count": 0,
   "permissions": {
@@ -18,11 +18,11 @@
     ],
     "Other": [
       {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
@@ -30,11 +30,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
+        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
-        "permissionName": "Full network access",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
