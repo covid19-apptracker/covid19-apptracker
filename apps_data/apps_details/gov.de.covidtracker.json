@@ -3,8 +3,8 @@
   "title": "Covid Alert DE",
   "icon_url": "https://lh3.googleusercontent.com/Dmp9LWljNvHUthiwys_hh9MiKwbH2QiiFPe_y2RxrNEURuOhXGTYwY7niC7I_NN4Zhs",
   "developer_id": "Delaware Department of Health and Social Services",
-  "updated_date": "2020-09-08",
-  "downloads": "5,000+",
+  "updated_date": "2020-10-01",
+  "downloads": "10,000+",
   "country": "DE",
   "description": "With your help, the COVID Alert DE app can help reduce the spread of coronavirus. The Division of Public Health of the State of Delaware is asking everyone to help tackle coronavirus by downloading and using the COVID Alert DE app every day. If you use the app you will: \u2022             Be alerted if you have been in close contact with another user who has tested positive for coronavirus. \u2022             Be able to track your symptoms and get advice on what to do. \u2022             Protect yourself and others as everyone begins to return to normal life. Your data and privacy are vital. The COVID Alert DE app will NOT: \u2022             Publicly identify anyone with COVID-19 \u2022             Use your data for any reason other than alerting you that you may be a close contact of someone who is COVID-positive. Use this app for 1 minute a day to make an important contribution to the fight against coronavirus. Protect yourself, your family, your community and the most vulnerable in society. Encourage everyone you know to download and use the Covid Alert DE app where possible.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.de.covidtracker",
@@ -18,6 +18,10 @@
     ],
     "Other": [
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
@@ -27,10 +31,6 @@
       },
       {
         "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
         "isDangerous": 0
       }
     ]

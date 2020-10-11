@@ -3,16 +3,22 @@
   "title": "Symptomate \u2013 Symptom checker",
   "icon_url": "https://lh3.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
   "developer_id": "Infermedica",
-  "updated_date": "2019-02-01",
+  "updated_date": "2020-10-05",
   "downloads": "100,000+",
   "country": "PL",
-  "description": "What concerns you about your health today? Check your symptoms and find out what could be causing them. It's fast, free and anonymous. Symptomate is the most advanced symptom checker that uses artificial intelligence to evaluate your symptoms. Developed and validated by doctors, Symptomate knows more than 800 conditions and will help you to check your state of health instantly. HOW IT WORKS 1. Enter symptoms Symptomate will ask you to enter basic information about yourself and your symptoms. 2. Answer a few questions Symptomate will start looking for the cause of your symptoms. It will ask you a few carefully selected follow-up questions. 3. Done! Check your results Symptomate will analyze all your answers using advanced artificial intelligence technology. As a result you will receive information on the following: \u2022 how serious your symptoms are \u2022 possible causes of your symptoms \u2022 actions to take \u2022 suggested lab tests THE APP AT A GLANCE \u2022 AI-powered symptom checker \u2022 Learns and evolves every day \u2022 Verified by physicians and data scientists (10,000+ hours of review) \u2022 3M+ assessments performed \u2022 800+ conditions and 1,500+ symptoms in the database \u2022 Available in many languages, including English, Spanish, Chinese, German, French, Portuguese, Russian, Polish and Slovak \u2022 No login required \u2022 ... and more! 1,500+ SYMPTOMS Ask Symptomate about: \u2022 Feeling weak, tired or sick \u2022 Headache \u2022 Abdominal pain \u2022 Shortness of breath \u2022 Fever, sore throat, cough \u2022 Dizziness \u2022 Weight loss \u2022 Bloating \u2022 Back pain \u2022 Diarrhea \u2022 Chest pain \u2022 Dermatological changes, rash \u2022 ... and many more FEEDBACK Have you noticed a problem or simply have a suggestion? Drop us a line at support@infermedica.com. We look forward to hearing from you! LEGAL NOTICE \u2022 The Checkup is not a diagnosis. It is for informational purposes and is not a qualified medical opinion. \u2022 Do not use in emergencies. In case of a health emergency, call your local emergency number immediately. \u2022 Your data is safe. The information you provide is anonymous and not shared with anyone. Read more in our Terms and Conditions (https://symptomate.com/site/terms-of-service/) and Privacy Policy (https://symptomate.com/site/privacy-policy/).",
+  "description": "What concerns you about your health today? Check your symptoms and find out what could be causing them. It's fast, free and anonymous. Symptomate is the most advanced symptom checker that uses artificial intelligence to evaluate your symptoms. Developed and validated by doctors, Symptomate knows more than 700 conditions and will help you to check your health status instantly. HOW IT WORKS Enter symptoms Symptomate will ask you to enter basic information about yourself and your symptoms. Answer a few questions Symptomate will start looking for the cause of your symptoms. It will ask you a few carefully selected follow-up questions. Done! Check your results Symptomate will analyze all your answers using advanced artificial intelligence technology. As a result, you will receive information on the following: how serious your symptoms are possible causes of your symptoms actions to take suggested lab tests THE APP AT A GLANCE AI-powered symptom checker Learns and evolves every day Verified by physicians and data scientists (34,000+ hours of review) 100,000+ assessments performed each month 700+ conditions and 1,300+ symptoms in the database Available in many languages, including English, Spanish, Chinese, German, French, Portuguese, Arabic, Dutch, Czech, Turkish, Russian, Ukrainian, Polish and Slovak No login required ... and more! 1,300+ SYMPTOMS Ask Symptomate about: Feeling weak, tired or sick Headache Abdominal pain Nausea Shortness of breath Fever, sore throat, cough Dizziness Weight loss Bloating Back pain Diarrhea Chest pain Dermatological changes, rash ... and many more FEEDBACK Have you noticed a problem or have a suggestion? Drop us a line at support@infermedica.com. We\u2019d love to hear from you! LEGAL NOTICE The Checkup is not a diagnosis. It is for informational purposes only and is not a qualified medical opinion. Do not use in emergencies. In case of a health emergency, call your local emergency number immediately. Your data is safe. The information you provide is anonymous and not shared with anyone.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.symptomate.mobile",
   "dangerous_permissions_count": 0,
   "permissions": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Other": [
       {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -20,7 +26,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

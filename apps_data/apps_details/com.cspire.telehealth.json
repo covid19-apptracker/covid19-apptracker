@@ -9,7 +9,82 @@
   "description": "Introducing C Spire Heath, a mobile telehealth app featuring medical services by the University of Mississippi Medical Center. Powered by the state\u2019s leaders in technology and medicine, C Spire Health lets anyone located in Mississippi connect with a UMMC clinician right from their phone. For a limited time, the C Spire Health app is only serving users experiencing fever, coughing, respiratory issues and other symptoms related to COVID-19. All visits are free. Download the app, sign up, and you\u2019re all set to schedule your appointment. No contracts. No long-term commitments. No insurance required. You can even get prescriptions sent to your local pharmacy.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.cspire.telehealth",
   "dangerous_permissions_count": 0,
-  "permissions": {},
+  "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Microphone": [
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
+    ]
+  },
   "developer_url": "https://www.cspire.com",
   "available": false,
   "first_time_seen": "2020-05-10",

@@ -3,7 +3,7 @@
   "title": "COVID-RD",
   "icon_url": "https://lh3.googleusercontent.com/eu-RrB4U5YwhiAJcBiIKhYQhgxtx5LOSi9VVDTiBoDcL9H0tAX1pA0AyhBWILxsWA7c",
   "developer_id": "Rep\u00fablica Digital",
-  "updated_date": "2020-09-21",
+  "updated_date": "2020-10-08",
   "downloads": "10,000+",
   "country": "DM",
   "description": "COVID-RD permite visualizar los datos de los casos validados de COVID-19 en el pa\u00eds y reportar los s\u00edntomas si eres un posible infectado del virus al Ministerio de Salud P\u00fablica (MSP). En esta entrega de COVID-RD tendr\u00e1s acceso a: - Registrar tus s\u00edntomas en una encuesta elaborada por la Direcci\u00f3n General de Epidemiolog\u00eda (DIGEPI) con la intenci\u00f3n de descartar o validar si es necesario ir a realizarse la prueba del COVID-19 a una entidad de salud - Validar si has estado en contacto con otros usuarios que resulten positivos de COVID-19 - Mapa con el listado de hospitales y laboratorios m\u00e1s cercano a tu residencia - Acceder al chatbot de Aurora - Consultar los boletines del MSP, informaciones relevantes de Presidencia y consejos relacionados a la pandemia",
@@ -18,25 +18,29 @@
     ],
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Location": [
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
@@ -44,10 +48,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
       }
     ],
     "Wi-Fi connection information": [
@@ -58,27 +58,19 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Create accounts and set passwords",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
         "permissionName": "Change system display settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Create accounts and set passwords",
         "isDangerous": 0
       },
       {
@@ -90,15 +82,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Read sync settings",
+        "permissionName": "Google play license check",
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -106,11 +94,23 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Read sync settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Toggle sync on and off",
         "isDangerous": 0
       },
       {
-        "permissionName": "Google play license check",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

@@ -9,7 +9,26 @@
   "description": "The Government has announced that the Isle of Wight trial of the NHS COVID-19 app has ended, and is shifting focus to developing a solution based on Google Apple technology. We'd like to thank everyone on the Isle of Wight for the vital role they have played. We will use the lessons we have learned on the island to inform the next phase of development. If you took part in the trial by downloading the app on your smartphone, please now delete the app. If you are feeling unwell, please follow the official NHS advice on nhs.uk.  If you have coronavirus symptoms, call 119 to book a test.",
   "app_store_url": "https://play.google.com/store/apps/details?id=uk.nhs.nhsx.colocate",
   "dangerous_permissions_count": 0,
-  "permissions": {},
+  "permissions": {
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
+    ]
+  },
   "developer_url": "https://covid19.nhs.uk/our-policies.html",
   "available": false,
   "first_time_seen": "2020-05-12",
