@@ -3,7 +3,7 @@
   "title": "Tawakkalna (Covid-19 KSA)",
   "icon_url": "https://lh3.googleusercontent.com/XEfqKFZ_CKY9XBcH2dwZ0gmh9U9gZRd0qsHck_65iRmFx-u_A46JlMitGa4msv7c3x7C",
   "developer_id": "National Information Center",
-  "updated_date": "2020-09-25",
+  "updated_date": "2020-10-08",
   "downloads": "1,000,000+",
   "country": "SA",
   "description": "Tawakkalna (Covid-19 KSA) is the official app. approved by the Saudi Ministry of Health to prevent the spread of coronavirus, and was developed by the National Information Center. The app. provides instant and live information about the number of coronavirus infections in the Kingdom, and helps in the early detection of possible infections once users show coronavirus symptoms. It allows citizens and residents to request movement permits in cases of necessity during curfew; follow-up on their permit request status during curfew; and notify them when they are close to infectious or isolated areas.  Through the app., they can also report COVID-19 suspected cases to help individuals receive the health care they, or others, need.",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -48,27 +48,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -76,7 +56,27 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
