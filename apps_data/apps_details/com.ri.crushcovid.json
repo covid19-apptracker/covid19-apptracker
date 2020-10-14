@@ -3,7 +3,7 @@
   "title": "CRUSH COVID RI",
   "icon_url": "https://lh3.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
   "developer_id": "State of Rhode Island",
-  "updated_date": "2020-09-04",
+  "updated_date": "2020-10-02",
   "downloads": "10,000+",
   "country": "US",
   "description": "CRUSH COVID RI is a COVID-19 pandemic response app that provides Rhode Islanders with easy access to all of the resources required during the public health crisis, and includes features such as a location diary and symptom diary. All Rhode Islanders are encouraged to use the CRUSH COVID RI app and take an active role in slowing the spread of COVID-19 in Rhode Island.  You can make a difference in the health of your loved ones and your community by helping us track the virus in our state. CRUSH COVID RI is a one-stop place to get all the information you need about COVID-19 in Rhode Island. It also has two features you can use to help everyone in the community. The My Location Diary feature uses GPS location data that is already available from your phone to help you easily track the places you visited over the past 20 days. All data will be stored locally on your device. It is\u202fonly\u202fshared when you voluntarily decide to share it. If you test positive for COVID-19, and you agree to share this information with the Rhode Island Department of Health, they can quickly identify places you went and people you were in contact with and reduce the spread of COVID-19. The My Symptom Diary feature lets you tell us if you have any symptoms and only asks you to provide your zip code.  If you submit this quick survey daily, it will help give us early indicators of COVID-19 spread in certain zip codes so we can respond by doing things like setting up testing sites in that area. Together we can #CrushCovidRI. Please see our Terms of Use (https://health.ri.gov/covid/crush/termsofuse/) & Privacy Policy (https://health.ri.gov/covid/crush/privacypolicy/) for further information.",
@@ -24,15 +24,15 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
@@ -40,7 +40,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

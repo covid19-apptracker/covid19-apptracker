@@ -3,7 +3,7 @@
   "title": "patientMpower for COVID-19 USA",
   "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
   "developer_id": "patientMpower",
-  "updated_date": "2020-06-02",
+  "updated_date": "2020-10-13",
   "downloads": "50+",
   "country": "US",
   "description": "The patientMpower for COVID-19 USA app is for people in the USA who have been enrolled in the COVID-19 remote monitoring programme by a healthcare professional. The patientMpower for COVID-19 app will allow you to monitor your COVID-19 symptoms and  health information such as your oxygen levels and temperature whilst you are in self-isolation. This information will be shared confidentially with trained personnel at dedicated monitoring centres. They will be able to see your information immediately. Monitoring will enable healthcare professionals to assess if you are recovering well whilst in isolation or if you need additional support (e.g. extra treatments at home or if you need to go to hospital). It is recommended that you consent to using location services after downloading this app. If you don\u2019t want to consent to sharing your location you can continue to use the app. The location information will be de-identified and used for research into COVID-19. KEY FEATURES - Monitors your oxygen saturation (using a device called a pulse oximeter), which is important to track to ensure you are recovering from COVID-19 - Tracks your symptoms including breathlessness - Records details of relevant underlying conditions and your existing medications - Anonymised location monitoring, to help us understand trends of COVID-19 across the USA and plan resources to best deliver healthcare - Confidential health data viewable in real time by healthcare professionals at monitoring centres patientMpower are an Irish digital health company who are experienced in providing home monitoring  platforms for people with lung conditions. If you need help installing the app or need any technical support please email support@patientMpower.com. IMPORTANT: This app cannot provide medical intervention in the event of an emergency. If you experience a rapid worsening of symptoms or severe breathing difficulties please contact emergency services. Privacy policy: https://info.patientmpower.com/covid19-usa-privacy-policy-copy",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -48,27 +48,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -76,7 +56,27 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
