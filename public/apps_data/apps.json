@@ -174,7 +174,7 @@
     "title": "SwissCovid",
     "icon_url": "https://lh3.googleusercontent.com/aqKA0KyE2W88K0GWkFJekgfG_vsGm35H0QdeCcSuo7TaZWQlUsZLnfd265ywVY69pf4",
     "developer_id": "Federal Office of Public Health FOPH",
-    "updated_date": "2020-09-25",
+    "updated_date": "2020-10-19",
     "downloads": "500,000+",
     "country": "CH",
     "dangerous_permissions_count": 0
@@ -564,7 +564,7 @@
     "title": "patientMpower for COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
     "developer_id": "patientMpower",
-    "updated_date": "2020-10-13",
+    "updated_date": "2020-10-20",
     "downloads": "1,000+",
     "country": "IE",
     "dangerous_permissions_count": 7
@@ -654,7 +654,7 @@
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://lh3.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
     "developer_id": "patientMpower",
-    "updated_date": "2020-10-13",
+    "updated_date": "2020-10-20",
     "downloads": "50+",
     "country": "US",
     "dangerous_permissions_count": 7
@@ -824,7 +824,7 @@
     "title": "eRou\u0161ka - Part of Smart Quarantine",
     "icon_url": "https://lh3.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
     "developer_id": "6973241785916756870",
-    "updated_date": "2020-10-15",
+    "updated_date": "2020-10-18",
     "downloads": "1,000,000+",
     "country": "CZ",
     "dangerous_permissions_count": 0
@@ -985,7 +985,7 @@
     "icon_url": "https://lh3.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
     "developer_id": "NC Department of Health and Human Services",
     "updated_date": "2020-10-05",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "NC",
     "dangerous_permissions_count": 0
   },
