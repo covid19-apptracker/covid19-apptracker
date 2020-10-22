@@ -84,10 +84,10 @@
     "title": "COVIDSafe",
     "icon_url": "https://lh3.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2020-09-25",
+    "updated_date": "2020-10-12",
     "downloads": "1,000,000+",
     "country": "AU",
-    "dangerous_permissions_count": 2
+    "dangerous_permissions_count": 1
   },
   {
     "id": "bg.government.virusafe",
@@ -144,7 +144,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://lh3.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-10-09",
+    "updated_date": "2020-10-21",
     "downloads": "100,000+",
     "country": "CA",
     "dangerous_permissions_count": 5
@@ -154,7 +154,7 @@
     "title": "COVID Alert",
     "icon_url": "https://lh3.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-10-16",
+    "updated_date": "2020-10-21",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 0
@@ -324,7 +324,7 @@
     "title": "CoronaBD",
     "icon_url": "https://lh3.googleusercontent.com/ZIxi1iypjh5uteu9XGiGc0oyiJKj9jY7sJKHkhKXLfvEacseQnnpIkDfpAhkT40-0Q",
     "developer_id": "DG Health",
-    "updated_date": "2020-08-10",
+    "updated_date": "2020-10-21",
     "downloads": "100,000+",
     "country": "BD",
     "dangerous_permissions_count": 6
@@ -1464,7 +1464,7 @@
     "title": "TraceTogether",
     "icon_url": "https://lh3.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
     "developer_id": "Government Technology Agency",
-    "updated_date": "2020-10-08",
+    "updated_date": "2020-10-14",
     "downloads": "1,000,000+",
     "country": "SG",
     "dangerous_permissions_count": 7
