@@ -1,7 +1,7 @@
 {
   "id": "com.thaialert.app",
   "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
-  "icon_url": "https://lh3.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
+  "icon_url": "https://play-lh.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
   "developer_id": "Digital Government Development Agency, Thailand",
   "updated_date": "2020-06-06",
   "downloads": "100,000+",
@@ -18,21 +18,21 @@
     ],
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -44,41 +44,21 @@
     ],
     "Location": [
       {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
       }
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -86,11 +66,31 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
