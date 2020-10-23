@@ -1,7 +1,7 @@
 {
   "id": "com.sococheck",
   "title": "SoCo COVID-19 Check",
-  "icon_url": "https://lh3.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
+  "icon_url": "https://play-lh.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
   "developer_id": "County of Sonoma",
   "updated_date": "2020-06-22",
   "downloads": "5,000+",
@@ -12,15 +12,15 @@
   "permissions": {
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
