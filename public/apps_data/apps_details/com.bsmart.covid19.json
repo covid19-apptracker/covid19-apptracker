@@ -1,7 +1,7 @@
 {
   "id": "com.bsmart.covid19",
   "title": "Alerte COVID-19 S\u00e9n\u00e9gal",
-  "icon_url": "https://lh3.googleusercontent.com/0RnuOTgq-PpWo7ES4PInjIbWumTCl-pnqBZ6eRI63LErS4Loi2v6WYOyC51MgtLReA",
+  "icon_url": "https://play-lh.googleusercontent.com/0RnuOTgq-PpWo7ES4PInjIbWumTCl-pnqBZ6eRI63LErS4Loi2v6WYOyC51MgtLReA",
   "developer_id": "5050630332065951284",
   "updated_date": "2020-03-30",
   "downloads": "100+",
@@ -24,16 +24,16 @@
     ],
     "Location": [
       {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
       }
     ],
     "Wi-Fi connection information": [
@@ -44,11 +44,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -56,15 +52,19 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
