@@ -1,7 +1,7 @@
 {
   "id": "co.twenty.stop.spread",
   "title": "Healthy Together - COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
+  "icon_url": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
   "developer_id": "Twenty Inc.",
   "updated_date": "2020-10-07",
   "downloads": "10,000+",
@@ -22,16 +22,16 @@
         "isDangerous": 1
       }
     ],
-    "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
     "Wi-Fi connection information": [
       {
         "permissionName": "View wi-fi connections",
         "isDangerous": 0
+      }
+    ],
+    "Location": [
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
       }
     ],
     "Other": [
