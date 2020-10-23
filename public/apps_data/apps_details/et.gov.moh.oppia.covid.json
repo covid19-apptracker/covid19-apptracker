@@ -1,7 +1,7 @@
 {
   "id": "et.gov.moh.oppia.covid",
   "title": "COVID-19 Ethiopia -Health Worker Training Platform",
-  "icon_url": "https://lh3.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
+  "icon_url": "https://play-lh.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
   "developer_id": "Federal Ministry of Health",
   "updated_date": "2020-07-23",
   "downloads": "10,000+",
@@ -12,31 +12,31 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -50,21 +50,17 @@
     ],
     "Location": [
       {
-        "permissionName": "Precise location (gps and network-based)",
+        "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
-        "permissionName": "Approximate location (network-based)",
+        "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
       }
     ],
     "Other": [
       {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
@@ -76,7 +72,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Access bluetooth settings",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -85,6 +81,10 @@
       },
       {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
