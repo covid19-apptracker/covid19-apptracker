@@ -1,7 +1,7 @@
 {
   "id": "com.pixxonai.covid19wb",
   "title": "COVID-19 West Bengal Government",
-  "icon_url": "https://lh3.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
+  "icon_url": "https://play-lh.googleusercontent.com/4TSljiK3-0eGyjvZn1u8AUtgyUE0wMPsXTpp-b6vEhpKUE0cF9qoSDzHlZHk-PSpNpXe",
   "developer_id": "SEMT Govt. of West Bengal",
   "updated_date": "2020-04-06",
   "downloads": "100,000+",
@@ -28,19 +28,19 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
