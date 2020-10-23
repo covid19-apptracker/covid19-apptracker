@@ -1,7 +1,7 @@
 {
   "id": "com.speetar.app",
   "title": "Speetar COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
+  "icon_url": "https://play-lh.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
   "developer_id": "Speetar",
   "updated_date": "2020-05-26",
   "downloads": "5,000+",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -36,13 +36,13 @@
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -62,25 +62,17 @@
     ],
     "Location": [
       {
-        "permissionName": "Precise location (gps and network-based)",
+        "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
-        "permissionName": "Approximate location (network-based)",
+        "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
       }
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
         "isDangerous": 0
       },
       {
@@ -89,6 +81,14 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
