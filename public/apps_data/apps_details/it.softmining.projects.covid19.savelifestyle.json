@@ -1,7 +1,7 @@
 {
   "id": "it.softmining.projects.covid19.savelifestyle",
   "title": "SM_Covid19",
-  "icon_url": "https://lh3.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
+  "icon_url": "https://play-lh.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
   "developer_id": "Softmining Srl",
   "updated_date": "2020-07-17",
   "downloads": "50,000+",
@@ -12,31 +12,31 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -66,7 +66,11 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Change network connectivity",
         "isDangerous": 0
       },
       {
@@ -78,19 +82,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -98,23 +90,31 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Read google service configuration",
         "isDangerous": 0
       },
       {
-        "permissionName": "Change network connectivity",
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
+        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
         "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
         "isDangerous": 0
       }
     ]
