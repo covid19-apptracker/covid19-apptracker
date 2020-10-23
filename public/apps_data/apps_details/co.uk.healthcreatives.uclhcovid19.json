@@ -1,7 +1,7 @@
 {
   "id": "co.uk.healthcreatives.uclhcovid19",
   "title": "UCLH COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
+  "icon_url": "https://play-lh.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
   "developer_id": "Vincent Harding - UCL Health Creatives",
   "updated_date": "2020-04-30",
   "downloads": "100+",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
