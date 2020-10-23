@@ -1,7 +1,7 @@
 {
   "id": "com.moc.gh",
   "title": "GH COVID-19 Tracker",
-  "icon_url": "https://lh3.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
+  "icon_url": "https://play-lh.googleusercontent.com/zSljQl5NONvfmNhJ0ckzImJmonvkJZV2hCFWpT-oFyJ95rYSUuL3OkAe9QfgiPBmu-w",
   "developer_id": "Ministry of Communications",
   "updated_date": "2020-07-27",
   "downloads": "5,000+",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -50,37 +50,25 @@
     ],
     "Location": [
       {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
       }
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
         "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -89,6 +77,18 @@
       },
       {
         "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
