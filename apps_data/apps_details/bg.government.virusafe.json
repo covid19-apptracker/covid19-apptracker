@@ -1,7 +1,7 @@
 {
   "id": "bg.government.virusafe",
   "title": "ViruSafe",
-  "icon_url": "https://lh3.googleusercontent.com/MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUA",
+  "icon_url": "https://play-lh.googleusercontent.com/MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUA",
   "developer_id": "government.bg",
   "updated_date": "2020-05-27",
   "downloads": "10,000+",
@@ -18,15 +18,15 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
@@ -34,7 +34,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "mn.callpro.shuurkhai",
   "title": "Shuurkhai 119",
-  "icon_url": "https://lh3.googleusercontent.com/YUKlgqJXI7TdsPQhcIlzqN2AH2QiSAXIhucKXb2X0nL2xR_0mPmyHhYLstMLMsOc09Er",
+  "icon_url": "https://play-lh.googleusercontent.com/YUKlgqJXI7TdsPQhcIlzqN2AH2QiSAXIhucKXb2X0nL2xR_0mPmyHhYLstMLMsOc09Er",
   "developer_id": "Communications and IT Authority",
   "updated_date": "2020-05-29",
   "downloads": "5,000+",
@@ -44,23 +44,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Change your audio settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -68,7 +52,23 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

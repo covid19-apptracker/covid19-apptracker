@@ -1,7 +1,7 @@
 {
   "id": "org.theviralapp.app1",
   "title": "Protego",
-  "icon_url": "https://lh3.googleusercontent.com/-Kgh1wcNwvxdwCDGAF2eTUez77H9ROztJs7pFdLDZ8PZ86F5YcbMf7fb0ZsJ2e7Ho9U",
+  "icon_url": "https://play-lh.googleusercontent.com/-Kgh1wcNwvxdwCDGAF2eTUez77H9ROztJs7pFdLDZ8PZ86F5YcbMf7fb0ZsJ2e7Ho9U",
   "developer_id": "Protego App Ltd",
   "updated_date": "2020-05-30",
   "downloads": "1,000+",
@@ -22,14 +22,6 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
@@ -38,15 +30,23 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Prevent device from sleeping",
         "isDangerous": 0
       },
       {
-        "permissionName": "View network connections",
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

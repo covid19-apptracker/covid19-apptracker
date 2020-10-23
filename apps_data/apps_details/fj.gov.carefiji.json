@@ -1,7 +1,7 @@
 {
   "id": "fj.gov.carefiji",
   "title": "careFIJI",
-  "icon_url": "https://lh3.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
+  "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
   "developer_id": "Government of the Republic of Fiji",
   "updated_date": "2020-09-12",
   "downloads": "50,000+",
@@ -18,23 +18,11 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -42,11 +30,23 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "View network connections",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

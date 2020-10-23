@@ -1,7 +1,7 @@
 {
   "id": "ec.gob.asi.android",
   "title": "ASI",
-  "icon_url": "https://lh3.googleusercontent.com/yVmhVhI1rRyuTp8ohYg99hTs0ybG0whv9U_kjZTU6NCrpO6fICl6NT3hhvzyeuBB3dY",
+  "icon_url": "https://play-lh.googleusercontent.com/yVmhVhI1rRyuTp8ohYg99hTs0ybG0whv9U_kjZTU6NCrpO6fICl6NT3hhvzyeuBB3dY",
   "developer_id": "Ministerio de Telecomunicaciones Ecuador",
   "updated_date": "2020-08-30",
   "downloads": "500,000+",
@@ -12,15 +12,11 @@
   "permissions": {
     "Other": [
       {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -29,6 +25,10 @@
       },
       {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

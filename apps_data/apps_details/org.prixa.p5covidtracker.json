@@ -1,7 +1,7 @@
 {
   "id": "org.prixa.p5covidtracker",
   "title": "Province 5 COVID-19 Tracker",
-  "icon_url": "https://lh3.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
+  "icon_url": "https://play-lh.googleusercontent.com/heL2tuR3sqjh5E5WRj8SQcD2GH3rv3mw3HpWuB5zVAVRlBw3OFnUoZ6keO8Mi34C8ok",
   "developer_id": "8818240120731662306",
   "updated_date": "2020-04-02",
   "downloads": "10,000+",
@@ -28,19 +28,19 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

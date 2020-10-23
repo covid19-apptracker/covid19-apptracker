@@ -1,7 +1,7 @@
 {
   "id": "com.panafricare.lasante",
   "title": "Lasante - Seychelles Coronavirus Tool",
-  "icon_url": "https://lh3.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
+  "icon_url": "https://play-lh.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
   "developer_id": "7481984480845694382",
   "updated_date": "2020-07-10",
   "downloads": "1,000+",
@@ -22,11 +22,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
@@ -34,15 +30,19 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

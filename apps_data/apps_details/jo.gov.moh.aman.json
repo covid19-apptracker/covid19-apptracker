@@ -1,7 +1,7 @@
 {
   "id": "jo.gov.moh.aman",
   "title": "AMAN - Aman.jo JORDAN APP COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
+  "icon_url": "https://play-lh.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
   "developer_id": "Jordan eGov Program",
   "updated_date": "2020-05-24",
   "downloads": "1,000,000+",
@@ -10,29 +10,29 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=jo.gov.moh.aman",
   "dangerous_permissions_count": 6,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
     "Device & app history": [
       {
         "permissionName": "Retrieve running apps",
         "isDangerous": 0
       }
     ],
-    "Storage": [
+    "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
         "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -44,25 +44,21 @@
     ],
     "Location": [
       {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      },
-      {
         "permissionName": "Access extra location provider commands",
         "isDangerous": 0
       },
       {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
       }
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
+        "permissionName": "Change network connectivity",
         "isDangerous": 0
       },
       {
@@ -70,11 +66,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Full network access",
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
-        "permissionName": "Change network connectivity",
+        "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
@@ -82,15 +78,19 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Prevent device from sleeping",
         "isDangerous": 0
       },
       {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

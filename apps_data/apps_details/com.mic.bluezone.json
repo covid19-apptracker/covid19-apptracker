@@ -1,7 +1,7 @@
 {
   "id": "com.mic.bluezone",
   "title": "Bluezone - Contact detection",
-  "icon_url": "https://lh3.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
+  "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
   "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
   "updated_date": "2020-10-05",
   "downloads": "10,000,000+",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -30,10 +36,10 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
+    "Wi-Fi connection information": [
       {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Location": [
@@ -44,12 +50,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [

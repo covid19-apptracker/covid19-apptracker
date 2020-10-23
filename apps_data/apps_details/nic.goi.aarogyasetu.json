@@ -1,7 +1,7 @@
 {
   "id": "nic.goi.aarogyasetu",
   "title": "Aarogya Setu",
-  "icon_url": "https://lh3.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
+  "icon_url": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
   "developer_id": "9076108670215860604",
   "updated_date": "2020-07-08",
   "downloads": "100,000,000+",
@@ -28,18 +28,6 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
@@ -48,11 +36,23 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

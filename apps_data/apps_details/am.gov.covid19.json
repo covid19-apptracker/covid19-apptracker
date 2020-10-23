@@ -1,7 +1,7 @@
 {
   "id": "am.gov.covid19",
   "title": "Covid-19 Armenia",
-  "icon_url": "https://lh3.googleusercontent.com/fV87Fh5aU09J_ra7iESAfCC36urN8x0euXrw8nHVrIh56ESsFcZYyFusu54nPy-MEwM",
+  "icon_url": "https://play-lh.googleusercontent.com/fV87Fh5aU09J_ra7iESAfCC36urN8x0euXrw8nHVrIh56ESsFcZYyFusu54nPy-MEwM",
   "developer_id": "EKENG CJSC",
   "updated_date": "2020-04-08",
   "downloads": "50,000+",
@@ -30,15 +30,15 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {

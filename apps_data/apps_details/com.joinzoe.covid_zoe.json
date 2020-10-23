@@ -1,7 +1,7 @@
 {
   "id": "com.joinzoe.covid_zoe",
   "title": "COVID Symptom Study",
-  "icon_url": "https://lh3.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
+  "icon_url": "https://play-lh.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
   "developer_id": "Zoe Global Limited",
   "updated_date": "2020-06-10",
   "downloads": "1,000,000+",
@@ -18,23 +18,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Change your audio settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
         "isDangerous": 0
       },
       {
@@ -42,7 +26,23 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "tr.gov.saglik.hayatevesigar",
   "title": "Hayat Eve S\u0131\u011far",
-  "icon_url": "https://lh3.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
+  "icon_url": "https://play-lh.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
   "developer_id": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131",
   "updated_date": "2020-09-18",
   "downloads": "10,000,000+",
@@ -12,11 +12,11 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -28,11 +28,11 @@
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -66,18 +66,6 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
@@ -86,7 +74,7 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Run at startup",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -95,6 +83,18 @@
       },
       {
         "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]

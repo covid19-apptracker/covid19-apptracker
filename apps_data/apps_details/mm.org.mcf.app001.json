@@ -1,7 +1,7 @@
 {
   "id": "mm.org.mcf.app001",
   "title": "Saw Saw Shar",
-  "icon_url": "https://lh3.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
+  "icon_url": "https://play-lh.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
   "developer_id": "Myanmar Computer Federation (MCF)",
   "updated_date": "2020-09-26",
   "downloads": "100,000+",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -56,12 +56,12 @@
     ],
     "Location": [
       {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
         "permissionName": "Access extra location provider commands",
         "isDangerous": 0
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
       },
       {
         "permissionName": "Precise location (gps and network-based)",
@@ -70,7 +70,7 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
+        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
@@ -79,10 +79,6 @@
       },
       {
         "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Access bluetooth settings",
         "isDangerous": 0
       },
       {
@@ -98,11 +94,15 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "View network connections",
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
