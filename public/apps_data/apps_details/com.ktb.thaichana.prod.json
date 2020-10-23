@@ -1,7 +1,7 @@
 {
   "id": "com.ktb.thaichana.prod",
   "title": "Thaichana - \u0e44\u0e17\u0e22\u0e0a\u0e19\u0e30",
-  "icon_url": "https://lh3.googleusercontent.com/PpPwawlYza7IR_ZXBAtsDEFHlL0633bn5v5ovESHXdTnHzUYw_WKGf84RmmCkTCZANI",
+  "icon_url": "https://play-lh.googleusercontent.com/PpPwawlYza7IR_ZXBAtsDEFHlL0633bn5v5ovESHXdTnHzUYw_WKGf84RmmCkTCZANI",
   "developer_id": "Krungthai Bank PCL.",
   "updated_date": "2020-08-07",
   "downloads": "500,000+",
@@ -24,14 +24,6 @@
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Full network access",
         "isDangerous": 0
       },
@@ -41,6 +33,14 @@
       },
       {
         "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
