@@ -1,7 +1,7 @@
 {
   "id": "com.lympo.covid19",
   "title": "Karantinas",
-  "icon_url": "https://lh3.googleusercontent.com/8LJdoKfyth3WPZitg_TCDk-Y-dpHMs17vBSi93yGkK4H5gqWlFAoV_GuVJ1Y0cG2BsA",
+  "icon_url": "https://play-lh.googleusercontent.com/8LJdoKfyth3WPZitg_TCDk-Y-dpHMs17vBSi93yGkK4H5gqWlFAoV_GuVJ1Y0cG2BsA",
   "developer_id": "Vilnius",
   "updated_date": "2020-05-12",
   "downloads": "10,000+",
@@ -12,21 +12,21 @@
   "permissions": {
     "Photos/Media/Files": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
     "Storage": [
       {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
       },
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
+        "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
       }
     ],
@@ -68,41 +68,21 @@
     ],
     "Location": [
       {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      },
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
       }
     ],
     "Other": [
       {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Connect and disconnect from wi-fi",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Draw over other apps",
         "isDangerous": 0
       },
       {
@@ -110,7 +90,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Prevent device from sleeping",
+        "permissionName": "Draw over other apps",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
@@ -118,7 +102,23 @@
         "isDangerous": 0
       },
       {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
         "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
