@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
-import Matomo from "../analytics/Matomo";
 
+import Matomo from "../analytics/Matomo"; 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
-import logo from '../../img/logo_wht.svg';
-import loadingImg from '../../img/loading.gif';
+import DangerousPermissionsDialogue from '../DangerousPermissionsDialogue.js';
+import logo from '../../img/logo_wht.svg'; 
 import { faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -100,13 +100,13 @@ class AppPage extends Component {
         console.log(location);
         console.log(this.state.isLoaded)
     }
+ 
 
     render() {
 		return (
-			<div>
-                {/* <div>
-                    <img src={loadingImg} className="mx-auto" alt="logo" />
-                </div> */}
+            
+
+			<div> 
                 <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				<div
 					id="container"
@@ -170,24 +170,14 @@ class AppPage extends Component {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
 
                     <div id="appPermissions" className="pb-12">
                         <p className="font-bold text-sm pb-6">App Permissions</p>
 
-                        {/* DANGEROUS PERMISSIONS STYLING/PROPER LANGUAGE TO GO HERE
-                        ----------------------------------------------------------------------------------------------- */} 
-                        <div className="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-6 mb-6" role="alert">
-                            <p>
-                                <FontAwesomeIcon className="mr-1 text-orange-500" icon={faExclamationTriangle} size="md" /> <strong>Dangerous Permissions</strong>
-                            </p>
-                            <p>
-                                Number of dangerous permissions this application asks for: <strong>{this.props.dangerousPermissionsCount}</strong>    
-                            </p> 
-                            <a className="underline" href="https://developer.android.com/guide/topics/permissions/overview" target="_blank">
-                                What are dangerous permissions?   
-                            </a>  
-                        </div>
+                        {/* Only displays dangerous permissions callout if there are dangerous permissions to show. */} 
+                        {this.props.dangerousPermissionsCount != 0 ? <DangerousPermissionsDialogue
+                            count = {this.props.dangerousPermissionsCount} /> : null}  
                         <div className="flex grid grid-cols-1 sm:grid-cols-2 base-text">
                             {this.createPermissions()}
                         </div>
@@ -203,13 +193,14 @@ class AppPage extends Component {
                                 </p>                           
                             </div>
                         </div>
-                    </div>
-
-				</div>
-				{/* <Footer /> */}
+                    </div> 
+				</div> 
 			</div>
 		);
-	}
+    }
 }
+
+
+
 
 export default AppPage;
