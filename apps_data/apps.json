@@ -344,7 +344,7 @@
     "title": "Corona Check Screening",
     "icon_url": "https://play-lh.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
     "developer_id": "TRI Initiative in cooperation with UKW W\u00fcrzburg",
-    "updated_date": "2020-08-07",
+    "updated_date": "2020-11-03",
     "downloads": "50,000+",
     "country": "DE",
     "dangerous_permissions_count": 2
@@ -754,7 +754,7 @@
     "title": "Symptomate \u2013 Symptom checker",
     "icon_url": "https://play-lh.googleusercontent.com/UVPEq6QSxc6c0aKE7kEDWxRVGNl2z3iicO6sS8XolFaSL1Z-TI5NVtkRIQqbMUIg4g",
     "developer_id": "Infermedica",
-    "updated_date": "2020-10-05",
+    "updated_date": "2020-11-04",
     "downloads": "100,000+",
     "country": "PL",
     "dangerous_permissions_count": 0
@@ -934,7 +934,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-11-03",
+    "updated_date": "2020-11-04",
     "downloads": "1,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1154,7 +1154,7 @@
     "title": "COCOA - COVID-19 Contact App",
     "icon_url": "https://play-lh.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
-    "updated_date": "2020-09-25",
+    "updated_date": "2020-10-30",
     "downloads": "5,000,000+",
     "country": "JP",
     "dangerous_permissions_count": 0
@@ -1237,7 +1237,7 @@
     "updated_date": "2020-10-31",
     "downloads": "50,000+",
     "country": "MX",
-    "dangerous_permissions_count": 3
+    "dangerous_permissions_count": 2
   },
   {
     "id": "mx.gob.tamaulipas.covid19",
@@ -1435,7 +1435,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
     "developer_id": "Ministerstwo Cyfryzacji",
     "updated_date": "2020-10-19",
-    "downloads": "500,000+",
+    "downloads": "1,000,000+",
     "country": "PL",
     "dangerous_permissions_count": 12
   },
