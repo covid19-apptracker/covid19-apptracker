@@ -8,7 +8,7 @@
   "country": "MX",
   "description": "Con esta aplicaci\u00f3n, quien resulte positivo con Covid19 ya no solo se basar\u00e1 en su memoria para alertar a aquellas personas con las que ha tenido contacto en d\u00edas previos, ya que esta herramienta tecnol\u00f3gica ayudar\u00e1 a detectar y alertar a toda persona con la que haya estado en contacto en los \u00faltimos 14 d\u00edas, tanto de forma directa (familiares, amistades, conocidos) como indirecta (personas al azar en supermercados, farmacias, oficinas, elevadores, entre otros lugares p\u00fablicos), notific\u00e1ndoles de esta situaci\u00f3n, garantizando en todo caso el anonimato. Ello ayudar\u00e1 con mayor eficiencia a minimizar la propagaci\u00f3n del virus y con ello, a salvar vidas. Es un proceso an\u00f3nimo y confidencial.",
   "app_store_url": "https://play.google.com/store/apps/details?id=mx.covidradar.radar",
-  "dangerous_permissions_count": 3,
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Device & app history": [
       {
@@ -16,10 +16,10 @@
         "isDangerous": 0
       }
     ],
-    "Camera": [
+    "Wi-Fi connection information": [
       {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Location": [
@@ -30,12 +30,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
@@ -53,10 +47,6 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
