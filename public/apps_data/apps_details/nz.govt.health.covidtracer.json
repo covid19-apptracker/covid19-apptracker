@@ -10,6 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=nz.govt.health.covidtracer",
   "dangerous_permissions_count": 1,
   "permissions": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Camera": [
       {
         "permissionName": "Take pictures and videos",
