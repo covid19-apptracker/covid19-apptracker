@@ -424,7 +424,7 @@
     "title": "NOVID",
     "icon_url": "https://play-lh.googleusercontent.com/J7JeUMkjDaKCW928Y7fT-7GIbq65e3NHnfqblq71DVkwnPLfSR5UZcvcQvtUIArPiIU",
     "developer_id": "Expii, Inc.",
-    "updated_date": "2020-10-29",
+    "updated_date": "2020-11-11",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 3
@@ -484,7 +484,7 @@
     "title": "Shlonik - \u0634\u0644\u0648\u0646\u0643",
     "icon_url": "https://play-lh.googleusercontent.com/4zPmhXoq1oMVmjPEgIl__IsYaoblpUyUNHDdk77jWQsVVkWWWZW3Azv9fTzWvw_xsw",
     "developer_id": "Kuwait Central Agency for Information Technology",
-    "updated_date": "2020-11-06",
+    "updated_date": "2020-11-11",
     "downloads": "100,000+",
     "country": "KW",
     "dangerous_permissions_count": 11
@@ -824,7 +824,7 @@
     "title": "eRou\u0161ka - Part of Smart Quarantine",
     "icon_url": "https://play-lh.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
     "developer_id": "6973241785916756870",
-    "updated_date": "2020-10-18",
+    "updated_date": "2020-11-11",
     "downloads": "1,000,000+",
     "country": "CZ",
     "dangerous_permissions_count": 0
@@ -844,7 +844,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2020-10-26",
+    "updated_date": "2020-11-09",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -1254,7 +1254,7 @@
     "title": "COVID-19MX",
     "icon_url": "https://play-lh.googleusercontent.com/lo1klwGRrCc8mhLmTCxIg8sBsppq4NbyWvzTqwX95fWMt3DUHWyt697HGniV2O2jdEc",
     "developer_id": "Secretar\u00eda de Salud MX",
-    "updated_date": "2020-05-26",
+    "updated_date": "2020-11-10",
     "downloads": "500,000+",
     "country": "MX",
     "dangerous_permissions_count": 8
@@ -1472,7 +1472,7 @@
   {
     "id": "tn.onmne.e7mi",
     "title": "E7mi - \u0625\u062d\u0645\u064a",
-    "icon_url": "https://lh3.googleusercontent.com/RTvf-nzORwvqdIlJ1zeV1DvKA1VAsiynsemSF_8_f_YLwKjsnNZ7nmi58dKCjNqqAiI",
+    "icon_url": "https://play-lh.googleusercontent.com/RTvf-nzORwvqdIlJ1zeV1DvKA1VAsiynsemSF_8_f_YLwKjsnNZ7nmi58dKCjNqqAiI",
     "developer_id": "ONMNE Tunisie",
     "updated_date": "2020-05-22",
     "downloads": "50,000+",
