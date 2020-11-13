@@ -3,7 +3,7 @@
   "title": "MyHealth Sri Lanka",
   "icon_url": "https://play-lh.googleusercontent.com/kgLrGEywCX9vqFVw_ZaGYM6uNMbDPiTKr9ZiRfnN9udIwI811UT0YmcwOX-G3l9eLw",
   "developer_id": "ICTA Sri Lanka",
-  "updated_date": "2020-05-24",
+  "updated_date": "2020-11-12",
   "downloads": "10,000+",
   "country": "LK",
   "description": "Welcome to the MyHealth Sri Lanka  app! This app allows Sri Lankan citizens to subscribe to: -   A news feed that shares verified information on the current COVID-19 status within the country. -   Data shared by medical authorities on the current cases of COVID-19 patients within the country. You are prompted to record your location at the time of using the application. Therefore, it is recommended that you consent to use the location service when installing the app. The details of your location are saved locally on your device, and it will never be shared externally. When an individual who has contracted the virus is detected, the location of the individual is shared with all other users. This effort is made possible with the collaboration of the Ministry of Health, Indigenous Medical Services, and Information and Communication Technology Agency of Sri Lanka (ICTA). This mobile app was built with the kind contribution of many #GovTechLK volunteers. Source code for this mobile app is opensource, and can be found at https://github.com/ICTASL/MyHealthApp/",
@@ -36,12 +36,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -50,6 +44,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
