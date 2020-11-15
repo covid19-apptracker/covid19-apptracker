@@ -344,7 +344,7 @@
     "title": "Corona Check Screening",
     "icon_url": "https://play-lh.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
     "developer_id": "TRI Initiative in cooperation with UKW W\u00fcrzburg",
-    "updated_date": "2020-11-03",
+    "updated_date": "2020-11-13",
     "downloads": "50,000+",
     "country": "DE",
     "dangerous_permissions_count": 2
@@ -524,10 +524,10 @@
     "title": "COVID Symptom Study",
     "icon_url": "https://play-lh.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
     "developer_id": "Zoe Global Limited",
-    "updated_date": "2020-06-10",
+    "updated_date": "2020-11-13",
     "downloads": "1,000,000+",
     "country": "GB",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 13
   },
   {
     "id": "com.knasirayaz.mohapcovid",
@@ -715,7 +715,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/_dfi0uCY0AomGf-Te8Iai0tJZYdttfq28OabiBkpiMuga-xiff_DG0NR3s9ckzB19g",
     "developer_id": "Palm Beach County BoCC",
     "updated_date": "2020-08-28",
-    "downloads": "1,000+",
+    "downloads": "5,000+",
     "country": "US",
     "dangerous_permissions_count": 1
   },
@@ -924,7 +924,7 @@
     "title": "careFIJI",
     "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
     "developer_id": "Government of the Republic of Fiji",
-    "updated_date": "2020-09-12",
+    "updated_date": "2020-11-14",
     "downloads": "50,000+",
     "country": "FJ",
     "dangerous_permissions_count": 1
@@ -935,7 +935,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
     "updated_date": "2020-11-13",
-    "downloads": "1,000,000+",
+    "downloads": "5,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
   },
