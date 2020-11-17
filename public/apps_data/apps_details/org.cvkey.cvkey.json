@@ -20,12 +20,6 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -36,6 +30,18 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Other": [
       {
         "permissionName": "Control vibration",
@@ -43,6 +49,10 @@
       },
       {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
         "isDangerous": 0
       },
       {
