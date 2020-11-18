@@ -234,7 +234,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2020-10-23",
+    "updated_date": "2020-11-17",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 3
@@ -367,7 +367,7 @@
     "updated_date": "2020-10-27",
     "downloads": "500,000+",
     "country": "IE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 1
   },
   {
     "id": "com.cspire.telehealth",
@@ -424,7 +424,7 @@
     "title": "NOVID",
     "icon_url": "https://play-lh.googleusercontent.com/J7JeUMkjDaKCW928Y7fT-7GIbq65e3NHnfqblq71DVkwnPLfSR5UZcvcQvtUIArPiIU",
     "developer_id": "Expii, Inc.",
-    "updated_date": "2020-11-11",
+    "updated_date": "2020-11-17",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 3
@@ -844,7 +844,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2020-11-09",
+    "updated_date": "2020-11-16",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -934,7 +934,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-11-13",
+    "updated_date": "2020-11-17",
     "downloads": "5,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1214,7 +1214,7 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://play-lh.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-09-26",
+    "updated_date": "2020-11-17",
     "downloads": "100,000+",
     "country": "MM",
     "dangerous_permissions_count": 9
