@@ -435,7 +435,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/Ren8jOghqCc3YpcOvGsyGdyuPywiC4CuXMYgiODxZwZmz7d6uQMyo8X5EDIla2rY71U",
     "developer_id": "Family Hospital",
     "updated_date": "2020-04-01",
-    "downloads": "500+",
+    "downloads": "1,000+",
     "country": "VN",
     "dangerous_permissions_count": 0
   },
@@ -1224,10 +1224,10 @@
     "title": "Shuurkhai 119",
     "icon_url": "https://play-lh.googleusercontent.com/YUKlgqJXI7TdsPQhcIlzqN2AH2QiSAXIhucKXb2X0nL2xR_0mPmyHhYLstMLMsOc09Er",
     "developer_id": "Communications and IT Authority",
-    "updated_date": "2020-10-30",
+    "updated_date": "2020-11-18",
     "downloads": "5,000+",
     "country": "MN",
-    "dangerous_permissions_count": 6
+    "dangerous_permissions_count": 7
   },
   {
     "id": "mx.covidradar.radar",
