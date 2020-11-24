@@ -154,7 +154,7 @@
     "title": "COVID Alert",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-11-06",
+    "updated_date": "2020-11-23",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 0
@@ -422,7 +422,7 @@
   {
     "id": "com.expii.novid",
     "title": "NOVID",
-    "icon_url": "https://play-lh.googleusercontent.com/J7JeUMkjDaKCW928Y7fT-7GIbq65e3NHnfqblq71DVkwnPLfSR5UZcvcQvtUIArPiIU",
+    "icon_url": "https://play-lh.googleusercontent.com/FpKqgwEEspWc_1ZxWh4fs0ONx8vflwR4-mikqOf8GRWhwSlzSJHUmdi5bF0Gfx5aMY4",
     "developer_id": "Expii, Inc.",
     "updated_date": "2020-11-18",
     "downloads": "10,000+",
@@ -1175,7 +1175,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/h1EatEWD7cJu1LqcOd7g6sdR604Lzp6HVGOLhfTmgRRYu1pVDQ0JxjPEgENy_DJ1Y40",
     "developer_id": "\ud589\uc815\uc548\uc804\ubd80",
     "updated_date": "2020-10-12",
-    "downloads": "100,000+",
+    "downloads": "500,000+",
     "country": "KR",
     "dangerous_permissions_count": 9
   },
@@ -1214,7 +1214,7 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://play-lh.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-11-17",
+    "updated_date": "2020-11-23",
     "downloads": "100,000+",
     "country": "MM",
     "dangerous_permissions_count": 9
