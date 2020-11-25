@@ -1,6 +1,6 @@
 {
   "id": "org.pathcheck.covidsafepaths",
-  "title": "PathCheck SafePlaces",
+  "title": "SafePlaces",
   "icon_url": "https://play-lh.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
   "developer_id": "Path Check, Inc",
   "updated_date": "2020-08-05",
@@ -36,6 +36,12 @@
         "isDangerous": 1
       }
     ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Location": [
       {
         "permissionName": "Access extra location provider commands",
@@ -48,12 +54,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [

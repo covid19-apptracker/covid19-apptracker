@@ -44,7 +44,7 @@
     "title": "MyHealth Sri Lanka",
     "icon_url": "https://play-lh.googleusercontent.com/kgLrGEywCX9vqFVw_ZaGYM6uNMbDPiTKr9ZiRfnN9udIwI811UT0YmcwOX-G3l9eLw",
     "developer_id": "ICTA Sri Lanka",
-    "updated_date": "2020-11-12",
+    "updated_date": "2020-11-23",
     "downloads": "10,000+",
     "country": "LK",
     "dangerous_permissions_count": 7
@@ -914,7 +914,7 @@
     "title": "Koronavilkku",
     "icon_url": "https://play-lh.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
-    "updated_date": "2020-10-27",
+    "updated_date": "2020-11-23",
     "downloads": "1,000,000+",
     "country": "FI",
     "dangerous_permissions_count": 0
@@ -1224,7 +1224,7 @@
     "title": "Shuurkhai 119",
     "icon_url": "https://play-lh.googleusercontent.com/Cda0UQy4GBYE66hL49CWkfQUrEevJo9XRccgMRh0_8JxNdm-qbKP3WvjJt6Ii6vcf68",
     "developer_id": "Communications and IT Authority",
-    "updated_date": "2020-11-21",
+    "updated_date": "2020-11-24",
     "downloads": "5,000+",
     "country": "MN",
     "dangerous_permissions_count": 7
@@ -1371,7 +1371,7 @@
   },
   {
     "id": "org.pathcheck.covidsafepaths",
-    "title": "PathCheck SafePlaces",
+    "title": "SafePlaces",
     "icon_url": "https://play-lh.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
     "developer_id": "Path Check, Inc",
     "updated_date": "2020-08-05",
@@ -1384,7 +1384,7 @@
     "title": "Guam Covid Alert",
     "icon_url": "https://play-lh.googleusercontent.com/1vdQ3DhLgTCDxaBBShJBfsV6z-sqXuXafzDyRXeqd9p8PzqLB1h25c-LFulcGJVm7ao",
     "developer_id": "Otech Developer",
-    "updated_date": "2020-10-15",
+    "updated_date": "2020-11-17",
     "downloads": "5,000+",
     "country": "GU",
     "dangerous_permissions_count": 0
@@ -1424,7 +1424,7 @@
     "title": "STOP COVID - ProteGO Safe",
     "icon_url": "https://play-lh.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
     "developer_id": "Ministerstwo Cyfryzacji",
-    "updated_date": "2020-11-12",
+    "updated_date": "2020-11-24",
     "downloads": "1,000,000+",
     "country": "PL",
     "dangerous_permissions_count": 0
