@@ -1,0 +1,40 @@
+{
+  "id": "gov.co.cdphe.exposurenotifications",
+  "title": "CO Exposure Notifications",
+  "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
+  "developer_id": "Colorado Department of Public Health & Environment",
+  "updated_date": "2020-10-23",
+  "downloads": "100,000+",
+  "country": "CO",
+  "description": "Exposure Notifications is a voluntary new service available on both iPhone and Android phones that helps slow the spread of COVID-19. If you have enabled Exposure Notifications on your phone, whenever you are within close proximity (approximately 6 feet of someone for at least 10 minutes), your phones will exchange secure, anonymous tokens. If you test positive for COVID-19, you can share these anonymous tokens, which will send a notification to anyone with whom you have exchanged tokens with recently, notifying them of possible exposure. The service is available nationwide, but will be customized for Colorado. This service does not collect any personally identifying information or share it with the State of Colorado, your Local Public Health Agency, Apple, or Google.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=gov.co.cdphe.exposurenotifications",
+  "dangerous_permissions_count": 0,
+  "permissions": {
+    "Other": [
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
+    ]
+  },
+  "developer_url": "https://covid19.colorado.gov/Exposure-notifications",
+  "available": true,
+  "first_time_seen": "2020-12-07",
+  "privacy_policy": "https://www.colorado.gov/pacific/cdphe/exposure-notifications-privacy-policy"
+}
