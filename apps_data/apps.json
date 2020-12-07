@@ -710,6 +710,16 @@
     "dangerous_permissions_count": 1
   },
   {
+    "id": "com.shield.CombatCovidMD",
+    "title": "CombatCOVID MDC",
+    "icon_url": "https://play-lh.googleusercontent.com/JhdX4xyMQ5MgY-t3FJ8Q8t7JtPvf7KlmSC8eARdZ5jdsnTc8iU9ErMzp3VUmVbzX-Ss",
+    "developer_id": "Miami-Dade County",
+    "updated_date": "2020-11-19",
+    "downloads": "1,000+",
+    "country": "",
+    "dangerous_permissions_count": 1
+  },
+  {
     "id": "com.shield.CombatCovidPBC",
     "title": "CombatCOVID PBC",
     "icon_url": "https://play-lh.googleusercontent.com/_dfi0uCY0AomGf-Te8Iai0tJZYdttfq28OabiBkpiMuga-xiff_DG0NR3s9ckzB19g",
@@ -960,13 +970,43 @@
     "dangerous_permissions_count": 0
   },
   {
+    "id": "gov.co.cdphe.exposurenotifications",
+    "title": "CO Exposure Notifications",
+    "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
+    "developer_id": "Colorado Department of Public Health & Environment",
+    "updated_date": "2020-10-23",
+    "downloads": "100,000+",
+    "country": "CO",
+    "dangerous_permissions_count": 0
+  },
+  {
+    "id": "gov.ct.covid19.exposurenotifications",
+    "title": "COVID Alert CT",
+    "icon_url": "https://play-lh.googleusercontent.com/iF3uoZ9W32FLPBS34fKkoIsn8akUr2NP5xf-3gUIN4qgbZ6IAVuUEtz8bg5wgjvipLg",
+    "developer_id": "7682186545769631479",
+    "updated_date": "2020-11-24",
+    "downloads": "50,000+",
+    "country": "",
+    "dangerous_permissions_count": 0
+  },
+  {
+    "id": "gov.dc.covid19.exposurenotifications",
+    "title": "DC CAN",
+    "icon_url": "https://play-lh.googleusercontent.com/3M1pyqRWONV2kbTqo21RYNctyarpBuZYl_345ed_eLfYkSNPe9UlqQKKWmOrJY6qnw",
+    "developer_id": "DC Exposure Notifications",
+    "updated_date": "2020-11-30",
+    "downloads": "10,000+",
+    "country": "",
+    "dangerous_permissions_count": 0
+  },
+  {
     "id": "gov.de.covidtracker",
     "title": "Covid Alert DE",
     "icon_url": "https://play-lh.googleusercontent.com/Dmp9LWljNvHUthiwys_hh9MiKwbH2QiiFPe_y2RxrNEURuOhXGTYwY7niC7I_NN4Zhs",
     "developer_id": "Delaware Department of Health and Social Services",
     "updated_date": "2020-10-01",
     "downloads": "10,000+",
-    "country": "DE",
+    "country": "US",
     "dangerous_permissions_count": 0
   },
   {
@@ -980,13 +1020,33 @@
     "dangerous_permissions_count": 2
   },
   {
+    "id": "gov.md.covid19.exposurenotifications",
+    "title": "MD COVID Alert",
+    "icon_url": "https://play-lh.googleusercontent.com/PwxpgXDCYuOBjVP6Whjbp57S2LvnC2bM55CL8zd8xlPGD07QttJtHlinHhmJ77mtvw8",
+    "developer_id": "Maryland Department of Health",
+    "updated_date": "2020-11-24",
+    "downloads": "100,000+",
+    "country": "MD",
+    "dangerous_permissions_count": 0
+  },
+  {
+    "id": "gov.michigan.MiCovidExposure",
+    "title": "MI COVID Alert",
+    "icon_url": "https://play-lh.googleusercontent.com/s3tzxcp6Sa1RUQdMAzOtW2ynII2v8CllJFE57OMYnpNTFupFgmjbN5AKUTtbh_pRgg",
+    "developer_id": "State of Michigan",
+    "updated_date": "2020-11-20",
+    "downloads": "100,000+",
+    "country": "",
+    "dangerous_permissions_count": 0
+  },
+  {
     "id": "gov.nc.dhhs.exposurenotification",
     "title": "SlowCOVIDNC",
     "icon_url": "https://play-lh.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
     "developer_id": "NC Department of Health and Human Services",
     "updated_date": "2020-11-05",
     "downloads": "100,000+",
-    "country": "NC",
+    "country": "US",
     "dangerous_permissions_count": 0
   },
   {
@@ -1016,7 +1076,7 @@
     "developer_id": "Commonwealth of Pennsylvania",
     "updated_date": "2020-11-27",
     "downloads": "100,000+",
-    "country": "PA",
+    "country": "US",
     "dangerous_permissions_count": 0
   },
   {
@@ -1058,6 +1118,16 @@
     "downloads": "5,000+",
     "country": "NZ",
     "dangerous_permissions_count": 4
+  },
+  {
+    "id": "hk.gov.ogcio.leavehomesafe",
+    "title": "LeaveHomeSafe",
+    "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
+    "developer_id": "GovHK, OGCIO, HKSARG",
+    "updated_date": "2020-11-28",
+    "downloads": "100,000+",
+    "country": "HK",
+    "dangerous_permissions_count": 1
   },
   {
     "id": "hu.gov.virusradar",
