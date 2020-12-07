@@ -5,7 +5,7 @@
   "developer_id": "Miami-Dade County",
   "updated_date": "2020-11-19",
   "downloads": "1,000+",
-  "country": "",
+  "country": "US",
   "description": "CombatCOVID MDC app is for Miami-Dade County coverage. CombatCOVID is the Official COVID-19 notification and information app of the County Government of Miami-Dade County, Florida, a diverse community of over 2.7 million people. Unlike other apps, CombatCOVID has never used GPS or location notification in its architecture. The app user\u2019s privacy and identity are protected. No names, emails addresses, locations or personally identifying information is required. There is never any location or identity information acquired by CombatCOVID. The CombatCOVID app uses Bluetooth signals to determine if you are near another user. All users who have been in close proximity to a COVID-19 positive person will be notified by a push notification recommending they get tested immediately, without revealing anyone\u2019s personal identity. Suggested locations for testing are also provided. Your device\u2019s phone number is encrypted and never shared with anyone, including local health officials. All data and Information about the device being in close proximity with another device is ONLY stored on the device. Access to the data indicating the device\u2019s user may have tested positive is only shared IF/WHEN the user chooses to share it. IF the user does choose to share a COVID-19 positive result, they are still totally PRIVACY PROTECTED.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.shield.CombatCovidMD",
   "dangerous_permissions_count": 1,
