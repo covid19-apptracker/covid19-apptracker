@@ -970,6 +970,16 @@
     "dangerous_permissions_count": 0
   },
   {
+    "id": "gov.ca.covid19.exposurenotifications",
+    "title": "California COVID Notify",
+    "icon_url": "https://play-lh.googleusercontent.com/U_8utZbCUtrZEVPehzK1HbcIa83fC7xNZ3N2mWVKE6ZRcliwvxq7Y25Nkharhq5spMxk",
+    "developer_id": "CA Dept of Technology",
+    "updated_date": "2020-11-24",
+    "downloads": "10,000+",
+    "country": "US",
+    "dangerous_permissions_count": 0
+  },
+  {
     "id": "gov.co.cdphe.exposurenotifications",
     "title": "CO Exposure Notifications",
     "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
