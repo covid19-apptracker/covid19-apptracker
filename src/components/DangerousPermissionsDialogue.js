@@ -7,9 +7,9 @@ class DangerousPermissionsDialogue extends Component {
 
     render() {
         return (
-            <div className="bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-6 mb-6 flex" role="alert">
+            <div className="bg-orange-100 border-l-4 border-orange-600 text-orange-600 px-6 py-4 mb-6 flex" role="alert">
                 <div className="mr-2">
-                    <FontAwesomeIcon className="mr-1 text-orange-500" icon={faExclamationTriangle} size="md" />
+                    <FontAwesomeIcon className="mr-1 text-orange-600" icon={faExclamationTriangle} size="md" />
                 </div>
                 <div>
                     <p>
