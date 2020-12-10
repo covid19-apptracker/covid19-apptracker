@@ -367,7 +367,7 @@
     "updated_date": "2020-10-27",
     "downloads": "500,000+",
     "country": "IE",
-    "dangerous_permissions_count": 1
+    "dangerous_permissions_count": 0
   },
   {
     "id": "com.cspire.telehealth",
@@ -971,10 +971,10 @@
   },
   {
     "id": "gov.ca.covid19.exposurenotifications",
-    "title": "California COVID Notify",
-    "icon_url": "https://play-lh.googleusercontent.com/U_8utZbCUtrZEVPehzK1HbcIa83fC7xNZ3N2mWVKE6ZRcliwvxq7Y25Nkharhq5spMxk",
+    "title": "CA Notify",
+    "icon_url": "https://play-lh.googleusercontent.com/SuAbGxnXAhkAEfYTWrIxqLzOSaqtN40SUVkxOA5Gblf3v5MxrFGMSuwvE2tCm3I9CQ",
     "developer_id": "CA Dept of Technology",
-    "updated_date": "2020-11-24",
+    "updated_date": "2020-12-08",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1014,7 +1014,7 @@
     "title": "Covid Alert DE",
     "icon_url": "https://play-lh.googleusercontent.com/Dmp9LWljNvHUthiwys_hh9MiKwbH2QiiFPe_y2RxrNEURuOhXGTYwY7niC7I_NN4Zhs",
     "developer_id": "Delaware Department of Health and Social Services",
-    "updated_date": "2020-10-01",
+    "updated_date": "2020-12-08",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1424,7 +1424,7 @@
     "title": "NZ COVID Tracer",
     "icon_url": "https://play-lh.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
     "developer_id": "Ministry of Health NZ",
-    "updated_date": "2020-11-20",
+    "updated_date": "2020-12-07",
     "downloads": "1,000,000+",
     "country": "NZ",
     "dangerous_permissions_count": 1
@@ -1465,7 +1465,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/1vdQ3DhLgTCDxaBBShJBfsV6z-sqXuXafzDyRXeqd9p8PzqLB1h25c-LFulcGJVm7ao",
     "developer_id": "Otech Developer",
     "updated_date": "2020-11-17",
-    "downloads": "5,000+",
+    "downloads": "10,000+",
     "country": "GU",
     "dangerous_permissions_count": 0
   },
@@ -1494,7 +1494,7 @@
     "title": "StaySafe PH",
     "icon_url": "https://play-lh.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
     "developer_id": "Multisys Technologies Corporation",
-    "updated_date": "2020-09-28",
+    "updated_date": "2020-12-09",
     "downloads": "100,000+",
     "country": "PH",
     "dangerous_permissions_count": 9
