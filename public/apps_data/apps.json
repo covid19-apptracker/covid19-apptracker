@@ -834,7 +834,7 @@
     "title": "eRou\u0161ka - Part of Smart Quarantine",
     "icon_url": "https://play-lh.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
     "developer_id": "6973241785916756870",
-    "updated_date": "2020-12-09",
+    "updated_date": "2020-12-11",
     "downloads": "1,000,000+",
     "country": "CZ",
     "dangerous_permissions_count": 0
@@ -984,7 +984,7 @@
     "title": "CO Exposure Notifications",
     "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
     "developer_id": "Colorado Department of Public Health & Environment",
-    "updated_date": "2020-10-23",
+    "updated_date": "2020-12-07",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1094,7 +1094,7 @@
     "title": "Protect Scotland",
     "icon_url": "https://play-lh.googleusercontent.com/l61Y45bG4-IVkBdFMJJnr9_buLB0pMMzKt-t3VbDrnSSzNLgiu9mpfKUEZTiXzfmG5w",
     "developer_id": "NHS Education for Scotland",
-    "updated_date": "2020-10-08",
+    "updated_date": "2020-12-10",
     "downloads": "500,000+",
     "country": "GB",
     "dangerous_permissions_count": 0
@@ -1414,7 +1414,7 @@
     "title": "Hamro Swasthya",
     "icon_url": "https://play-lh.googleusercontent.com/Ti9DD7ky73C3N3DC5RbSODRCaK6-IFHux6-Mw4vFzZjfWbbX4TX0gRNSqbt-diOEVA",
     "developer_id": "Ministry of Health and Population",
-    "updated_date": "2020-10-13",
+    "updated_date": "2020-12-13",
     "downloads": "100,000+",
     "country": "NP",
     "dangerous_permissions_count": 6
@@ -1494,10 +1494,10 @@
     "title": "StaySafe PH",
     "icon_url": "https://play-lh.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
     "developer_id": "Multisys Technologies Corporation",
-    "updated_date": "2020-12-09",
+    "updated_date": "2020-12-14",
     "downloads": "100,000+",
     "country": "PH",
-    "dangerous_permissions_count": 9
+    "dangerous_permissions_count": 8
   },
   {
     "id": "pl.gov.mc.protegosafe",
