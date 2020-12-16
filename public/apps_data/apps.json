@@ -87,7 +87,7 @@
     "updated_date": "2020-11-06",
     "downloads": "1,000,000+",
     "country": "AU",
-    "dangerous_permissions_count": 1
+    "dangerous_permissions_count": 2
   },
   {
     "id": "bg.government.virusafe",
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2020-11-25",
+    "updated_date": "2020-12-15",
     "downloads": "5,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -975,7 +975,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/SuAbGxnXAhkAEfYTWrIxqLzOSaqtN40SUVkxOA5Gblf3v5MxrFGMSuwvE2tCm3I9CQ",
     "developer_id": "CA Dept of Technology",
     "updated_date": "2020-12-11",
-    "downloads": "100,000+",
+    "downloads": "500,000+",
     "country": "US",
     "dangerous_permissions_count": 0
   },
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2020-11-27",
+    "updated_date": "2020-12-14",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
