@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2020-11-06",
+    "updated_date": "2020-12-18",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -154,7 +154,7 @@
     "title": "COVID Alert - Let\u2019s protect each other",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-12-10",
+    "updated_date": "2020-12-18",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 0
@@ -305,7 +305,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/M0BRenscxv8uFN5UH1qguAouukTnl0qh5o9ae_4JuB--GSH5eSDuP4rq5pZYh4s0oA",
     "developer_id": "AppAndAbout",
     "updated_date": "2020-07-28",
-    "downloads": "500+",
+    "downloads": "1,000+",
     "country": "ES",
     "dangerous_permissions_count": 0
   },
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2020-11-26",
+    "updated_date": "2020-12-17",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -894,7 +894,7 @@
     "title": "Radar COVID",
     "icon_url": "https://play-lh.googleusercontent.com/CG1SrQhMAHr85BQWANnU-QhcSLMHcu8r5h9LnzHYqweIre7copRzMSPXa5MJP3G0PA",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-10-29",
+    "updated_date": "2020-12-17",
     "downloads": "1,000,000+",
     "country": "ES",
     "dangerous_permissions_count": 0
@@ -1224,10 +1224,10 @@
     "title": "AMAN - Aman.jo JORDAN APP COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
     "developer_id": "Jordan eGov Program",
-    "updated_date": "2020-05-24",
+    "updated_date": "2020-12-12",
     "downloads": "1,000,000+",
     "country": "JO",
-    "dangerous_permissions_count": 6
+    "dangerous_permissions_count": 2
   },
   {
     "id": "jp.go.mhlw.covid19radar",
@@ -1434,7 +1434,7 @@
     "title": "CVKey",
     "icon_url": "https://play-lh.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
     "developer_id": "CVKey Project",
-    "updated_date": "2020-11-30",
+    "updated_date": "2020-12-18",
     "downloads": "5,000+",
     "country": "US",
     "dangerous_permissions_count": 5
