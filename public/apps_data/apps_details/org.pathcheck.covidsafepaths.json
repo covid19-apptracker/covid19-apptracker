@@ -10,6 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths",
   "dangerous_permissions_count": 6,
   "permissions": {
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
     "Photos/Media/Files": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -18,12 +24,6 @@
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
-      }
-    ],
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
       }
     ],
     "Storage": [
@@ -102,5 +102,5 @@
   "developer_url": "https://pathcheck.org",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://pathcheck.org/privacy-policy/"
+  "privacy_policy": "https://www.pathcheck.org/en/policies/website-privacy-policy"
 }
