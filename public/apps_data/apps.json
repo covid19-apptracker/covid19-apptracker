@@ -144,7 +144,7 @@
     "title": "Canada COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-11-26",
+    "updated_date": "2020-12-19",
     "downloads": "100,000+",
     "country": "CA",
     "dangerous_permissions_count": 5
@@ -154,7 +154,7 @@
     "title": "COVID Alert - Let\u2019s protect each other",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2020-12-18",
+    "updated_date": "2020-12-22",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 0
@@ -367,7 +367,7 @@
     "updated_date": "2020-10-27",
     "downloads": "500,000+",
     "country": "IE",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 1
   },
   {
     "id": "com.cspire.telehealth",
@@ -714,7 +714,7 @@
     "title": "CombatCOVID MDC",
     "icon_url": "https://play-lh.googleusercontent.com/JhdX4xyMQ5MgY-t3FJ8Q8t7JtPvf7KlmSC8eARdZ5jdsnTc8iU9ErMzp3VUmVbzX-Ss",
     "developer_id": "Miami-Dade County",
-    "updated_date": "2020-11-19",
+    "updated_date": "2020-12-22",
     "downloads": "1,000+",
     "country": "US",
     "dangerous_permissions_count": 1
@@ -724,7 +724,7 @@
     "title": "CombatCOVID PBC",
     "icon_url": "https://play-lh.googleusercontent.com/_dfi0uCY0AomGf-Te8Iai0tJZYdttfq28OabiBkpiMuga-xiff_DG0NR3s9ckzB19g",
     "developer_id": "Palm Beach County BoCC",
-    "updated_date": "2020-11-30",
+    "updated_date": "2020-12-22",
     "downloads": "5,000+",
     "country": "US",
     "dangerous_permissions_count": 1
@@ -784,7 +784,7 @@
     "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
     "icon_url": "https://play-lh.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
     "developer_id": "Digital Government Development Agency, Thailand",
-    "updated_date": "2020-06-06",
+    "updated_date": "2020-12-22",
     "downloads": "100,000+",
     "country": "TH",
     "dangerous_permissions_count": 7
@@ -1054,7 +1054,7 @@
     "title": "SlowCOVIDNC",
     "icon_url": "https://play-lh.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
     "developer_id": "NC Department of Health and Human Services",
-    "updated_date": "2020-11-05",
+    "updated_date": "2020-12-18",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2020-12-09",
+    "updated_date": "2020-12-21",
     "downloads": "100,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
@@ -1294,10 +1294,10 @@
     "title": "Saw Saw Shar",
     "icon_url": "https://play-lh.googleusercontent.com/yBesHC9c_XPgHZ5eriIITsCVPyTxE73VTUMm5embb-OcG7KVTTTiEoOtE9oDSkmHCoM",
     "developer_id": "Myanmar Computer Federation (MCF)",
-    "updated_date": "2020-12-14",
+    "updated_date": "2020-12-21",
     "downloads": "100,000+",
     "country": "MM",
-    "dangerous_permissions_count": 9
+    "dangerous_permissions_count": 8
   },
   {
     "id": "mn.callpro.shuurkhai",
