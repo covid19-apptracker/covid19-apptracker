@@ -10,7 +10,17 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.adph.exposurenotifications",
   "dangerous_permissions_count": 0,
   "permissions": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Other": [
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
       {
         "permissionName": "Full network access",
         "isDangerous": 0
