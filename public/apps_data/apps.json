@@ -244,7 +244,7 @@
     "title": "UCLH COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
     "developer_id": "Vincent Harding - UCL Health Creatives",
-    "updated_date": "2020-04-30",
+    "updated_date": "2021-01-13",
     "downloads": "100+",
     "country": "GB",
     "dangerous_permissions_count": 4
@@ -272,12 +272,12 @@
   {
     "id": "com.agetic.coronavirusapp",
     "title": "Bolivia Segura",
-    "icon_url": "https://play-lh.googleusercontent.com/BR-MIXheF8RJphrR1XUTpormChjMU1IOAE-nK26CbdhsPlk_J47til_TjwDh-70H1Sg",
+    "icon_url": "https://play-lh.googleusercontent.com/oe093pfX-_uAqB9nvMdm3TQ5jrLRcjzKxSR6i1-NfycbpnE24h1obTfAOv3PMj280szy",
     "developer_id": "Agetic Bolivia",
-    "updated_date": "2020-05-09",
+    "updated_date": "2021-01-15",
     "downloads": "50,000+",
     "country": "BO",
-    "dangerous_permissions_count": 6
+    "dangerous_permissions_count": 7
   },
   {
     "id": "com.allsoft.corona",
@@ -1444,10 +1444,10 @@
     "title": "Kenya Covid-19 Tracker",
     "icon_url": "https://play-lh.googleusercontent.com/yCnt0Emrd9Nln_PlTD9cVFWdLSehJNghg3g27L8u5bA6RAT8PvFA9l7Is82mvMbQzn2_",
     "developer_id": "Medic Mobile, Inc.",
-    "updated_date": "2020-04-28",
+    "updated_date": "2021-01-13",
     "downloads": "1,000+",
     "country": "KE",
-    "dangerous_permissions_count": 6
+    "dangerous_permissions_count": 4
   },
   {
     "id": "org.pathcheck.covidsafepaths",
