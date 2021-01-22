@@ -3,7 +3,7 @@
   "title": "NOVID",
   "icon_url": "https://play-lh.googleusercontent.com/FpKqgwEEspWc_1ZxWh4fs0ONx8vflwR4-mikqOf8GRWhwSlzSJHUmdi5bF0Gfx5aMY4",
   "developer_id": "Expii, Inc.",
-  "updated_date": "2021-01-12",
+  "updated_date": "2021-01-19",
   "downloads": "10,000+",
   "country": "US",
   "description": "This app was primarily designed for use in Allegheny County, Pennsylvania, Georgia Tech, Grand Valley State University, the city of Las Vegas, New Mexico, and King Abdullah University of Science and Technology. NOVID keeps you safer from COVID-19, while keeping you anonymous. It gives you personalized Early Warning information about disease spread relative to the network of people you interact with. It also gives you real-time feedback on social distancing, as well as exposure alerts if you have spent a long time near people who later self-report positive tests. It's your radar and shield in this difficult time. The NOVID interface shows you how far away it estimates other devices to be, so that you can know it is working accurately. NOVID is based on ultrasound technology, which significantly improves upon the accuracy of Bluetooth-based contact tracing. Our approach allows us to provide real-time visual feedback on how much (and how little) NOVID is detecting. We use that to give you helpful guidance on social distancing. Under the hood, NOVID automatically generates a random anonymous identifier, which has no relationship to your personal information. You don't need to provide an email address, phone number, username, or password. NOVID periodically scans the nearby area using a combination of Bluetooth and ultrasound signals, detecting and sending only anonymous identifiers.",
@@ -16,6 +16,12 @@
         "isDangerous": 1
       }
     ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -24,12 +30,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
