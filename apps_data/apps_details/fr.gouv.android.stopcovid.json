@@ -10,12 +10,6 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid",
   "dangerous_permissions_count": 3,
   "permissions": {
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -26,10 +20,10 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
+    "Camera": [
       {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
       }
     ],
     "Other": [
