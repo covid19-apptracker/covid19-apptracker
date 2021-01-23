@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2020-12-18",
+    "updated_date": "2021-01-22",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -564,7 +564,7 @@
     "title": "patientMpower for COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
     "developer_id": "patientMpower",
-    "updated_date": "2020-11-06",
+    "updated_date": "2021-01-20",
     "downloads": "1,000+",
     "country": "IE",
     "dangerous_permissions_count": 7
@@ -654,7 +654,7 @@
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://play-lh.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
     "developer_id": "patientMpower",
-    "updated_date": "2020-11-06",
+    "updated_date": "2021-01-20",
     "downloads": "100+",
     "country": "US",
     "dangerous_permissions_count": 7
@@ -934,7 +934,7 @@
     "title": "careFIJI",
     "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
     "developer_id": "Government of the Republic of Fiji",
-    "updated_date": "2020-11-14",
+    "updated_date": "2021-01-21",
     "downloads": "50,000+",
     "country": "FJ",
     "dangerous_permissions_count": 1
@@ -964,7 +964,7 @@
     "title": "Covid Watch Arizona",
     "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
     "developer_id": "ADHS-Arizona Department of Health Services",
-    "updated_date": "2021-01-20",
+    "updated_date": "2021-01-21",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -995,7 +995,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/iF3uoZ9W32FLPBS34fKkoIsn8akUr2NP5xf-3gUIN4qgbZ6IAVuUEtz8bg5wgjvipLg",
     "developer_id": "7682186545769631479",
     "updated_date": "2020-12-22",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
   },
@@ -1614,7 +1614,7 @@
     "title": "Coronavirus UY",
     "icon_url": "https://play-lh.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
     "developer_id": "AGESIC",
-    "updated_date": "2020-12-21",
+    "updated_date": "2021-01-21",
     "downloads": "500,000+",
     "country": "UY",
     "dangerous_permissions_count": 2
