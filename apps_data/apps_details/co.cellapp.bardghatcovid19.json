@@ -1,40 +1,84 @@
 {
   "id": "co.cellapp.bardghatcovid19",
   "title": "Bardghat Municipality - COVID-19/Disaster Response",
-  "icon_url": "https://lh3.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
+  "icon_url": "https://play-lh.googleusercontent.com/IjUXu8YjCIsgJrtv_3Yt0UoZlmrZ2B8Jlv7Nn6dQCTBKRU2tsbCKN1EACK_bxU-5qmk",
   "developer_id": "SmartPalika - \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u092c\u0928\u094d\u0926\u0948\u091b \u0928\u0947\u092a\u093e\u0932!",
   "updated_date": "2020-04-27",
-  "downloads": "100+",
+  "downloads": "500+",
   "country": "IN",
   "description": "This Application Contains: - Official Information and Communication Channels - Tracking and Emergency Response Systems - COVID-19 Quarantine Management and Reports This System is Jointly Developed by SmartPalika, Cellapp Innovations and Rakshya.",
   "app_store_url": "https://play.google.com/store/apps/details?id=co.cellapp.bardghatcovid19",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Phone": [
-      "Directly call phone numbers"
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      }
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)",
-      "Access extra location provider commands"
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Pair with bluetooth devices",
-      "Full network access",
-      "Control vibration",
-      "Prevent device from sleeping"
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://bardghatmun.gov.np",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://smartpalika.org/apps/covid19/all/privacy-policy.html"
 }

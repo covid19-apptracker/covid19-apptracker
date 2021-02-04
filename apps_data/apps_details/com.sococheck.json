@@ -1,22 +1,36 @@
 {
   "id": "com.sococheck",
   "title": "SoCo COVID-19 Check",
-  "icon_url": "https://lh3.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
+  "icon_url": "https://play-lh.googleusercontent.com/hNNJDUTchHb9CD87BBu4HdmF07V_KXvRHvgeTRBvjADAGXs3lbEXBB-3t6bWU9gVAw",
   "developer_id": "County of Sonoma",
   "updated_date": "2020-06-22",
   "downloads": "5,000+",
   "country": "US",
   "description": "Help us reduce the spread of COVID-19 by taking this quick, daily survey before going to work.  Sonoma County\u2019s Department of Health is asking Sonoma County residents to self-assess symptoms associated with COVID-19 each day in a survey that takes less than one minute.  This is part of the County\u2019s approach to protecting residents in the workplace and our community.   Your participation will help us reopen the County in a responsible way as we work to revitalize our economy and mitigate risk. Because your privacy is very important to us we will not be asking for any personally identifiable information in this app.  Nor does the app use location tracking or collect any information other than survey responses. This app is for the benefit of Sonoma County residents and health officials only and no information will be used or shared for any commercial purposes. The app is intended for anyone in the general public, citizens of Sonoma County determine if they may have symptoms related to COVID-19 before going to work.  It is not intended to give medical advice.  If you need medical advice, please contact your primary care physician or visit the CDC website at: https://www.cdc.gov/coronavirus/ There are two parts to the app: Resident Survey Answer a few questions about symptoms and contact you\u2019ve had with those who might have the disease. And then get specific recommendations based on the Sonoma County Public Health guidelines, such as to practice social distancing, talk to a doctor, or return to work. News Feed Provides up-to-date local information from trusted sources about the Coronavirus disease and its impact in Sonoma County, California. There will also be helpful feeds about topics such as appropriate face coverings, hand washing, and disinfecting surfaces.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.sococheck",
+  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/",
   "available": true,
-  "first_time_seen": "2020-06-05"
+  "first_time_seen": "2020-06-05",
+  "privacy_policy": "http://sonomacounty.ca.gov/Health/Disease-Control/Coronavirus/Privacy-Policy/"
 }

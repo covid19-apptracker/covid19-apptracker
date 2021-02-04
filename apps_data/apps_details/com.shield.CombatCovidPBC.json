@@ -1,0 +1,50 @@
+{
+  "id": "com.shield.CombatCovidPBC",
+  "title": "CombatCOVID PBC",
+  "icon_url": "https://play-lh.googleusercontent.com/_dfi0uCY0AomGf-Te8Iai0tJZYdttfq28OabiBkpiMuga-xiff_DG0NR3s9ckzB19g",
+  "developer_id": "Palm Beach County BoCC",
+  "updated_date": "2020-12-22",
+  "downloads": "10,000+",
+  "country": "US",
+  "description": "CombatCOVID is the Official COVID-19 notification and information app of the County Government of Palm Beach County, Florida, a diverse community of over a million and a half people. Unlike other apps, CombatCOVID has never used GPS or location notification in its architecture. The app user\u2019s privacy and identity are protected. No names, emails addresses, locations or personally identifying information is required. There is never any location or identity information acquired by CombatCOVID. The CombatCOVID app uses Bluetooth signals to determine if you are near another user. All users who have been in close proximity to a COVID-19 positive person will be notified by a push notification recommending they get tested immediately, without revealing anyone\u2019s personal identity. Suggested locations for testing are also provided. Your device\u2019s phone number is encrypted and never shared with anyone, including local health officials. All data and Information about the device being in close proximity with another device is ONLY stored on the device. Access to the data indicating the device\u2019s user may have tested positive is only shared IF/WHEN the user chooses to share it. IF the user does choose to share a COVID-19 positive result, they are still totally PRIVACY PROTECTED.",
+  "app_store_url": "https://play.google.com/store/apps/details?id=com.shield.CombatCovidPBC",
+  "dangerous_permissions_count": 1,
+  "permissions": {
+    "Location": [
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
+    ]
+  },
+  "developer_url": "https://combatcovidapp.com/pbc",
+  "available": true,
+  "first_time_seen": "2020-08-12",
+  "privacy_policy": "https://combatcovidapp.com/combatcovid-pbc-principles-privacy-policy-and-terms-of-use/"
+}

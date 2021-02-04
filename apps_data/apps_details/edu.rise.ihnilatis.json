@@ -1,45 +1,104 @@
 {
   "id": "edu.rise.ihnilatis",
   "title": "CovTracer",
-  "icon_url": "https://lh3.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
+  "icon_url": "https://play-lh.googleusercontent.com/UVqmQR1pbbYdRPF6lrwspPPB-nq0MqV83kBlo2IM5R_I2klwkbiqE101dsD2am3A_2o",
   "developer_id": "RISE Research Centre of Excellence",
   "updated_date": "2020-06-11",
   "downloads": "1,000+",
   "country": "CY",
   "description": "Halting the COVID19 epidemic requires rapid identification of the contacts wth whom the infected individuals had contact with, within the previous days and weeks. This allows decontamination of locations the infected individual has visited, plus informing and/or communicating with perhaps infected individuals. With almost half of the world\u2019s population carrying a device capable of GPS tracking, location trails \u2013 timestamped logs of an individual\u2019s location \u2013 can be created. By checking the user\u2019s location trails, one can identify other citizens who have been in close proximity to the diagnosed carrier and, if the exposed users take appropriate action, reduce the spread of the infectious disease. The first version of the mobile app targets mainly employees and workers who need to work outside and cannot stay at home. This includes policemen, doctors and nurses, firemen, people working in important utilities (electricity, water, internet, etc.). It also targets people who need to leave home to go to supermarket or pharmacy. For the rest of Cyprus population, we strongly advice them to stay at home in order to stop the spreading of the epidemics. CovTracer app is based on the MIT project safepaths.",
   "app_store_url": "https://play.google.com/store/apps/details?id=edu.rise.ihnilatis",
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
     ],
     "Other": [
-      "Access bluetooth settings",
-      "Create accounts and set passwords",
-      "Full network access",
-      "Google play license check",
-      "Pair with bluetooth devices",
-      "Prevent device from sleeping",
-      "Read sync settings",
-      "Receive data from internet",
-      "Run at startup",
-      "Toggle sync on and off",
-      "View network connections"
+      {
+        "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Create accounts and set passwords",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read sync settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Toggle sync on and off",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "http://covid-19.rise.org.cy/",
   "available": true,
-  "first_time_seen": "2020-05-17"
+  "first_time_seen": "2020-05-17",
+  "privacy_policy": "http://covid-19.rise.org.cy/en/privacy/"
 }

@@ -1,50 +1,100 @@
 {
   "id": "com.speetar.app",
   "title": "Speetar COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
+  "icon_url": "https://play-lh.googleusercontent.com/3JRvVA8gwIh4Sw_xNOujZf95iFxIMRC5HhHJ_fb3Ci0yFS3nKBhrM4Cbyw2sMsw0JMs",
   "developer_id": "Speetar",
   "updated_date": "2020-05-26",
-  "downloads": "1,000+",
+  "downloads": "5,000+",
   "country": "LY",
   "description": "The Speetar COVID-19 app has up-to-date information from trusted sources about the coronavirus disease. It has a screening tool so you can find out what you should do now for yourself or for a family member. And it gives you access to resources you may need to feel supported and informed. The app links you to specialists at the National Center for Disease Control to evaluate your condition and help you to schedule a coronavirus test if needed. The Speetar COVID-19 app is developed in partnership with the Libyan Ministery of Health  (MoH) and the National Center for Disease Control (NCDC). Use the simple screening tool to determine what you should do if you are concerned about COVID-19. Answer a few questions about symptoms, travel, and contact you\u2019ve had with those who might have the disease. And then get a specific, recommended action based on the CDC\u2019s current guidelines, such as practice social distancing or talk to a doctor. Save previous screening results for you or for a loved one to refer to at a later date or in conversations with a healthcare provider. Learn best practices for washing your hands, practicing social distancing, quarantining, monitoring your symptoms, and disinfecting surfaces. Know that the data you provide in the Speetar COVID-19 app will not be shared with any party without your permission.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.speetar.app",
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Contacts": [
-      "Read your contacts"
-    ],
-    "Device ID & call information": [
-      "Read phone status and identity"
+      {
+        "permissionName": "Read your contacts",
+        "isDangerous": 1
+      }
     ],
     "Phone": [
-      "Read phone status and identity"
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
     ],
     "Wi-Fi connection information": [
-      "View wi-fi connections"
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
     ],
     "Identity": [
-      "Read your own contact card"
+      {
+        "permissionName": "Read your own contact card",
+        "isDangerous": 0
+      }
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Receive data from internet",
-      "Control vibration",
-      "View network connections",
-      "Full network access",
-      "Prevent device from sleeping"
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://speetar.com",
   "available": true,
-  "first_time_seen": "2020-05-23"
+  "first_time_seen": "2020-05-23",
+  "privacy_policy": "http://speetar.com/covid_privacy"
 }

@@ -1,36 +1,72 @@
 {
   "id": "com.agetic.coronavirusapp",
   "title": "Bolivia Segura",
-  "icon_url": "https://lh3.googleusercontent.com/BR-MIXheF8RJphrR1XUTpormChjMU1IOAE-nK26CbdhsPlk_J47til_TjwDh-70H1Sg",
+  "icon_url": "https://play-lh.googleusercontent.com/4UUSTDTwaW5VKfYuvJEZRA6DIx5RTrh5q3-3O7Qg1IM_p5Oksp1uYf8YUkHmTAReWVF0",
   "developer_id": "Agetic Bolivia",
-  "updated_date": "2020-05-09",
+  "updated_date": "2021-01-29",
   "downloads": "50,000+",
   "country": "BO",
-  "description": "Toda la informaci\u00f3n oficial acerca del Coronavirus(COVID-19) en Bolivia: - Prevenciones y cuidados - S\u00edntomas - Preguntas frecuentes - N\u00fameros de Emergencia - Datos Oficiales - Comunicados Oficiales - \u00daltimas Noticias #Qu\u00e9dateEnCasa",
+  "description": "Bienvenido a la aplicaci\u00f3n Bolivia Segura #UnidosContraElCovid, contacta con tu m\u00e9dico en l\u00ednea - Encuentra los sitios de tu inter\u00e9s m\u00e1s cercanos a tu ubicaci\u00f3n - Encuentra lo que necesitas saber y hacer - Mantente informado",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.agetic.coronavirusapp",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Phone": [
-      "Directly call phone numbers"
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      }
     ],
     "Location": [
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Receive data from internet",
-      "View network connections",
-      "Full network access",
-      "Prevent device from sleeping"
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://boliviasegura.gob.bo",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://boliviasegura.gob.bo/PrivacyPolicy.html"
 }

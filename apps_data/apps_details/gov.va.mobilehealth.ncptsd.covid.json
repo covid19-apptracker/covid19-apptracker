@@ -1,43 +1,84 @@
 {
   "id": "gov.va.mobilehealth.ncptsd.covid",
   "title": "COVID Coach",
-  "icon_url": "https://lh3.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
+  "icon_url": "https://play-lh.googleusercontent.com/UsOk4fk822oAfYCJ7UbR-lLf3QqbzBJIidjpgreyOFOYZyrDPBLx1vdLR8BwLChcRpE",
   "developer_id": "US Department of Veterans Affairs (VA)",
-  "updated_date": "2020-05-22",
-  "downloads": "5,000+",
+  "updated_date": "2020-12-21",
+  "downloads": "10,000+",
   "country": "US",
   "description": "The world as we know it has changed and we are living in unprecedented and uncertain times. COVID Coach is designed to help you build resilience, manage stress, and increase your well-being during this crisis. The app is free, secure, and helps connect you to important resources for coping and adapting during the COVID-19 pandemic. Customized tools are available to help you cope with stress, stay well, stay safe, stay healthy, stay connected, and navigate parenting, care-giving, and working from home while social distancing, quarantined, or sheltered in place. You can track your mood, visualize your progress, and find resources to seek additional help and support. No account or password is required and user data is not collected. COVID Coach was made by the mobile mental health team of the National Center for PTSD, Dissemination & Training Division.",
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Microphone": [
-      "Record audio"
+      {
+        "permissionName": "Record audio",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Read the contents of your usb storage",
-      "Modify or delete the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Contacts": [
-      "Read your contacts"
+      {
+        "permissionName": "Read your contacts",
+        "isDangerous": 1
+      }
     ],
     "Wi-Fi connection information": [
-      "View wi-fi connections"
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
     ],
     "Camera": [
-      "Take pictures and videos"
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "View network connections",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Run at startup",
-      "Google play license check"
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://www.ptsd.va.gov/appvid/mobile/",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.ptsd.va.gov/appvid/mobile/"
 }
