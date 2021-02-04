@@ -208,8 +208,12 @@ class App extends Component {
                     updatedDate={appInfo.updated_date}
                     country={appInfo.country}
                     permissions={appInfo.permissions}
+                    dangerousPermissionsCount={appInfo.dangerous_permissions_count}
+                    developerURL={appInfo.developer_url}
+                    privacyPolicyURL={appInfo.privacy_policy}
                     description={appInfo.description}
                     appStoreURL={appInfo.app_store_url}
+                    appStatus={appInfo.available}
                     updateAppFilter={this.updateAppFilter}
                   />
                 )}

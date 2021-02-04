@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from '../../img/logo.svg';
 
 import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class NavBar extends Component{
     state = {
@@ -48,9 +50,13 @@ class NavBar extends Component{
                             Blog
                         </a>
                         < NavLink exact to = "/contact" activeStyle={{color: "#000000"}}
-                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
+                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" >
                             Contact
                         </NavLink>
+                        <a href = "https://medium.com/@apptracker.cvd19" activeStyle={{color: "#000000"}}
+                        className = "block mt-4 sm:inline-block sm:mt-0 text-gray-600 hover:text-black mr-4 transition-all duration-300 ease-in-out transform font-medium active:text-indigo-500" target="_blank" href="https://github.com/covid19-apptracker">
+                            <FontAwesomeIcon icon={faGithub} size="lg" />
+                        </a> 
                     </div>
                 </div>
             </nav>

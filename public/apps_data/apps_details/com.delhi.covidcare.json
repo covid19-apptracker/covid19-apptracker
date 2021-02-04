@@ -1,22 +1,36 @@
 {
   "id": "com.delhi.covidcare",
   "title": "Delhi Corona",
-  "icon_url": "https://lh3.googleusercontent.com/AGT2g8cc3AjreaGRhIb6a5gnTjSfxMKju7eZNaGDsugnlMc03uOQWnMf_T_dk-CPhHI",
+  "icon_url": "https://play-lh.googleusercontent.com/AGT2g8cc3AjreaGRhIb6a5gnTjSfxMKju7eZNaGDsugnlMc03uOQWnMf_T_dk-CPhHI",
   "developer_id": "Delhi e-Governance Society, IT Department",
-  "updated_date": "2020-06-29",
+  "updated_date": "2020-10-11",
   "downloads": "100,000+",
   "country": "IN",
   "description": "Delhi Corona is the official mobile application of the Government of NCT of Delhi providing citizens with comprehensive resources to combat COVID using services of the line departments of GNCTD. Delhi Corona plans to provide a single avenue to cater to all the needs and issues of the Delhi populace during these tough times. It contains a self-assessment tool, guidelines and important helplines to ensure well being of the users. The app also allows the user to view all COVID centers and access lockdown services like ration, e-pass and hunger/shelter relief centres. It will be built as a stack and continue to be updated over time. This platform will ensure a seamless experience for the user while complying with citizen friendly privacy and security norms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.delhi.covidcare",
+  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://nctdelhi.blob.core.windows.net/nctdelhi/privacy_policy.html",
   "available": true,
-  "first_time_seen": "2020-06-16"
+  "first_time_seen": "2020-06-16",
+  "privacy_policy": "https://nctdelhi.blob.core.windows.net/nctdelhi/privacy_policy.html"
 }

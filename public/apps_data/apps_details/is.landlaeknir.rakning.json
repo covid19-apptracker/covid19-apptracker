@@ -1,47 +1,106 @@
 {
   "id": "is.landlaeknir.rakning",
   "title": "Rakning C-19",
-  "icon_url": "https://lh3.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
+  "icon_url": "https://play-lh.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
   "developer_id": "9072923057432209139",
-  "updated_date": "2020-07-14",
-  "downloads": "50,000+",
+  "updated_date": "2020-07-19",
+  "downloads": "100,000+",
   "country": "IS",
   "description": "Official app from the Icelandic Government to help mitigate the Covid-19 pandemic in Iceland The app collects the GPS location of the phone and stores locally on the device. If the phone owner is diagnosed with the Covid-19 disease he is asked by the Directorate of Health to share the location data for contact tracing in order to identify individuals that might need to go into quarantine.",
   "app_store_url": "https://play.google.com/store/apps/details?id=is.landlaeknir.rakning",
+  "dangerous_permissions_count": 8,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Phone": [
-      "Read phone status and identity"
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
     ],
     "Device ID & call information": [
-      "Read phone status and identity"
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
     ],
     "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Create accounts and set passwords",
-      "Draw over other apps",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Read google service configuration",
-      "Read sync settings",
-      "Receive data from internet",
-      "Run at startup",
-      "Toggle sync on and off",
-      "View network connections"
+      {
+        "permissionName": "Create accounts and set passwords",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Draw over other apps",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read google service configuration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Read sync settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Toggle sync on and off",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "http://covid.is",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.covid.is/app/privacystatement"
 }

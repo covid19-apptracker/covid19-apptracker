@@ -1,46 +1,74 @@
 {
   "id": "jo.gov.moh.aman",
   "title": "AMAN - Aman.jo JORDAN APP COVID-19",
-  "icon_url": "https://lh3.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
+  "icon_url": "https://play-lh.googleusercontent.com/7TfZvJeRmhhk_YAG5CO6W6tM7D83dcanR06Ja6ternRovnF2K9xSCU3ZqFt7vdI8eQ",
   "developer_id": "Jordan eGov Program",
-  "updated_date": "2020-05-24",
-  "downloads": "500,000+",
+  "updated_date": "2020-12-12",
+  "downloads": "1,000,000+",
   "country": "JO",
   "description": "AMAN App has been developed for Jordan\u2019s Ministry of Health (MoH) by COVID-19 JOTECH Community, a group of tech-savvy volunteers. AMAN is a privacy-conscious, exposure detection App. It helps keep the community and Jordan safe from coronavirus. Everyone has a role to play! By downloading AMAN you are keeping yourself, your family, your community and Jordan safe and healthy! ***Have we been around an active COVID-19 case?*** ***And if we have, how can we be notified ASAP?*** To minimise risk and get reliable information to Jordanians and their guests \u2013 we\u2019ve built this App. AMAN is a community-driven App using anonymous GPS data to detect exposure to COVID-19 patients. Once downloaded AMAN stores data about their location points for the past 14 days.  If someone using AMAN is diagnosed with coronavirus by the Ministry of Health, the people who have been recently in contact with her/him will be notified through the app advising them to isolate and call 111, MOH\u2019s COVID-19 Hotline, for instructions. Your privacy matters; it is as important as your health. Therefore, AMAN only stores data on your phone and does not request any personal information or data that could lead to your identification or to breaching your privacy. How you can help stop the spread of COVID-19 by installing AMAN now: \u25cf\tDownload the AMAN App \u25cf\tFollow the instructions. \u25cf\tAlways keep location services turned on. \u25cf\tCheck that AMAN App is running in the background when you are out and about or are likely to come into contact with others. \u25cf\tIf you have been in contact with a COVID-19 patient, AMAN will notify you by indicating the level of risk of exposure to COVID-19, and ask you to self-isolate and contact MoH\u2019s Hotline, 111. \u25cf\tIf you are diagnosed with COVID-19,  you can to share your anonymised location data through AMAN with MoH\u2019s officials. This would help to notify people who have been in contact with you without knowing your identity. AMAN App is a community-driven initiative for Jordan and the Ministry of Health. Visit www.amanapp.jo and www.corona.moh.gov.jo for more information. Aman works in all cities and regions of Jordan including; Amman, Az Zarqa, Irbid, Al Karak, ar-Ramtha population, Jerash, Sakib and Ajloun.",
   "app_store_url": "https://play.google.com/store/apps/details?id=jo.gov.moh.aman",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Device & app history": [
-      "Retrieve running apps"
-    ],
-    "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
-    ],
-    "Wi-Fi connection information": [
-      "View wi-fi connections"
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
     ],
     "Location": [
-      "Access extra location provider commands",
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Access extra location provider commands",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
     ],
     "Other": [
-      "Change network connectivity",
-      "Connect and disconnect from wi-fi",
-      "Control vibration",
-      "Full network access",
-      "Google play license check",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "Run at startup",
-      "View network connections"
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Google play license check",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "http://www.amanapp.jo",
   "available": true,
-  "first_time_seen": "2020-06-04"
+  "first_time_seen": "2020-06-04",
+  "privacy_policy": "https://amanapp.jo/ar/page/4/Privacy"
 }

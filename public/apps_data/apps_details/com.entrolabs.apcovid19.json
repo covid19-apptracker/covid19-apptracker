@@ -1,38 +1,76 @@
 {
   "id": "com.entrolabs.apcovid19",
   "title": "COVID-19 Andhra Pradesh",
-  "icon_url": "https://lh3.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
+  "icon_url": "https://play-lh.googleusercontent.com/S1yAI7MW3yaowp7mknUujGf2GfRkqSmNWu2crVda_Y3DKppAeq94_5-muv34BNKrjvU",
   "developer_id": "Entro Labs",
-  "updated_date": "2020-06-02",
-  "downloads": "100,000+",
+  "updated_date": "2020-08-03",
+  "downloads": "500,000+",
   "country": "IN",
   "description": "\u201cCOVID 19 Andhra Pradesh\u201d is a mobile application developed by the Department of Health, Medical & Family Welfare Department, Government of Andhra Pradesh. This will enable citizens to connect with all essential health services in the fight against COVID 19. The application is aimed at removing physical barriers resulting in the speed of access and delivery of services to the citizens of Andhra Pradesh. The application also aims to reach out to the citizens with information regarding the status of their District/Mandal/Village, do\u2019s and don\u2019ts, announcements, and media bulletins. Download this app now to have all information on your fingertips",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.entrolabs.apcovid19",
+  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Storage": [
-      "Modify or delete the contents of your usb storage",
-      "Read the contents of your usb storage"
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
     ],
     "Camera": [
-      "Take pictures and videos"
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
     ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://www.ap.gov.in/?page_id=20396",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://www.ap.gov.in/?page_id=20396"
 }

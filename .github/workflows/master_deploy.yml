@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email "6730539+carmayna@users.noreply.github.com"
           git config --global user.name "MasterDeployCI"
-          git remote set-url origin https://${{ secrets.githubApiToken }}@github.com/family-hackathon/covid19-apptracker.git
+          git remote set-url origin https://${{ secrets.githubApiToken }}@github.com/covid19-apptracker/covid19-apptracker.git
           npm run deploy
         env:
           CI: ""

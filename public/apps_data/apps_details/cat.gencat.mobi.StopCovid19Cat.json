@@ -1,26 +1,46 @@
 {
   "id": "cat.gencat.mobi.StopCovid19Cat",
   "title": "STOP COVID19 CAT",
-  "icon_url": "https://lh3.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
+  "icon_url": "https://play-lh.googleusercontent.com/Va_8ZiUUMJmoDkjTu5dCHP5Lk8QQFG-zLUtcgBgGBX7CAbdACPCKHyTOo03wDgYiag",
   "developer_id": "Generalitat de Catalunya",
-  "updated_date": "2020-06-18",
+  "updated_date": "2020-10-05",
   "downloads": "500,000+",
   "country": "ES",
   "description": "STOP COVID19 CAT is a /Salut mobile application with a double objective: 1. Respond to the information needs of citizens in relation to COVID-19, through a questionnaire that indicates whether they have the possibility of having COVID. 2. Collect population data to be able to create heat maps for the authorities.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat",
+  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Full network access",
-      "Prevent device from sleeping",
-      "Receive data from internet",
-      "View network connections"
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://salutweb.gencat.cat",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "http://sem.gencat.cat/ca/061CatSalutRespon/apps-mobils/STOPCOVID19/condicions-seguretat"
 }

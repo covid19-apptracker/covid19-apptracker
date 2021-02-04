@@ -1,26 +1,66 @@
 {
   "id": "com.covid19.dgmup",
-  "title": "UP Self- Quarantine App",
-  "icon_url": "https://lh3.googleusercontent.com/lj8Etg1E8IHOLWH-uoge4qePYf6JBnU97LofOGJRgqK-JlWiSasDrB_VP5fwthP2xA",
+  "title": "UP Home Isolation App",
+  "icon_url": "https://play-lh.googleusercontent.com/_yxWZTla-q_08vp9X_kDl663S2FSXi7Cbmtq9Cv4vCENlKC698sbSIBExyWN3DyaxTw",
   "developer_id": "India Health Action Trust",
-  "updated_date": "2020-04-26",
+  "updated_date": "2020-08-18",
   "downloads": "100,000+",
   "country": "IN",
-  "description": "This is Self-Quarantine Application, it is an Initiative of Directorate of Medical and Health Services, Government of Uttar Pradesh for Public. The Self-Quarantine App is aimed at increasing awareness and enable State population to get registered and start Quarantine process to avoid any further spread of the fatal COVID-19 virus. Application captures travel history, symptoms and test results of self-quarantined person. This initiative will help government to track the people who are in Self-Quarantine and help them to keep themselves and other safe from fatal Novel Corona (COVID-19) Virus.",
+  "description": "This is Home isolation Application, it is an Initiative of Directorate of Medical and Health Services, Government of Uttar Pradesh for Public. The Home isolation App is aimed at increasing awareness and enable State population to get registered and start isolation process to avoid any further spread of the fatal COVID-19 virus. Application captures isolation date, symptoms and test results of Home isolation person. This initiative will help government to track the people who are in Home isolation and help them to keep themselves and other safe from fatal Novel Corona (COVID-19) Virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.covid19.dgmup",
+  "dangerous_permissions_count": 6,
   "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
     "Location": [
-      "Approximate location (network-based)",
-      "Precise location (gps and network-based)"
+      {
+        "permissionName": "Approximate location (network-based)",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
     ],
     "Other": [
-      "Control vibration",
-      "Full network access",
-      "Prevent device from sleeping",
-      "Run at startup"
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      }
     ]
   },
   "developer_url": "https://dgmhup-covid19.in/privacy.html",
   "available": true,
-  "first_time_seen": "2020-05-10"
+  "first_time_seen": "2020-05-10",
+  "privacy_policy": "https://dgmhup-covid19.in/"
 }
