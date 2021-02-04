@@ -1,36 +1,22 @@
 {
   "id": "ly.com.tmc.covid19_libya",
   "title": "COVID19-Libya",
-  "icon_url": "https://play-lh.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY",
+  "icon_url": "https://lh3.googleusercontent.com/W6JQ6rPmjnoHd_-aLJArj1MNk1nCGnfAAKxPa30KBcOIQK8QOJVeB3UTrcp1l3-74NvY",
   "developer_id": "7571629351755240168",
   "updated_date": "2020-06-30",
   "downloads": "10,000+",
   "country": "LY",
   "description": "The application expresses two features. First, it is a tracker application that makes every person in the country of Libya aware of the number of cases in his/her own city. Second, the application works as a communication channel between the health organizations in Libya and the public, so that individuals who are experiencing the symptoms of COVID19 can request a diagnostic test through the application. With that, the application can help avoid mass gatherings at hospitals which will limit the transmission of the virus.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ly.com.tmc.covid19_libya",
-  "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "http://tmc.com.ly",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": ""
+  "first_time_seen": "2020-05-10"
 }

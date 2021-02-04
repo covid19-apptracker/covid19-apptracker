@@ -1,106 +1,47 @@
 {
   "id": "org.pathcheck.covidsafepaths",
-  "title": "SafePlaces",
-  "icon_url": "https://play-lh.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
+  "title": "PathCheck SafePlaces",
+  "icon_url": "https://lh3.googleusercontent.com/F8fbUiGMlfjl8HDDhJNckLCYFTlNDgFFs2RQ6MKf4oXI08bxl3bLhzBbB6vSUEaV4NA",
   "developer_id": "Path Check, Inc",
-  "updated_date": "2020-08-05",
+  "updated_date": "2020-07-02",
   "downloads": "10,000+",
-  "country": "US",
+  "country": "",
   "description": "PathCheck (formerly COVID Safe Paths) can privately save the places you visit and store them on your phone. Subscribe to Healthcare Authorities in your area for information about COVID-19 near you, where available. Receive alerts from your local Healthcare Authority with information about potential exposure to COVID-19. We are a global movement to develop free, open-source, privacy-by-design tools for residents, public health officials, and larger communities. The PathCheck program has spun out of initial privacy-first research conducted by MIT and TripleBlind, into a newly created non-profit called PathCheck Foundation, established with the initial purpose of supporting global rollout of the PathCheck app and associated tools for contact tracers and healthcare authorities. The goal of PathCheck is to help enable the reemergence and re-opening of economies and communities.  Through global partnerships, we are prepared to support public health officials everywhere in the effort to slow the spread of COVID-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths",
-  "dangerous_permissions_count": 6,
   "permissions": {
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
-      }
-    ],
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Device & app history": [
+      "Retrieve running apps"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
+      "View wi-fi connections"
     ],
     "Location": [
-      {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Access extra location provider commands",
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Create accounts and set passwords",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Google play license check",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Read sync settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Toggle sync on and off",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Control vibration",
+      "Create accounts and set passwords",
+      "Full network access",
+      "Google play license check",
+      "Prevent device from sleeping",
+      "Read sync settings",
+      "Receive data from internet",
+      "Run at startup",
+      "Toggle sync on and off",
+      "View network connections"
     ]
   },
   "developer_url": "https://pathcheck.org",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.pathcheck.org/en/policies/website-privacy-policy"
+  "first_time_seen": "2020-07-18"
 }

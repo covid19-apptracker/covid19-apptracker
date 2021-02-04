@@ -1,52 +1,29 @@
 {
   "id": "ar.gob.coronavirus",
   "title": "CUIDAR COVID-19 ARGENTINA",
-  "icon_url": "https://play-lh.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
+  "icon_url": "https://lh3.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
   "developer_id": "8169270262982486256",
-  "updated_date": "2020-12-17",
-  "downloads": "10,000,000+",
+  "updated_date": "2020-07-02",
+  "downloads": "5,000,000+",
   "country": "AR",
   "description": "Aplicaci\u00f3n del Ministerio de Salud de la Rep\u00fablica Argentina destinada a la prevenci\u00f3n y al cuidado de la ciudadan\u00eda frente a la pandemia del Nuevo Coronavirus Covid-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ar.gob.coronavirus",
-  "dangerous_permissions_count": 3,
   "permissions": {
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://www.argentina.gob.ar/",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.argentina.gob.ar/sites/default/files/terminos_y_condiciones_aplicacion_cuidar_-_covid_19_-_v5.pdf"
+  "first_time_seen": "2020-05-10"
 }

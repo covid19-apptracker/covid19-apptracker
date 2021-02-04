@@ -8,67 +8,29 @@
   "country": "CD",
   "description": "JOFAR STOP COVID-19, Est une conception de l\u2019Inventeur et Innovateur Congolais, l\u2019Ing\u00e9nieur PATRICK DAUDI FARAJA, Fondateur de la compagnie JOFAR SYSTEMS, pour contribuer efficacement \u00e0 la contingence et la lutte contre la propagation de la maladie \u00e0 Coronavirus en r\u00e9publique d\u00e9mocratique du Congo et au monde !  L\u2019application acc\u00e8de aux statistiques officielles de l\u2019Organisation Mondiale de la Sant\u00e9 (OMS) afin de les mettre \u00e0 la port\u00e9e de toute la population. Avec l\u2019application JOFAR STOP COVID-19, nous aurons plusieurs avantages, entre autres : -\tUn outil de monitoring permettant \u00e0 tout le monde inclus les diff\u00e9rentes autorit\u00e9s, de suivre \u00e0 temps r\u00e9el l\u2019\u00e9volution de la maladie. -\tGrace \u00e0 notre application, la population va acc\u00e9der \u00e0 l\u2019information r\u00e9elle et directe de la part des autorit\u00e9s, mais aussi aux diff\u00e9rentes m\u00e9thodes de pr\u00e9vention telle que d\u00e9fini par les services de sant\u00e9 et de lutte contre la maladie. -\tL\u2019acc\u00e8s facile et direct aux messages importants et officiel ainsi qu\u2019aux mesures des autorit\u00e9s. -\t L\u2019acc\u00e8s \u00e0 l\u2019information par la population en temps r\u00e9el \u00e0 rapport avec la situation de propagation de coronavirus sur l\u2019ensemble du globe et sur l\u2019ensemble de la RDC. Une m\u00e9thode strat\u00e9gique et psychologique de d\u00e9montrer \u00e0 la population, pas seulement le niveau des d\u00e9g\u00e2ts du virus, mais aussi l\u2019esp\u00e9rance de vie quand on se conforme aux directives des autorit\u00e9s. -\tUn syst\u00e8me d\u2019alerte tr\u00e8s efficace \u00e0 tous les niveaux pour d\u00e9noncer ou informer sur un cas suspect ou autre information importante. -\tL\u2019acc\u00e8s direct aux num\u00e9ros-Verts pour appeler gratuitement les \u00e9quipes de riposte. -\tL\u2019interaction directe entre la population et les \u00e9quipes de riposte ainsi que les autres structures concern\u00e9es ! -\tNotre solution permettra l\u2019interaction de la population avec les \u00e9quipes de riposte ainsi que le service sanitaire, mais aussi un outil efficace d\u2019alerte maximal et de pr\u00e9sentation directe d\u2019une information \u00e0 qui de droit.",
   "app_store_url": "https://play.google.com/store/apps/details?id=id.jofarsystemskodine.dev",
-  "dangerous_permissions_count": 0,
   "permissions": {
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      }
+      "Directly call phone numbers"
     ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "View network connections"
     ]
   },
   "developer_url": "http://www.jofarsystems.com",
-  "available": false,
-  "first_time_seen": "2020-05-12",
-  "privacy_policy": ""
+  "available": true,
+  "first_time_seen": "2020-05-12"
 }

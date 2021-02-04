@@ -1,54 +1,28 @@
 {
   "id": "com.panafricare.lasante",
   "title": "Lasante - Seychelles Coronavirus Tool",
-  "icon_url": "https://play-lh.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
+  "icon_url": "https://lh3.googleusercontent.com/yGFd8TTj1FnbZaTJfTrjIMZW_zc3Ft6WfzqQGaQboONQ-0Z7s0gCx8XI9mzxUuaOog",
   "developer_id": "7481984480845694382",
   "updated_date": "2020-07-10",
   "downloads": "1,000+",
   "country": "SC",
   "description": "*Important: This app only works in Seychelles* A free app to help you understand what to do next about Coronavirus (COVID-19) in the Seychelles. \u2705Unlimited virtual COVID-19 screening \u2705Personalised guidance on what to do next \u2705Direct call access to 141 national helpline \u2705Access to live Seychelles case statistics \u2705Push notifications for new cases",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.panafricare.lasante",
-  "dangerous_permissions_count": 2,
   "permissions": {
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Control vibration",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "https://lasante.app",
   "available": true,
-  "first_time_seen": "2020-06-05",
-  "privacy_policy": "https://lasante.app/privacy.html"
+  "first_time_seen": "2020-06-05"
 }

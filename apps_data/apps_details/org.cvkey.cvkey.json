@@ -1,80 +1,30 @@
 {
   "id": "org.cvkey.cvkey",
   "title": "CVKey",
-  "icon_url": "https://play-lh.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
+  "icon_url": "https://lh3.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
   "developer_id": "CVKey Project",
-  "updated_date": "2020-12-18",
-  "downloads": "5,000+",
-  "country": "US",
-  "description": "CVKey is currently live at numerous communities including universities, high schools, childcare, banks and offices. ___ CVKey Project is on a mission to help communities responsibly reopen society. We\u2019re building a suite of privacy-first, open-source applications to deliver clear communication, informed health status, and responsible access to everyone. With CVKey, anonymously check symptoms and receive clear guidance for you. Feel confident that the places you need to go are accessible to you and are following guidelines from public health officials. Your health data is only on your phone. It\u2019s never shared, never uploaded to a cloud. Only you can see your health status, and only you can apply changes to your status. Stay in the know with the latest guidance on responsible behavior from your local health experts.",
+  "updated_date": "2020-05-01",
+  "downloads": "1,000+",
+  "country": "",
+  "description": "NOTE: Not publicly available yet. Contact us at dev@cvkeyproject.org if you have questions. If you are part of a pilot program, go to http://go.cvkey.org/android-test.",
   "app_store_url": "https://play.google.com/store/apps/details?id=org.cvkey.cvkey",
-  "dangerous_permissions_count": 5,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+    "Device & app history": [
+      "Retrieve running apps"
     ],
     "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
+      "Take pictures and videos"
     ],
     "Other": [
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Google play license check",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Control vibration",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "http://cvkey.org",
   "available": true,
-  "first_time_seen": "2020-07-08",
-  "privacy_policy": "https://support.cvkey.org/privacy-policy"
+  "first_time_seen": "2020-07-08"
 }

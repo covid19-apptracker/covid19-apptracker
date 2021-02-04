@@ -1,88 +1,41 @@
 {
   "id": "sg.gov.tech.bluetrace",
   "title": "TraceTogether",
-  "icon_url": "https://play-lh.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
+  "icon_url": "https://lh3.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
   "developer_id": "Government Technology Agency",
-  "updated_date": "2021-01-31",
+  "updated_date": "2020-07-07",
   "downloads": "1,000,000+",
   "country": "SG",
-  "description": "TraceTogether supports Singapore\u2019s efforts to fight the spread of COVID-19 through community-driven contact tracing. TraceTogether notifies you quickly if you\u2019ve been exposed to COVID-19 through close contact with other TraceTogether users. The app allows the Ministry of Health (MOH) to give you timely care and guidance, protecting you and those around you. The app uses Bluetooth, and your Bluetooth data is stored securely on your phone. It\u2019ll be shared with MOH if you test positive for COVID-19, for the purpose of contact tracing. Also, all Bluetooth data stored on your phone is automatically deleted after 25 days. TraceTogether helps us ensure that we don\u2019t spread the virus to our loved ones unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together. App functionality will cease once the outbreak ends. TraceTogether is designed for use by people in Singapore. To register, you will need a valid NRIC, FIN, or a valid document of your current stay in Singapore.",
+  "description": "TraceTogether supports Singapore\u2019s efforts to fight the spread of COVID-19 through community-driven contact tracing. TraceTogether notifies you quickly if you\u2019ve been exposed to COVID-19 through close contact with other TraceTogether users. The app allows the Ministry of Health (MOH) to give you timely care and guidance, protecting you and those around you. The app uses Bluetooth, and your Bluetooth data is stored securely on your phone. It\u2019ll only be shared with MOH if you test positive for COVID-19, for the sole purpose of contact tracing. Also, all Bluetooth data stored on your phone is automatically deleted after 25 days. TraceTogether helps us ensure that we don\u2019t spread the virus to our loved ones unknowingly. It also helps us support the work of contact tracers and healthcare workers by combating the spread of COVID-19 together. App functionality will cease once the outbreak ends. TraceTogether is designed for use by people in Singapore. To register, you will need a valid NRIC, FIN, or a valid document of your current stay in Singapore.",
   "app_store_url": "https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace",
-  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Access bluetooth settings",
+      "Control vibration",
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "Run at startup",
+      "View network connections"
     ]
   },
   "developer_url": "https://tracetogether.gov.sg",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://www.tracetogether.gov.sg/common/privacystatement"
+  "first_time_seen": "2020-05-10"
 }

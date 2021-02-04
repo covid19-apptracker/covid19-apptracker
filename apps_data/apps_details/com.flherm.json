@@ -1,66 +1,34 @@
 {
   "id": "com.flherm",
   "title": "Stronger Than C19",
-  "icon_url": "https://play-lh.googleusercontent.com/j74ERl3BfCegK-Lwg0wDZXTikkCEvp5g8UFvi5VIARSQc-pYal1izrtXAStfFjtU0g",
+  "icon_url": "https://lh3.googleusercontent.com/j74ERl3BfCegK-Lwg0wDZXTikkCEvp5g8UFvi5VIARSQc-pYal1izrtXAStfFjtU0g",
   "developer_id": "Florida Department of Health",
   "updated_date": "2020-05-06",
   "downloads": "1,000+",
-  "country": "US",
+  "country": "",
   "description": "Do your part in the fight to stop the spread of COVID-19 in Florida. The StrongerThanC19 App allows you to anonymously answer a brief series of survey questions, ranging from general demographics to recent travel and possible exposure to COVID-19, to help Florida better identify and predict coronavirus trends across the state. Once the survey is completed, you will receive guidance on prevention practices, testing, and vulnerable populations. Features include: 1. Ability to go back and update your answers as symptoms and information change, providing officials with up-to-the-minute information to help improve the distribution of resources in response to COVID-19. 2. Access to information in real-time as it\u2019s gathered from users across the state via the Community Action Survey Report.  Report includes results by date; age group; county; recent travel; symptoms; sought medical care; and more. 3.  Have trusted information and resources* at your fingertips including (1) \u201cSTEPS\u201d of preparedness and prevention measures; (2) Florida\u2019s COVID-19 status and what you need to know; and (3) Reliable contact information for questions regarding COVID-19 in Florida. 4.  Sign up to receive notifications and the most up to date information on COVID-19 in Florida. Everyone has a role to play to help us flatten the COVID-19 curve. Two minutes of your time can help make Florida communities healthier. If we all work together, we can slow the spread. *Please remember, the resources provided on the app do not replace or take priority over guidance from health care professionals.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.flherm",
-  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "http://www.floridahealth.gov/",
   "available": true,
-  "first_time_seen": "2020-06-30",
-  "privacy_policy": "http://www.floridahealth.gov/privacy-policy.html"
+  "first_time_seen": "2020-06-30"
 }

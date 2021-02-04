@@ -1,66 +1,31 @@
 {
   "id": "fr.gouv.android.stopcovid",
-  "title": "TousAntiCovid",
-  "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
+  "title": "StopCovid France",
+  "icon_url": "https://lh3.googleusercontent.com/dXsmDeqJwgHTIIyyi4PEJYlAhhn8bJ_PFxY6R1BOYXSVhu3FcCSoQT_W_SVtzm9Aae-U",
   "developer_id": "Gouvernement",
-  "updated_date": "2021-01-25",
-  "downloads": "5,000,000+",
+  "updated_date": "2020-06-26",
+  "downloads": "1,000,000+",
   "country": "FR",
-  "description": "Using TousAntiCovid helps to protect your loved ones, yourself and everybody else by alerting you if you have been close to a user who tests positive. The TousAntiCovid application is designed for use in France. Let\u2019s protect our loved ones, ourselves and everybody else. TousAntiCovid is simple: # Activate the application TousAntiCovid uses your phone\u2019s Bluetooth connection to detect other users\u2019 phones when they are close to yours. # Stay informed You will be alerted when you have been close to a user who tests positive for COVID-19. # Protect your loved ones and everybody else If you take a test for COVID-19 that turns out to be positive, the laboratory will give you a code to scan or enter manually to send an anonymous alert to users who have been close to you. # Your data are protected The application never tracks your location and it is impossible to discover a user\u2019s identity. This application of contact tracing for Covid-19 has been developed by the TousAntiCovid team under the supervision of the Ministry for Solidarity and Health and the Ministry of State for Digital Affairs.",
+  "description": "Using StopCovid helps to protect your loved ones, yourself and everybody else by alerting you if you have been close to a user who tests positive. The StopCovid application is designed for use in France. Let\u2019s protect our loved ones, ourselves and everybody else. StopCovid is simple: # Activate the application StopCovid uses your phone\u2019s Bluetooth connection to detect other users\u2019 phones when they are close to yours. # Stay informed You will be alerted when you have been close to a user who tests positive for COVID-19. # Protect your loved ones and everybody else If you take a test for COVID-19 that turns out to be positive, the laboratory will give you a code to scan or enter manually to send an anonymous alert to users who have been close to you. # Your data are protected The application never tracks your location and it is impossible to discover a user\u2019s identity. The application has been developed by the StopCovid team under the supervision of the Ministry for Solidarity and Health and the Ministry of State for Digital Affairs.",
   "app_store_url": "https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid",
-  "dangerous_permissions_count": 3,
   "permissions": {
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
+    ],
+    "Camera": [
+      "Take pictures and videos"
     ],
     "Other": [
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Access bluetooth settings",
+      "Full network access",
+      "Pair with bluetooth devices",
+      "Prevent device from sleeping",
+      "Run at startup",
+      "View network connections"
     ]
   },
-  "developer_url": "https://bonjour.tousanticovid.gouv.fr",
+  "developer_url": "https://stopcovid.gouv.fr",
   "available": true,
-  "first_time_seen": "2020-06-06",
-  "privacy_policy": "https://bonjour.stopcovid.gouv.fr/privacy.html"
+  "first_time_seen": "2020-06-06"
 }

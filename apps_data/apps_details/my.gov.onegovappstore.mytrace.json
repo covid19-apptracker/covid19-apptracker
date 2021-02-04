@@ -1,84 +1,40 @@
 {
   "id": "my.gov.onegovappstore.mytrace",
   "title": "MyTrace",
-  "icon_url": "https://play-lh.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
+  "icon_url": "https://lh3.googleusercontent.com/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA",
   "developer_id": "GOVERNMENT OF MALAYSIA",
   "updated_date": "2020-04-26",
   "downloads": "100,000+",
   "country": "MY",
   "description": "MyTrace is a mobile application (app) to help the health authority to manage the COVID-19 outbreaks. MyTrace adopts a community-driven approach where participating devices exchange proximity information whenever an app detects another nearby device with MyTrace installed. The app enables identification of people who have been in close proximity to an infected person.",
   "app_store_url": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mytrace",
-  "dangerous_permissions_count": 6,
   "permissions": {
     "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
-      }
+      "Retrieve running apps"
     ],
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Read the contents of your usb storage",
+      "Modify or delete the contents of your usb storage"
     ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Receive data from internet",
+      "View network connections",
+      "Pair with bluetooth devices",
+      "Access bluetooth settings",
+      "Full network access",
+      "Run at startup",
+      "Prevent device from sleeping"
     ]
   },
   "developer_url": "https://www.mosti.gov.my",
   "available": true,
-  "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://www.mosti.gov.my/web/dasar-privasi/"
+  "first_time_seen": "2020-05-17"
 }

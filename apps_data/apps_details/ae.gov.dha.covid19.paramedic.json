@@ -1,76 +1,38 @@
 {
   "id": "ae.gov.dha.covid19.paramedic",
   "title": "COVID19 - DXB Responder",
-  "icon_url": "https://play-lh.googleusercontent.com/iHVWvXy_DXL8W9X-SYfnXvlMP23MpTTm9NsP94y2a83Q9e4X47QlgvtjG2hBLmF9wxoL",
+  "icon_url": "https://lh3.googleusercontent.com/iHVWvXy_DXL8W9X-SYfnXvlMP23MpTTm9NsP94y2a83Q9e4X47QlgvtjG2hBLmF9wxoL",
   "developer_id": "Dubai Health Authority - DHA",
-  "updated_date": "2021-02-02",
-  "downloads": "10,000+",
+  "updated_date": "2020-05-10",
+  "downloads": "1,000+",
   "country": "AE",
   "description": "A new virus called the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been identified as the cause of a disease outbreak that began in China in 2019. The disease is called coronavirus disease 2019 (COVID-19). The virus is a type of coronavirus \u2014 a family of viruses that can cause illnesses such as the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Cases of\u00a0COVID-19\u00a0have been reported in a growing number of countries, including the U.S. WHO declared a global pandemic in March 2020. Public health groups, such as the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC), are monitoring the situation and posting updates, treatment and prevention recommendations on their websites. Dubai Health Authority has launched a smart application that will help you get information about COVID-19 Symptoms, how you can prevent yourself from it and what treatments can be adopted to reduce the risk. This application will gives you real statistics worldwide and with in United Arab Emirates, this is helping to stop spreading fake stats, counter fake NEWS circulating around people and gives personalized support from designated paramedics incase you\u2019re infected by COVID-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ae.gov.dha.covid19.paramedic",
-  "dangerous_permissions_count": 4,
   "permissions": {
     "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
+      "Record audio"
     ],
     "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
+      "Take pictures and videos"
     ],
     "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
+      "View wi-fi connections"
     ],
     "Calendar": [
-      {
-        "permissionName": "Add or modify calendar events and send email to guests without owners' knowledge",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read calendar events plus confidential information",
-        "isDangerous": 1
-      }
+      "Add or modify calendar events and send email to guests without owners' knowledge",
+      "Read calendar events plus confidential information"
     ],
     "Other": [
-      {
-        "permissionName": "Change your audio settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Draw over other apps",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Receive data from internet",
+      "View network connections",
+      "Full network access",
+      "Prevent device from sleeping",
+      "Pair with bluetooth devices",
+      "Change your audio settings",
+      "Draw over other apps"
     ]
   },
   "developer_url": "http://www.dha.gov.ae",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://csms.ae/PrivacyPolicy.html"
+  "first_time_seen": "2020-05-10"
 }

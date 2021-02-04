@@ -1,54 +1,31 @@
 {
   "id": "com.intutrack.covidtrack",
   "title": "Covid Locator",
-  "icon_url": "https://play-lh.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
+  "icon_url": "https://lh3.googleusercontent.com/DkX8HCyyfWcnjs2uehlqnc7OUmXhipJH4rBvfpHTH1bc_YMf9lFHgy96rXodeetqWfU",
   "developer_id": "Intugine Technologies",
   "updated_date": "2020-06-02",
   "downloads": "100,000+",
   "country": "IN",
   "description": "Covid Locator App helps Government of Goa track home quarantined citizens within the State of Goa. The app also helps the general public with preventive guidelines and information about hospitals within the State of Goa that are authorised to treat COVID-19. Covid Locator App has been developed by the Government of Goa to provide the general public with preventive guidelines and helpline information. The app also provides a heat map of home quarantined citizens within the State of Goa. The app has the following main sections for citizens: 1. India Tracker - A real-time dashboard for statistical data nationwide 2. Tracking feature to enable tracking of home quarantined citizens within the State of Goa. 3. Heat Map of home quarantined citizens within the State of Goa 4. Information of hospitals enabled to treat COVID-19 5. Government-issued information for preventive care and advisories 6. Helpline numbers for emergency 7. FAQ The App will help you with essential information. Stay Home. Stay Safe.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.intutrack.covidtrack",
-  "dangerous_permissions_count": 3,
   "permissions": {
     "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
+      "Read phone status and identity"
     ],
     "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
+      "Read phone status and identity"
     ],
     "Location": [
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://assetsstatic.s3.ap-south-1.amazonaws.com/covid_privacy_policy.html"
+  "first_time_seen": "2020-05-10"
 }

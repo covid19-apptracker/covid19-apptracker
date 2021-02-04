@@ -1,72 +1,37 @@
 {
   "id": "com.iclick.covidnew",
   "title": "Nepal COVID-19 Surveillance",
-  "icon_url": "https://play-lh.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
+  "icon_url": "https://lh3.googleusercontent.com/-3BSrI8uADKfOPF7iF838l1t9hblYUMA3fCz8J-h9FEeSMcR27Igrd6pUJFamqBJ2w",
   "developer_id": "iClick",
   "updated_date": "2020-05-21",
   "downloads": "10,000+",
   "country": "NP",
   "description": "Nepal COVID-19 Surveillance System is a collaborative effort of Nepal Research and Education Network (NREN), Center for Information and Communication Technology (ICT4D), Innovative Solution Pvt. Ltd. (Insol), I. Click Pvt. Ltd. (iClick), Public Health Concern Trust-Nepal (PHECT-Nepal), Nepal Disaster and Emergency Medicine Center (NADEM) and Innovative Data Solution Pvt. Ltd. (IDS). The system is designed to detect community spread of the disease, which will help Government, Local Government and Communities to fight against Corona outbreak. Nepal COVID-19 Surveillance System is an Information Technology based Surveillance System which provides mobile app for self-assessment to know how likely he/she is infected by Corona Virus. The system suggests person to go for self-quarantine and ask updating his/her health status continuously for 14 days. The system provides dashboard for medical doctor / health worker to monitor the health status of a person under self-quarantine and registered into the system. The GIS-based mapping capacity of the system helps service providers to track the person in self-quarantine and delivering service at his/her door. Location based system helps decision makers, disaster management team for strategic planning and making decisions to address the issues on real time. Mobile application for self-assessment of possible infection of Corona Virus is the key component of the system, the assessment result provided by the system is mainly depends upon the decision rule deployed in the system. Our collaborating team has deployed \"Emergency Healthcare COVID-19 Triage Scale\", prepared by Dr. Ramesh Kumar Maharjan, MD, DM EM, Emergency Physician & Dr. Rashmisha Maharjan, MBBS based on data of \"25 International Expert WHO Team Finding of Covid-19 Symptoms in China\". The system has been adopted by Kathmandu Metropolitan City to provide service to its citizens.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.iclick.covidnew",
-  "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
+      "Modify or delete the contents of your usb storage",
+      "Read the contents of your usb storage"
     ],
     "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
+      "Take pictures and videos"
     ],
     "Location": [
-      {
-        "permissionName": "Approximate location (network-based)",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
+      "Approximate location (network-based)",
+      "Precise location (gps and network-based)"
     ],
     "Other": [
-      {
-        "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "View network connections",
-        "isDangerous": 0
-      }
+      "Full network access",
+      "Prevent device from sleeping",
+      "Receive data from internet",
+      "View network connections"
     ]
   },
   "developer_url": "http://kathmandu.gov.np",
   "available": true,
-  "first_time_seen": "2020-05-10",
-  "privacy_policy": "http://ict4dnepal.org/privacy-policy-android.html"
+  "first_time_seen": "2020-05-10"
 }
