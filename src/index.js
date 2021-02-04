@@ -4,20 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'font-awesome/css/font-awesome.min.css';
-import { MatomoProvider, createInstance } from '@datapunt/matomo-tracker-react'
-
-const instance = createInstance({
-    urlBase: 'https://covid19apptracker.org',
-    siteId: 1,
-    trackerUrl: 'https://analytics.covid19apptracker.org/matomo.php',
-    srcUrl: 'https://analytics.covid19apptracker.org/matomo.js'
-})
 
 ReactDOM.render(
   <React.StrictMode>
-      <MatomoProvider value={instance}>
-        <App />
-      </MatomoProvider>
+      <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

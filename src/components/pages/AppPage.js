@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
-import Matomo from "../analytics/Matomo";
 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
@@ -104,7 +103,6 @@ class AppPage extends Component {
                 {/* <div>
                     <img src={loadingImg} className="mx-auto" alt="logo" />
                 </div> */}
-                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
 				{/* <NavBar /> */}
 				<div
 					id="container"

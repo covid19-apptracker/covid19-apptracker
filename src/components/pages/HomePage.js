@@ -2,7 +2,6 @@ import React, { Component, useState } from 'react';
 import ReactTooltip from "react-tooltip";
 import MapChart from "../MapChartComponent"; 
 import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator'; 
-import Matomo from "../analytics/Matomo";
 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 import Select from 'react-select';
@@ -69,10 +68,6 @@ class HomePage extends Component {
   render() {
     return (
       <div>
-        <Matomo
-          title={"Home"}
-          customUrl={"/" + window.location.hash.substr(1)}
-        />
         <div
           id="container"
           className="container w-full content-center items-center justify-center py-24 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
