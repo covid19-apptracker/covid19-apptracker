@@ -1,7 +1,6 @@
 import React, { Component, useState } from 'react'; 
 import ReactTooltip from "react-tooltip";
 import MapChart from "../MapChartComponent";
-import PlayAppGenerator from '../../components/helperComponents/PlayAppGenerator';
 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 import Select from 'react-select';

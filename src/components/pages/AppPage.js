@@ -104,10 +104,6 @@ class AppPage extends Component {
     render() {
 		return (
 			<div>
-                {/* <div>
-                    <img src={loadingImg} className="mx-auto" alt="logo" />
-                </div> */}
-				{/* <NavBar /> */}
 				<div
 					id="container"
 					className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
