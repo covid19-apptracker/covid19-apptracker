@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
-
-import Matomo from "../analytics/Matomo"; 
 import i18n_iso_countries from "i18n-iso-countries/langs/en.json";
 
 import DangerousPermissionsDialogue from '../DangerousPermissionsDialogue.js';
@@ -105,10 +103,7 @@ class AppPage extends Component {
 
     render() {
 		return (
-            
-
-			<div> 
-                <Matomo title={this.props.title} customUrl={'/' + window.location.hash.substr(1)} />
+			<div>
 				<div
 					id="container"
 					className="container w-full content-center items-center justify-center pt-8 pb-8 max-w-screen-md pl-6 pr-6 lg:pl-0 lg:pr-0 mx-auto"
