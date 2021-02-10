@@ -2,7 +2,7 @@
   "id": "pl.gov.mc.protegosafe",
   "title": "STOP COVID - ProteGO Safe",
   "icon_url": "https://play-lh.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
-  "developer_id": "Ministerstwo Cyfryzacji",
+  "developer_id": "5846632246178772267",
   "updated_date": "2020-12-22",
   "downloads": "1,000,000+",
   "country": "PL",
@@ -11,6 +11,10 @@
   "dangerous_permissions_count": 0,
   "permissions": {
     "Other": [
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
       {
         "permissionName": "Full network access",
         "isDangerous": 0
