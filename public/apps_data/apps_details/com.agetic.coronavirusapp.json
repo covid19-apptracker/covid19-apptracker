@@ -8,31 +8,17 @@
   "country": "BO",
   "description": "Bienvenido a la aplicaci\u00f3n Bolivia Segura #UnidosContraElCovid, contacta con tu m\u00e9dico en l\u00ednea - Encuentra los sitios de tu inter\u00e9s m\u00e1s cercanos a tu ubicaci\u00f3n - Encuentra lo que necesitas saber y hacer - Mantente informado",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.agetic.coronavirusapp",
-  "dangerous_permissions_count": 7,
+  "dangerous_permissions_count": 4,
   "permissions": {
-    "Photos/Media/Files": [
+    "Device ID & call information": [
       {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
+        "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
     "Phone": [
       {
-        "permissionName": "Directly call phone numbers",
+        "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
@@ -49,14 +35,6 @@
     "Other": [
       {
         "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
