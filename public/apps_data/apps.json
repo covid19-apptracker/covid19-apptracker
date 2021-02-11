@@ -364,7 +364,7 @@
     "title": "COVID Tracker Ireland",
     "icon_url": "https://play-lh.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
     "developer_id": "Health Service Executive (HSE)",
-    "updated_date": "2020-10-27",
+    "updated_date": "2021-02-08",
     "downloads": "500,000+",
     "country": "IE",
     "dangerous_permissions_count": 0
@@ -564,7 +564,7 @@
     "title": "patientMpower for COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
     "developer_id": "patientMpower",
-    "updated_date": "2021-01-20",
+    "updated_date": "2021-02-09",
     "downloads": "1,000+",
     "country": "IE",
     "dangerous_permissions_count": 7
@@ -614,7 +614,7 @@
     "title": "Smittestop",
     "icon_url": "https://play-lh.googleusercontent.com/ucXPOwW7AhYdQhzMFN_xm7Ha12Ga9D9QEBxztSA0ZP3BlI9z3rFrLf72FDrtiRxigA",
     "developer_id": "Sundheds- og \u00c6ldreministeriet",
-    "updated_date": "2021-01-14",
+    "updated_date": "2021-02-08",
     "downloads": "500,000+",
     "country": "DK",
     "dangerous_permissions_count": 0
@@ -654,7 +654,7 @@
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://play-lh.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
     "developer_id": "patientMpower",
-    "updated_date": "2021-01-20",
+    "updated_date": "2021-02-09",
     "downloads": "100+",
     "country": "US",
     "dangerous_permissions_count": 7
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-01-27",
+    "updated_date": "2021-02-08",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -914,7 +914,7 @@
     "title": "COVID-19 Ethiopia -Health Worker Training Platform",
     "icon_url": "https://play-lh.googleusercontent.com/CPTdpMiLRWHeMCnGWZPZMyRBgjNZdLsCBYP6_UgjYeOvTl1eKIh5ybY2OkqOuzNCfV8V",
     "developer_id": "Federal Ministry of Health",
-    "updated_date": "2020-07-23",
+    "updated_date": "2021-02-09",
     "downloads": "10,000+",
     "country": "ET",
     "dangerous_permissions_count": 8
@@ -1573,7 +1573,7 @@
     "id": "tracker.healthcare.sentinel",
     "title": "Sentinel Monitor (COVID-19 Management)",
     "icon_url": "https://play-lh.googleusercontent.com/-Ej8vL-04yvG4NyfQQ0wT03g_3BQ68OkErdX4ghecpwR7KvCqIOxnDZCNRGh2oS_8Ns",
-    "developer_id": "Sentinel Healthcare",
+    "developer_id": "8922916952159541506",
     "updated_date": "2020-04-23",
     "downloads": "1,000+",
     "country": "US",
