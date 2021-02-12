@@ -16,12 +16,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -62,5 +56,5 @@
   "developer_url": "https://bonjour.tousanticovid.gouv.fr",
   "available": true,
   "first_time_seen": "2020-06-06",
-  "privacy_policy": "https://bonjour.stopcovid.gouv.fr/privacy.html"
+  "privacy_policy": "https://bonjour.tousanticovid.gouv.fr/privacy.html"
 }
