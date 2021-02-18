@@ -8,34 +8,8 @@
   "country": "NP",
   "description": "Nepal COVID-19 Surveillance System is a collaborative effort of Nepal Research and Education Network (NREN), Center for Information and Communication Technology (ICT4D), Innovative Solution Pvt. Ltd. (Insol), I. Click Pvt. Ltd. (iClick), Public Health Concern Trust-Nepal (PHECT-Nepal), Nepal Disaster and Emergency Medicine Center (NADEM) and Innovative Data Solution Pvt. Ltd. (IDS). The system is designed to detect community spread of the disease, which will help Government, Local Government and Communities to fight against Corona outbreak. Nepal COVID-19 Surveillance System is an Information Technology based Surveillance System which provides mobile app for self-assessment to know how likely he/she is infected by Corona Virus. The system suggests person to go for self-quarantine and ask updating his/her health status continuously for 14 days. The system provides dashboard for medical doctor / health worker to monitor the health status of a person under self-quarantine and registered into the system. The GIS-based mapping capacity of the system helps service providers to track the person in self-quarantine and delivering service at his/her door. Location based system helps decision makers, disaster management team for strategic planning and making decisions to address the issues on real time. Mobile application for self-assessment of possible infection of Corona Virus is the key component of the system, the assessment result provided by the system is mainly depends upon the decision rule deployed in the system. Our collaborating team has deployed \"Emergency Healthcare COVID-19 Triage Scale\", prepared by Dr. Ramesh Kumar Maharjan, MD, DM EM, Emergency Physician & Dr. Rashmisha Maharjan, MBBS based on data of \"25 International Expert WHO Team Finding of Covid-19 Symptoms in China\". The system has been adopted by Kathmandu Metropolitan City to provide service to its citizens.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.iclick.covidnew",
-  "dangerous_permissions_count": 7,
+  "dangerous_permissions_count": 2,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
