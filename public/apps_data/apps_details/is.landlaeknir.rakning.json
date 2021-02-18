@@ -8,7 +8,7 @@
   "country": "IS",
   "description": "Official app from the Icelandic Government to help mitigate the Covid-19 pandemic in Iceland The app collects the GPS location of the phone and stores locally on the device. If the phone owner is diagnosed with the Covid-19 disease he is asked by the Directorate of Health to share the location data for contact tracing in order to identify individuals that might need to go into quarantine.",
   "app_store_url": "https://play.google.com/store/apps/details?id=is.landlaeknir.rakning",
-  "dangerous_permissions_count": 8,
+  "dangerous_permissions_count": 6,
   "permissions": {
     "Photos/Media/Files": [
       {
@@ -27,18 +27,6 @@
       },
       {
         "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
@@ -62,11 +50,11 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Draw over other apps",
+        "permissionName": "Full network access",
         "isDangerous": 0
       },
       {
-        "permissionName": "Full network access",
+        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
