@@ -4,7 +4,7 @@
     "title": "COVID19 - DXB Smart App",
     "icon_url": "https://play-lh.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
     "developer_id": "Dubai Health Authority - DHA",
-    "updated_date": "2021-02-12",
+    "updated_date": "2021-02-17",
     "downloads": "500,000+",
     "country": "AE",
     "dangerous_permissions_count": 10
@@ -624,7 +624,7 @@
     "title": "COVID Alert NJ",
     "icon_url": "https://play-lh.googleusercontent.com/nKfkttsvFcAlZ75LABU0E4wYCx4fDiRB3jaXwKzRPi0SF47a2pqAnmbryc50o_V_Tw",
     "developer_id": "State of New Jersey  Applications",
-    "updated_date": "2021-02-03",
+    "updated_date": "2021-02-17",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -894,7 +894,7 @@
     "title": "Radar COVID",
     "icon_url": "https://play-lh.googleusercontent.com/CG1SrQhMAHr85BQWANnU-QhcSLMHcu8r5h9LnzHYqweIre7copRzMSPXa5MJP3G0PA",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-12-17",
+    "updated_date": "2021-02-17",
     "downloads": "5,000,000+",
     "country": "ES",
     "dangerous_permissions_count": 0
@@ -1094,7 +1094,7 @@
     "title": "Protect Scotland",
     "icon_url": "https://play-lh.googleusercontent.com/l61Y45bG4-IVkBdFMJJnr9_buLB0pMMzKt-t3VbDrnSSzNLgiu9mpfKUEZTiXzfmG5w",
     "developer_id": "NHS Education for Scotland",
-    "updated_date": "2021-02-08",
+    "updated_date": "2021-02-17",
     "downloads": "500,000+",
     "country": "GB",
     "dangerous_permissions_count": 0
@@ -1135,7 +1135,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
     "updated_date": "2021-02-11",
-    "downloads": "500,000+",
+    "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
   },
@@ -1234,7 +1234,7 @@
     "title": "COCOA - COVID-19 Contact App",
     "icon_url": "https://play-lh.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
-    "updated_date": "2020-12-14",
+    "updated_date": "2021-02-09",
     "downloads": "5,000,000+",
     "country": "JP",
     "dangerous_permissions_count": 0
@@ -1434,7 +1434,7 @@
     "title": "CVKey",
     "icon_url": "https://play-lh.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
     "developer_id": "CVKey Project",
-    "updated_date": "2020-12-18",
+    "updated_date": "2021-02-18",
     "downloads": "5,000+",
     "country": "US",
     "dangerous_permissions_count": 5
@@ -1504,7 +1504,7 @@
     "title": "STOP COVID - ProteGO Safe",
     "icon_url": "https://play-lh.googleusercontent.com/hP4Sapo5uUnevomjxjRc7pHSVDw_336S90Uo50XEBzDyxLDsBHO3CvhhZSTHFvV9LMAo2uHRqE5_x63DQ84D",
     "developer_id": "5846632246178772267",
-    "updated_date": "2020-12-22",
+    "updated_date": "2021-02-17",
     "downloads": "1,000,000+",
     "country": "PL",
     "dangerous_permissions_count": 0
