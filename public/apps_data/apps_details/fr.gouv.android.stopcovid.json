@@ -16,12 +16,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
