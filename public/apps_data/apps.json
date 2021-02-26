@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2021-02-19",
+    "updated_date": "2021-02-25",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -104,7 +104,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://play-lh.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2021-02-18",
+    "updated_date": "2021-02-25",
     "downloads": "500,000+",
     "country": "BH",
     "dangerous_permissions_count": 8
@@ -534,7 +534,7 @@
     "title": "COVID19 UAE",
     "icon_url": "https://play-lh.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
     "developer_id": "Ministry of Health and Prevention - UAE",
-    "updated_date": "2021-01-21",
+    "updated_date": "2021-02-23",
     "downloads": "50,000+",
     "country": "AE",
     "dangerous_permissions_count": 9
@@ -1054,7 +1054,7 @@
     "title": "SlowCOVIDNC",
     "icon_url": "https://play-lh.googleusercontent.com/x50W7wkGDxj7g3ENkSULBFda2HJlRi46PA0FbqfxopZd68Jf_jcs2-EOuU0zViT6Jw",
     "developer_id": "NC Department of Health and Human Services",
-    "updated_date": "2021-01-22",
+    "updated_date": "2021-02-24",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1084,7 +1084,7 @@
     "title": "COVID Alert PA",
     "icon_url": "https://play-lh.googleusercontent.com/KKyoldyweWvgVeZCOa33d2J7ef5D0bS07cYvSng_EB_sXYdYD1OWwL8B6CmATix7KP4",
     "developer_id": "Commonwealth of Pennsylvania",
-    "updated_date": "2020-12-15",
+    "updated_date": "2021-02-23",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1514,17 +1514,17 @@
     "title": "Home Quarantine - Poland (Kwarantanna domowa)",
     "icon_url": "https://play-lh.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
     "developer_id": "5846632246178772267",
-    "updated_date": "2021-01-21",
+    "updated_date": "2021-02-24",
     "downloads": "1,000,000+",
     "country": "PL",
-    "dangerous_permissions_count": 12
+    "dangerous_permissions_count": 7
   },
   {
     "id": "sa.gov.nic.tabaud",
     "title": "Tabaud (COVID-19 KSA)",
     "icon_url": "https://play-lh.googleusercontent.com/woCQKXmq8-3us_tBqV8edoJs0s0KVAbOw9d6NVDgQ8-DqmV7diBR61r_z9EqjnBgcA",
     "developer_id": "National Information Center",
-    "updated_date": "2020-08-28",
+    "updated_date": "2021-02-25",
     "downloads": "1,000,000+",
     "country": "SA",
     "dangerous_permissions_count": 0
