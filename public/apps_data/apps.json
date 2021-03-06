@@ -144,17 +144,17 @@
     "title": "Canada COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/nnUtvZuc-pv1nXsAd-oRnSDY5rsDnSoCTeuO3YhwLH9Rh3Vvqx6REZ8sx5PcsmePwbc",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2021-02-19",
+    "updated_date": "2021-03-04",
     "downloads": "100,000+",
     "country": "CA",
-    "dangerous_permissions_count": 5
+    "dangerous_permissions_count": 4
   },
   {
     "id": "ca.gc.hcsc.canada.stopcovid",
     "title": "COVID Alert - Let\u2019s protect each other",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2021-02-26",
+    "updated_date": "2021-03-04",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 0
@@ -384,7 +384,7 @@
     "title": "Delhi Corona",
     "icon_url": "https://play-lh.googleusercontent.com/AGT2g8cc3AjreaGRhIb6a5gnTjSfxMKju7eZNaGDsugnlMc03uOQWnMf_T_dk-CPhHI",
     "developer_id": "Delhi e-Governance Society, IT Department",
-    "updated_date": "2020-10-11",
+    "updated_date": "2021-03-04",
     "downloads": "100,000+",
     "country": "IN",
     "dangerous_permissions_count": 0
@@ -574,7 +574,7 @@
     "title": "Bluezone - Contact detection",
     "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-    "updated_date": "2021-03-04",
+    "updated_date": "2021-03-05",
     "downloads": "10,000,000+",
     "country": "VN",
     "dangerous_permissions_count": 7
@@ -1044,7 +1044,7 @@
     "title": "MI COVID Alert",
     "icon_url": "https://play-lh.googleusercontent.com/s3tzxcp6Sa1RUQdMAzOtW2ynII2v8CllJFE57OMYnpNTFupFgmjbN5AKUTtbh_pRgg",
     "developer_id": "State of Michigan",
-    "updated_date": "2021-02-04",
+    "updated_date": "2021-03-04",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2021-02-10",
+    "updated_date": "2021-03-03",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
@@ -1434,7 +1434,7 @@
     "title": "CVKey",
     "icon_url": "https://play-lh.googleusercontent.com/ZrgOHQ9QZETVR75lzI1GadqvqQiEkMXu-CFl7uAjxMk2gcC7njcFuZW1lMSCljFRfg",
     "developer_id": "CVKey Project",
-    "updated_date": "2021-02-18",
+    "updated_date": "2021-03-05",
     "downloads": "5,000+",
     "country": "US",
     "dangerous_permissions_count": 5
