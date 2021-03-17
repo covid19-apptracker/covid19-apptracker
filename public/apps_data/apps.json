@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2021-02-25",
+    "updated_date": "2021-03-16",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -515,7 +515,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/Y-d_xS4sO8nA8b9ibpuqFJ3JWFImE4EE54Yf0gpvlJQb38OZ83_7k2LXeWMx3ShJmA",
     "developer_id": "opmjm mobile",
     "updated_date": "2021-03-06",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "JM",
     "dangerous_permissions_count": 7
   },
@@ -534,7 +534,7 @@
     "title": "COVID19 UAE",
     "icon_url": "https://play-lh.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
     "developer_id": "Ministry of Health and Prevention - UAE",
-    "updated_date": "2021-03-06",
+    "updated_date": "2021-03-13",
     "downloads": "100,000+",
     "country": "AE",
     "dangerous_permissions_count": 9
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2021-03-05",
+    "updated_date": "2021-03-15",
     "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
