@@ -4,7 +4,7 @@
     "title": "COVID19 - DXB Smart App",
     "icon_url": "https://play-lh.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
     "developer_id": "Dubai Health Authority - DHA",
-    "updated_date": "2021-03-21",
+    "updated_date": "2021-03-22",
     "downloads": "500,000+",
     "country": "AE",
     "dangerous_permissions_count": 10
@@ -134,7 +134,7 @@
     "title": "BC COVID-19 Support",
     "icon_url": "https://play-lh.googleusercontent.com/PxMDgTtI_nMIgzUUOCH-jyJLvCG_1SSl7hlA0eoqDepMxe2MtDOQEzaoGmSriEyc6QNv",
     "developer_id": "Province of British Columbia, Canada",
-    "updated_date": "2021-03-05",
+    "updated_date": "2021-03-19",
     "downloads": "50,000+",
     "country": "CA",
     "dangerous_permissions_count": 4
@@ -244,7 +244,7 @@
     "title": "UCLH COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
     "developer_id": "Vincent Harding - UCL Health Creatives",
-    "updated_date": "2021-02-19",
+    "updated_date": "2021-03-19",
     "downloads": "100+",
     "country": "GB",
     "dangerous_permissions_count": 4
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-03-17",
+    "updated_date": "2021-03-22",
     "downloads": "5,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -964,7 +964,7 @@
     "title": "Covid Watch Arizona",
     "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
     "developer_id": "ADHS-Arizona Department of Health Services",
-    "updated_date": "2021-02-12",
+    "updated_date": "2021-03-18",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1514,7 +1514,7 @@
     "title": "Home Quarantine - Poland (Kwarantanna domowa)",
     "icon_url": "https://play-lh.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
     "developer_id": "5846632246178772267",
-    "updated_date": "2021-02-24",
+    "updated_date": "2021-03-18",
     "downloads": "1,000,000+",
     "country": "PL",
     "dangerous_permissions_count": 7
