@@ -3,10 +3,10 @@
   "title": "Bolivia Segura",
   "icon_url": "https://play-lh.googleusercontent.com/4UUSTDTwaW5VKfYuvJEZRA6DIx5RTrh5q3-3O7Qg1IM_p5Oksp1uYf8YUkHmTAReWVF0",
   "developer_id": "Agetic Bolivia",
-  "updated_date": "2021-01-29",
-  "downloads": "50,000+",
+  "updated_date": "2021-03-30",
+  "downloads": "100,000+",
   "country": "BO",
-  "description": "Bienvenido a la aplicaci\u00f3n Bolivia Segura #UnidosContraElCovid, contacta con tu m\u00e9dico en l\u00ednea - Realiza tu preregistro nacional para la vacunaci\u00f3n - Encuentra los sitios de tu inter\u00e9s m\u00e1s cercanos a tu ubicaci\u00f3n - Encuentra lo que necesitas saber y hacer - Mantente informado",
+  "description": "Bienvenido a la aplicaci\u00f3n Bolivia Segura #UnidosContraElCovid, en la que encontrar\u00e1s informaci\u00f3n oficial referente a los s\u00edntomas, la prevenci\u00f3n y la vacunaci\u00f3n contra el virus COVID-19 en Bolivia.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.agetic.coronavirusapp",
   "dangerous_permissions_count": 4,
   "permissions": {
@@ -46,5 +46,5 @@
   "developer_url": "https://boliviasegura.gob.bo",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://boliviasegura.gob.bo/PrivacyPolicy.html"
+  "privacy_policy": "https://www.boliviasegura.gob.bo/index.php/politica-de-privacidad/"
 }
