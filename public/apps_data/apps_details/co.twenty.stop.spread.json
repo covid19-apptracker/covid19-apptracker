@@ -10,6 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=co.twenty.stop.spread",
   "dangerous_permissions_count": 3,
   "permissions": {
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
     "Camera": [
       {
         "permissionName": "Take pictures and videos",
@@ -22,16 +28,16 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
