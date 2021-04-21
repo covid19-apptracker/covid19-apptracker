@@ -74,7 +74,7 @@
     "title": "Stopp Corona",
     "icon_url": "https://play-lh.googleusercontent.com/2NERfqltW9rIkNkgCY96ZHjxWRRAm_5UXVWI3KcZJ3c1b9TKJZbD95N_7vGv1gUIbBA",
     "developer_id": "\u00d6sterreichisches Rotes Kreuz",
-    "updated_date": "2021-04-06",
+    "updated_date": "2021-04-16",
     "downloads": "100,000+",
     "country": "AT",
     "dangerous_permissions_count": 0
@@ -274,7 +274,7 @@
     "title": "Bolivia Segura",
     "icon_url": "https://play-lh.googleusercontent.com/4UUSTDTwaW5VKfYuvJEZRA6DIx5RTrh5q3-3O7Qg1IM_p5Oksp1uYf8YUkHmTAReWVF0",
     "developer_id": "Agetic Bolivia",
-    "updated_date": "2021-04-07",
+    "updated_date": "2021-04-20",
     "downloads": "100,000+",
     "country": "BO",
     "dangerous_permissions_count": 4
@@ -924,7 +924,7 @@
     "title": "Koronavilkku",
     "icon_url": "https://play-lh.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
-    "updated_date": "2021-03-01",
+    "updated_date": "2021-04-16",
     "downloads": "1,000,000+",
     "country": "FI",
     "dangerous_permissions_count": 0
@@ -935,7 +935,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
     "developer_id": "Government of the Republic of Fiji",
     "updated_date": "2021-03-31",
-    "downloads": "50,000+",
+    "downloads": "100,000+",
     "country": "FJ",
     "dangerous_permissions_count": 1
   },
@@ -1234,7 +1234,7 @@
     "title": "COCOA - COVID-19 Contact App",
     "icon_url": "https://play-lh.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
-    "updated_date": "2021-02-09",
+    "updated_date": "2021-04-15",
     "downloads": "5,000,000+",
     "country": "JP",
     "dangerous_permissions_count": 0
@@ -1344,7 +1344,7 @@
     "title": "MySejahtera",
     "icon_url": "https://play-lh.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
     "developer_id": "7553531416459678701",
-    "updated_date": "2021-03-31",
+    "updated_date": "2021-04-20",
     "downloads": "10,000,000+",
     "country": "MY",
     "dangerous_permissions_count": 8
@@ -1584,7 +1584,7 @@
     "title": "\u0412\u0434\u043e\u043c\u0430",
     "icon_url": "https://play-lh.googleusercontent.com/IV8H9MatuL7Y8GB1JEGOXpVGjT0d0bR6fPLXoj3Z4f6mOP-SkyNidzTGSu0PzAZcCi8",
     "developer_id": "Ministry of Digital Transformation of Ukraine",
-    "updated_date": "2020-11-26",
+    "updated_date": "2021-04-19",
     "downloads": "1,000,000+",
     "country": "UA",
     "dangerous_permissions_count": 8
