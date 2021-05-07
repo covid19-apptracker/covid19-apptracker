@@ -124,7 +124,7 @@
     "title": "ABTraceTogether",
     "icon_url": "https://play-lh.googleusercontent.com/vjEfwYpWeXX2hrjXbk7EMewqSROo8E5IHpVZl8bvVnJMxCkcRWkUHmkN4W_UFFJKx3EJ",
     "developer_id": "Government of the Province of Alberta",
-    "updated_date": "2021-03-16",
+    "updated_date": "2021-04-21",
     "downloads": "100,000+",
     "country": "CA",
     "dangerous_permissions_count": 2
@@ -234,7 +234,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2021-04-16",
+    "updated_date": "2021-05-04",
     "downloads": "500,000+",
     "country": "US",
     "dangerous_permissions_count": 3
@@ -245,7 +245,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/vcclYF0o4X-jWG2Rybl0F9qvnFwYJnATwyCFrxAU57vJ8UWtfTsm2YiolY8hVVvf3j4",
     "developer_id": "Vincent Harding - UCL Health Creatives",
     "updated_date": "2021-03-19",
-    "downloads": "100+",
+    "downloads": "500+",
     "country": "GB",
     "dangerous_permissions_count": 4
   },
@@ -1164,7 +1164,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://play-lh.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2021-04-29",
+    "updated_date": "2021-05-05",
     "downloads": "1,000,000+",
     "country": "IN",
     "dangerous_permissions_count": 7
@@ -1615,7 +1615,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/GIiVNzqeX19-ov7OpPeEbSWuaoMP7LAyj-jmYMsSBu5AUek3ynIQSZJnRXaGZfSWskM",
     "developer_id": "AGESIC",
     "updated_date": "2021-04-27",
-    "downloads": "500,000+",
+    "downloads": "1,000,000+",
     "country": "UY",
     "dangerous_permissions_count": 2
   },
