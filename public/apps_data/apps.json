@@ -104,7 +104,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://play-lh.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2021-05-09",
+    "updated_date": "2021-05-25",
     "downloads": "500,000+",
     "country": "BH",
     "dangerous_permissions_count": 9
@@ -652,9 +652,9 @@
   {
     "id": "com.patientmpower.covid19.usa",
     "title": "patientMpower for COVID-19 USA",
-    "icon_url": "https://play-lh.googleusercontent.com/POr1WPoGNFh6rMzCHdveBiE-K4M5XoP7w2xz0o7SJiw_CecbLjNuyBVrYBAh6lF4u53z",
+    "icon_url": "https://play-lh.googleusercontent.com/RGnXYAertBoMExSFUbLHtGMAJ0D2J-DGh91JXZNL_pQlL96TSuNw0iDWkYoKfycyZtU",
     "developer_id": "patientMpower",
-    "updated_date": "2021-03-11",
+    "updated_date": "2021-05-26",
     "downloads": "100+",
     "country": "US",
     "dangerous_permissions_count": 7
@@ -1034,7 +1034,7 @@
     "title": "MD COVID Alert",
     "icon_url": "https://play-lh.googleusercontent.com/PwxpgXDCYuOBjVP6Whjbp57S2LvnC2bM55CL8zd8xlPGD07QttJtHlinHhmJ77mtvw8",
     "developer_id": "Maryland Department of Health",
-    "updated_date": "2021-04-30",
+    "updated_date": "2021-05-25",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
