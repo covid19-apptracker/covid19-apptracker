@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2021-05-07",
+    "updated_date": "2021-06-04",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -104,7 +104,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://play-lh.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2021-05-25",
+    "updated_date": "2021-06-04",
     "downloads": "500,000+",
     "country": "BH",
     "dangerous_permissions_count": 9
@@ -974,7 +974,7 @@
     "title": "CA Notify",
     "icon_url": "https://play-lh.googleusercontent.com/SuAbGxnXAhkAEfYTWrIxqLzOSaqtN40SUVkxOA5Gblf3v5MxrFGMSuwvE2tCm3I9CQ",
     "developer_id": "CA Dept of Technology",
-    "updated_date": "2021-05-27",
+    "updated_date": "2021-06-03",
     "downloads": "500,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1547,7 +1547,7 @@
     "updated_date": "2021-04-28",
     "downloads": "1,000,000+",
     "country": "SG",
-    "dangerous_permissions_count": 7
+    "dangerous_permissions_count": 4
   },
   {
     "id": "tn.onmne.e7mi",
