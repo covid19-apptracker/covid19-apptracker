@@ -154,10 +154,10 @@
     "title": "COVID Alert - Let\u2019s protect each other",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2021-05-18",
+    "updated_date": "2021-06-04",
     "downloads": "1,000,000+",
     "country": "CA",
-    "dangerous_permissions_count": 5
+    "dangerous_permissions_count": 1
   },
   {
     "id": "cat.gencat.mobi.StopCovid19Cat",
@@ -594,7 +594,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://play-lh.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2021-06-02",
+    "updated_date": "2021-06-04",
     "downloads": "1,000,000+",
     "country": "QA",
     "dangerous_permissions_count": 9
@@ -624,7 +624,7 @@
     "title": "COVID Alert NJ",
     "icon_url": "https://play-lh.googleusercontent.com/nKfkttsvFcAlZ75LABU0E4wYCx4fDiRB3jaXwKzRPi0SF47a2pqAnmbryc50o_V_Tw",
     "developer_id": "State of New Jersey  Applications",
-    "updated_date": "2021-04-04",
+    "updated_date": "2021-05-27",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1094,7 +1094,7 @@
     "title": "Protect Scotland",
     "icon_url": "https://play-lh.googleusercontent.com/l61Y45bG4-IVkBdFMJJnr9_buLB0pMMzKt-t3VbDrnSSzNLgiu9mpfKUEZTiXzfmG5w",
     "developer_id": "NHS Education for Scotland",
-    "updated_date": "2021-02-17",
+    "updated_date": "2021-06-04",
     "downloads": "500,000+",
     "country": "GB",
     "dangerous_permissions_count": 0
