@@ -3,44 +3,14 @@
   "title": "StaySafe PH",
   "icon_url": "https://play-lh.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
   "developer_id": "Multisys Technologies Corporation",
-  "updated_date": "2021-04-22",
+  "updated_date": "2021-06-12",
   "downloads": "1,000,000+",
   "country": "PH",
   "description": "StaySafe is the Department of the Interior and Local Government (DILG) and Inter-Agency Task Force on Emerging Infectious Diseases\u2019 official contact tracing mobile app with Google-Apple Exposure Notification (GAEN) feature via Bluetooth in the Philippines On the app, enable your Bluetooth to activate the GAEN feature. Information about who you have encountered using the GAEN feature will never leave your phone and is automatically deleted after 14 days. Signing up is optional and you can use the StaySafe app without an account needed. If you have an account, your data will be stored securely on your phone and deleted automatically after 14 days. Your data will be used only for public health purposes and never for enforcement. The DILG has worked closely with the National Privacy Commission to ensure your privacy and data security are protected. Join us as you protect yourself, your loved ones, and your community. Your efforts will help the country's leaders and frontliners to know if you're safe. It will also alert them on individuals who are in need of immediate medical assistance. Stay at home, stay healthy, and stay safe!",
   "app_store_url": "https://play.google.com/store/apps/details?id=ph.staysafe.mobileapp",
-  "dangerous_permissions_count": 5,
+  "dangerous_permissions_count": 0,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Other": [
-      {
-        "permissionName": "Control vibration",
-        "isDangerous": 0
-      },
       {
         "permissionName": "Full network access",
         "isDangerous": 0
@@ -51,10 +21,6 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
