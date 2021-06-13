@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-06-10",
+    "updated_date": "2021-06-11",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -1494,10 +1494,10 @@
     "title": "StaySafe PH",
     "icon_url": "https://play-lh.googleusercontent.com/YV95TGP-uyqczFIJEOfUnQ2A_pLPVEw1DhCkAPhlFWPGwkdfVHgPQROPcQeP7Fw6zas",
     "developer_id": "Multisys Technologies Corporation",
-    "updated_date": "2021-04-22",
+    "updated_date": "2021-06-12",
     "downloads": "1,000,000+",
     "country": "PH",
-    "dangerous_permissions_count": 5
+    "dangerous_permissions_count": 0
   },
   {
     "id": "pl.gov.mc.protegosafe",
