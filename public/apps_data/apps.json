@@ -574,7 +574,7 @@
     "title": "Bluezone - Contact detection",
     "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-    "updated_date": "2021-06-09",
+    "updated_date": "2021-06-15",
     "downloads": "10,000,000+",
     "country": "VN",
     "dangerous_permissions_count": 7
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-06-10",
+    "updated_date": "2021-06-14",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1254,10 +1254,10 @@
     "title": "\uc790\uac00\uaca9\ub9ac\uc790 \uc548\uc804\ubcf4\ud638",
     "icon_url": "https://play-lh.googleusercontent.com/3aEWGnXEDr7kJMhvLyhSCGrn7De5yzbBnIWqZdKuT4kQQTTbSRj4sdPIutSsJB4vy2A",
     "developer_id": "\ud589\uc815\uc548\uc804\ubd80",
-    "updated_date": "2021-06-04",
+    "updated_date": "2021-06-14",
     "downloads": "1,000,000+",
     "country": "KR",
-    "dangerous_permissions_count": 9
+    "dangerous_permissions_count": 5
   },
   {
     "id": "lv.spkc.gov.apturicovid",
