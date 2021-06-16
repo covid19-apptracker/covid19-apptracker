@@ -3,46 +3,16 @@
   "title": "Asistencia COVID-19",
   "icon_url": "https://play-lh.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
   "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-  "updated_date": "2020-10-07",
+  "updated_date": "2021-06-14",
   "downloads": "100,000+",
   "country": "ES",
   "description": "Esta es una aplicaci\u00f3n oficial del Gobierno de Espa\u00f1a en cooperaci\u00f3n con las Comunidades Aut\u00f3nomas adheridas. Por favor, revisa la lista de Comunidades Adheridas en https://asistencia.covid19.gob.es/ La aplicaci\u00f3n Asistencia COVID-19 permite autoevaluarse sobre los posibles s\u00edntomas de la enfermedad infecciosa COVID-19 e informarse sobre las recomendaciones a seguir. La aplicaci\u00f3n m\u00f3vil Asistencia COVID-19 tiene como misi\u00f3n ayudar a la autoevaluaci\u00f3n de los ciudadanos de la probabilidad de sufrir la enfermedad infecciosa COVID-19, con el objetivo de reducir el volumen de llamadas al n\u00famero de emergencias sanitarias, informar a la poblaci\u00f3n, permitir un triaje inicial de posibles casos y un seguimiento posterior por parte de las Autoridades Sanitarias. La utilizaci\u00f3n de la Aplicaci\u00f3n no constituye un servicio de diagn\u00f3stico m\u00e9dico, de atenci\u00f3n de urgencias o de prescripci\u00f3n de tratamientos farmacol\u00f3gicos. La utilizaci\u00f3n de la Aplicaci\u00f3n no puede en ning\u00fan caso sustituir la consulta presencial personal frente a un profesional m\u00e9dico debidamente cualificado.",
   "app_store_url": "https://play.google.com/store/apps/details?id=es.gob.asistenciacovid19",
-  "dangerous_permissions_count": 8,
+  "dangerous_permissions_count": 2,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
     "Phone": [
       {
         "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
