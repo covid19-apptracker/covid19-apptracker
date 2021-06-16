@@ -3,7 +3,7 @@
   "title": "careFIJI",
   "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
   "developer_id": "Government of the Republic of Fiji",
-  "updated_date": "2021-06-10",
+  "updated_date": "2021-06-15",
   "downloads": "100,000+",
   "country": "FJ",
   "description": "careFIJI is a mobile application developed by the Fijian Government under the digitalFIJI initiative to assist the Ministry of Health and Medical Services streamline and speed up its manual contact tracing efforts. By opting into this voluntary initiative, Fijians can help stop the spread of COVID-19 and save lives by harnessing the power of technology \u2013 all while maintaining their absolute security and privacy. Using Bluetooth technology that does not capture any location or GPS information, careFIJI is based on the open source reference implementation of TraceTogether mobile application developed by the Singaporean Government. careFIJI uses Bluetooth signals to determine if you are near other careFIJI users. This close contact data is anonymised, encrypted and stored on your mobile phones. Only a mobile number is required to activate the careFIJI app and Ministry of Health and Medical Services officials will use the same number to call you to conduct contact tracing.",
