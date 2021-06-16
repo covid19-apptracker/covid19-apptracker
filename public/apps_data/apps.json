@@ -154,7 +154,7 @@
     "title": "COVID Alert - Let\u2019s protect each other",
     "icon_url": "https://play-lh.googleusercontent.com/F4A_XuDdWN_zq4oUVyk9H2aUc12yI7K0ojFN2NkXTSp0MmM4vQePeRZ9BjUBxUdaSqg",
     "developer_id": "Health Canada | Sant\u00e9 Canada",
-    "updated_date": "2021-06-04",
+    "updated_date": "2021-06-11",
     "downloads": "1,000,000+",
     "country": "CA",
     "dangerous_permissions_count": 1
@@ -544,7 +544,7 @@
     "title": "Thaichana - \u0e44\u0e17\u0e22\u0e0a\u0e19\u0e30",
     "icon_url": "https://play-lh.googleusercontent.com/PpPwawlYza7IR_ZXBAtsDEFHlL0633bn5v5ovESHXdTnHzUYw_WKGf84RmmCkTCZANI",
     "developer_id": "Krungthai Bank PCL.",
-    "updated_date": "2021-01-13",
+    "updated_date": "2021-06-15",
     "downloads": "1,000,000+",
     "country": "TH",
     "dangerous_permissions_count": 2
@@ -562,9 +562,9 @@
   {
     "id": "com.maithu.transplantbuddy.covid19",
     "title": "patientMpower for COVID-19",
-    "icon_url": "https://play-lh.googleusercontent.com/mIh_E8LCoW3lyVfM8RaIe4FMO5wV0IMjGy9jM6l11vg9SrNmof--nf5_bwWz0NrGUa8",
+    "icon_url": "https://play-lh.googleusercontent.com/imMJZyVDzG1rBAcOAm5qtMqEZ-3s1QEC-abmnzdtbctOlkHtFrXms3bN8k_t0BPXHw",
     "developer_id": "patientMpower",
-    "updated_date": "2021-03-11",
+    "updated_date": "2021-06-14",
     "downloads": "1,000+",
     "country": "IE",
     "dangerous_permissions_count": 7
@@ -624,7 +624,7 @@
     "title": "COVID Alert NJ",
     "icon_url": "https://play-lh.googleusercontent.com/nKfkttsvFcAlZ75LABU0E4wYCx4fDiRB3jaXwKzRPi0SF47a2pqAnmbryc50o_V_Tw",
     "developer_id": "State of New Jersey  Applications",
-    "updated_date": "2021-05-27",
+    "updated_date": "2021-06-14",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -794,7 +794,7 @@
     "title": "T COVID'19",
     "icon_url": "https://play-lh.googleusercontent.com/02nR9K9d8PjvD36wPu_UAF2X8hRX83qQhi44EJNnTmMVXh6GQmMzBIM3rmEywxQE_P7U",
     "developer_id": "ET Wing, Govt of Telangana",
-    "updated_date": "2021-05-20",
+    "updated_date": "2021-06-14",
     "downloads": "50,000+",
     "country": "IN",
     "dangerous_permissions_count": 13
@@ -884,17 +884,17 @@
     "title": "Asistencia COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/3KYd6EDM09AnLiTTolx4ZCuGDQi6PWjvhuAmJKkbhQIv6SrqWPdISIVI792HH-JeiOI",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2020-10-07",
+    "updated_date": "2021-06-14",
     "downloads": "100,000+",
     "country": "ES",
-    "dangerous_permissions_count": 8
+    "dangerous_permissions_count": 2
   },
   {
     "id": "es.gob.radarcovid",
     "title": "Radar COVID",
     "icon_url": "https://play-lh.googleusercontent.com/CG1SrQhMAHr85BQWANnU-QhcSLMHcu8r5h9LnzHYqweIre7copRzMSPXa5MJP3G0PA",
     "developer_id": "Ministerio de Asuntos Econ\u00f3micos y Transf. Digital",
-    "updated_date": "2021-02-17",
+    "updated_date": "2021-06-15",
     "downloads": "5,000,000+",
     "country": "ES",
     "dangerous_permissions_count": 0
@@ -934,7 +934,7 @@
     "title": "careFIJI",
     "icon_url": "https://play-lh.googleusercontent.com/CvEpgtY0r6Ii3XS4nWKILEQFOQz4j4i4m0JjGJsuJc5UI0QW5Q17Vj3sh4mHy8SvLA",
     "developer_id": "Government of the Republic of Fiji",
-    "updated_date": "2021-06-10",
+    "updated_date": "2021-06-15",
     "downloads": "100,000+",
     "country": "FJ",
     "dangerous_permissions_count": 2
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2021-05-24",
+    "updated_date": "2021-06-13",
     "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
