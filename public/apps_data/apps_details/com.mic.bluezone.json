@@ -30,18 +30,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
-      }
-    ],
     "Camera": [
       {
         "permissionName": "Take pictures and videos",
@@ -56,6 +44,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
@@ -76,10 +70,6 @@
         "isDangerous": 0
       },
       {
-        "permissionName": "Install shortcuts",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
@@ -93,10 +83,6 @@
       },
       {
         "permissionName": "Run at startup",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Uninstall shortcuts",
         "isDangerous": 0
       },
       {
