@@ -3,7 +3,7 @@
   "title": "CoronApp - Colombia",
   "icon_url": "https://play-lh.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
   "developer_id": "INS.GOV",
-  "updated_date": "2021-05-13",
+  "updated_date": "2021-06-18",
   "downloads": "10,000,000+",
   "country": "CO",
   "description": "\u00bfQu\u00e9 es? \u2022\tAnte la pandemia del Covid-19, el Gobierno colombiano decidi\u00f3 recurrir a la tecnologi\u0301a y a la innovacio\u0301n para salvar la mayor cantidad de vidas posibles, por eso, junto al Instituto Nacional de Salud (INS) crearon la aplicacio\u0301n CoronApp Colombia. \u2022\tEsta aplicaci\u00f3n\u00a0es una de las fuentes de datos\u00a0para la toma de decisiones del estado. \u00bfCu\u00e1l es el prop\u00f3sito de CoronApp Colombia? \u2022\tFortalecer el despliegue de medidas de prevenci\u00f3n, contenci\u00f3n y mitigaci\u00f3n frente al COVID-19. \u2022\tFacilitar el monitoreo, en tiempo real, de los datos recopilados para que el Centro de Operaciones de Emergencias del INS pueda actuar r\u00e1pidamente y dar apoyo en coordinaci\u00f3n con las autoridades locales, departamentales y nacionales. \u2022\tMonitorear los riesgos en salud p\u00fablica asociados al Coronavirus. \u00bfQu\u00e9 pueden hacer los usuarios registrados? \u2022\tReportar s\u00edntomas y los de familiares. \u2022\tRecibir recomendaciones seg\u00fan el estado de salud tras hacer el autodiagn\u00f3stico. \u2022\tEncontrar herramientas para afrontar la cuarentena de la mejor forma. \u2022\tObtener tu estatus de movilidad a trav\u00e9s de un c\u00f3digo QR seg\u00fan excepciones que dispone el Gobierno Colombiano. \u2022\tAcceder a informaci\u00f3n oficial de los Casos de Coronavirus en Colombia. \u2022\tObtener informaci\u00f3n sobre los servicios de salud y l\u00edneas de atenci\u00f3n. Quienes no se registren podr\u00e1n, igualmente, hacer uso de CoronApp Colombia consultando informaci\u00f3n oficial, centros de salud, l\u00edneas de atenci\u00f3n y recomendaciones para su cuidado. \u00bfPor qu\u00e9 es importante que t\u00fa y quienes te rodean la usen? \u2022\tReportar a diario tu estado de salud, incluso si te sientes sano, puede ayudar a rastrear el momento exacto de los s\u00edntomas en ti, tambi\u00e9n el proceso de evoluci\u00f3n del virus. As\u00ed podremos brindarte el apoyo necesario seg\u00fan tu caso. \u2022\tSi varias personas en tu entorno tambi\u00e9n registran sus s\u00edntomas, podemos entender el estado de una poblaci\u00f3n determinada y el comportamiento del virus en el territorio nacional, esto nos ayuda a tomar mejores decisiones frente a la pandemia. \u00bfCu\u00e1les son las principales caracter\u00edsticas? \u2022\tEs una aplicaci\u00f3n gratuita. \u2022\tEl uso de la informaci\u00f3n que consignas en CoronApp Colombia se hace cumpliendo los t\u00e9rminos de uso que has aceptado, los datos son usados \u00fanicamente para la gesti\u00f3n de la pandemia y buscan disminuir el contagio. \u2022\tLas datos que consignas son georeferenciados, es decir podemos ubicar el lugar desde el que se hace el reporte. \u2022\tIncorpora tecnolog\u00eda y mec\u00e1nicas de aplicaciones pioneras en el mundo para combatir el Coronavirus. \u00bfC\u00f3mo evoluciona CoronApp Colombia? Es una aplicaci\u00f3n en constante mejora, aqu\u00ed te resumimos algunas de las principales novedades: Versi\u00f3n previa al 31 de Marzo 2020 \u2022\tSe modifica interfaz gr\u00e1fica de la aplicaci\u00f3n mejorando la experiencia de usuario. 31 de Marzo 2020 \u2022\tSe habilita el acceso a la informaci\u00f3n sin necesidad de registro, se agrega funcionalidades: Como va Colombia, Cuarentena en casa, ultimas noticias y Compartir app. 06 de Abril 2020 \u2022\tSe ajusta el registro de usuario, disminuyendo los campos, para facilitar el acceso a la aplicaci\u00f3n, nuevo formulario de autodiagn\u00f3stico. 07 de Abril 2020 \u2022\tSe ajusta el flujo de s\u00edntomas ampliando la cantidad de preguntas y el di\u00e1logo del resultado del diagn\u00f3stico. 10 de Abril 2020 \u2022\tSe mejora el autodiagn\u00f3stico, se agregan m\u00e1s recomendaciones en la secci\u00f3n Reportar los S\u00edntomas, se agregan nuevas l\u00edneas de atenci\u00f3n, se mejora el servicio para la visualizaci\u00f3n de cifras. 14 de Abril 2020 \u2022\tSe actualiza el formulario de registro familiar para identificar solo a los parientes que viven en la misma ubicaci\u00f3n. Las dem\u00e1s actualizaciones presentan las respectivas novedades en cada publicaci\u00f3n.",
@@ -16,17 +16,17 @@
         "isDangerous": 1
       }
     ],
-    "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      },
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
