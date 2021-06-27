@@ -1321,13 +1321,13 @@
   },
   {
     "id": "mx.gob.tamaulipas.covid19",
-    "title": "COVID-19 Tam",
-    "icon_url": "https://play-lh.googleusercontent.com/gjYsDTOIzpoBPKmjj896WXnoPo0MVcIvq2BAFK91nAGtP9TVH0S5AKAnLgO94Pd_ECy1",
+    "title": "Servicios Tam",
+    "icon_url": "https://play-lh.googleusercontent.com/kqKMV-3smHztMvnRSTyhbqPBV_znUK7mMHDSsiZQwVPwGBTwzLA8wQxlHlHgyjVIpNxA",
     "developer_id": "Gobierno del Estado de Tamaulipas",
-    "updated_date": "2020-07-09",
+    "updated_date": "2021-01-20",
     "downloads": "100,000+",
     "country": "MX",
-    "dangerous_permissions_count": 2
+    "dangerous_permissions_count": 7
   },
   {
     "id": "mx.gob.www",
