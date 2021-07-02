@@ -84,7 +84,7 @@
     "title": "COVIDSafe",
     "icon_url": "https://play-lh.googleusercontent.com/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY",
     "developer_id": "Australian Department of Health",
-    "updated_date": "2021-06-04",
+    "updated_date": "2021-07-01",
     "downloads": "1,000,000+",
     "country": "AU",
     "dangerous_permissions_count": 2
@@ -174,7 +174,7 @@
     "title": "SwissCovid",
     "icon_url": "https://play-lh.googleusercontent.com/aqKA0KyE2W88K0GWkFJekgfG_vsGm35H0QdeCcSuo7TaZWQlUsZLnfd265ywVY69pf4",
     "developer_id": "Federal Office of Public Health FOPH",
-    "updated_date": "2021-04-29",
+    "updated_date": "2021-06-23",
     "downloads": "1,000,000+",
     "country": "CH",
     "dangerous_permissions_count": 1
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-06-24",
+    "updated_date": "2021-06-30",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-06-22",
+    "updated_date": "2021-06-29",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
