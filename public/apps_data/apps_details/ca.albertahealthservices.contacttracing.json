@@ -3,7 +3,7 @@
   "title": "ABTraceTogether",
   "icon_url": "https://play-lh.googleusercontent.com/vjEfwYpWeXX2hrjXbk7EMewqSROo8E5IHpVZl8bvVnJMxCkcRWkUHmkN4W_UFFJKx3EJ",
   "developer_id": "Government of the Province of Alberta",
-  "updated_date": "2021-04-21",
+  "updated_date": "2021-06-24",
   "downloads": "100,000+",
   "country": "CA",
   "description": "This app is being brought to you by the Government of Alberta. This app is intended for ages 14+. Some of the key benefits of this app are to: \u2022 Augment our current contact tracing efforts to provide guidance and care to those who are or may be infected \u2022 Help keep Albertans safe by limiting the spread of COVID-19 through more individuals self-isolating earlier The app is most effective if it reaches a strong penetration of usage among Albertans, which means the more people that use the app, the better the app works. Once a user registers their phone number with the app, the app uses bluetooth to log contact with other individuals who have the app when that contact is within approximately 2 meters. If a user tests positive for COVID-19, they will be contacted by an Alberta Health Service Contact Tracer, and asked to voluntarily upload their data to Alberta Health Services so that anyone the user came into close contact with over the previous 14 days can be notified. Location permissions are required by the application because Android/Google requires apps requesting access to Bluetooth to also obtain location permission. The app does not capture or use information about your location. In addition, location data is not collected by Alberta Health or Alberta Health Services and is never sent from your phone to another organization for any purpose. The Bluetooth exchange ID log data collected is stored locally in your phone in an encrypted form. This data will not be accessed by Alberta Health Services unless and until you choose to upload it as a result of being diagnosed with COVID-19. Mobile numbers or any other personal information are not revealed to other app users. Personal Information collected: - Phone number Permissions required: - Bluetooth enabled - Location - Push notifications Additionally, ABTraceTogether uses the smartphone MAC address solely for the one-time generation of a device ID to allow required communication between ABTraceTogether and the server. The MAC address is not transmitted, shared, stored, or used for any kind of personal data or user tracking. Copyright 2021 Government of Alberta",
@@ -18,12 +18,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
@@ -45,6 +39,10 @@
       },
       {
         "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
