@@ -3,7 +3,7 @@
   "title": "UP Home Isolation App",
   "icon_url": "https://play-lh.googleusercontent.com/_yxWZTla-q_08vp9X_kDl663S2FSXi7Cbmtq9Cv4vCENlKC698sbSIBExyWN3DyaxTw",
   "developer_id": "India Health Action Trust",
-  "updated_date": "2020-08-18",
+  "updated_date": "2021-06-26",
   "downloads": "100,000+",
   "country": "IN",
   "description": "This is Home isolation Application, it is an Initiative of Directorate of Medical and Health Services, Government of Uttar Pradesh for Public. The Home isolation App is aimed at increasing awareness and enable State population to get registered and start isolation process to avoid any further spread of the fatal COVID-19 virus. Application captures isolation date, symptoms and test results of Home isolation person. This initiative will help government to track the people who are in Home isolation and help them to keep themselves and other safe from fatal Novel Corona (COVID-19) Virus.",
@@ -62,5 +62,5 @@
   "developer_url": "https://dgmhup-covid19.in/privacy.html",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://dgmhup-covid19.in/"
+  "privacy_policy": "https://dgmhup-covid19.in/privacy.html"
 }
