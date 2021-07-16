@@ -3,7 +3,7 @@
   "title": "PeduliLindungi",
   "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
   "developer_id": "5157417495804423999",
-  "updated_date": "2021-07-11",
+  "updated_date": "2021-07-14",
   "downloads": "5,000,000+",
   "country": "ID",
   "description": "Aplikasi PeduliLindungi adalah aplikasi yang dirancang Kementerian Komunikasi dan Informatika (Kominfo) dan Kementerian BUMN untuk digunakan Kementerian Kesehatan dan Gugus Tugas dalam mengatasi pandemi COVID-19 di Indonesia. PeduliLindungi adalah aplikasi yang dikembangkan untuk menghentikan penularan Coronavirus Disease (COVID-19). Aplikasi ini mengandalkan kepedulian (peduli) dan partisipasi masyarakat untuk saling membagikan data lokasinya saat bepergian agar penelusuran riwayat kontak dengan penderita COVID-19 dapat dilakukan. PeduliLindungi menggunakan bluetooth Anda untuk merekam informasi yang dibutuhkan. Pertukaran data akan terjadi ketika ada gadget lain dalam radius bluetooth yang juga terdaftar di PeduliLindungi. PeduliLindungi selanjutnya akan mengidentifikasi orang-orang yang pernah berada dalam jarak dekat dengan orang yang dinyatakan positif COVID-19 atau PDP (Pasien Dalam Pengawasan) dan ODP (Orang Dalam Pengawasan). Hal ini akan sangat membantu ketika orang tersebut tidak dapat mengingat riwayat perjalanan dan dengan siapa saja dia melakukan kontak. Anda juga akan dihubungi oleh petugas kesehatan jika Anda pernah berada dalam jarak tertentu dengan penderita COVID-19 positif, PDP, dan ODP. Lindungi diri Anda dan yang tercinta dengan mengunduh PeduliLindungi. Partisipasimu sangat berarti untuk menghentikan penularan virus corona di Indonesia. PeduliLindungi didukung oleh Kementerian Komunikasi dan Informatika, Kementerian Kesehatan, Kementerian BUMN dan Badan Nasional Penanggulangan Bencana.",
@@ -20,12 +20,6 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -36,10 +30,10 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
+    "Camera": [
       {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
       }
     ],
     "Location": [
@@ -50,6 +44,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
