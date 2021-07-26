@@ -3,7 +3,7 @@
   "title": "Bluezone - Contact detection",
   "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
   "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-  "updated_date": "2021-07-19",
+  "updated_date": "2021-07-23",
   "downloads": "10,000,000+",
   "country": "VN",
   "description": "www.bluezone.gov.vn The Bluezone app, of which the development is presided over by Viet Nam\u2019s Ministry of Information and Communications and Ministry of Health. Bluezone is applicable to people who are living and traveling in Vietnam. The app is to protect the community against COVID-19 pandemic, helping bring the life back to normal. Viet Nam\u2019s Ministry of Information and Communications and Ministry of Health, under the direction by the Prime Minister, have deployed the app called \u201cBluezone - Contact detection\u201d to smartphones. Bluezone shall alert if you had close contact with people who have COVID-19, thereby minimizing the spread of the virus to the community, helping people return to their normal life. When there is a new case of infection, you can learn whether you had close contact with this case or not simply by accessing Bluezone. The more people install Bluezone, there more effective it is. Let\u2019s challenge the virus with the strength of our community. With each person installing the app for themselves and getting the smartphones of 3 other people installed with Bluezone. The Ministry of Information and Communications and the Ministry of Health recommend that the whole country install Bluezone for themselves and for 3 others. - Data security: Bluezone stores data on your device only, it does not send such data to the system. - No location data collection: Bluezone does not collect data on your location. - Anonymity: All Bluezoners are anonymous to others. Only competent health authorities know those who are infected and those who are suspected of infection due to close contact with COVID-19 cases. - Transparency: The Project is open source under GPL 3.0. license. Users from other countries are free to learn the operations of the system at source code level, and to use, research, modify and share it. Bluezone also provides the following utilities: - Health: Give statistics of your daily steps. - Vaccination: Manage and Remind the vaccination schedule - Calendar: Look up the Solar calendar, the Lunar calendar - Female health: Track the menstrual cycle and fertility Privacy  Policy & Terms of Use: https://bluezone.ai/privacy-policy-terms-of-use ---------------------------- If you have any difficulty in installing or using Bluezone, please contact us for assistance. The development team of Bluezone is making efforts to make it more and more complete, serving the country and the people in fighting against the COVID-19 pandemic. - Website: https://bluezone.gov.vn/ - Email: contact@bluezone.gov.vn",
@@ -20,12 +20,6 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -33,6 +27,12 @@
       },
       {
         "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
