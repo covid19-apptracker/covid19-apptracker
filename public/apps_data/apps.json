@@ -124,7 +124,7 @@
     "title": "ABTraceTogether",
     "icon_url": "https://play-lh.googleusercontent.com/vjEfwYpWeXX2hrjXbk7EMewqSROo8E5IHpVZl8bvVnJMxCkcRWkUHmkN4W_UFFJKx3EJ",
     "developer_id": "Government of the Province of Alberta",
-    "updated_date": "2021-06-24",
+    "updated_date": "2021-07-26",
     "downloads": "100,000+",
     "country": "CA",
     "dangerous_permissions_count": 2
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-07-07",
+    "updated_date": "2021-07-23",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -1004,7 +1004,7 @@
     "title": "DC CAN",
     "icon_url": "https://play-lh.googleusercontent.com/3M1pyqRWONV2kbTqo21RYNctyarpBuZYl_345ed_eLfYkSNPe9UlqQKKWmOrJY6qnw",
     "developer_id": "DC Exposure Notifications",
-    "updated_date": "2021-06-02",
+    "updated_date": "2021-07-27",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1204,7 +1204,7 @@
     "title": "Immuni",
     "icon_url": "https://play-lh.googleusercontent.com/QSb7_bHeT5dQZReUWLirWVSQygmr4CzBioyfxutL84IB-CFY6BuKPdDyKVSWuvIVbtk",
     "developer_id": "Ministero della Salute",
-    "updated_date": "2021-06-22",
+    "updated_date": "2021-07-26",
     "downloads": "5,000,000+",
     "country": "IT",
     "dangerous_permissions_count": 0
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2021-06-28",
+    "updated_date": "2021-07-27",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
@@ -1424,7 +1424,7 @@
     "title": "NZ COVID Tracer",
     "icon_url": "https://play-lh.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
     "developer_id": "Ministry of Health NZ",
-    "updated_date": "2021-06-30",
+    "updated_date": "2021-07-27",
     "downloads": "1,000,000+",
     "country": "NZ",
     "dangerous_permissions_count": 1
