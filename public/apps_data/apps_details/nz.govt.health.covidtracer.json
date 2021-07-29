@@ -3,7 +3,7 @@
   "title": "NZ COVID Tracer",
   "icon_url": "https://play-lh.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
   "developer_id": "Ministry of Health NZ",
-  "updated_date": "2021-06-30",
+  "updated_date": "2021-07-27",
   "downloads": "1,000,000+",
   "country": "NZ",
   "description": "NZ COVID Tracer is the Ministry of Health\u2019s official contact tracing mobile app. It helps you protect your friends, wh\u0101nau and community by enabling faster contact tracing. Help contact tracing go faster by creating a private digital diary of the places you visit. Scan the official QR codes wherever you see them and add manual entries for your visits to other places. Use Bluetooth Tracing to enable the Exposure Notification System on your phone. Sign up for contact alerts in case you\u2019ve checked into a location at the same time as someone with COVID-19, or exchanged anonymous Bluetooth keys with someone with COVID-19. If you\u2019re found to have COVID-19, you can share your digital diary with contact tracers. This will help us identify whether any of your friends, wh\u0101nau or community members may have also been exposed, so we can respond quickly and stop any further spread of the virus in New Zealand. If you test positive for COVID-19, you can also upload your anonymous Bluetooth Tracing keys so that other app users who have been close to you will be quickly notified. This helps to keep your friends, whanau and community safe without compromising on your privacy. Register your contact information so contact tracers can get in touch if they need to. The Ministry of Health has worked closely with the Privacy Commissioner and independent security experts during the development of NZ COVID Tracer to ensure your privacy and data security are protected. Your digital diary will be stored securely on your phone and deleted automatically after 60 days. Any personal information you choose to share with contact tracers will be used only for public health purposes and never for enforcement. Information about who you have encountered using Bluetooth Tracing will never leave your phone and is automatically deleted after 14 days. Visit www.health.govt.nz/NZ-COVID-Tracer for further information.",
@@ -23,6 +23,10 @@
       }
     ],
     "Other": [
+      {
+        "permissionName": "Control near field communication",
+        "isDangerous": 0
+      },
       {
         "permissionName": "Control vibration",
         "isDangerous": 0
