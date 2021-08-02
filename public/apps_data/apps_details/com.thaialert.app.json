@@ -2,7 +2,7 @@
   "id": "com.thaialert.app",
   "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
   "icon_url": "https://play-lh.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
-  "developer_id": "Digital Government Development Agency, Thailand",
+  "developer_id": "CAT Telecom Public Co., Ltd.",
   "updated_date": "2021-04-27",
   "downloads": "5,000,000+",
   "country": "TH",
@@ -10,6 +10,12 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=com.thaialert.app",
   "dangerous_permissions_count": 7,
   "permissions": {
+    "Device & app history": [
+      {
+        "permissionName": "Retrieve running apps",
+        "isDangerous": 0
+      }
+    ],
     "Photos/Media/Files": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -18,12 +24,6 @@
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
-      }
-    ],
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
       }
     ],
     "Camera": [
