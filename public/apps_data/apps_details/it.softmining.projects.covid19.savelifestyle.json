@@ -4,7 +4,7 @@
   "icon_url": "https://play-lh.googleusercontent.com/0sWPo9Y7OYpk1FwG28_63Mh-RI1LxHLHFOeygAbtSdq-TSjOlI2CnuDSdCnficB-M222",
   "developer_id": "Softmining Srl",
   "updated_date": "2020-07-17",
-  "downloads": "50,000+",
+  "downloads": "100,000+",
   "country": "IT",
   "description": "Sm-Covid-19 ti permette di tenere sotto controllo il tuo \"Indice dei Contatti\", ovvero una stima numerica con valori da 0 a 100 che cresce e decresce a seconda del numero (e del tipo) di contatti rilevati nelle ultime 24 ore. Il calcolo dell'indice avviene ogni ora.  Il valore \"Indice dei Contatti\" \u00e8 una stima che pu\u00f2 aiutarti a capire se durante la fase 2 stai avendo troppi contatti. Questa App \u00e8 stata sviluppata e viene costantemente aggiornata con l'obiettivo di valutare (attraverso la definizione di modelli statistici e matematici) il rischio di trasmissione (e il comportamento epidemico) del virus attraverso il monitoraggio: - del numero dei contatti - della durata dei contatti; - della distanza presente tra i contatti rilevati rispetto alla durata del contatto. Sm-Covid-19 \u00e8 in grado di rilevare l'App Immuni in modo da aumentare la precisione dei modelli matematici. Sm-Covid-19 non acquisisce dati personali ne dati sanitari: Ti preghiamo di visualizzare il video introduttivo per avere maggiori dettagli sullo scopo e sul funzionamento di questa App. Se desideri maggiori dettagli tecnici sul funzionamento di Sm-Covid-19 puoi visitare questo link: https://www.smcovid19.org/recover/ Sm-Covid-19 non acquisisce dati sensibili dell\u2019utente (ne ha bisogno di tali dati per funzionare). Il modulo di auto-segnalazione \u00e8 stato rimosso in quanto la funzionalit\u00e0 non sar\u00e0 gestita da Sm-Covid-19. Durante la fase 2, cercheremo di acquisire un gran numero di utenti attivi, per poter migliorare i modelli di stima del contagio: Al momento siamo una piccola community di 40.000 volontari, ma per poter eseguire calcoli statistici precisi ti chiediamo di aiutarci a diffondere l'App tra tutti i tuoi contatti, sopratutto quelli con i quali presumibilmente potresti entrare in contatto durante la fase 2. Ci teniamo a ricordarti che SOLO le autorit\u00e0 sanitarie possono indicare la positivit\u00e0 di un soggetto. Poich\u00e9 IMMUNI sar\u00e0 l'app ufficiale di contact tracing Italiana, abbiamo rimosso il modello di calcolo dell'\"Indice di Rischio\". L'APP mostrer\u00e0 solo un Indice di Contatto che aumenter\u00e0 e diminuir\u00e0 in base al numero di contatti efficaci rilevati. I valori indicati in Sm-Covid-19 NON possono essere considerate diagnosi di positivit\u00e0 o negativit\u00e0 al Covid-19: Lo scopo di questa APP \u00e8 di generare modelli rappresentativi del contagio (modelli matematici) e statistiche accurate. L\u2019utente non viene geo-localizzato, n\u00e9 viene reso riconoscibile, salvo nel caso in cui esso stesso decida di condividere di suo spontanea volont\u00e0 i dati GPS attraverso il men\u00f9 Impostazioni -> Abilita condivisione dati GPS. I dati GPS verranno registrati SOLO quando verranno rilevati dei contatti. Se nessun utente viene rilevato nei dintorni, nessun dato viene acquisito. \u00c8 possibile disabilitare in qualsiasi momento l'acquisizione dei dati GPS. Le informazioni acquisite (solo numero, tipo di contatto, distanza e dati GPS se abilitati) saranno condivise con la comunit\u00e0 scientifica e sotto forma di open-data. I dati sono anonimi, tuttavia applichiamo tecniche di shuffle e cifratura degli ID random acquisiti prima di pubblicare open-data. Sm-Covid-19 \u00e8 stata sviluppata e viene manutenuta senza fini economici n\u00e9 di acquisizione di dati sensibili. Sm-Covid-19 non pu\u00f2 essere considerata sostitutiva di una diagnosi medica.",
   "app_store_url": "https://play.google.com/store/apps/details?id=it.softmining.projects.covid19.savelifestyle",
@@ -30,13 +30,13 @@
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
