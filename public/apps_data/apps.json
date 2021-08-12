@@ -924,7 +924,7 @@
     "title": "Koronavilkku",
     "icon_url": "https://play-lh.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
-    "updated_date": "2021-06-16",
+    "updated_date": "2021-08-10",
     "downloads": "1,000,000+",
     "country": "FI",
     "dangerous_permissions_count": 0
@@ -974,7 +974,7 @@
     "title": "CA Notify",
     "icon_url": "https://play-lh.googleusercontent.com/SuAbGxnXAhkAEfYTWrIxqLzOSaqtN40SUVkxOA5Gblf3v5MxrFGMSuwvE2tCm3I9CQ",
     "developer_id": "CA Dept of Technology",
-    "updated_date": "2021-07-28",
+    "updated_date": "2021-08-11",
     "downloads": "1,000,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -994,7 +994,7 @@
     "title": "COVID Alert CT",
     "icon_url": "https://play-lh.googleusercontent.com/iF3uoZ9W32FLPBS34fKkoIsn8akUr2NP5xf-3gUIN4qgbZ6IAVuUEtz8bg5wgjvipLg",
     "developer_id": "7682186545769631479",
-    "updated_date": "2021-05-27",
+    "updated_date": "2021-08-11",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1004,7 +1004,7 @@
     "title": "DC CAN",
     "icon_url": "https://play-lh.googleusercontent.com/3M1pyqRWONV2kbTqo21RYNctyarpBuZYl_345ed_eLfYkSNPe9UlqQKKWmOrJY6qnw",
     "developer_id": "DC Exposure Notifications",
-    "updated_date": "2021-07-27",
+    "updated_date": "2021-08-11",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1194,10 +1194,10 @@
     "title": "ADiLife Covid-19",
     "icon_url": "https://play-lh.googleusercontent.com/C7gC99eWUqlVbFlUEq06CKJ4RO5kyPey-zRhD2vHs4mnMqoCz0KU4ScIvcMjoRbuNv5j",
     "developer_id": "ADiLife Srl",
-    "updated_date": "2020-05-05",
+    "updated_date": "2021-08-05",
     "downloads": "1,000+",
     "country": "IT",
-    "dangerous_permissions_count": 2
+    "dangerous_permissions_count": 1
   },
   {
     "id": "it.ministerodellasalute.immuni",
@@ -1364,7 +1364,7 @@
     "title": "StopCOVID NI",
     "icon_url": "https://play-lh.googleusercontent.com/u7Gu7Kl8W3lnEHGM_GlALPc6VnKPyFsukcTag6O3E2V8S3jdTylbghCFKVO7ivBdbw",
     "developer_id": "Health & Social Care Northern Ireland",
-    "updated_date": "2021-04-14",
+    "updated_date": "2021-08-05",
     "downloads": "100,000+",
     "country": "GB",
     "dangerous_permissions_count": 0
