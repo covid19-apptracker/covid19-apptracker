@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-08-12",
+    "updated_date": "2021-08-23",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -984,7 +984,7 @@
     "title": "CO Exposure Notifications",
     "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
     "developer_id": "Colorado Department of Public Health & Environment",
-    "updated_date": "2021-08-23",
+    "updated_date": "2021-08-25",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1044,7 +1044,7 @@
     "title": "MI COVID Alert",
     "icon_url": "https://play-lh.googleusercontent.com/s3tzxcp6Sa1RUQdMAzOtW2ynII2v8CllJFE57OMYnpNTFupFgmjbN5AKUTtbh_pRgg",
     "developer_id": "State of Michigan",
-    "updated_date": "2021-04-26",
+    "updated_date": "2021-08-24",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
