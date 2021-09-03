@@ -104,7 +104,7 @@
     "title": "BeAware Bahrain",
     "icon_url": "https://play-lh.googleusercontent.com/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu",
     "developer_id": "Information & eGovernment Authority",
-    "updated_date": "2021-08-20",
+    "updated_date": "2021-08-31",
     "downloads": "1,000,000+",
     "country": "BH",
     "dangerous_permissions_count": 9
@@ -564,8 +564,8 @@
     "title": "patientMpower for COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/imMJZyVDzG1rBAcOAm5qtMqEZ-3s1QEC-abmnzdtbctOlkHtFrXms3bN8k_t0BPXHw",
     "developer_id": "patientMpower",
-    "updated_date": "2021-06-14",
-    "downloads": "1,000+",
+    "updated_date": "2021-08-31",
+    "downloads": "5,000+",
     "country": "IE",
     "dangerous_permissions_count": 7
   },
@@ -654,7 +654,7 @@
     "title": "patientMpower for COVID-19 USA",
     "icon_url": "https://play-lh.googleusercontent.com/RGnXYAertBoMExSFUbLHtGMAJ0D2J-DGh91JXZNL_pQlL96TSuNw0iDWkYoKfycyZtU",
     "developer_id": "patientMpower",
-    "updated_date": "2021-05-28",
+    "updated_date": "2021-08-31",
     "downloads": "100+",
     "country": "US",
     "dangerous_permissions_count": 7
@@ -774,7 +774,7 @@
     "title": "PeduliLindungi",
     "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
     "developer_id": "5157417495804423999",
-    "updated_date": "2021-08-16",
+    "updated_date": "2021-09-02",
     "downloads": "10,000,000+",
     "country": "ID",
     "dangerous_permissions_count": 7
@@ -1194,7 +1194,7 @@
     "title": "ADiLife Covid-19",
     "icon_url": "https://play-lh.googleusercontent.com/C7gC99eWUqlVbFlUEq06CKJ4RO5kyPey-zRhD2vHs4mnMqoCz0KU4ScIvcMjoRbuNv5j",
     "developer_id": "ADiLife Srl",
-    "updated_date": "2021-08-23",
+    "updated_date": "2021-09-01",
     "downloads": "1,000+",
     "country": "IT",
     "dangerous_permissions_count": 1
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2021-08-23",
+    "updated_date": "2021-09-01",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
@@ -1564,7 +1564,7 @@
     "title": "Hayat Eve S\u0131\u011far",
     "icon_url": "https://play-lh.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
     "developer_id": "7507830517826479314",
-    "updated_date": "2021-08-18",
+    "updated_date": "2021-09-01",
     "downloads": "10,000,000+",
     "country": "TR",
     "dangerous_permissions_count": 9
