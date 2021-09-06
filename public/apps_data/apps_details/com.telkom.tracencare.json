@@ -3,7 +3,7 @@
   "title": "PeduliLindungi",
   "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
   "developer_id": "5157417495804423999",
-  "updated_date": "2021-09-02",
+  "updated_date": "2021-09-04",
   "downloads": "10,000,000+",
   "country": "ID",
   "description": "Aplikasi PeduliLindungi adalah aplikasi yang dirancang Kementerian Komunikasi dan Informatika (Kominfo) dan Kementerian BUMN untuk digunakan Kementerian Kesehatan dan Gugus Tugas dalam mengatasi pandemi COVID-19 di Indonesia. PeduliLindungi adalah aplikasi yang dikembangkan untuk menghentikan penularan Coronavirus Disease (COVID-19). Aplikasi ini mengandalkan kepedulian (peduli) dan partisipasi masyarakat untuk saling membagikan data lokasi atau pun vaksinasi dan riwayat Covid-19 saat bepergian agar penelusuran riwayat kontak dengan penderita COVID-19 dapat dilakukan. PeduliLindungi dapat digunakan untuk melakukan proses Check-In/Check-Out lokasi yang ramai, pendaftaran vaksinasi, mau pun tracing kontak riwayat orang dengan Covid-19. PeduliLindungi akan mengidentifikasi status vaksinasi & riwayat kontak Covid-19 Anda saat melakukan check-in di lokasi ramai. Hal ini akan sangat membantu ketika orang tersebut tidak dapat mengingat riwayat perjalanan dan dengan siapa saja dia melakukan kontak. Anda juga akan dihubungi oleh petugas kesehatan jika Anda pernah berada dalam jarak tertentu dengan penderita COVID-19 positif, PDP, dan ODP. Lindungi diri Anda dan yang tercinta dengan mengunduh PeduliLindungi. Partisipasimu sangat berarti untuk menghentikan penularan virus corona di Indonesia. PeduliLindungi didukung oleh Kementerian Komunikasi dan Informatika, Kementerian Kesehatan, Kementerian BUMN dan Badan Nasional Penanggulangan Bencana.",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -27,12 +33,6 @@
       },
       {
         "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
