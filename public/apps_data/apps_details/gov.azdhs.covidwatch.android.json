@@ -3,7 +3,7 @@
   "title": "Covid Watch Arizona",
   "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
   "developer_id": "ADHS-Arizona Department of Health Services",
-  "updated_date": "2021-06-14",
+  "updated_date": "2021-09-07",
   "downloads": "10,000+",
   "country": "US",
   "description": "Let your smartphone notify you of potential exposure to COVID-19\u2014using fully anonymous Bluetooth signals\u2014and help stop the spread of coronavirus throughout the state of Arizona. NEW Vaccine Support: In a single tap, you can easily access the most up-to-date and reliable information on how to get a vaccine within your chosen community. Get peace of mind and start rebuilding trust in your community with just one small step: Install this free app, released in partnership with the Arizona Department of Health Services (ADHS). Once you opt-in and enable exposure notifications on your phone, Covid Watch starts working immediately to detect if you come into close proximity with someone who has tested positive for COVID-19. The app is completely anonymous and works in the background without ever needing to know your location or personal information. It\u2019s simple, safe, and secure. The more people who download the app, the more effective we can be. We have now extended support statewide, so encourage your friends, family, and colleagues to install Covid Watch today. Together, we can slow the spread of COVID-19. Provided by Covid Watch, an Arizona non-profit organization dedicated to your health and privacy.WeHealth is a public benefit corporation and the developer of Covid Watch Arizona.",
@@ -21,6 +21,10 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
