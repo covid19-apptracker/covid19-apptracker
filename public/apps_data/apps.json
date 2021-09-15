@@ -597,7 +597,7 @@
     "updated_date": "2021-09-11",
     "downloads": "1,000,000+",
     "country": "QA",
-    "dangerous_permissions_count": 9
+    "dangerous_permissions_count": 7
   },
   {
     "id": "com.nap_pakistan.app",
@@ -774,7 +774,7 @@
     "title": "PeduliLindungi",
     "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
     "developer_id": "5157417495804423999",
-    "updated_date": "2021-09-04",
+    "updated_date": "2021-09-14",
     "downloads": "10,000,000+",
     "country": "ID",
     "dangerous_permissions_count": 7
@@ -964,7 +964,7 @@
     "title": "Covid Watch Arizona",
     "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
     "developer_id": "ADHS-Arizona Department of Health Services",
-    "updated_date": "2021-06-14",
+    "updated_date": "2021-09-07",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1005,7 +1005,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/3M1pyqRWONV2kbTqo21RYNctyarpBuZYl_345ed_eLfYkSNPe9UlqQKKWmOrJY6qnw",
     "developer_id": "DC Exposure Notifications",
     "updated_date": "2021-09-02",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "US",
     "dangerous_permissions_count": 0
   },
