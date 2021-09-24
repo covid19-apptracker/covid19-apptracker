@@ -3,7 +3,7 @@
   "title": "TousAntiCovid",
   "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
   "developer_id": "Gouvernement",
-  "updated_date": "2021-09-17",
+  "updated_date": "2021-09-21",
   "downloads": "10,000,000+",
   "country": "FR",
   "description": "Using TousAntiCovid helps to protect your loved ones, yourself and everybody else by alerting you if you have been close to a user who tests positive. The TousAntiCovid application is designed for use in France. Let\u2019s protect our loved ones, ourselves and everybody else. TousAntiCovid is simple: # Activate the application TousAntiCovid uses your phone\u2019s Bluetooth connection to detect other users\u2019 phones when they are close to yours. # Stay informed You will be alerted when you have been close to a user who tests positive for COVID-19. # Protect your loved ones and everybody else If you take a test for COVID-19 that turns out to be positive, the laboratory will give you a code to scan or enter manually to send an anonymous alert to users who have been close to you. # Your data are protected The application never tracks your location and it is impossible to discover a user\u2019s identity. # TousAntiCovid Wallet - NEW! With the wallet, you can now add your COVID-19 certificates (vaccine and test) digitally in the application, for more simplicity! # TousAntiCovid Signal - NEW! The digital \"cahier de rappel\" is now available in TousAntiCovid. In places requiring this, the venue presents a QR Code to scan to effectively trace the chains of contamination. # Information and key figures In TousAntiCovid, you can follow the health situation, thanks to key figures and daily news. This application of contact tracing for Covid-19 has been developed by the TousAntiCovid team under the supervision of the Ministry for Solidarity and Health and the Ministry of State for Digital Affairs.",
@@ -16,12 +16,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -30,6 +24,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
