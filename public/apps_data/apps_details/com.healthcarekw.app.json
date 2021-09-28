@@ -3,12 +3,12 @@
   "title": "Shlonik - \u0634\u0644\u0648\u0646\u0643",
   "icon_url": "https://play-lh.googleusercontent.com/4zPmhXoq1oMVmjPEgIl__IsYaoblpUyUNHDdk77jWQsVVkWWWZW3Azv9fTzWvw_xsw",
   "developer_id": "Kuwait Central Agency for Information Technology",
-  "updated_date": "2021-05-22",
+  "updated_date": "2021-09-27",
   "downloads": "500,000+",
   "country": "KW",
   "description": "Shlonik is an interactive app used to assist the Ministry of Health in Kuwait to engage with all citizens and  residents and ensure their safety with focus on COVID-19 pandemic. Shlonik offers a variety of features such as the latest health updates, a health Bot, a self check-in mechanism for quarantined patients, vitals reporting and a communication tool with the MOH medical teams. Shlonik is the combined effort of MOH, the Kuwait Central Agency of Information Technology and Zain.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.healthcarekw.app",
-  "dangerous_permissions_count": 11,
+  "dangerous_permissions_count": 9,
   "permissions": {
     "Photos/Media/Files": [
       {
@@ -36,19 +36,9 @@
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
     "Phone": [
       {
         "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
@@ -72,10 +62,6 @@
     ],
     "Location": [
       {
-        "permissionName": "Access extra location provider commands",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Approximate location (network-based)",
         "isDangerous": 1
       },
@@ -86,23 +72,11 @@
     ],
     "Other": [
       {
-        "permissionName": "Access bluetooth settings",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Change your audio settings",
-        "isDangerous": 0
-      },
-      {
         "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
         "permissionName": "Full network access",
-        "isDangerous": 0
-      },
-      {
-        "permissionName": "Pair with bluetooth devices",
         "isDangerous": 0
       },
       {
@@ -126,5 +100,5 @@
   "developer_url": "https://www.moh.gov.kw/en/Pages/default.aspx",
   "available": true,
   "first_time_seen": "2020-05-17",
-  "privacy_policy": "https://www.e.gov.kw/sites/kgoenglish/Pages/InfoPages/PrivacyStatement.aspx"
+  "privacy_policy": "https://moh-prod.azurefd.net/en/privacy-policy"
 }
