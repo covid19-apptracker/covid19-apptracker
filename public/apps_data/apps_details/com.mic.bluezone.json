@@ -1,26 +1,16 @@
 {
   "id": "com.mic.bluezone",
-  "title": "Bluezone - Contact detection",
-  "icon_url": "https://play-lh.googleusercontent.com/9CWAtQ143Eu15cEa6G516ctqeac8A7pfIfZjzJVyF1x7z0VUle3PlqFxsZGJ6-9wvg",
+  "title": "PC-Covid Viet Nam",
+  "icon_url": "https://play-lh.googleusercontent.com/oRH3-waQR7nx82QdM_VCAsQi33FNRWDgKHGdKP15oO3CcT7BtVMbT6qihen47ZAyYig",
   "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-  "updated_date": "2021-09-10",
+  "updated_date": "2021-09-27",
   "downloads": "10,000,000+",
   "country": "VN",
-  "description": "www.bluezone.gov.vn The Bluezone app, of which the development is presided over by Viet Nam\u2019s Ministry of Information and Communications and Ministry of Health. Bluezone is applicable to people who are living and traveling in Vietnam. The app is to protect the community against COVID-19 pandemic, helping bring the life back to normal. Viet Nam\u2019s Ministry of Information and Communications and Ministry of Health, under the direction by the Prime Minister, have deployed the app called \u201cBluezone - Contact detection\u201d to smartphones. Bluezone shall alert if you had close contact with people who have COVID-19, thereby minimizing the spread of the virus to the community, helping people return to their normal life. When there is a new case of infection, you can learn whether you had close contact with this case or not simply by accessing Bluezone. The more people install Bluezone, there more effective it is. Let\u2019s challenge the virus with the strength of our community. With each person installing the app for themselves and getting the smartphones of 3 other people installed with Bluezone. The Ministry of Information and Communications and the Ministry of Health recommend that the whole country install Bluezone for themselves and for 3 others. - Data security: Bluezone stores data on your device only, it does not send such data to the system. - No location data collection: Bluezone does not collect data on your location. - Anonymity: All Bluezoners are anonymous to others. Only competent health authorities know those who are infected and those who are suspected of infection due to close contact with COVID-19 cases. - Transparency: The Project is open source under GPL 3.0. license. Users from other countries are free to learn the operations of the system at source code level, and to use, research, modify and share it. Bluezone also provides the following utilities: - Health: Give statistics of your daily steps. - Vaccination: Manage and Remind the vaccination schedule - Calendar: Look up the Solar calendar, the Lunar calendar - Female health: Track the menstrual cycle and fertility Privacy  Policy & Terms of Use: https://bluezone.ai/privacy-policy-terms-of-use ---------------------------- If you have any difficulty in installing or using Bluezone, please contact us for assistance. The development team of Bluezone is making efforts to make it more and more complete, serving the country and the people in fighting against the COVID-19 pandemic. - Website: https://bluezone.gov.vn/ - Email: contact@bluezone.gov.vn",
+  "description": "PC-Covid is the National COVID-19 prevention and control application of Viet Nam. Details of the app are available at: www.pccovid.gov.vn. Agencies in charge: Viet Nam\u2019s Ministry of Health, Ministry of Public Security, Ministry of Information and Communications Operating unit: The National Technology Center for COVID-19 Prevention and Control Enterprises sponsoring the development: BKAV, Viettel, VNPT. PC-Covid is applicable to people who are living and traveling in Vietnam. Main features: Personal and venue QR code issuance and management; QR scanner; Medical declaration; Domestic move declaration; Citizens\u2019 reports; Vaccination information; Test information; Covid-19 card; Close contact tracing; Move density; Infection trends; Risk map, and so on. Personal QR code: Each citizen is granted a unique personal QR code that enables the display of information related to COVID-19 prevention and control following national pandemic prevention and control strategy. Medical declaration: Upon symptoms such as cough, fever, loss of taste, etc. or upon relation/contact with a suspected case of COVID-19, citizens need to proactively make medical declaration to get support and early detection of infection risks. Venue QR code: Locations like offices, supermarkets, schools, hospitals, public places, etc. register for venue QR codes and must ensure full recording of citizens entering/leaving the places by QR code scanning. Vaccination, test result: Citizens can view the detailed information of the number of vaccine doses they have got as well as the time of the latest dose. PC-Covid also displays COVID-19 test results when they become available. COVID-19 Card: The app connects to COVID-19 testing and vaccination management systems, thereby displaying information about vaccination and testing for citizens in relevant cases. Reports: Citizens can submit reports on disease information, suspected infections, or problems in the implementation of COVID-19 prevention and control regulations to the authorities. Tracing: Information about QR code scanning, Medical declaration, Domestic move declaration, Close contact detection, etc. provided by PC-Covid will combine with Fast tracing system to finish tracking those related to a COVID-19 case in a few minutes. Domestic move: When wanting to travel within the country, citizens need to make domestic move declaration. Based on the declaration, the authorities can master citizens\u2019 move and health information to serve the prevention and control of the COVID-19 pandemic. Check-in places: Citizens can view details about the places they have been to and performed QR code scanning when entering/leaving. The details include names of the places and relevant times (detailed time of each QR code scan). Risk map: The app allows viewing COVID-19 infection risk maps in real time. PC-Covid\u2019s functionality will be continuously updated and adjusted under the direction of the National Steering Committee for COVID-19 Prevention and Control, making it most convenient for citizens and pursuant to the nation\u2019s COVID-19 prevention and control strategy in each period. Information on people's health, travel and contact is managed in a centralized, unified way and serves no other purposes than the pandemic prevention and control, ensuring information safety. The upgrading of PC-Covid is done automatically while notifications are displayed to users to make sure they know the changes. -------------------------------- Website: www.pccovid.gov.vn Contact: lienhe@pccovid.gov.vn Terms of use: www.pccovid.gov.vn/dieukhoansudung",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.mic.bluezone",
   "dangerous_permissions_count": 7,
   "permissions": {
     "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
         "isDangerous": 1
@@ -36,6 +26,22 @@
         "isDangerous": 1
       }
     ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -44,12 +50,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
@@ -94,5 +94,5 @@
   "developer_url": "https://pccovid.gov.vn/",
   "available": true,
   "first_time_seen": "2020-08-07",
-  "privacy_policy": "https://bluezone.gov.vn/dieukhoansudung"
+  "privacy_policy": "https://pccovid.gov.vn/dieu-khoan-su-dung"
 }
