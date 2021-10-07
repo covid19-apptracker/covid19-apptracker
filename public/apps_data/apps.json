@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-09-20",
+    "updated_date": "2021-10-01",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-09-21",
+    "updated_date": "2021-10-01",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1514,7 +1514,7 @@
     "title": "Home Quarantine - Poland (Kwarantanna domowa)",
     "icon_url": "https://play-lh.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
     "developer_id": "5846632246178772267",
-    "updated_date": "2021-04-20",
+    "updated_date": "2021-09-22",
     "downloads": "1,000,000+",
     "country": "PL",
     "dangerous_permissions_count": 7
