@@ -3,7 +3,7 @@
   "title": "Home Quarantine - Poland (Kwarantanna domowa)",
   "icon_url": "https://play-lh.googleusercontent.com/cDgFtasR7g6v0dwucD9__bS5Bja3sZYsBPp8HZiC0wLMXZmjsaLHueayKXY4Rg4zQgk",
   "developer_id": "5846632246178772267",
-  "updated_date": "2021-04-20",
+  "updated_date": "2021-09-22",
   "downloads": "1,000,000+",
   "country": "PL",
   "description": "Home Quarantine \u2013 Poland (Kwarantanna domowa) - is a Polish quarantine-enforcement application (Polish Government\u2019s app). The application belongs to the contact tracing app group, because it allows self-verification and confirmation of location within quarantine area. The application is a preventive element in the fight against the spread of the SARS-CoV-2 coronavirus and the COVID-19 disease it causes. Thanks to the app, you will be able to undergo a quarantine, take care of yourself and your loved ones. What is the COVID-19 disease? The novel SARS-CoV-2 coronavirus causes a disease, dubbed COVID-19, which usually manifests itself with fever, cough, shortness of breath, muscle pains and fatigue. The virus is airborne, and 15-20% of all the people who contract the disease suffer from a severe course of the infection. The disease has a 2-3% fatality rate. The elderly, immunocompromised people and people with comorbidities, in particular chronic diseases, are the most vulnerable and likely to contract a severe form of the disease, which may prove to be fatal. How to protect yourself from the virus? Remember to wash your hands frequently with soap and water. Avoid touching your eyes, nose and mouth. When you cough or sneeze, always cover your mouth and nose with the bend of your elbow or a tissue. Keep a safe distance (1-2 metres) from someone who is coughing, sneezing, or has a fever. Do you suspect that you might have contracted the novel coronavirus? Call: 800 190 590 This is the number of the National Health Fund's hotline, which handles the cases of suspected coronavirus infection.",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -27,12 +33,6 @@
       },
       {
         "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
@@ -44,6 +44,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
