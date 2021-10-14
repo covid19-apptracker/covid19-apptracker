@@ -1,59 +1,15 @@
 {
   "id": "com.knasirayaz.mohapcovid",
-  "title": "COVID19 UAE",
-  "icon_url": "https://play-lh.googleusercontent.com/SZE9vELT5UXw0HLhmMYdrmNwkwdn0Co48TGk8de8B-uFlsVH07WlHiX7BQM_lZEi1M8",
+  "title": "COVID-19 EHS",
+  "icon_url": "https://play-lh.googleusercontent.com/WquiW6Fkqkl7nLvsulC61M5dVhoHNwj-Oa3wq8I1rxTtThMsNnxDJNyqR29CVlSH9Tw",
   "developer_id": "Emirates Health Services",
-  "updated_date": "2021-08-28",
+  "updated_date": "2021-10-12",
   "downloads": "500,000+",
   "country": "AE",
-  "description": "Covid-19 UAE is Ministry of Health\u2019s Official Mobile App on Coronavirus management. The App provides you with real-time Coronavirus stats in UAE in coordination with National Crisis & Emergency Management Authority UAE. The App provides facility to request Covid19 vaccine home visit for senior citizens of UAE.",
+  "description": "Covid-19 UAE is  Coronavirus management App from EHS - Emirates Health Services, EHS. The App provides you with real-time Coronavirus stats in UAE in coordination with National Crisis & Emergency Management Authority UAE and EHS. The App provides facility to book and fully manage your Covid-19 Vaccine as well PCR appointments at your own convenience using your smart phone at any time. EHS is fully committed to provide digital COVID-19 channels to UAE community.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.knasirayaz.mohapcovid",
-  "dangerous_permissions_count": 9,
+  "dangerous_permissions_count": 1,
   "permissions": {
-    "Photos/Media/Files": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Microphone": [
-      {
-        "permissionName": "Record audio",
-        "isDangerous": 1
-      }
-    ],
-    "Storage": [
-      {
-        "permissionName": "Modify or delete the contents of your usb storage",
-        "isDangerous": 1
-      },
-      {
-        "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Phone": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Device ID & call information": [
-      {
-        "permissionName": "Read phone status and identity",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
@@ -61,10 +17,6 @@
       }
     ],
     "Other": [
-      {
-        "permissionName": "Change your audio settings",
-        "isDangerous": 0
-      },
       {
         "permissionName": "Control vibration",
         "isDangerous": 0
@@ -82,5 +34,5 @@
   "developer_url": "https://www.ehs.gov.ae/en/Pages/default.aspx",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.mohap.gov.ae/en/Pages/PrivacyPolicy.aspx"
+  "privacy_policy": "https://www.ehs.gov.ae/en/Pages/PrivacyPolicy.aspx"
 }
