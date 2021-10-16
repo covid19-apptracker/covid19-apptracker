@@ -2,7 +2,7 @@
   "id": "com.telkom.tracencare",
   "title": "PeduliLindungi",
   "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
-  "developer_id": "5157417495804423999",
+  "developer_id": "7314860221926377334",
   "updated_date": "2021-09-14",
   "downloads": "10,000,000+",
   "country": "ID",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -30,10 +36,10 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
+    "Wi-Fi connection information": [
       {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Location": [
@@ -44,12 +50,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
