@@ -1,18 +1,50 @@
 {
   "id": "com.edu.aku.akuhccheck",
   "title": "CoronaCheck",
-  "icon_url": "https://play-lh.googleusercontent.com/1eXM2W-MY4HDgQTm973UDLOwPZ0zoyJ67wTMsazKE35-GTZUszljMSKMnYfV50O-eA",
+  "icon_url": "https://play-lh.googleusercontent.com/27aZZpePZaygk8r8UeIY3BSrKsB770Prnle1ntLDOrAzyJFlFbhLL8O1RuNZGmiQnFI",
   "developer_id": "Aga Khan University",
-  "updated_date": "2020-04-04",
+  "updated_date": "2021-10-14",
   "downloads": "100,000+",
   "country": "PK",
   "description": "In the wake of the emerging global COVID-19 pandemic, the CoronaCheck app provides users with authentic, essential information shared by international experts, agencies and organizations regarding the novel coronavirus. It\u2019s authenticated assessment tool, driven by Artificial Intelligence, helps users conveniently conduct self-assessments in the comfort of their home, limiting risk of infection that comes with seeking medical advice. The app\u2019s awareness videos, adopted from the World Health Organization and Ministries of Health for respective countries, aim to raise awareness about what COVID-19 is, measures to take to avoid spreading infection, precautions for parents to keep children safe, the need for physical distancing and guidelines on wearing PPE. Emergency contact numbers are also listed. Learn the facts from the international expert community!",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.edu.aku.akuhccheck",
-  "dangerous_permissions_count": 0,
+  "dangerous_permissions_count": 4,
   "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
     "Other": [
       {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
