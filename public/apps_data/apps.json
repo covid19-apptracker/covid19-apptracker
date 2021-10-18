@@ -402,12 +402,12 @@
   {
     "id": "com.edu.aku.akuhccheck",
     "title": "CoronaCheck",
-    "icon_url": "https://play-lh.googleusercontent.com/1eXM2W-MY4HDgQTm973UDLOwPZ0zoyJ67wTMsazKE35-GTZUszljMSKMnYfV50O-eA",
+    "icon_url": "https://play-lh.googleusercontent.com/27aZZpePZaygk8r8UeIY3BSrKsB770Prnle1ntLDOrAzyJFlFbhLL8O1RuNZGmiQnFI",
     "developer_id": "Aga Khan University",
-    "updated_date": "2020-04-04",
+    "updated_date": "2021-10-14",
     "downloads": "100,000+",
     "country": "PK",
-    "dangerous_permissions_count": 0
+    "dangerous_permissions_count": 4
   },
   {
     "id": "com.entrolabs.apcovid19",
