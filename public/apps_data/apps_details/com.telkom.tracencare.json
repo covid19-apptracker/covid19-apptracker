@@ -3,10 +3,10 @@
   "title": "PeduliLindungi",
   "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
   "developer_id": "7314860221926377334",
-  "updated_date": "2021-09-14",
+  "updated_date": "2021-10-19",
   "downloads": "10,000,000+",
   "country": "ID",
-  "description": "Aplikasi PeduliLindungi adalah aplikasi yang dirancang Kementerian Komunikasi dan Informatika (Kominfo) dan Kementerian BUMN untuk digunakan Kementerian Kesehatan dan Gugus Tugas dalam mengatasi pandemi COVID-19 di Indonesia. PeduliLindungi adalah aplikasi yang dikembangkan untuk menghentikan penularan Coronavirus Disease (COVID-19). Aplikasi ini mengandalkan kepedulian (peduli) dan partisipasi masyarakat untuk saling membagikan data lokasi atau pun vaksinasi dan riwayat Covid-19 saat bepergian agar penelusuran riwayat kontak dengan penderita COVID-19 dapat dilakukan. PeduliLindungi dapat digunakan untuk melakukan proses Check-In/Check-Out lokasi yang ramai, pendaftaran vaksinasi, mau pun tracing kontak riwayat orang dengan Covid-19. PeduliLindungi akan mengidentifikasi status vaksinasi & riwayat kontak Covid-19 Anda saat melakukan check-in di lokasi ramai. Hal ini akan sangat membantu ketika orang tersebut tidak dapat mengingat riwayat perjalanan dan dengan siapa saja dia melakukan kontak. Anda juga akan dihubungi oleh petugas kesehatan jika Anda pernah berada dalam jarak tertentu dengan penderita COVID-19 positif, PDP, dan ODP. Lindungi diri Anda dan yang tercinta dengan mengunduh PeduliLindungi. Partisipasimu sangat berarti untuk menghentikan penularan virus corona di Indonesia. PeduliLindungi didukung oleh Kementerian Komunikasi dan Informatika, Kementerian Kesehatan, Kementerian BUMN dan Badan Nasional Penanggulangan Bencana.",
+  "description": "PeduliLindungi adalah aplikasi yang dikembangkan untuk menghentikan penularan Coronavirus Disease (COVID-19). Mengandalkan kepedulian serta partisipasi masyarakat untuk saling jaga dan meminimalisir resiko penyebaran COVID-19. Hal ini ditujukan untuk melakukan pengawasan lokasi padat dan ramai yang memiliki resiko tinggi yang nantinya bermanfaat dalam menelusuri riwayat COVID-19 (Contact Tracing). Aplikasi akan mengidentifikasi status riwayat kontak atau kasus Covid-19 pengguna serta status vaksinasinya. Hal ini dilakukan untuk mendukung program penghentian penyebaran COVID-19 yang sedang diusahakan oleh pemerintah. Selain tujuan di atas, aplikasi ini juga dimanfaatkan untuk melakukan pendaftaran vaksinasi, scan QR untuk Check-In/Out dan dokumen perjalanan. Semua terkumpul jadi satu melalui aplikasi PeduliLindungi untuk memudahkan pengguna. Sekecil apapun partisipasi Anda akan sangat berarti untuk menghentikan penularan COVID-19. Harapannya, adanya PeduliLindungi sebagai akses dan media, ditambah dengan partisipasi masyarakat dengan mengunduh dan menggunakan aplikasi ini, Indonesia bisa segera bebas dari COVID-19 dan bangkit kembali. * PeduliLindungi didukung oleh Kementerian Komunikasi dan Informatika, Kementerian Kesehatan, Kementerian BUMN dan Badan Nasional Penanggulangan Bencana.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.telkom.tracencare",
   "dangerous_permissions_count": 7,
   "permissions": {
@@ -55,6 +55,10 @@
     "Other": [
       {
         "permissionName": "Access bluetooth settings",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Control vibration",
         "isDangerous": 0
       },
       {
