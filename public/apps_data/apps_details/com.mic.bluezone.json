@@ -3,7 +3,7 @@
   "title": "PC-Covid Viet Nam",
   "icon_url": "https://play-lh.googleusercontent.com/oRH3-waQR7nx82QdM_VCAsQi33FNRWDgKHGdKP15oO3CcT7BtVMbT6qihen47ZAyYig",
   "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-  "updated_date": "2021-10-05",
+  "updated_date": "2021-10-21",
   "downloads": "10,000,000+",
   "country": "VN",
   "description": "PC-Covid is the National COVID-19 prevention and control application of Viet Nam. Details of the app are available at: www.pccovid.gov.vn. Agencies in charge: Viet Nam\u2019s Ministry of Health, Ministry of Public Security, Ministry of Information and Communications Operating unit: The National Technology Center for COVID-19 Prevention and Control Enterprises sponsoring the development: BKAV, Viettel, VNPT. PC-Covid is applicable to people who are living and traveling in Vietnam. Main features: Personal and venue QR code issuance and management; QR scanner; Medical declaration; Domestic move declaration; Citizens\u2019 reports; Vaccination information; Test information; Covid-19 card; Close contact tracing; Move density; Infection trends; Risk map, and so on. Personal QR code: Each citizen is granted a unique personal QR code that enables the display of information related to COVID-19 prevention and control following national pandemic prevention and control strategy. Medical declaration: Upon symptoms such as cough, fever, loss of taste, etc. or upon relation/contact with a suspected case of COVID-19, citizens need to proactively make medical declaration to get support and early detection of infection risks. Venue QR code: Locations like offices, supermarkets, schools, hospitals, public places, etc. register for venue QR codes and must ensure full recording of citizens entering/leaving the places by QR code scanning. Vaccination, test result: Citizens can view the detailed information of the number of vaccine doses they have got as well as the time of the latest dose. PC-Covid also displays COVID-19 test results when they become available. COVID-19 Card: The app connects to COVID-19 testing and vaccination management systems, thereby displaying information about vaccination and testing for citizens in relevant cases. Reports: Citizens can submit reports on disease information, suspected infections, or problems in the implementation of COVID-19 prevention and control regulations to the authorities. Tracing: Information about QR code scanning, Medical declaration, Domestic move declaration, Close contact detection, etc. provided by PC-Covid will combine with Fast tracing system to finish tracking those related to a COVID-19 case in a few minutes. Domestic move: When wanting to travel within the country, citizens need to make domestic move declaration. Based on the declaration, the authorities can master citizens\u2019 move and health information to serve the prevention and control of the COVID-19 pandemic. Check-in places: Citizens can view details about the places they have been to and performed QR code scanning when entering/leaving. The details include names of the places and relevant times (detailed time of each QR code scan). Risk map: The app allows viewing COVID-19 infection risk maps in real time. PC-Covid\u2019s functionality will be continuously updated and adjusted under the direction of the National Steering Committee for COVID-19 Prevention and Control, making it most convenient for citizens and pursuant to the nation\u2019s COVID-19 prevention and control strategy in each period. Information on people's health, travel and contact is managed in a centralized, unified way and serves no other purposes than the pandemic prevention and control, ensuring information safety. The upgrading of PC-Covid is done automatically while notifications are displayed to users to make sure they know the changes. -------------------------------- Website: www.pccovid.gov.vn Contact: lienhe@pccovid.gov.vn Terms of use: www.pccovid.gov.vn/dieukhoansudung",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -30,10 +36,10 @@
         "isDangerous": 1
       }
     ],
-    "Camera": [
+    "Wi-Fi connection information": [
       {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Location": [
@@ -44,12 +50,6 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
