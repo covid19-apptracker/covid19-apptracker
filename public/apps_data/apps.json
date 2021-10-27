@@ -534,7 +534,7 @@
     "title": "COVID-19 EHS",
     "icon_url": "https://play-lh.googleusercontent.com/WquiW6Fkqkl7nLvsulC61M5dVhoHNwj-Oa3wq8I1rxTtThMsNnxDJNyqR29CVlSH9Tw",
     "developer_id": "Emirates Health Services",
-    "updated_date": "2021-10-12",
+    "updated_date": "2021-10-25",
     "downloads": "500,000+",
     "country": "AE",
     "dangerous_permissions_count": 1
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-10-18",
+    "updated_date": "2021-10-25",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-10-14",
+    "updated_date": "2021-10-25",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2021-09-03",
+    "updated_date": "2021-10-08",
     "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
@@ -1534,7 +1534,7 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://play-lh.googleusercontent.com/DVrWyBdIwQvGbF29cdUdNEBgLmEAn8I9q7XubW6tgiRrjxNAdKPTPJCRYI_l1jLCz7p6",
     "developer_id": "National Information Center",
-    "updated_date": "2021-09-20",
+    "updated_date": "2021-10-18",
     "downloads": "10,000,000+",
     "country": "SA",
     "dangerous_permissions_count": 7
