@@ -3,10 +3,10 @@
   "title": "eRou\u0161ka - Part of Smart Quarantine",
   "icon_url": "https://play-lh.googleusercontent.com/lSPzHqiQyG1oV7C-fz9Gv6O5g1YhfEGi6x2lhuKJPdqlRvL0M74-TaJP2kWEW8_EqQ",
   "developer_id": "6973241785916756870",
-  "updated_date": "2021-05-03",
+  "updated_date": "2021-11-01",
   "downloads": "1,000,000+",
   "country": "CZ",
-  "description": "Protect yourself, protect others. eRou\u0161ka remembers other eRou\u0161ka apps you have met. When a user is infected, they can easily and anonymously warn others about the risk of infection. eRou\u0161ka is the official Czech application with exposure notifications developed by the Ministry of Health and NAKIT (National Agency for Information and Communication Technology). Fighting against the COVID-19 epidemic, the app aims to notify users who are at risk of transmitting the virus. Based on the history of exposure to other potentially contagious users, the app gives instructions how to proceed to minimize the spread of the epidemic. However, the app is not a diagnostic or medical tool. The app uses Bluetooth Low Energy technology which minimizes energy consumption, and it does not collect any geolocation data, including GPS data. The app is developed and released in full compliance with Exposure Notification API Policy requirements, is fully GDPR compliant, and does not collect or directly process any personal data which would identify the user or their mobile device, such as their name, address or telephone number. eRou\u0161ka is able to determine that two users were in contact without knowing who those users are and where the encounter occurred. The app is part of the Smart Quarantine concept and a valuable tool in the fight against COVID-19 epidemic. Every single user increases its overall effectiveness. It is strongly recommended to install the app and encourage others to do likewise.",
+  "description": "eRou\u0161ka's contribution to the fight against the pandemic is over. Thank you all! It notified the users about more than 400,000 risky encounters and recommended safety measures. It helped to diminish the spread of infection and to manage the epidemic. It cooperated with similar applications in other EU countries and watched over risky encounters with foreigners in the Czech Republic and abroad. Due to a certain level of vaccination, other tools, and the epidemic's development, the app is no longer needed.",
   "app_store_url": "https://play.google.com/store/apps/details?id=cz.covid19cz.erouska",
   "dangerous_permissions_count": 0,
   "permissions": {
