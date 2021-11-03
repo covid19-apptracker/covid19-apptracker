@@ -3,10 +3,10 @@
   "title": "MorChana - \u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30",
   "icon_url": "https://play-lh.googleusercontent.com/Ma9zCMiZGFQ41IrXwn_z0rAk_3bDELWm_J5ludYoU_pplZtuY3ARCc5VYjVJQwEt-A",
   "developer_id": "CAT Telecom Public Co., Ltd.",
-  "updated_date": "2021-04-27",
+  "updated_date": "2021-11-01",
   "downloads": "5,000,000+",
   "country": "TH",
-  "description": "Application MorChana is a tool to assist Medical Staffs, Government Agencies, Business Owners, and most importantly, YOU in taking care and protect oneself from the spread of COVID-19 Application MorChana will collect use and disseminate only necessary data to protect or suppress dangers to life, body, and health of you, the people around you and all citizen. The application will track infection, probability and risk of COVID-19 and observe the outbreak situation from data provided by you.",
+  "description": "Application MorChana is a tool to assist Medical Staffs, Government Agencies, Business Owners, and most importantly, YOU in taking care and protect oneself from the spread of COVID-19 in Thailand. Application MorChana will collect use and disseminate only necessary data to protect or suppress dangers to life, body, and health of you, the people around you and all citizen. The application will track infection, probability and risk of COVID-19 and observe the outbreak situation from data provided by you.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.thaialert.app",
   "dangerous_permissions_count": 7,
   "permissions": {
@@ -98,5 +98,5 @@
   "developer_url": "https://www.dga.or.th",
   "available": true,
   "first_time_seen": "2020-05-28",
-  "privacy_policy": "https://dga.or.th"
+  "privacy_policy": "https://morchana.in.th/wp-content/uploads/2021/07/\u0e19\u0e42\u0e22\u0e1a\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e31\u0e27\u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19-\u0e2b\u0e21\u0e2d\u0e0a\u0e19\u0e30MorChana.pdf"
 }
