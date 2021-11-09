@@ -3,10 +3,10 @@
   "title": "COVA Punjab",
   "icon_url": "https://play-lh.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
   "developer_id": "Government of Punjab",
-  "updated_date": "2021-08-13",
+  "updated_date": "2021-10-25",
   "downloads": "1,000,000+",
   "country": "IN",
-  "description": "COVA Punjab (Corona Virus Alert) App has been developed by Government of Punjab to provide citizens with preventive care information and other government advisories. The app has following main sections for citizens: 1.\tReal time dashboard for Punjab, India and global stats 2.\tTo check for symptoms of Corona and have a quick self-screening 3.\tCorona Awareness 4.\tTraveling instructions 5.\tPrevention Products 6.\tCorona Hospitals, Punjab 7.\tFAQ 8.\tCall Support You will receive updates from government, advisories and instructions from time to time via PUSH notification on the App. This App will provide quick information and help to you. You should definitely visit nearest hospital / doctor in-case you develop novel corona virus symptoms.",
+  "description": "COVA Punjab (Corona Virus Alert) App has been developed by the Government of Punjab to provide citizens with preventive care information and other government advisories. The app has the following main sections for citizens: 1. Real-time dashboard for Punjab, India, and global stats 2. To check for symptoms of Corona and have a quick self-screening 3. Corona Awareness 4. Traveling instructions 5. Prevention Products 6. Corona Hospitals, Punjab 7. Contact Tracing 8. Quarantine Monitoring 9. Proof of Vaccine and Testing 10. FAQ 11. Call Support You will receive updates from the government, advisories, and instructions from time to time via PUSH notification on the App. This App is used for Contact Tracing, Quarantine Monitoring and provides a channel for Vaccination Certificate and COVID Testing results. This App will provide quick information and help to you. You should definitely visit the nearest hospital/doctor in case you develop novel coronavirus symptoms.",
   "app_store_url": "https://play.google.com/store/apps/details?id=in.gov.punjab.cova",
   "dangerous_permissions_count": 7,
   "permissions": {
@@ -77,8 +77,8 @@
       }
     ]
   },
-  "developer_url": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html",
+  "developer_url": "https://covaprod.punjab.gov.in/privacyPolicy.html",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://msewa.punjab.gov.in/m-sewa/privacyPolicy.html"
+  "privacy_policy": "https://covaprod.punjab.gov.in/privacyPolicy.html"
 }
