@@ -2,7 +2,7 @@
   "id": "co.gov.ins.guardianes",
   "title": "CoronApp - Colombia",
   "icon_url": "https://play-lh.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
-  "developer_id": "INS.GOV",
+  "developer_id": "6475841305156797018",
   "updated_date": "2021-09-02",
   "downloads": "10,000,000+",
   "country": "CO",
@@ -16,17 +16,17 @@
         "isDangerous": 1
       }
     ],
-    "Phone": [
-      {
-        "permissionName": "Directly call phone numbers",
-        "isDangerous": 1
-      },
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
+      {
+        "permissionName": "Directly call phone numbers",
+        "isDangerous": 1
+      },
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -77,7 +77,7 @@
       }
     ]
   },
-  "developer_url": "http://www.ins.gov.co",
+  "developer_url": "https://www.minsalud.gov.co",
   "available": true,
   "first_time_seen": "2020-05-10",
   "privacy_policy": "https://www.ins.gov.co/Normatividad/PoliticasInstitucionales/POLITICA-DE-TRATAMIENTO-DE-INFORMACION-CORONAPP-COLOMBIA.pdf"
