@@ -3,7 +3,7 @@
   "title": "COVID19 Care for Media",
   "icon_url": "https://play-lh.googleusercontent.com/ris1g9aDUAX2lC20JJonYcFKkJlhjnHPtIj6kqzapeCjY5xUAsWuMUiDeti0ha3BhIyn",
   "developer_id": "MarCom",
-  "updated_date": "2021-03-30",
+  "updated_date": "2021-11-10",
   "downloads": "10,000+",
   "country": "PK",
   "description": "COVID 19 Care for Media is an android application particularly designed to facilitate Pakistani media/journalists to stay updated about coronavirus pandemic and report cases as and when required. This app can be used by any person seeking latest updates on COVID-19 globally and in Pakistan. This app is endorsed by Cyber Wing, Ministry of Information and Broadcasting, Government of Pakistan. \u2022\tWhat is COVID-19 and How it spreads? \u2022\tWhat are its symptoms? \u2022\tHow to prevent yourself and others? \u2022\tLatest updates/ statistics (Global and Pakistan) \u2022\tWhat are the myths about COVID-19? \u2022\tHelpline numbers and testing laboratories details \u2022\tReport COVID-19 cases through in built app SMS service (intended purpose of use to identify Caller ID, spam detection, and/or spam blocking) and also gives an option directing users to call on toll free number (feature only for media) Note* Standard SMS charges applicable as per your mobile operator",
@@ -23,6 +23,10 @@
       },
       {
         "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Receive data from internet",
         "isDangerous": 0
       },
       {
