@@ -1,12 +1,12 @@
 {
   "id": "tr.gov.saglik.hayatevesigar",
-  "title": "Hayat Eve S\u0131\u011far",
+  "title": "Life Fits Home",
   "icon_url": "https://play-lh.googleusercontent.com/4fPUjN3MHXHn3VSx3czkGzOkCrKeHXd7n85pFvbCORxPaDFWzz7NTWhehhBuMUaMGg",
   "developer_id": "7507830517826479314",
-  "updated_date": "2021-09-01",
+  "updated_date": "2021-11-16",
   "downloads": "10,000,000+",
   "country": "TR",
-  "description": "Hayat Eve S\u0131\u011far Mobil Uygulamas\u0131, T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131 taraf\u0131ndan vatanda\u015flar\u0131m\u0131z\u0131 Yeni Koronavir\u00fcs\u00fc (Covid-19) konusunda bilgilendirmek, y\u00f6nlendirmek ve ya\u015fanabilecek salg\u0131n hastal\u0131k ile ilgili riskleri en az seviyeye indirmek ve yay\u0131lmas\u0131n\u0131 \u00f6nlemek amac\u0131yla geli\u015ftirilen mobil uygulamad\u0131r. T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131 taraf\u0131ndan vatanda\u015flara sunulan Hayat Eve S\u0131\u011far uygulamas\u0131 ile telefon numaran\u0131z ile do\u011frulama yaparak ad\u0131m ad\u0131m size sorulan sorular\u0131 cevaplay\u0131p, koronavir\u00fcs hastal\u0131\u011f\u0131 anlam\u0131nda vermi\u015f oldu\u011funuz \u015fikayetlerinize g\u00f6re de\u011ferlendirilerek nas\u0131l davranman\u0131z gerekti\u011fine g\u00f6re y\u00f6nlendirme alabilirsiniz. Vermi\u015f oldu\u011funuz cevaplara g\u00f6re y\u00f6nlendirmeler sadece \u00f6neri niteli\u011fi ta\u015f\u0131maktad\u0131r ve nihai bir sonu\u00e7/kesinlik i\u00e7ermemektedir, tavsiye niteli\u011findedir. Ayn\u0131 zamanda harita \u00fczerinde hastane, eczane, market zincirleri, metro ve duraklar gibi temel ihtiya\u00e7 noktalar\u0131na kolayca ula\u015fabilir, evde izolasyon, enfekte ki\u015filer ve riskli b\u00f6lgelerin yo\u011funlu\u011funu g\u00f6rebilirsiniz. Bu uygulama ile \u2018Kontroll\u00fc Sosyal Hayat\u2019 ge\u00e7i\u015fi sa\u011flanabilecektir.",
+  "description": "Hayat Eve S\u0131\u011far Mobile Application, It is a mobile application developed by the Republic of Turkey Ministry of Health to inform and guide our citizens living within the borders of the Turkey region about the New Coronavirus (Covid-19) and to minimize the risks related to the epidemic disease and prevent its spread. Hayat Eve S\u0131\u011far application offered to the citizens by the Republic of Turkey Ministry of Health, you can verify with your phone number, answer the questions asked step by step, and get guidance according to how you should act by being evaluated according to the complaints you have given in terms of coronavirus disease. According to the answers you have given, the guidance is only a suggestion and does not contain a final result/certainty, it is a recommendation. At the same time, you can easily reach the basic need points such as hospitals, pharmacies, grocery chains, subways and stops on the map, and see the density of home isolation, infected people and risky areas. You can view the details of your vaccination information on the My Vaccination Information page, and create a vaccination card when your vaccine doses are completed. If you want the passport information to be included in the vaccination card, you can include it by typing the passport number. When the QR code in the vaccine ID is read, the system checks the accuracy of the card. This App aims to reduce the spread of covid-19 disease by tracking contacts or infected persons. It is an application that verifies current infection status or infection history to determine whether people are fit to travel or enter public spaces. With this application, the transition to \"Controlled Social Life\" will be possible. We wish you healthy days.",
   "app_store_url": "https://play.google.com/store/apps/details?id=tr.gov.saglik.hayatevesigar",
   "dangerous_permissions_count": 9,
   "permissions": {
@@ -110,5 +110,5 @@
   "developer_url": "https://covid19.saglik.gov.tr/",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://hayatevesigar.saglik.gov.tr/gizlilik_politikasi_index.html"
+  "privacy_policy": "https://hayatevesigar.saglik.gov.tr/gizlilik_politikasi_index_V2.html"
 }
