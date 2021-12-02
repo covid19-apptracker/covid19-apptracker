@@ -1,9 +1,9 @@
 {
   "id": "gov.nv.dhhs.en",
-  "title": "Covid Trace Nevada",
+  "title": "Nevada COVID Trace",
   "icon_url": "https://play-lh.googleusercontent.com/fOJ5ER6nNUkTmnFbz-ZpyC7u6MvDKNvP-62ncLjymkuigrbbawA94C-O9DpTPLxOATY",
   "developer_id": "Nevada Division of Public and Behavioral Health",
-  "updated_date": "2020-11-15",
+  "updated_date": "2021-11-30",
   "downloads": "100,000+",
   "country": "US",
   "description": "Nevada's Department of Health and Human Services (DHHS) COVID Trace app helps reduce the spread of coronavirus in Nevada helping everyone stay safe. COVID Trace doesn\u2019t require personal information helping protect your privacy.",
@@ -42,5 +42,5 @@
   "developer_url": "http://dpbh.nv.gov/",
   "available": true,
   "first_time_seen": "2020-08-25",
-  "privacy_policy": "https://covidtrace.com/nct_privacy_policy.pdf"
+  "privacy_policy": "https://nvhealthresponse.nv.gov/covidtrace/covidtracenevada-privacy-policy.pdf"
 }
