@@ -234,7 +234,7 @@
     "title": "Healthy Together - COVID-19",
     "icon_url": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
     "developer_id": "Twenty Inc.",
-    "updated_date": "2021-09-23",
+    "updated_date": "2021-11-17",
     "downloads": "1,000,000+",
     "country": "US",
     "dangerous_permissions_count": 2
@@ -1061,10 +1061,10 @@
   },
   {
     "id": "gov.nv.dhhs.en",
-    "title": "Covid Trace Nevada",
+    "title": "Nevada COVID Trace",
     "icon_url": "https://play-lh.googleusercontent.com/fOJ5ER6nNUkTmnFbz-ZpyC7u6MvDKNvP-62ncLjymkuigrbbawA94C-O9DpTPLxOATY",
     "developer_id": "Nevada Division of Public and Behavioral Health",
-    "updated_date": "2020-11-15",
+    "updated_date": "2021-11-30",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2021-11-05",
+    "updated_date": "2021-11-30",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
