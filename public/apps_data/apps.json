@@ -364,7 +364,7 @@
     "title": "COVID Tracker Ireland",
     "icon_url": "https://play-lh.googleusercontent.com/plQnUf0aq-vGnkr0Geh_QA6Wi_QIh9p14bne6SBK27D314E82NvZQfuAXvEZ_GbiaQ",
     "developer_id": "Health Service Executive (HSE)",
-    "updated_date": "2021-07-13",
+    "updated_date": "2021-11-30",
     "downloads": "1,000,000+",
     "country": "IE",
     "dangerous_permissions_count": 1
@@ -594,7 +594,7 @@
     "title": "EHTERAZ",
     "icon_url": "https://play-lh.googleusercontent.com/gZCsV0SrmqM-gl0dVIABAdxB6BsgwXqgBMRMFedLrFCwk90gS0XG_KiJfcVNWVqZvQ",
     "developer_id": "Ministry Of Interior - Qatar",
-    "updated_date": "2021-11-27",
+    "updated_date": "2021-12-02",
     "downloads": "1,000,000+",
     "country": "QA",
     "dangerous_permissions_count": 7
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-11-25",
+    "updated_date": "2021-11-30",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1004,7 +1004,7 @@
     "title": "DC CAN",
     "icon_url": "https://play-lh.googleusercontent.com/3M1pyqRWONV2kbTqo21RYNctyarpBuZYl_345ed_eLfYkSNPe9UlqQKKWmOrJY6qnw",
     "developer_id": "DC Exposure Notifications",
-    "updated_date": "2021-11-10",
+    "updated_date": "2021-11-30",
     "downloads": "50,000+",
     "country": "US",
     "dangerous_permissions_count": 0
