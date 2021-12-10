@@ -10,12 +10,6 @@
   "app_store_url": "https://play.google.com/store/apps/details?id=gov.nv.dhhs.en",
   "dangerous_permissions_count": 0,
   "permissions": {
-    "Device & app history": [
-      {
-        "permissionName": "Retrieve running apps",
-        "isDangerous": 0
-      }
-    ],
     "Other": [
       {
         "permissionName": "Full network access",
