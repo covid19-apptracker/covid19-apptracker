@@ -514,10 +514,10 @@
     "title": "JamCOVID19",
     "icon_url": "https://play-lh.googleusercontent.com/Y-d_xS4sO8nA8b9ibpuqFJ3JWFImE4EE54Yf0gpvlJQb38OZ83_7k2LXeWMx3ShJmA",
     "developer_id": "opmjm mobile",
-    "updated_date": "2021-03-06",
+    "updated_date": "2021-12-10",
     "downloads": "100,000+",
     "country": "JM",
-    "dangerous_permissions_count": 7
+    "dangerous_permissions_count": 8
   },
   {
     "id": "com.joinzoe.covid_zoe",
@@ -1164,7 +1164,7 @@
     "title": "COVA Punjab",
     "icon_url": "https://play-lh.googleusercontent.com/1BAXSRJMK4dA-gVhynIDYFxWYhfHl-Ng845gve5lms5QVTGfPp4hQ8XK92L2YCPQox0",
     "developer_id": "Government of Punjab",
-    "updated_date": "2021-11-10",
+    "updated_date": "2021-12-09",
     "downloads": "1,000,000+",
     "country": "IN",
     "dangerous_permissions_count": 7
