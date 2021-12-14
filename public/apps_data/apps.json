@@ -221,10 +221,10 @@
   },
   {
     "id": "co.gov.ins.guardianes",
-    "title": "CoronApp - Colombia",
-    "icon_url": "https://play-lh.googleusercontent.com/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0",
+    "title": "MinSalud Digital",
+    "icon_url": "https://play-lh.googleusercontent.com/FHMR1_v-wm_1mEc-LMCFa86kUfFAIDBnA3TnrV2iQDziLD5lt7TyUHYh76hqLrjnqDQ",
     "developer_id": "6475841305156797018",
-    "updated_date": "2021-09-02",
+    "updated_date": "2021-12-08",
     "downloads": "10,000,000+",
     "country": "CO",
     "dangerous_permissions_count": 6
@@ -514,7 +514,7 @@
     "title": "JamCOVID19",
     "icon_url": "https://play-lh.googleusercontent.com/Y-d_xS4sO8nA8b9ibpuqFJ3JWFImE4EE54Yf0gpvlJQb38OZ83_7k2LXeWMx3ShJmA",
     "developer_id": "opmjm mobile",
-    "updated_date": "2021-12-10",
+    "updated_date": "2021-12-11",
     "downloads": "100,000+",
     "country": "JM",
     "dangerous_permissions_count": 8
@@ -965,7 +965,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
     "developer_id": "ADHS-Arizona Department of Health Services",
     "updated_date": "2021-09-27",
-    "downloads": "10,000+",
+    "downloads": "50,000+",
     "country": "US",
     "dangerous_permissions_count": 0
   },
@@ -1544,7 +1544,7 @@
     "title": "TraceTogether",
     "icon_url": "https://play-lh.googleusercontent.com/KKFBXprCdip2XYNtKxB57hsBOezhvtRlxxZWOFKiatqU2IcI8LLsgcYGcHoFnxD3p1Lb",
     "developer_id": "Government Technology Agency",
-    "updated_date": "2021-11-08",
+    "updated_date": "2021-12-10",
     "downloads": "1,000,000+",
     "country": "SG",
     "dangerous_permissions_count": 4
