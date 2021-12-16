@@ -8,8 +8,46 @@
   "country": "IS",
   "description": "Rakning C-19 is the official digital contact tracing app for Iceland. By using Rakning C-19 we can all help preventing the spread of COVID-19 . The app uses COVID-19 Exposure Notification system developed by Apple and Google. Once you have downloaded and started using Rakning C-19, your phone will start share\u00a0and receive random Bluetooth IDs with other phones with the app. The app will send you notification if you have been in close contact with another app user that has been diagnosed with COVID-19. Then you can follow instructions in the app on what you should do. No one can see your identity nor your location. You can\u2019t see the identity of those you may have been in close contact with. If you share that you have been diagnosed with COVID-19, other app users cannot see your identity. The app does not use or register any location data.",
   "app_store_url": "https://play.google.com/store/apps/details?id=is.landlaeknir.rakning",
-  "dangerous_permissions_count": 0,
+  "dangerous_permissions_count": 6,
   "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Phone": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Device ID & call information": [
+      {
+        "permissionName": "Read phone status and identity",
+        "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
     "Other": [
       {
         "permissionName": "Full network access",
