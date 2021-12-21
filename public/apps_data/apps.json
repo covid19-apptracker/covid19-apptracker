@@ -701,10 +701,10 @@
   },
   {
     "id": "com.ri.crushcovid",
-    "title": "CRUSH COVID RI",
-    "icon_url": "https://play-lh.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
+    "title": "401Health",
+    "icon_url": "https://play-lh.googleusercontent.com/JASDWyvNR0b8G4_NdKqgvEM0rOiuGMWjQDPVJHUMKMEppent4IHG7ULwRbVDzwRHuw",
     "developer_id": "State of Rhode Island",
-    "updated_date": "2021-06-25",
+    "updated_date": "2021-12-10",
     "downloads": "10,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2021-11-19",
+    "updated_date": "2021-12-15",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-12-15",
+    "updated_date": "2021-12-18",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2021-11-17",
+    "updated_date": "2021-12-14",
     "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
