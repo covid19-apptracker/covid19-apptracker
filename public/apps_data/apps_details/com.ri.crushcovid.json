@@ -1,12 +1,12 @@
 {
   "id": "com.ri.crushcovid",
-  "title": "CRUSH COVID RI",
-  "icon_url": "https://play-lh.googleusercontent.com/ZECEYQYvY8m8lFgNWsVEEDBeR3ujAM4A-o06PeRqjp1k-gIoEKB-_Xg6euqDCt1MW84",
+  "title": "401Health",
+  "icon_url": "https://play-lh.googleusercontent.com/JASDWyvNR0b8G4_NdKqgvEM0rOiuGMWjQDPVJHUMKMEppent4IHG7ULwRbVDzwRHuw",
   "developer_id": "State of Rhode Island",
-  "updated_date": "2021-06-25",
+  "updated_date": "2021-12-10",
   "downloads": "10,000+",
   "country": "US",
-  "description": "CRUSH COVID RI provides Rhode Islanders with an easy way to track symptoms; find vaccine records; and learn about COVID-19 testing, treatment, and vaccination. All Rhode Islanders are encouraged to use the CRUSH COVID RI app and take an active role in slowing the spread of COVID-19 in Rhode Island. You can make a difference in the health of your loved ones and your community by helping us track the virus in our state. CRUSH COVID RI is a one-stop place to get all the information you need about COVID-19 in Rhode Island. The My Symptom Diary feature lets you tell us if you have any symptoms and only asks you to provide your zip code. If you submit this quick survey daily, it will help give us early indicators of COVID-19 spread in certain zip codes so we can respond by doing things like setting up testing sites in that area. Together we can #CrushCovidRI. Please see our Terms of Use (https://health.ri.gov/covid/crush/termsofuse/) & Privacy Policy (https://health.ri.gov/covid/crush/privacypolicy/) for further information.",
+  "description": "401Health provides Rhode Islanders with an easy way to track symptoms, find vaccine records, and learn about COVID-19 testing, treatment, and vaccination. All Rhode Islanders are encouraged to use the 401Health app and take an active role in slowing the spread of COVID-19 in Rhode Island. You can make a difference in the health of your loved ones and your community by helping us track the virus in our state. 401Health is a one-stop shop to get all the information you need about COVID-19 in Rhode Island. Please see our Terms of Use (https://health.ri.gov/covid/crush/termsofuse/) & Privacy Policy (https://health.ri.gov/covid/crush/privacypolicy/) for further information.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.ri.crushcovid",
   "dangerous_permissions_count": 0,
   "permissions": {
