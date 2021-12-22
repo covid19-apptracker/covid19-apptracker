@@ -3,7 +3,7 @@
   "title": "Rakning C-19",
   "icon_url": "https://play-lh.googleusercontent.com/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ",
   "developer_id": "9072923057432209139",
-  "updated_date": "2021-05-11",
+  "updated_date": "2021-12-17",
   "downloads": "100,000+",
   "country": "IS",
   "description": "Rakning C-19 is the official digital contact tracing app for Iceland. By using Rakning C-19 we can all help preventing the spread of COVID-19 . The app uses COVID-19 Exposure Notification system developed by Apple and Google. Once you have downloaded and started using Rakning C-19, your phone will start share\u00a0and receive random Bluetooth IDs with other phones with the app. The app will send you notification if you have been in close contact with another app user that has been diagnosed with COVID-19. Then you can follow instructions in the app on what you should do. No one can see your identity nor your location. You can\u2019t see the identity of those you may have been in close contact with. If you share that you have been diagnosed with COVID-19, other app users cannot see your identity. The app does not use or register any location data.",
@@ -30,13 +30,13 @@
         "isDangerous": 1
       }
     ],
-    "Phone": [
+    "Device ID & call information": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
       }
     ],
-    "Device ID & call information": [
+    "Phone": [
       {
         "permissionName": "Read phone status and identity",
         "isDangerous": 1
@@ -78,5 +78,5 @@
   "developer_url": "http://covid.is",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://www.covid.is/app/privacystatement"
+  "privacy_policy": "https://www.covid.is/app/protection-of-personal-data"
 }
