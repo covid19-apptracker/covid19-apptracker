@@ -3,7 +3,7 @@
   "title": "Healthy Together - COVID-19",
   "icon_url": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
   "developer_id": "Twenty Inc.",
-  "updated_date": "2021-12-07",
+  "updated_date": "2021-12-14",
   "downloads": "1,000,000+",
   "country": "US",
   "description": "Healthy Together is made in partnership with the Florida Department of Health for residents of Florida to help stop the spread of COVID-19 through: - Real time in-app test result delivery - Access to testing, vaccine information and appointments - Symptom assessments that are shareable with your doctor - Daily passport for clearing employees, students and faculty for work or school - Augmented and guided contact tracing - Notification center for public health announcements User Data, Privacy & Security - There is no mandate to participate in this effort, users choose to opt-in. - Users are in full control of their personal data. They decide what they share and can reverse those decisions as well as delete their data at any time. - All symptom data is automatically de-identified after 30-days. - Data is encrypted in transit and at rest. The use of this data is limited to COVID-19 response efforts, public health & research purposes. View our full Privacy Policy at https://www.healthytogether.io/en/legal/privacy-policy",
@@ -29,6 +29,10 @@
       }
     ],
     "Other": [
+      {
+        "permissionName": "Change network connectivity",
+        "isDangerous": 0
+      },
       {
         "permissionName": "Control vibration",
         "isDangerous": 0
