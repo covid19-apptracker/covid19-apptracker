@@ -574,7 +574,7 @@
     "title": "PC-Covid Viet Nam",
     "icon_url": "https://play-lh.googleusercontent.com/oRH3-waQR7nx82QdM_VCAsQi33FNRWDgKHGdKP15oO3CcT7BtVMbT6qihen47ZAyYig",
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-    "updated_date": "2021-12-14",
+    "updated_date": "2022-01-05",
     "downloads": "10,000,000+",
     "country": "VN",
     "dangerous_permissions_count": 7
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2021-12-18",
+    "updated_date": "2022-01-03",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1547,7 +1547,7 @@
     "updated_date": "2021-12-10",
     "downloads": "1,000,000+",
     "country": "SG",
-    "dangerous_permissions_count": 4
+    "dangerous_permissions_count": 5
   },
   {
     "id": "tn.onmne.e7mi",
