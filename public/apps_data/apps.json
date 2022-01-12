@@ -224,7 +224,7 @@
     "title": "MinSalud Digital",
     "icon_url": "https://play-lh.googleusercontent.com/FHMR1_v-wm_1mEc-LMCFa86kUfFAIDBnA3TnrV2iQDziLD5lt7TyUHYh76hqLrjnqDQ",
     "developer_id": "6475841305156797018",
-    "updated_date": "2021-12-08",
+    "updated_date": "2022-01-11",
     "downloads": "10,000,000+",
     "country": "CO",
     "dangerous_permissions_count": 6
@@ -1374,10 +1374,10 @@
     "title": "Aarogya Setu",
     "icon_url": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
     "developer_id": "9076108670215860604",
-    "updated_date": "2020-07-08",
+    "updated_date": "2022-01-09",
     "downloads": "100,000,000+",
     "country": "IN",
-    "dangerous_permissions_count": 3
+    "dangerous_permissions_count": 7
   },
   {
     "id": "nl.lumc.covidradar",
