@@ -3,7 +3,7 @@
   "title": "MinSalud Digital",
   "icon_url": "https://play-lh.googleusercontent.com/FHMR1_v-wm_1mEc-LMCFa86kUfFAIDBnA3TnrV2iQDziLD5lt7TyUHYh76hqLrjnqDQ",
   "developer_id": "6475841305156797018",
-  "updated_date": "2021-12-08",
+  "updated_date": "2022-01-11",
   "downloads": "10,000,000+",
   "country": "CO",
   "description": "Es una herramienta que el Ministerio de Salud y Protecci\u00f3n Social ha redise\u00f1ado, basado en el App CoronApp, para que todos los servicios est\u00e9n a la mano de los ciudadanos. Cada ciudadano residente en Colombia tendr\u00e1 un perfil espec\u00edfico dependiendo de los registros que tenga  el Ministerio de Salud y Protecci\u00f3n Social. Esta informaci\u00f3n es totalmente din\u00e1mica,  personalizada y protegida. Los ciudadanos conocer\u00e1n las Rutas de Prevenci\u00f3n de enfermedades, mediante la interacci\u00f3n de informaci\u00f3n de los sistemas de informaci\u00f3n del Ministerio. Podr\u00e1n informarse sobre los procedimientos que deben realizarse seg\u00fan su edad, el g\u00e9nero y las comorbilidades que pueda presentar. La App cuenta entre otros con funcionalidades que le permitir\u00e1 a cada usuario acceder a las funcionalidades tanto personales como las de su nucleo familiar: Rutas Integrales de Atenci\u00f3n en Salud, Datos vitales, descarga de Certificados asociados a COVID-19, entre otros Pol\u00edtica de privacidad y protecci\u00f3n de datos personales del Ministerio de Salud y Protecci\u00f3n Social 2021. https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/OT/asis04-politica-privacidad-proteccion-datos-msps.pdf",
@@ -76,5 +76,5 @@
   "developer_url": "https://www.minsalud.gov.co",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://mipgenlinea.com/hlc/asis04-politica-privacidad-proteccion-datos-msps.pdf"
+  "privacy_policy": "http://statics.smartcontrol.com.co/politica-privacidad-proteccion-datos.pdf"
 }
