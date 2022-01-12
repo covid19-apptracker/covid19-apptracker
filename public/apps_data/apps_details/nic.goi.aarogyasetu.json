@@ -3,13 +3,39 @@
   "title": "Aarogya Setu",
   "icon_url": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
   "developer_id": "9076108670215860604",
-  "updated_date": "2020-07-08",
+  "updated_date": "2022-01-09",
   "downloads": "100,000,000+",
   "country": "IN",
-  "description": "Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.",
+  "description": "Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. The following are some of the key features of the Aarogyasetu platform : \u2022\tAutomatic contact tracing using Bluetooth \u2022\tSelf-Assessment test based on ICMR guidelines \u2022\tFacilitates the Registration for Covid-19 vaccine registration \u2022\tFacilitates the download of Covid-19 vaccine certificate \u2022\tOpen API based Health Status Check \u2022\tHotspot Forecasting \u2022\tUpdates, advisory and best practices related to COVID-19 \u2022\tIntegration with e-Pass \u2022\tGeo-location based COVID-19 statistics \u2022\tNation-wide COVID-19 statistics \u2022\tEmergency COVID-19 Helpline contacts \u2022\tList of ICMR approved Labs with COVID-19 testing facilities \u2022\tProvides the infection/Risk Status of User \u2022\tQR Code scan feature to share Risk Status \u2022\tRecent Contacts Feature to check health status of recent contacts \u2022\tSupport for over 12 Languages Key Permissions required by the App : \u2022\tBluetooth and Background Location permission for Contact tracing \u2022\tCamera permission for scanning QR code",
   "app_store_url": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu",
-  "dangerous_permissions_count": 3,
+  "dangerous_permissions_count": 7,
   "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Modify or delete the contents of your usb storage",
+        "isDangerous": 1
+      },
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -17,12 +43,6 @@
       },
       {
         "permissionName": "Precise location (gps and network-based)",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
@@ -57,8 +77,8 @@
       }
     ]
   },
-  "developer_url": "https://web.swaraksha.gov.in/ncv19/privacy/",
+  "developer_url": "https://www.aarogyasetu.gov.in/privacy-policy/",
   "available": true,
   "first_time_seen": "2020-05-10",
-  "privacy_policy": "https://web.swaraksha.gov.in/ncv19/privacy/"
+  "privacy_policy": "https://www.aarogyasetu.gov.in/privacy-policy/"
 }
