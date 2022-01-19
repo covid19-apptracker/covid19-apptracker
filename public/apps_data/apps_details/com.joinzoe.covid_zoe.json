@@ -3,7 +3,7 @@
   "title": "COVID Symptom Study",
   "icon_url": "https://play-lh.googleusercontent.com/kBtemIbzNj0YLez2jVNSitW8mvjy1_5WKRWbHUmdcQbx1LpYnTrikvOarvuSGFzTz1uf",
   "developer_id": "Zoe Global Limited",
-  "updated_date": "2022-01-05",
+  "updated_date": "2022-01-17",
   "downloads": "1,000,000+",
   "country": "GB",
   "description": "Take 1 minute each day and help fight the spread of COVID-19 in your community * Report your health daily even if you feel well * Get a daily estimate of COVID in your area * Help slow the outbreak near you Join millions of people supporting scientists at Stanford University, Harvard University, Massachusetts General Hospital, and King's College London to help fight coronavirus by identifying: * How fast the virus is spreading in your area * High-risk areas in the US * Who is most at risk, by better understanding symptoms linked to underlying health conditions You will contribute to advance research on COVID-19 in partnership with leading health researchers globally like TwinsUK, one of the most clinically detailed studies in the world. This app (formerly known as the Covid Symptom Tracker) allows you to help others, but does not give health advice. If you need health advice please visit the CDC website at: [https://www.cdc.gov/coronavirus/2019-ncov/index.html](https://www.cdc.gov/coronavirus/2019-ncov/index.html) This app has been designed for everyone to report their status not just those who are ill. It was designed by doctors and scientists at King's College London, Guys and St Thomas\u2019 Hospitals and Zoe Global Limited, a health technology company. In the US the app is being used by the Nurses' Health Study to identify symptoms in active healthcare workers who are treating people with COVID across the country and risking their own health to help us. In response to recommendations by Stand Up To Cancer (SU2C), the app also includes questions for cancer patients and survivors, such as if they are living with cancer, what type of cancer and what treatment they are receiving. If you would like to help out in this difficult time, then you can. Download the app and share daily your own status, even if you are well. With your help we can understand much better the situation across the nation, how the disease presents itself to different people, and how it progresses. This is a new virus which the world has never seen before. There are a wide range of symptoms, which differ between people. With your help we can understand better how the disease presents itself depending upon individual factors such as health and age. No information you share will be used for commercial purposes. There are two parts to the app: HEALTH INFORMATION You will be asked to share some general information, such as your age and some health details, such as whether you have certain diseases. SYMPTOM TRACKING We will ask you every day to let us know how you feel, so you can share your symptoms. We will also ask whether you have visited the hospital, what treatment you received there, and whether you have been tested for COVID-19 (Coronavirus).",
@@ -28,12 +28,6 @@
       {
         "permissionName": "Read the contents of your usb storage",
         "isDangerous": 1
-      }
-    ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
       }
     ],
     "Other": [
