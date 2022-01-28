@@ -3,7 +3,7 @@
   "title": "PeduliLindungi",
   "icon_url": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X",
   "developer_id": "7314860221926377334",
-  "updated_date": "2022-01-18",
+  "updated_date": "2022-01-25",
   "downloads": "50,000,000+",
   "country": "ID",
   "description": "PeduliLindungi adalah aplikasi yang dikembangkan untuk menghentikan penularan Coronavirus Disease (COVID-19). Mengandalkan kepedulian serta partisipasi masyarakat untuk saling jaga dan meminimalisir resiko penyebaran COVID-19. Hal ini ditujukan untuk melakukan pengawasan lokasi padat dan ramai yang memiliki resiko tinggi yang nantinya bermanfaat dalam menelusuri riwayat COVID-19 (Contact Tracing). Aplikasi akan mengidentifikasi status riwayat kontak atau kasus Covid-19 pengguna serta status vaksinasinya. Hal ini dilakukan untuk mendukung program penghentian penyebaran COVID-19 yang sedang diusahakan oleh pemerintah. Selain tujuan di atas, aplikasi ini juga dimanfaatkan untuk melakukan pendaftaran vaksinasi, scan QR untuk Check-In/Out dan dokumen perjalanan. Semua terkumpul jadi satu melalui aplikasi PeduliLindungi untuk memudahkan pengguna. Sekecil apapun partisipasi Anda akan sangat berarti untuk menghentikan penularan COVID-19. Harapannya, adanya PeduliLindungi sebagai akses dan media, ditambah dengan partisipasi masyarakat dengan mengunduh dan menggunakan aplikasi ini, Indonesia bisa segera bebas dari COVID-19 dan bangkit kembali. * PeduliLindungi didukung oleh Kementerian Komunikasi dan Informatika, Kementerian Kesehatan, Kementerian BUMN dan Badan Nasional Penanggulangan Bencana.",
@@ -20,6 +20,12 @@
         "isDangerous": 1
       }
     ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
+        "isDangerous": 1
+      }
+    ],
     "Storage": [
       {
         "permissionName": "Modify or delete the contents of your usb storage",
@@ -27,12 +33,6 @@
       },
       {
         "permissionName": "Read the contents of your usb storage",
-        "isDangerous": 1
-      }
-    ],
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
