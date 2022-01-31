@@ -3,7 +3,7 @@
   "title": "NOVID",
   "icon_url": "https://play-lh.googleusercontent.com/FpKqgwEEspWc_1ZxWh4fs0ONx8vflwR4-mikqOf8GRWhwSlzSJHUmdi5bF0Gfx5aMY4",
   "developer_id": "Expii, Inc.",
-  "updated_date": "2021-09-24",
+  "updated_date": "2022-01-27",
   "downloads": "10,000+",
   "country": "US",
   "description": "This app was primarily designed for use in Allegheny County, Don Salvador Benedicto, Georgia Tech, Grand Valley State University, Harvard, King Abdullah University of Science and Technology, Las Vegas in New Mexico, and Santa Fe. NOVID goes beyond contact tracing. It is the first and only application that warns you about cases of COVID-19 in your personal network before you you're exposed, while keeping you anonymous. It gives you personalized COVID Radar about disease spread. It also gives you exposure alerts if you have spent a long time near people who later self-report positive tests. It's your radar and shield in this difficult time. Under the hood, NOVID automatically generates a random anonymous identifier, which has no relationship to your personal information. You don't need to provide an email address, phone number, username, or password. NOVID periodically scans the nearby area using a combination of Bluetooth, Wi-Fi, and ultrasound, detecting and sending only anonymous identifiers.",
@@ -16,12 +16,6 @@
         "isDangerous": 1
       }
     ],
-    "Wi-Fi connection information": [
-      {
-        "permissionName": "View wi-fi connections",
-        "isDangerous": 0
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -30,6 +24,12 @@
       {
         "permissionName": "Precise location (gps and network-based)",
         "isDangerous": 1
+      }
+    ],
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
       }
     ],
     "Other": [
