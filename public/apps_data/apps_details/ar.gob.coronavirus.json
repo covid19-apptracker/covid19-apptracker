@@ -3,19 +3,13 @@
   "title": "CUIDAR COVID-19 ARGENTINA",
   "icon_url": "https://play-lh.googleusercontent.com/k_HOgmru1pzOKfyTE-H2iwAHmtV65pS3pkZBSGm704i1RY8Cr0B5o5Ows5L_QtMw2DI",
   "developer_id": "8169270262982486256",
-  "updated_date": "2022-01-19",
+  "updated_date": "2022-01-29",
   "downloads": "10,000,000+",
   "country": "AR",
   "description": "Aplicaci\u00f3n del Ministerio de Salud de la Rep\u00fablica Argentina destinada a disponibilizar la informaci\u00f3n del pase sanitario, esquema de vacunaci\u00f3n y diagn\u00f3sticos COVID 19 para la prevenci\u00f3n y al cuidado de la ciudadan\u00eda frente a la pandemia del Coronavirus Covid-19.",
   "app_store_url": "https://play.google.com/store/apps/details?id=ar.gob.coronavirus",
   "dangerous_permissions_count": 3,
   "permissions": {
-    "Camera": [
-      {
-        "permissionName": "Take pictures and videos",
-        "isDangerous": 1
-      }
-    ],
     "Location": [
       {
         "permissionName": "Approximate location (network-based)",
@@ -23,6 +17,12 @@
       },
       {
         "permissionName": "Precise location (gps and network-based)",
+        "isDangerous": 1
+      }
+    ],
+    "Camera": [
+      {
+        "permissionName": "Take pictures and videos",
         "isDangerous": 1
       }
     ],
