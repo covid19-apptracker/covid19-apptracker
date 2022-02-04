@@ -3,7 +3,7 @@
   "title": "Corona Check Screening",
   "icon_url": "https://play-lh.googleusercontent.com/ESLsY9gvF8a2_CyCHAj3fXaBFs-B5waaIsbjLIeoJgV0gdFPHUuwNET1eqatxgc1sA",
   "developer_id": "TRI Initiative in cooperation with UKW W\u00fcrzburg",
-  "updated_date": "2020-11-13",
+  "updated_date": "2022-02-03",
   "downloads": "100,000+",
   "country": "DE",
   "description": "Do I currently have reasonable suspicion of an infection with the new coronavirus? With the Corona Check App (note the policy compliance; see below) you can assess this quickly. After a few questions in a short screening you will know better. Depending on the result, you will receive information as to whether you should have the suspicion clarified medically or what else should be done specifically in your case. How can I best protect myself and others from an infection? The Corona Check App contains important, short and understandable tips for everyday life. How do I quickly get news from the health authorities about the effects on my everyday life? The app's Live Ticker provides you with up-to-date information. The app takes into account the recommendations of the Robert Koch Institute for Germany and is operated in close cooperation with the Bavarian State Office for Health and Food Safety (LGL). Please note: Corona Check is not an app for recording movement profiles, as currently discussed in the media for Germany. It is intended to help you, as a citizen, to assess your personal risk and facilitate infection prevention. Your benefit: \u2022\tYou can perform a Corona Check for self-screening. This can be done for yourself or for your relatives. If your condition changes, you can repeat the screening at any time. The screening meets the current requirements of the health authorities and is constantly updated. \u2022\tThe result of the Corona Check screening contains clear recommendations on how you should continue to behave personally and, if relevant, how you can protect others around you. \u2022\tThe app provides simple and practical tips on how to behave in this crisis. These include behavioural measures for your own protection and that of others. \u2022\tThe Live Ticker informs you promptly about important news during the Corona crisis. The App CoronaCheck has been developed on the basis of a harmonized approach of the IEC 62304 and IEC 82304 standards (medical device software/healthcare apps) as well as the GAMP 5 regulations (standard work of the pharmaceutical industry). The app does not store any personal data such as name, address, e-mail address, IP address, telephone number, SIM card or the telephone name. In particular, no data is read from the memory of your smartphone.",
@@ -23,6 +23,18 @@
     "Other": [
       {
         "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Prevent device from sleeping",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
         "isDangerous": 0
       }
     ]
