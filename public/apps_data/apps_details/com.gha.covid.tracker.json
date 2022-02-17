@@ -9,7 +9,36 @@
   "description": "The Beat COVID Gibraltar app is for the citizens of Gibraltar and uses the bluetooth technology on your phone to track other phones you have been in close proximity to. It uses the Exposure Notification Service and you will be notified directly if you have been in close contact with someone who has tested positive for the virus. Likewise, if you are tested positive for COVID-19 yourself, those you have been in close contact with will be notified. No personal data will be stored or used. This app is totally anonymous and no personal information will be logged or shared with anyone. Join the fight against COVID-19 and download the app today. Beat COVID Gibraltar has been developed by the Gibraltar Health Authority and HM Government of Gibraltar.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.gha.covid.tracker",
   "dangerous_permissions_count": 0,
-  "permissions": {},
+  "permissions": {
+    "Wi-Fi connection information": [
+      {
+        "permissionName": "View wi-fi connections",
+        "isDangerous": 0
+      }
+    ],
+    "Other": [
+      {
+        "permissionName": "Control vibration",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Full network access",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Pair with bluetooth devices",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "Run at startup",
+        "isDangerous": 0
+      },
+      {
+        "permissionName": "View network connections",
+        "isDangerous": 0
+      }
+    ]
+  },
   "developer_url": "https://www.gibraltar.gov.gi/beatcovidapp",
   "available": true,
   "first_time_seen": "2020-08-06",
