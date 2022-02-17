@@ -924,7 +924,7 @@
     "title": "Koronavilkku",
     "icon_url": "https://play-lh.googleusercontent.com/bL8luN5-7ewDJ7PiAJAZeWsGYIUQ1GgV8bpfA-3TB7aECKHJiWn_6aadGVmcgCJCgA",
     "developer_id": "Terveyden ja hyvinvoinnin laitos",
-    "updated_date": "2021-08-10",
+    "updated_date": "2022-02-09",
     "downloads": "1,000,000+",
     "country": "FI",
     "dangerous_permissions_count": 0
@@ -964,7 +964,7 @@
     "title": "Covid Watch Arizona",
     "icon_url": "https://play-lh.googleusercontent.com/0CmT13cmDqf7G_rYAiu_M51QKVL7Dl0fbl9nehrJH1vDw7jWsfmf5zZrBxu4h3dgE84f",
     "developer_id": "ADHS-Arizona Department of Health Services",
-    "updated_date": "2022-01-20",
+    "updated_date": "2022-02-15",
     "downloads": "100,000+",
     "country": "US",
     "dangerous_permissions_count": 0
@@ -1534,10 +1534,10 @@
     "title": "Tawakkalna (Covid-19 KSA)",
     "icon_url": "https://play-lh.googleusercontent.com/DVrWyBdIwQvGbF29cdUdNEBgLmEAn8I9q7XubW6tgiRrjxNAdKPTPJCRYI_l1jLCz7p6",
     "developer_id": "National Information Center",
-    "updated_date": "2021-12-10",
+    "updated_date": "2022-02-16",
     "downloads": "10,000,000+",
     "country": "SA",
-    "dangerous_permissions_count": 7
+    "dangerous_permissions_count": 5
   },
   {
     "id": "sg.gov.tech.bluetrace",
