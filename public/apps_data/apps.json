@@ -2,7 +2,7 @@
   {
     "id": "ae.gov.dha.covid19",
     "title": "COVID19 - DXB Smart App",
-    "icon_url": "https://play-lh.googleusercontent.com/-FK7INWCL5t8hn6c_p1G0uWgGGCmWMtx_OZ_LtKKEzleo8oJECr71Od5wkPkx-iM9LwY",
+    "icon_url": "https://play-lh.googleusercontent.com/fl0_8O20ehW9JvmESE7WwJYvWS1RMWiKZTASbQlO1lRKH1JL1g7-FkdDZxpJQAC99w",
     "developer_id": "Dubai Health Authority - DHA",
     "updated_date": "2022-01-26",
     "downloads": "1,000,000+",
@@ -574,7 +574,7 @@
     "title": "PC-Covid Viet Nam",
     "icon_url": "https://play-lh.googleusercontent.com/oRH3-waQR7nx82QdM_VCAsQi33FNRWDgKHGdKP15oO3CcT7BtVMbT6qihen47ZAyYig",
     "developer_id": "C\u1ee5c Tin h\u1ecdc h\u00f3a, B\u1ed9 Th\u00f4ng tin v\u00e0 Truy\u1ec1n th\u00f4ng",
-    "updated_date": "2022-01-24",
+    "updated_date": "2022-02-13",
     "downloads": "10,000,000+",
     "country": "VN",
     "dangerous_permissions_count": 7
@@ -1134,7 +1134,7 @@
     "title": "LeaveHomeSafe",
     "icon_url": "https://play-lh.googleusercontent.com/VR0ZqXDQedExOy6i1CXhPklPw1XnyYrZZ8ZojvLZnYFyso3UbnznraBTv4sLtoZoVvs",
     "developer_id": "GovHK, OGCIO, HKSARG",
-    "updated_date": "2022-01-19",
+    "updated_date": "2022-02-16",
     "downloads": "1,000,000+",
     "country": "HK",
     "dangerous_permissions_count": 1
@@ -1344,7 +1344,7 @@
     "title": "MySejahtera",
     "icon_url": "https://play-lh.googleusercontent.com/Owl00JWsYGY-mLZ7O53GSeIFse4j_KEXa53Q8qNAaQNFb2YVYimLoe6j4gczuVYaaQ",
     "developer_id": "7553531416459678701",
-    "updated_date": "2022-01-28",
+    "updated_date": "2022-02-19",
     "downloads": "10,000,000+",
     "country": "MY",
     "dangerous_permissions_count": 8
