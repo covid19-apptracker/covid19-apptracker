@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2022-03-22",
+    "updated_date": "2022-03-25",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -1394,7 +1394,7 @@
     "title": "CoronaMelder",
     "icon_url": "https://play-lh.googleusercontent.com/YEOKI5qswMdGi3oQEIEv1sAtfrvzdazbS65ZSW_KzO-IGDMKsJzWq8nIJUWIVeH8fQ",
     "developer_id": "Rijksoverheid",
-    "updated_date": "2022-02-07",
+    "updated_date": "2022-03-24",
     "downloads": "1,000,000+",
     "country": "NL",
     "dangerous_permissions_count": 0
