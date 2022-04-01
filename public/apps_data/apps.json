@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2022-03-25",
+    "updated_date": "2022-03-30",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -944,7 +944,7 @@
     "title": "TousAntiCovid",
     "icon_url": "https://play-lh.googleusercontent.com/HjlF5_gYtZmJVc2jbVBksjUHy-Q4-0UiO8InPswlsncZhBZmnfQVsmv7jUvv8Nw5WA",
     "developer_id": "Gouvernement",
-    "updated_date": "2022-03-25",
+    "updated_date": "2022-03-29",
     "downloads": "10,000,000+",
     "country": "FR",
     "dangerous_permissions_count": 3
@@ -1374,7 +1374,7 @@
     "title": "Aarogya Setu",
     "icon_url": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
     "developer_id": "9076108670215860604",
-    "updated_date": "2022-01-12",
+    "updated_date": "2022-03-30",
     "downloads": "100,000,000+",
     "country": "IN",
     "dangerous_permissions_count": 7
