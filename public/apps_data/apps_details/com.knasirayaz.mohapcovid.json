@@ -1,15 +1,27 @@
 {
   "id": "com.knasirayaz.mohapcovid",
   "title": "COVID-19 EHS",
-  "icon_url": "https://play-lh.googleusercontent.com/WquiW6Fkqkl7nLvsulC61M5dVhoHNwj-Oa3wq8I1rxTtThMsNnxDJNyqR29CVlSH9Tw",
+  "icon_url": "https://play-lh.googleusercontent.com/cq0R3SKHe76iNQJPdVtUZ01M6fFTuZbjaQ-Jx-TVzr8wtID-CrNZ2HUHbDQV0Orb09g",
   "developer_id": "Emirates Health Services",
-  "updated_date": "2022-01-18",
+  "updated_date": "2022-04-15",
   "downloads": "500,000+",
   "country": "AE",
   "description": "Covid-19 EHS is  Coronavirus management App from EHS - Emirates Health Services, EHS. The App provides you with real-time Coronavirus stats in UAE in coordination with National Crisis & Emergency Management Authority UAE and EHS. The App provides facility to book and fully manage your Covid-19 Vaccine as well PCR appointments at your own convenience using your smart phone at any time. EHS is fully committed to provide digital COVID-19 channels to UAE community.",
   "app_store_url": "https://play.google.com/store/apps/details?id=com.knasirayaz.mohapcovid",
-  "dangerous_permissions_count": 1,
+  "dangerous_permissions_count": 3,
   "permissions": {
+    "Photos/Media/Files": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
+    "Storage": [
+      {
+        "permissionName": "Read the contents of your usb storage",
+        "isDangerous": 1
+      }
+    ],
     "Location": [
       {
         "permissionName": "Precise location (gps and network-based)",
