@@ -532,12 +532,12 @@
   {
     "id": "com.knasirayaz.mohapcovid",
     "title": "COVID-19 EHS",
-    "icon_url": "https://play-lh.googleusercontent.com/WquiW6Fkqkl7nLvsulC61M5dVhoHNwj-Oa3wq8I1rxTtThMsNnxDJNyqR29CVlSH9Tw",
+    "icon_url": "https://play-lh.googleusercontent.com/cq0R3SKHe76iNQJPdVtUZ01M6fFTuZbjaQ-Jx-TVzr8wtID-CrNZ2HUHbDQV0Orb09g",
     "developer_id": "Emirates Health Services",
-    "updated_date": "2022-01-18",
+    "updated_date": "2022-04-15",
     "downloads": "500,000+",
     "country": "AE",
-    "dangerous_permissions_count": 1
+    "dangerous_permissions_count": 3
   },
   {
     "id": "com.ktb.thaichana.prod",
