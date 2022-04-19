@@ -3,7 +3,7 @@
   "title": "CO Exposure Notifications",
   "icon_url": "https://play-lh.googleusercontent.com/9FHuWn-jlcYeRjhCcYu5pSk9fyHD4ImJt8kK8dsEOppfdGLNGkVn1EA6LRxS06u24vha",
   "developer_id": "Colorado Department of Public Health & Environment",
-  "updated_date": "2022-04-13",
+  "updated_date": "2022-04-14",
   "downloads": "500,000+",
   "country": "US",
   "description": "CO Exposure Notifications is the official Exposure Notifications app of Colorado and the Colorado Department of Public Health and Environment. Exposure Notifications is a voluntary new service developed in partnership with Google and Apple to help slow the spread of COVID-19. No GPS, location information or personal identifiers will ever be collected, stored or shared by this service. CO Exposure Notifications can quickly notify you if you've likely been exposed to COVID-19. Knowing about a potential exposure allows you to reduce the risk to your family, friends, neighbors and community. By enabling Exposure Notifications, whenever you are within 6 feet of someone for at least 10 minutes, both phones will exchange secure, anonymous tokens using Bluetooth. If another user you\u2019ve been near tests positive for COVID-19, they can upload their result to the app which will send a push notification to you and anyone else their phone has exchanged tokens with recently, notifying you to a possible exposure. If you test positive, you can easily and anonymously notify others to help stop the spread of COVID-19. To learn more, please visit https://covid19.colorado.gov/Exposure-notifications",
