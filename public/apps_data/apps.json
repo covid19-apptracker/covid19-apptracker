@@ -854,7 +854,7 @@
     "title": "Corona-Warn-App",
     "icon_url": "https://play-lh.googleusercontent.com/iESHh8CY2DB9Epwjxu4hBq08sLriQvwyHCK_f4wtdXk_vPGpwYvtQXC7r2l-r3cSaSY3",
     "developer_id": "Robert Koch-Institut",
-    "updated_date": "2022-04-06",
+    "updated_date": "2022-04-14",
     "downloads": "10,000,000+",
     "country": "DE",
     "dangerous_permissions_count": 1
@@ -1235,7 +1235,7 @@
     "icon_url": "https://play-lh.googleusercontent.com/te1Ju0ipndVYxatCebbML63uxbZWzj0jJxUBTXFdDsZ8VbXhNgBbRbCsDISpALKkWC8",
     "developer_id": "\u539a\u751f\u52b4\u50cd\u7701\u5065\u5eb7\u5c40",
     "updated_date": "2022-04-04",
-    "downloads": "5,000,000+",
+    "downloads": "10,000,000+",
     "country": "JP",
     "dangerous_permissions_count": 0
   },
@@ -1424,7 +1424,7 @@
     "title": "NZ COVID Tracer",
     "icon_url": "https://play-lh.googleusercontent.com/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q",
     "developer_id": "Ministry of Health NZ",
-    "updated_date": "2021-12-14",
+    "updated_date": "2022-04-12",
     "downloads": "1,000,000+",
     "country": "NZ",
     "dangerous_permissions_count": 1
