@@ -3,7 +3,7 @@
   "title": "WeHealth Arizona",
   "icon_url": "https://play-lh.googleusercontent.com/1era8AH-lD2gnqO4uR7dQ34SpCvLCSXE4syEVjI-QL0ENXTCbZqzVood8M0grkaqPoI",
   "developer_id": "4669575952480183605",
-  "updated_date": "2022-03-11",
+  "updated_date": "2022-04-05",
   "downloads": "100,000+",
   "country": "US",
   "description": "The \u201cCovid Watch Arizona\u201d app and brand is transitioning and is now called \u201cWeHealth Arizona\u201d. It\u2019s the same app with a privacy-preserving exposure notification backbone, built by the same developers with new and exciting features on the horizon. The future of the pandemic is unknown and as new variants arise, we still have your back. You can continue to protect yourself, your loved ones, and community through anonymous exposure notifications with the WeHealth Arizona app. Once you opt-in and enable exposure notifications on your phone, WeHealth Arizona starts working immediately to detect if you come into close proximity with someone who has tested positive for COVID-19. The app is fully anonymous and has no access to your location or personal information. It\u2019s simple, safe, and secure. If you test positive for COVID-19 through a clinic, workplace, or self-administered test, you can share your test results and anonymously notify those who were nearby who may have been exposed to coronavirus. The app is customized to your county, university or other community in Arizona so that you can get immediate access to the most up-to-date and reliable information on how to protect yourself and others from new variants. The more people who download the app, the more effective we can be. So encourage your friends, family, and colleagues to install WeHealth Arizona today. Provided by WeHealth Solutions, a public benefit corporation and the developer of WeHealth Arizona, with a mission to end the threat and burden of infectious diseases. Released in partnership with the University of Arizona on behalf of Arizona Department of Health Services (ADHS).",
@@ -41,7 +41,7 @@
       }
     ]
   },
-  "developer_url": "https://covidwatch.org",
+  "developer_url": "https://wehealth.org/arizona",
   "available": true,
   "first_time_seen": "2020-08-25",
   "privacy_policy": "https://azdhs.gov/documents/privacy-policy/covid-watch-application-privacy-policy.pdf"
